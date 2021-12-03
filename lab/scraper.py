@@ -2,12 +2,12 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 start=2
-end=11
+end=100
 pagestart=(10*start)-10
 pageend= (10*end)
-result=pd.DataFrame(columns=['title','salary','companyname','location','date', 'companynote'])
+result=pd.DataFrame(columns=['title','wage','companyname','location','date', 'companynote'])
 for page in range(pagestart,pageend,10):
-    url=f'https://fr.indeed.com/jobs?q=product+owner&l=Paris+%2875%29&start={page}'
+    url=f'https://fr.indeed.com/jobs?q=&l=%C3%8Ele-de-France&start={page}'
     headers= {'User_Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'}
     request= requests.get(url, headers)
     soup= BeautifulSoup(request.content, 'html.parser')
@@ -26,23 +26,37 @@ for page in range(pagestart,pageend,10):
         
         if item.find_all('span')[0].text=='nouveau':
             title=item.find_all('span')[1].text
-            salary=item.find_all('span')[6].text
-            companynote=item.find_all('span')[4].text
+            
         else:
             title=item.find_all('span')[0].text
-            salary=item.find_all('span')[3].text
-            companynote=item.find_all('span')[4].text
+        
+        span=list(item.find_all('span'))
+        wage=''
+        companynote=''
+        
+
+        for i in span:
+            if '€' in i.text:
+                wage=i.text
+                print(wage)
+
+
+        for j in span:
+            if ',' in j.text and len(j.text)==3:
+                companynote=j.text
+                print(companynote)
+            
         
         companyname=item.find('span', class_='companyName').text
         location=item.find('div',class_='companyLocation').text
         date=item.find('span', class_='date').text
         
-        job={'title': title,'Salary': salary,'companyname': companyname,'location': location, 'date': date, 'companynote': companynote}
+        job={'title': title,'wage': wage,'companyname': companyname,'location': location, 'date': date, 'companynote': companynote}
         joblist.append(job)
         
-    scraped=pd.DataFrame(joblist,columns=['title','salary','companyname','location','date','companynote'])
+    scraped=pd.DataFrame(joblist,columns=['title','wage','companyname','location','date','companynote'])
     result=result.append(scraped)
+    
+    result.to_csv('jobs_ile_de_france.csv', sep='\t')
 
 
-#for i in jobhtml[5].find_all('span'):
-    #print(i.text)
