@@ -1,8 +1,9 @@
+#!/usr/bin/env python3
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-start=2
-end=100
+start=70
+end=150
 pagestart=(10*start)-10
 pageend= (10*end)
 result=pd.DataFrame(columns=['title','wage','companyname','location','date', 'companynote'])
@@ -57,6 +58,6 @@ for page in range(pagestart,pageend,10):
     scraped=pd.DataFrame(joblist,columns=['title','wage','companyname','location','date','companynote'])
     result=result.append(scraped)
     
-    result.to_csv('jobs_ile_de_france.csv', sep='\t')
+    result.to_csv('jobs_ile_de_france70.csv', sep=';')
 
 
