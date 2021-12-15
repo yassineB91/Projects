@@ -5,7 +5,8 @@ def insertMG(filepath,database):
     import pandas as pd
     import os
     from configDB import config
-      
+    
+    param=config(database,'tns.ini')  
     con=pymongo.MongoClient(param['host'],int(param['port']))
     for filename in os.listdir(filepath):
         f=os.path.join(filepath,filename)
