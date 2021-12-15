@@ -17,4 +17,18 @@ def scrap_transformer(filepath):
     newdata['date']=newdata.date.str.extract('(\d+)')
     newdata['date']= pd.to_numeric(newdata['date'].fillna('0'))
     newdata['companynote']= pd.to_numeric(newdata['companynote'].str.replace(",","."))
+    
+    for i in range(len(newdata)):
+        try:
+            newdata['upper_salary'][i]=[a for a in newdata['upper_salary'][i].split() if a.isdigit()]
+            newdata['upper_salary'][i]=int(''.join(newdata['upper_salary'][i]))
+            newdata['lower_salary'][i]=[a for a in newdata['lower_salary'][i].split() if a.isdigit()]
+            newdata['lower_salary'][i]=int(''.join(newdata['lower_salary'][i]))
+        except:
+            newdata['upper_salary'][i]=0
+            newdata['lower_salary'][i]=0
+
+            
     return newdata
+
+
