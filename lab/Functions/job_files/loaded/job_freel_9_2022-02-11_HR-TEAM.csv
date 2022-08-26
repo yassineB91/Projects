@@ -1,0 +1,181 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;devsecops-aws-h-f-1666745;"
+                    HR-TEAM ";Paris;3 années; 500-560 €;10/02/2022;https://www.freelance-info.fr/mission/devsecops-aws-h-f-1666745;['aws']
+1;developpeur-cobol-h-f-1666743;"
+                    HR-TEAM ";Paris;3 années; 500-560 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-h-f-1666743;[]
+2;analyste-developpeur-cobol-h-f-1666728;"
+                    HR-TEAM ";Paris;3 années; 400-430 €;10/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-cobol-h-f-1666728;[' sas']
+3;chef-de-projet-cobol-h-f-1666727;"
+                    HR-TEAM ";Paris;3 années; 400-430 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-cobol-h-f-1666727;['db2']
+4;product-owner-h-f-1666390;"
+                    HR-TEAM ";Paris;2 années; 400-420 €;10/02/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1666390;['scrum']
+5;pmo-f-h-1666362;"
+                    HR-TEAM ";Paris;2 années; 400-420 €;10/02/2022;https://www.freelance-info.fr/mission/pmo-f-h-1666362;['jira', 'confluence']
+6;chef-de-projet-moe-net-h-f-1663817;"
+                    HR-TEAM ";Paris;3 années; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-net-h-f-1663817;['agile', 'anglais', ' sas']
+7;expert-kafka-java-h-f-1666112;"
+                    HR-TEAM ";Paris;3 années; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/expert-kafka-java-h-f-1666112;['java', 'gitlab', 'kafka', 'elk', 'ansible', 'api rest', 'springboot', 'microservice']
+8;developpeur-php-reactjs-h-f-1666110;"
+                    HR-TEAM ";Courbevoie;18 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-php-reactjs-h-f-1666110;[]
+9;developpeur-php-symfony-h-f-1666108;"
+                    HR-TEAM ";Courbevoie;18 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-h-f-1666108;['java', ' git ', 'docker', 'sql', 'ci/cd', 'agile', 'mysql']
+10;lead-developpeur-php-symfony-vuejs-h-f-1666104;"
+                    HR-TEAM ";Montrouge;18 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-php-symfony-vuejs-h-f-1666104;['aws', 'docker', 'sql', 'mysql', 'mongodb', 'linux']
+11;devops-gcp-linux-h-f-1665958;"
+                    HR-TEAM ";Montrouge;18 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/devops-gcp-linux-h-f-1665958;['gitlab', 'ansible', 'python', 'sql', 'gcp', 'agile', 'apache', 'grafana', 'mysql', 'kanban', 'scrum', 'mariadb', 'mongodb', 'scala', ' sas', 'linux', 'microservice']
+12;chef-de-projet-technique-sap-experimente-h-f-1665938;"
+                    HR-TEAM ";Paris;3 années; 450-550 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-sap-experimente-h-f-1665938;['agile', 'anglais', 'scrum', ' sas', 'salesforce']
+13;developpeur-angularjs-h-f-1665737;"
+                    HR-TEAM ";Paris;3 années; 450-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-angularjs-h-f-1665737;['github', 'sql']
+14;devops-java-react-h-f-1663683;"
+                    HR-TEAM ";Paris;3 années; 580-650 €;09/02/2022;https://www.freelance-info.fr/mission/devops-java-react-h-f-1663683;['java', 'agile']
+15;tech-lead-devops-java-h-f-1663684;"
+                    HR-TEAM ";Paris;3 années; 580-650 €;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-devops-java-h-f-1663684;['java', 'jenkins', 'ansible', ' r ', 'agile', 'springboot']
+16;architecte-azure-h-f-1663690;"
+                    HR-TEAM ";Paris;18 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-azure-h-f-1663690;['azure', 'terraform', 'anglais', 'powershell']
+17;chef-de-projet-architecte-data-f-h-1665517;"
+                    HR-TEAM ";Paris;18 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-architecte-data-f-h-1665517;['hadoop']
+18;developpeur-reactjs-h-f-1665282;"
+                    HR-TEAM ";Paris;18 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-reactjs-h-f-1665282;[]
+19;developpeur-nodejs-h-f-1665281;"
+                    HR-TEAM ";Paris;18 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-nodejs-h-f-1665281;['java', 'agile', ' sas']
+20;developpeur-react-nodejs-h-f-1665274;"
+                    HR-TEAM ";Paris;18 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-react-nodejs-h-f-1665274;['mongodb']
+21;tech-lead-nodejs-h-f-1665271;"
+                    HR-TEAM ";Paris;18 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-nodejs-h-f-1665271;['java', 'microservice']
+22;developpeur-nodejs-aws-h-f-1665270;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-nodejs-aws-h-f-1665270;['aws', 'gcp']
+23;consultant-senior-crm-dynamics-h-f-1665136;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-senior-crm-dynamics-h-f-1665136;['qlik', 'java', 'azure', 'sql', 'qliksense', ' sas', 'powershell']
+24;devops-aws-h-f-1665135;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;08/02/2022;https://www.freelance-info.fr/mission/devops-aws-h-f-1665135;['aws', 'docker', 'ansible', 'python', 'ci/cd', 'api rest', 'agile', 'terraform', 'scrum']
+25;devops-aws-h-f-1665134;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;08/02/2022;https://www.freelance-info.fr/mission/devops-aws-h-f-1665134;['aws', 'docker', 'ansible', 'python', 'ci/cd', 'api rest', 'agile', 'terraform', 'scrum']
+26;devops-azure-h-f-1665133;"
+                    HR-TEAM ";Gennevilliers;3 années; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/devops-azure-h-f-1665133;['jenkins', 'azure', 'docker', 'ansible', 'sql', 'gcp', 'terraform', 'apache', 'grafana', 'postgresql', 'mysql', 'mongodb', 'linux', 'microservice']
+27;tech-lead-nodejs-h-f-1663281;"
+                    HR-TEAM ";Gennevilliers;3 années; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-nodejs-h-f-1663281;['java', 'microservice']
+28;developpeur-java-devops-supervision-h-f-1663270;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-devops-supervision-h-f-1663270;['java', 'jenkins', 'ansible', 'maven', 'sql', 'agile', 'springboot', 'grafana', 'telegraf', 'postgresql', ' sas']
+29;developpeur-java-h-f-1663272;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1663272;['java', 'kafka', 'sql', 'postgresql', 'scrum', 'mongodb']
+30;developpeur-java-iam-h-f-1663274;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-iam-h-f-1663274;['java', 'anglais']
+31;developpeur-sveltejs-h-f-1663279;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-sveltejs-h-f-1663279;['agile', 'scrum']
+32;developpeur-sharepoint-h-f-1663265;"
+                    HR-TEAM ";Paris;3 années; 850 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-sharepoint-h-f-1663265;['agile', ' sas']
+33;tech-lead-devops-java-h-f-1663199;"
+                    HR-TEAM ";Paris;3 années; 850 €;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-devops-java-h-f-1663199;['java', 'jenkins', 'ansible', ' r ', 'agile', 'springboot']
+34;service-delivery-manager-sdm-h-f-1665083;"
+                    HR-TEAM ";Kremlin-Bicêtre (Le);18 mois; 550-780 €;07/02/2022;https://www.freelance-info.fr/mission/service-delivery-manager-sdm-h-f-1665083;['anglais', 'itil', 'scala']
+35;developpeur-php-symfony-h-f-1665081;"
+                    HR-TEAM ";Kremlin-Bicêtre (Le);18 mois; 550-780 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-h-f-1665081;['java', ' git ', 'docker', 'sql', 'ci/cd', 'agile', 'mysql', 'microservice']
+36;developpeur-senior-mobile-android-h-f-1665078;"
+                    HR-TEAM ";Paris;3 années; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-mobile-android-h-f-1665078;['java', 'agile', 'anglais', 'scrum']
+37;developpeur-mobile-ios-h-f-1665076;"
+                    HR-TEAM ";Paris;3 années; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-ios-h-f-1665076;[]
+38;testeur-fonctionnel-recette-f-h-1665069;"
+                    HR-TEAM ";Issy-les-Moulineaux;3 années; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/testeur-fonctionnel-recette-f-h-1665069;['talend', 'sql']
+39;lead-developpeur-net-core-azure-h-f-1665063;"
+                    HR-TEAM ";Issy-les-Moulineaux;3 années; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-net-core-azure-h-f-1665063;['azure', 'sql', 'api rest', 'jira', 'agile', 'sonar', 'scrum', 'sonarqube', ' sas']
+40;ingenieur-securite-poste-de-travail-h-f-1655115;"
+                    HR-TEAM ";Paris;3 années; 490-600 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-poste-de-travail-h-f-1655115;[' sas']
+41;consultant-si-data-1662935;"
+                    HR-TEAM ";Paris;3 années; 490-600 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-si-data-1662935;['modélisation', ' sas']
+42;lead-developpeur-net-h-f-1664635;"
+                    HR-TEAM ";Ivry-sur-Seine;3 années; 550-650 €;07/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-net-h-f-1664635;['sql', 'scrum', ' sas']
+43;product-manager-h-f-1662596;"
+                    HR-TEAM ";Ivry-sur-Seine;3 années; 550-650 €;07/02/2022;https://www.freelance-info.fr/mission/product-manager-h-f-1662596;['powerpoint']
+44;developpeur-python-django-h-f-1662313;"
+                    HR-TEAM ";Courbevoie;3 années; 450-500 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-python-django-h-f-1662313;['python']
+45;developpeur-wordpress-h-f-1662302;"
+                    HR-TEAM ";Courbevoie;3 années; 450-500 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-wordpress-h-f-1662302;[' sas']
+46;consultant-rgpd-dpo-h-f-1654507;"
+                    HR-TEAM ";Paris;3 années; 500-550 €;05/02/2022;https://www.freelance-info.fr/mission/consultant-rgpd-dpo-h-f-1654507;[' sas']
+47;ingenieur-systeme-linux-h-f-1663885;"
+                    HR-TEAM ";Paris;3 années; 500-550 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-h-f-1663885;['puppet', 'ansible', 'python', 'gcp', 'linux']
+48;chef-de-projet-digital-h-f-1663868;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-digital-h-f-1663868;['anglais']
+49;developpeur-service-now-h-f-1661695;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-service-now-h-f-1661695;[]
+50;solution-architect-cloud-aws-et-iot-h-f-1661591;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/solution-architect-cloud-aws-et-iot-h-f-1661591;['aws', 'python', 'api rest', 'agile', 'anglais', 'scrum']
+51;developpeur-java-kafka-h-f-1661392;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-java-kafka-h-f-1661392;['java', 'gitlab', 'kafka', 'elk', 'ansible', 'ci/cd', 'api rest', 'agile', 'springboot', 'grafana', 'logstash', 'scrum', 'microservice']
+52;developpeur-php-reactjs-h-f-1661395;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-php-reactjs-h-f-1661395;[' sas']
+53;developpeur-mobile-ios-h-f-1661375;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-ios-h-f-1661375;[]
+54;developpeur-senior-mobile-android-h-f-1661376;"
+                    HR-TEAM ";Ivry-sur-Seine;3 années; 540-650 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-mobile-android-h-f-1661376;['java', 'agile', 'anglais', 'scrum']
+55;developpeur-php-symfony-h-f-1661377;"
+                    HR-TEAM ";Ivry-sur-Seine;3 années; 540-650 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-h-f-1661377;['java', ' git ', 'docker', 'sql', 'ci/cd', 'agile', 'mysql', 'microservice']
+56;architecte-applicatif-java-h-f-1661110;"
+                    HR-TEAM ";Courbevoie;3 années; 550-620 €;05/02/2022;https://www.freelance-info.fr/mission/architecte-applicatif-java-h-f-1661110;['java', 'kafka', 'sql', 'api rest', ' sas']
+57;architecte-technique-aws-h-f-1661008;"
+                    HR-TEAM ";Courbevoie;3 années; 550-620 €;05/02/2022;https://www.freelance-info.fr/mission/architecte-technique-aws-h-f-1661008;['aws', ' sas']
+58;service-delivery-manager-h-f-1660979;"
+                    HR-TEAM ";Paris;3 années; 450-520 €;05/02/2022;https://www.freelance-info.fr/mission/service-delivery-manager-h-f-1660979;['anglais', 'itil', 'scala']
+59;dba-my-sql-et-mariadb-f-h-1662798;"
+                    HR-TEAM ";Paris;3 années; 450-520 €;05/02/2022;https://www.freelance-info.fr/mission/dba-my-sql-et-mariadb-f-h-1662798;['sql', ' sas']
+60;ingenieur-statistique-sas-h-f-1660064;"
+                    HR-TEAM ";Nanterre;1 année; 450-520 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-statistique-sas-h-f-1660064;['vba', ' sas']
+61;architecte-infrastructure-h-f-1662165;"
+                    HR-TEAM ";Nanterre;1 année; 450-520 €;05/02/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-h-f-1662165;[]
+62;technicien-support-anglais-courant-f-h-1662018;"
+                    HR-TEAM ";Paris;3 années; 450-500 €;05/02/2022;https://www.freelance-info.fr/mission/technicien-support-anglais-courant-f-h-1662018;['anglais', ' sas']
+63;ingenieur-systeme-linux-h-f-1660934;"
+                    HR-TEAM ";Paris;3 années; 450-500 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-h-f-1660934;['ansible', ' sas', 'linux']
+64;technicien-reseau-f-h-1660893;"
+                    HR-TEAM ";Paris;3 années; 400-500 €;05/02/2022;https://www.freelance-info.fr/mission/technicien-reseau-f-h-1660893;[' sas']
+65;developpeur-java-angular-kotlin-h-f-1658594;"
+                    HR-TEAM ";Paris;3 années; 400-500 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-kotlin-h-f-1658594;['java', 'ansible', 'maven', 'api rest', 'springboot']
+66;consultant-performance-et-monitoring-de-l-infrastructure-h-f-1658557;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/consultant-performance-et-monitoring-de-l-infrastructure-h-f-1658557;['apache', 'tomcat', ' sas']
+67;scrum-master-h-f-1658553;"
+                    HR-TEAM ";Paris;3 années; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1658553;['kanban', 'scrum']
+68;integrateur-de-production-mainframe-h-f-1658556;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/integrateur-de-production-mainframe-h-f-1658556;['db2', 'itil', ' sas']
+69;developpeur-senior-mobile-android-h-f-1658239;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-mobile-android-h-f-1658239;['java', 'agile', 'anglais', 'scrum']
+70;developpeur-php-symfony-h-f-1658243;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-h-f-1658243;['java', ' git ', 'docker', 'sql', 'ci/cd', 'agile', 'mysql', 'microservice']
+71;devops-python-aws-1658007;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/devops-python-aws-1658007;['github', 'jenkins', 'aws', 'python', 'ci/cd', 'jira', 'agile', 'confluence', 'terraform', 'sonar', 'splunk', 'sonarqube']
+72;developpeur-golang-h-f-1657628;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-golang-h-f-1657628;['agile', 'scrum']
+73;ingenieur-devops-cloud-h-f-1657617;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-cloud-h-f-1657617;['jenkins', 'docker', 'ci/cd', 'linux']
+74;consultant-cybersecurite-h-f-1657344;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/consultant-cybersecurite-h-f-1657344;['java', ' sas']
+75;developpeur-java-reactjs-activepivot-h-f-1657224;"
+                    HR-TEAM ";Paris;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-reactjs-activepivot-h-f-1657224;['java', 'kafka', 'mongodb', 'microservice']
+76;administrateur-systeme-linux-et-reseaux-h-f-1657128;"
+                    HR-TEAM ";Courbevoie;3 années; 400-490 €;04/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-linux-et-reseaux-h-f-1657128;['python', 'firewalls', 'vpn', ' sas', 'linux']
+77;ingenieur-production-h-f-1658959;"
+                    HR-TEAM ";Courbevoie;3 années; 400-490 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-production-h-f-1658959;['jenkins', 'elk', 'docker', 'ansible', 'jira', 'terraform', 'anglais', 'apache', 'tomcat', 'mongodb', ' sas', 'linux']
+78;qa-automatisation-selenium-et-cypress-h-f-1658948;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;04/02/2022;https://www.freelance-info.fr/mission/qa-automatisation-selenium-et-cypress-h-f-1658948;['java', 'gitlab', 'api rest', 'xray', 'mongodb']
+79;chef-de-projet-test-qa-h-f-1658941;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-test-qa-h-f-1658941;['sql', 'jira', 'agile']
+80;testeur-technique-phpunit-junit-h-f-1656928;"
+                    HR-TEAM ";Clichy;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/testeur-technique-phpunit-junit-h-f-1656928;['java', 'gitlab', 'jenkins', 'sql', 'jira', 'xray', 'tsql']
+81;developpeur-asp-net-mvc-full-remote-1640905;"
+                    HR-TEAM ";Clichy;18 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-asp-net-mvc-full-remote-1640905;['java', 'azure']
+82;consultant-technico-fonctionnel-sap-mm-fico-h-f-1656125;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;04/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-sap-mm-fico-h-f-1656125;[]
+83;integrateur-swift-h-f-1656099;"
+                    HR-TEAM ";Paris;3 années; 550-650 €;04/02/2022;https://www.freelance-info.fr/mission/integrateur-swift-h-f-1656099;['sql', 'oracle', 'anglais', 'apache', 'tomcat', 'postgresql', 'mongodb', ' sas']
+84;developpeur-mobile-ios-h-f-1656036;"
+                    HR-TEAM ";Paris;3 années; 550-600 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-ios-h-f-1656036;[]
+85;developpeur-java-angular-h-f-1656024;"
+                    HR-TEAM ";Paris;3 années; 550-600 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-h-f-1656024;['java', 'jenkins', 'docker', 'ansible', 'api rest', 'agile', 'scrum']
+86;developpeur-php-symfony-h-f-1656017;"
+                    HR-TEAM ";Paris;3 années; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-h-f-1656017;['java', ' git ', 'docker', 'sql', 'ci/cd', 'agile', 'mysql', ' sas', 'microservice']
+87;developpeur-senior-mobile-android-h-f-1656019;"
+                    HR-TEAM ";Paris;3 années; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-mobile-android-h-f-1656019;['java', 'agile', 'anglais', 'scrum']
+88;charge-de-mission-n-workday-h-f-1656857;"
+                    HR-TEAM ";Paris;18 mois; 350-500 €;03/02/2022;https://www.freelance-info.fr/mission/charge-de-mission-n-workday-h-f-1656857;['anglais']
+89;chef-de-projet-h-f-1655673;"
+                    HR-TEAM ";Paris;18 mois; 350-500 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1655673;[' sas']

@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;architecte-axway-1666630;"
+                    STHREE SAS pour COMPUTER FUTURES ";Bezons;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-axway-1666630;[]
+1;recherche-urgent-administrateur-sauvegarde-stockage-toulouse-1666523;"
+                    STHREE SAS pour COMPUTER FUTURES ";Bezons;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/recherche-urgent-administrateur-sauvegarde-stockage-toulouse-1666523;['ansible', 'oracle', 'ldap', ' sas', 'powershell', 'linux']
+2;architecte-solutions-1664439;"
+                    STHREE SAS pour COMPUTER FUTURES ";Toulouse;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-solutions-1664439;['cartographie', ' sas']
+3;consultant-crm-dynamics-1664434;"
+                    STHREE SAS pour COMPUTER FUTURES ";Toulouse;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-crm-dynamics-1664434;['sql', ' sas', ' ssis']
+4;developpeur-frontend-vue-js-1664420;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-vue-js-1664420;['java', ' sas']
+5;data-engineer-ssis-1666413;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/data-engineer-ssis-1666413;['sql', 'datawarehouse', ' ssis']
+6;data-scienist-nlp-1666407;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/data-scienist-nlp-1666407;['python']
+7;dba-1666406;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/dba-1666406;['oracle']
+8;dba-oracle-1666290;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/dba-oracle-1666290;['oracle']
+9;cloud-builder-1666129;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/cloud-builder-1666129;['aws', 'docker', 'ci/cd', 'terraform']
+10;recetteur-1664042;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/recetteur-1664042;['sql', 'jira', 'agile', 'xray']
+11;consultant-e-cybersecurite-gestions-des-risques-it-1663899;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-e-cybersecurite-gestions-des-risques-it-1663899;['tableau', 'agile', 'tableaux de bord', 'linux']
+12;consultant-aws-1663858;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-aws-1663858;['aws', 'docker', 'ci/cd', 'terraform']
+13;sirh-gestionnaire-de-paie-bon-niveau-d-anglais-1665949;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/sirh-gestionnaire-de-paie-bon-niveau-d-anglais-1665949;['anglais', ' sas']
+14;expert-cybersecurite-gestion-des-risques-1665941;"
+                    STHREE SAS pour COMPUTER FUTURES ";Clermont-Ferrand;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-cybersecurite-gestion-des-risques-1665941;['tableau', 'agile', 'tableaux de bord', ' sas', 'linux']
+15;ingenieur-systeme-windows-1663558;"
+                    STHREE SAS pour COMPUTER FUTURES ";Clermont-Ferrand;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-windows-1663558;[' sas']
+16;qa-test-lead-fonctionnel-1663549;"
+                    STHREE SAS pour COMPUTER FUTURES ";Clermont-Ferrand;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/qa-test-lead-fonctionnel-1663549;['jira', 'agile', 'xray', ' sas']
+17;dba-sql-server-1663529;"
+                    STHREE SAS pour COMPUTER FUTURES ";Clermont-Ferrand;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dba-sql-server-1663529;['sql', 'jira', ' ssis', 'linux']
+18;ingenieur-reseaux-et-securite-h-f-lognes-1663397;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-et-securite-h-f-lognes-1663397;['gitlab', 'puppet', 'ansible', 'apache', 'linux']
+19;recherche-developpeurs-h-f-j-ee-back-end-et-j-ee-fullstack-toulouse-1663389;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/recherche-developpeurs-h-f-j-ee-back-end-et-j-ee-fullstack-toulouse-1663389;['java', ' sas']
+20;consultant-filenet-1665647;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-filenet-1665647;['aws', 'docker', 'ci/cd', 'terraform']
+21;administrateur-systeme-windows-1665443;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-windows-1665443;['puppet', 'ansible', 'agile', 'terraform', 'kanban']
+22;analyste-cobol-concepteur-developpeur-testeur-1650308;"
+                    STHREE SAS pour COMPUTER FUTURES ";Meudon;1 année; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/analyste-cobol-concepteur-developpeur-testeur-1650308;[' sas', 'linux']
+23;ingenieur-infrastructure-h-f-genevilliers-1665372;"
+                    STHREE SAS pour COMPUTER FUTURES ";Meudon;1 année; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-infrastructure-h-f-genevilliers-1665372;['azure', 'anglais', 'splunk']
+24;cloud-data-engineer-urgent-1665332;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/cloud-data-engineer-urgent-1665332;['azure', 'python', 'sql', 'bigquery', 'redshift', 'snowflake', 'datawarehouse']
+25;architecte-logiciel-java-big-data-paris-1664923;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-logiciel-java-big-data-paris-1664923;['sql', 'mariadb', 'mongodb', ' sas']
+26;consultant-iam-1662829;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nanterre;1 année; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-iam-1662829;['java', 'jenkins', 'maven', 'sql', 'api rest', 'oracle', 'agile', 'apache', 'tomcat', 'ldap', 'scrum', ' sas', 'powershell']
+27;expert-active-directory-azure-ad-bon-niveau-d-anglais-1662527;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nanterre;1 année; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-azure-ad-bon-niveau-d-anglais-1662527;['azure', 'agile', 'ldap', ' sas', 'powershell']
+28;gestionnaire-run-applicatif-si-1662188;"
+                    STHREE SAS pour COMPUTER FUTURES ";Meudon;1 année; 650-680 €;08/02/2022;https://www.freelance-info.fr/mission/gestionnaire-run-applicatif-si-1662188;['sql', 'anglais', 'itil']
+29;developpeur-magento-h-f-full-remote-1662113;"
+                    STHREE SAS pour COMPUTER FUTURES ";Meudon;1 année; 650-680 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-magento-h-f-full-remote-1662113;['aws', 'agile', ' sas']
+30;data-engineer-ssis-1661002;"
+                    STHREE SAS pour COMPUTER FUTURES ";Bezons;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/data-engineer-ssis-1661002;['sql', 'datawarehouse', 'anglais', ' ssis']
+31;data-engineer-gcp-1660997;"
+                    STHREE SAS pour COMPUTER FUTURES ";Bezons;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/data-engineer-gcp-1660997;['azure', 'python', 'sql', 'bigquery', 'redshift', 'snowflake', 'datawarehouse']
+32;integrateur-technique-h-f-nantes-1660906;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-technique-h-f-nantes-1660906;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', ' sas', 'linux']
+33;gestionnaire-de-paie-senior-bon-niveau-d-anglais-teletravail-possible-1660544;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/gestionnaire-de-paie-senior-bon-niveau-d-anglais-teletravail-possible-1660544;['anglais', ' sas']
+34;consultant-e-sirh-gta-1660406;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-e-sirh-gta-1660406;[' sas']
+35;ingenieur-systeme-linux-1660251;"
+                    STHREE SAS pour COMPUTER FUTURES ";FRANCE (Pays);6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1660251;['java', 'anglais', 'apache', 'tomcat', 'linux']
+36;ingenieur-systemes-linux-h-f-angers-1659642;"
+                    STHREE SAS pour COMPUTER FUTURES ";Lognes;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-linux-h-f-angers-1659642;['ansible', 'sql', 'mysql', 'mariadb', 'mongodb', ' sas', 'linux']
+37;administrateur-systeme-windows-1659554;"
+                    STHREE SAS pour COMPUTER FUTURES ";Lognes;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-windows-1659554;['puppet', 'ansible', 'sql', 'agile', 'terraform', 'anglais', 'itil', 'kanban', 'scala', ' sas', 'powershell']
+38;consultant-e-sirh-gestionnaire-de-paie-teletravail-possible-1659225;"
+                    STHREE SAS pour COMPUTER FUTURES ";Toulouse;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-e-sirh-gestionnaire-de-paie-teletravail-possible-1659225;[' sas']
+39;consultant-data-senior-1659177;"
+                    STHREE SAS pour COMPUTER FUTURES ";Toulouse;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-data-senior-1659177;['data lake']
+40;developer-java-senior-experience-finance-1658721;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developer-java-senior-experience-finance-1658721;['java', 'anglais', ' sas']
+41;consultant-run-sap-plm-pp-pm-paris-ou-lille-1658642;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-run-sap-plm-pp-pm-paris-ou-lille-1658642;['anglais']
+42;consultant-run-sap-ewm-et-connaissances-pp-pm-paris-ou-lille-1658639;"
+                    STHREE SAS pour COMPUTER FUTURES ";Télétravail;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-run-sap-ewm-et-connaissances-pp-pm-paris-ou-lille-1658639;['anglais', ' sas']
+43;chef-de-projet-e-commerce-digital-1658380;"
+                    STHREE SAS pour COMPUTER FUTURES ";Télétravail;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-e-commerce-digital-1658380;['jira', 'anglais', ' sas']
+44;chef-de-projet-digital-1658382;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nantes;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-digital-1658382;['modélisation', 'anglais', ' sas']
+45;consultant-run-sap-fi-co-h-f-paris-ou-lille-1658198;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nantes;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-run-sap-fi-co-h-f-paris-ou-lille-1658198;['anglais', ' sas']
+46;product-owner-1658104;"
+                    STHREE SAS pour COMPUTER FUTURES ";Gennevilliers;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/product-owner-1658104;[' sas']
+47;manager-data-1657691;"
+                    STHREE SAS pour COMPUTER FUTURES ";Gennevilliers;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/manager-data-1657691;[' sas']
+48;consultant-data-senior-1657693;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-data-senior-1657693;[' sas']
+49;data-analyst-tableau-1657365;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/data-analyst-tableau-1657365;[]
+50;chef-de-projet-systemes-et-reseaux-scrum-master-h-f-paris-bordeaux-ou-roubaix-1656875;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-systemes-et-reseaux-scrum-master-h-f-paris-bordeaux-ou-roubaix-1656875;['kafka', 'puppet', 'sql', 'hadoop', 'jira', 'agile', 'terraform', 'anglais', 'apache', 'postgresql', 'itil', 'vpn', 'mysql', 'scrum', 'mariadb', ' sas', 'linux']
+51;chef-de-projet-infrastructure-et-data-h-f-paris-roubaix-ou-bordeaux-1656868;"
+                    STHREE SAS pour COMPUTER FUTURES ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-et-data-h-f-paris-roubaix-ou-bordeaux-1656868;['kafka', 'sql', 'hadoop', 'agile', 'anglais', 'postgresql', 'itil', 'mariadb', ' sas', 'linux']
+52;traffic-manager-responsable-acquisition-digitale-1656808;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nanterre;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/traffic-manager-responsable-acquisition-digitale-1656808;['tableau', 'power bi', ' sas']
+53;developpeur-c-h-f-velizy-villacoublay-1656187;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nanterre;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-c-h-f-velizy-villacoublay-1656187;['java', 'docker', 'sql', 'oracle', 'agile', 'anglais', ' sas', 'linux']
+54;developpeur-java-devops-h-f-boulogne-billancourt-1656177;"
+                    STHREE SAS pour COMPUTER FUTURES ";Puteaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-devops-h-f-boulogne-billancourt-1656177;['java', 'gitlab', 'docker', 'sql', 'jira', 'agile', 'confluence', 'sonar', 'springboot', 'postgresql', 'scrum', ' sas']
+55;architect-cloud-security-azure-1656023;"
+                    STHREE SAS pour COMPUTER FUTURES ";Puteaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architect-cloud-security-azure-1656023;['azure', 'ci/cd', 'scala', ' sas', 'linux']
+56;consultant-sirh-senior-1656020;"
+                    STHREE SAS pour COMPUTER FUTURES ";Cergy;36 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-sirh-senior-1656020;[' sas']
+57;cloud-data-engineer-1655451;"
+                    STHREE SAS pour COMPUTER FUTURES ";Cergy;36 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/cloud-data-engineer-1655451;['azure', 'python', 'sql', 'bigquery', 'redshift', 'snowflake', 'datawarehouse', ' sas']
+58;developpeur-de-flux-eai-esb-1655446;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nantes;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-de-flux-eai-esb-1655446;['talend', 'java', ' git ', 'jenkins', 'sql', 'db2', 'oracle', 'agile', 'mysql', 'linux']
+59;recherche-urgent-admin-package-sccm-intunes-ans-d-experiences-plaisir-1654809;"
+                    STHREE SAS pour COMPUTER FUTURES ";Nantes;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/recherche-urgent-admin-package-sccm-intunes-ans-d-experiences-plaisir-1654809;['scala', 'powershell']

@@ -1,0 +1,521 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;tech-lead-vue-js-1666755;"
+                    CS Group Solutions ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/tech-lead-vue-js-1666755;[' sas']
+1;chef-de-projet-moe-moa-1666725;"
+                    CS Group Solutions ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-moa-1666725;['gitlab', 'docker', 'sql', 'modélisation', 'apache', 'postgresql', 'ldap', 'linux']
+2;expert-grafana-1666676;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-grafana-1666676;['grafana']
+3;consultant-ssis-et-bo-1666654;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-ssis-et-bo-1666654;['qlik', 'sql', ' ssis']
+4;dba-mysql-mongodb-mariadb-1666650;"
+                    CS Group Solutions ";Bordeaux;8 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/dba-mysql-mongodb-mariadb-1666650;['sql', 'mysql', 'mariadb', 'mongodb', 'linux']
+5;cpi-api-manager-et-chantier-forge-de-developpement-1666643;"
+                    CS Group Solutions ";Bordeaux;8 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/cpi-api-manager-et-chantier-forge-de-developpement-1666643;[]
+6;cpi-migration-infrastructure-et-migration-technique-java-vers-java-1666638;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/cpi-migration-infrastructure-et-migration-technique-java-vers-java-1666638;['java']
+7;business-analyste-technico-fonctionnel-1666632;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-analyste-technico-fonctionnel-1666632;['sql']
+8;developpeur-drupal-1666544;"
+                    CS Group Solutions ";Angers;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-1666544;[' sas']
+9;concepteur-asic-1664282;"
+                    CS Group Solutions ";Angers;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/concepteur-asic-1664282;['anglais', ' sas']
+10;consultant-sap-pi-po-abap-1664202;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-sap-pi-po-abap-1664202;[]
+11;ingenieur-systeme-linux-1664205;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1664205;['ansible', 'linux']
+12;ingenieur-systeme-linux-1664206;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1664206;['ansible', 'linux']
+13;analyste-oracle-pl-sql-1666385;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/analyste-oracle-pl-sql-1666385;['java', 'sql', 'api rest', 'oracle', 'agile', 'mysql', 'scrum']
+14;architecte-reseau-cloud-1666183;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-cloud-1666183;['tableau']
+15;chef-d-exploitation-it-tv-1664033;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-d-exploitation-it-tv-1664033;['scala']
+16;architecte-technique-infra-1664035;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-technique-infra-1664035;['anglais', ' sas']
+17;integrateur-technique-1664020;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/integrateur-technique-1664020;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', 'linux']
+18;technicien-exploitation-1663985;"
+                    CS Group Solutions ";Clayes-sous-Bois (Les);12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/technicien-exploitation-1663985;['scala']
+19;ingenieur-systeme-windows-1663973;"
+                    CS Group Solutions ";Clayes-sous-Bois (Les);12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-windows-1663973;[]
+20;architecte-active-directory-1663946;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-active-directory-1663946;[]
+21;expert-eldas-1663857;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-eldas-1663857;['java', 'python']
+22;consultant-poste-de-travail-1663837;"
+                    CS Group Solutions ";Rennes;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-poste-de-travail-1663837;[]
+23;expert-active-directory-piam-1666013;"
+                    CS Group Solutions ";Rennes;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-piam-1666013;['anglais', 'powershell']
+24;consultant-informatica-experimente-1666003;"
+                    CS Group Solutions ";Trélazé;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-informatica-experimente-1666003;['sql', 'anglais']
+25;architecte-solutions-1665946;"
+                    CS Group Solutions ";Trélazé;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-solutions-1665946;[]
+26;qa-automaticien-1665885;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/qa-automaticien-1665885;['azure', 'ci/cd', 'jira', 'agile', 'anglais']
+27;chef-de-projet-sirh-1663704;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sirh-1663704;['anglais']
+28;ingenieur-ssi-1663621;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-ssi-1663621;['firewalls', 'vpn', 'linux']
+29;developpeur-c-net-1663623;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-net-1663623;['agile']
+30;developpeur-python-1663616;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1663616;['jenkins', 'python']
+31;expert-hadoop-1663612;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-hadoop-1663612;['docker', 'ansible', 'hortonworks', 'hadoop', 'terraform', 'cloudera']
+32;developpeur-securite-android-1663606;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-securite-android-1663606;['vpn', ' sas', 'linux']
+33;developpeur-unix-perl-1663584;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-unix-perl-1663584;['java', ' sas']
+34;consultant-devsecops-1663522;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-devsecops-1663522;['java', 'python', 'agile']
+35;referent-automatisation-tests-1663455;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/referent-automatisation-tests-1663455;['jenkins', 'tableau', 'agile', 'sonar', 'tableaux de bord', 'scrum']
+36;developpeur-pleiades-1663439;"
+                    CS Group Solutions ";Olivet;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-pleiades-1663439;['sql']
+37;architecte-applicatif-1665569;"
+                    CS Group Solutions ";Olivet;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-applicatif-1665569;['java', 'kafka', 'modélisation', 'microservice']
+38;developpeur-qlik-sense-1665518;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-qlik-sense-1665518;['qlik', ' sas']
+39;ux-designer-1665508;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ux-designer-1665508;[]
+40;developpeur-senior-plsql-1665452;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-plsql-1665452;['sql', ' sas']
+41;integration-sap-1665438;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/integration-sap-1665438;[]
+42;ingenieur-reseau-et-securite-1665434;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-et-securite-1665434;['firewalls']
+43;tech-lead-vue-js-1665431;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-vue-js-1665431;[' sas']
+44;architecte-java-1665429;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-java-1665429;[' sas']
+45;chef-de-projet-java-1665427;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-java-1665427;['java', ' sas']
+46;web-developper-1665368;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/web-developper-1665368;[]
+47;tech-lead-data-platform-1665362;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-platform-1665362;[' sas']
+48;developpeur-python-1665356;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1665356;['python', 'linux']
+49;developpeur-drupal-1665351;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-1665351;[]
+50;integrateur-1665344;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-1665344;['java', 'jenkins', 'oracle', 'tomcat', 'vpn']
+51;expert-java-scala-1665339;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-java-scala-1665339;['java', 'scala', ' sas']
+52;testeur-technique-1665338;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/testeur-technique-1665338;['sql', ' sas', 'linux']
+53;architecte-reseau-1665336;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-1665336;['gitlab', 'tableau', 'python', ' sas', 'linux']
+54;consultant-devops-1665334;"
+                    CS Group Solutions ";Roissy;5 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-devops-1665334;['gitlab', 'docker', 'python', 'ci/cd', ' sas', 'linux']
+55;consultant-qlik-sense-dashboard-kpi-1665074;"
+                    CS Group Solutions ";Roissy;5 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-qlik-sense-dashboard-kpi-1665074;['qlik', 'anglais']
+56;consultant-sap-bc-1665071;"
+                    CS Group Solutions ";Cergy;4 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-sap-bc-1665071;['jira', 'agile']
+57;developpeur-siebel-1665055;"
+                    CS Group Solutions ";Cergy;4 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-siebel-1665055;[]
+58;developpeur-siebel-1665053;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-siebel-1665053;[' sas']
+59;consultant-cognos-junior-1665034;"
+                    CS Group Solutions ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-cognos-junior-1665034;['power bi', 'python', 'sql', 'modélisation']
+60;consultant-forgerock-1664931;"
+                    CS Group Solutions ";Montreuil;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-forgerock-1664931;[]
+61;consultant-integrateur-devops-cloud-1664929;"
+                    CS Group Solutions ";Montreuil;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-integrateur-devops-cloud-1664929;['java', 'docker', 'terraform', 'anglais', 'grafana', ' sas']
+62;consultant-elk-1664921;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-elk-1664921;['gitlab', 'elk', 'ansible', 'logstash', ' sas', 'linux']
+63;consultant-sap-isu-1664918;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-sap-isu-1664918;[]
+64;consultant-confirme-python-spark-devops-1664901;"
+                    CS Group Solutions ";Cergy;4 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-confirme-python-spark-devops-1664901;['gitlab', 'jenkins', 'docker', 'ansible', 'python', 'spark', 'sql', 'ci/cd', 'api rest', 'sonar', ' sas']
+65;developpeur-senior-java-backend-expert-ejb-1664882;"
+                    CS Group Solutions ";Cergy;4 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-java-backend-expert-ejb-1664882;['java', 'tomcat', 'jboss']
+66;chef-de-projet-amoe-java-php-1662838;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoe-java-php-1662838;['java', 'sql', 'apache', 'tomcat', 'postgresql', ' sas', 'linux']
+67;dba-postgre-1664712;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/dba-postgre-1664712;['java', 'sql']
+68;developpeur-drupal-1664644;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-1664644;[]
+69;infor-m-finance-1664545;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/infor-m-finance-1664545;[]
+70;developpeur-python-1664541;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1664541;[]
+71;ingenieur-de-production-websphere-1664535;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-websphere-1664535;['oracle', 'linux']
+72;expert-jboss-1664528;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-jboss-1664528;['jboss', 'linux']
+73;analyste-programmeur-as-visual-adelia-1664360;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/analyste-programmeur-as-visual-adelia-1664360;[]
+74;expert-active-directory-1662176;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-1662176;['anglais', 'powershell']
+75;architecte-java-1662125;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/architecte-java-1662125;['talend', 'java', 'kafka', 'python', 'sql', 'mongodb', 'salesforce']
+76;analyste-soc-1662130;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-soc-1662130;['aws', 'azure', 'python', 'anglais', 'firewalls']
+77;consultant-omnichannel-1662136;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-omnichannel-1662136;['anglais']
+78;administrateur-splunk-1662094;"
+                    CS Group Solutions ";Lyon;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-splunk-1662094;['tableau', 'aws', 'azure', 'python', 'anglais', 'tableaux de bord', 'splunk']
+79;developpeur-talend-confirme-1662015;"
+                    CS Group Solutions ";Lyon;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-talend-confirme-1662015;['talend']
+80;developpeur-perl-unix-vtom-1664021;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-perl-unix-vtom-1664021;[]
+81;tech-lead-embarque-1664007;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-embarque-1664007;['linux']
+82;consultant-automatisation-tests-squash-1664003;"
+                    CS Group Solutions ";Clermont-Ferrand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-automatisation-tests-squash-1664003;['jenkins', 'sql']
+83;expert-linux-unix-1663994;"
+                    CS Group Solutions ";Clermont-Ferrand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-linux-unix-1663994;['gitlab', 'python', 'ci/cd', 'linux']
+84;ingenieur-devops-1663992;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1663992;['jenkins', 'aws', 'azure', 'ansible', 'terraform']
+85;developpeur-referent-technique-java-1663865;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-referent-technique-java-1663865;[]
+86;integrateur-1663819;"
+                    CS Group Solutions ";Bordeaux;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/integrateur-1663819;['java', 'jenkins', 'oracle', 'tomcat', 'vpn']
+87;integrateur-1663818;"
+                    CS Group Solutions ";Bordeaux;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/integrateur-1663818;['java', 'jenkins', 'oracle', 'tomcat', 'vpn']
+88;tech-lead-bigdata-spark-scala-1661785;"
+                    CS Group Solutions ";Noisiel;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-bigdata-spark-scala-1661785;[]
+89;tech-lead-bigdata-spark-scala-1661787;"
+                    CS Group Solutions ";Noisiel;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-bigdata-spark-scala-1661787;[]
+90;tech-lead-bigdata-spark-scala-1661789;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-bigdata-spark-scala-1661789;[]
+91;developpeur-as-adelia-1661702;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-as-adelia-1661702;[' sas']
+92;developpeur-full-stack-1663703;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-1663703;['java']
+93;expert-angular-ihm-1663701;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-angular-ihm-1663701;[' sas']
+94;consultant-itsm-chef-de-projet-technique-pmo-1663698;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-itsm-chef-de-projet-technique-pmo-1663698;['agile', 'anglais', ' sas']
+95;integrateur-applicatif-dynamics-1663638;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/integrateur-applicatif-dynamics-1663638;['azure', 'agile']
+96;conception-asic-senior-1663633;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/conception-asic-senior-1663633;[' sas']
+97;expert-fonctionnelle-accruent-meridian-1663626;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-fonctionnelle-accruent-meridian-1663626;[' sas']
+98;developpeur-c-telecom-1663598;"
+                    CS Group Solutions ";Lille;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-c-telecom-1663598;['sql', 'oracle', ' sas']
+99;developpeur-cobol-1661091;"
+                    CS Group Solutions ";Lille;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-1661091;[' sas']
+100;sap-bods-ds-1663309;"
+                    CS Group Solutions ";Lyon;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/sap-bods-ds-1663309;[]
+101;consultant-pacbase-1663185;"
+                    CS Group Solutions ";Lyon;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-pacbase-1663185;['java']
+102;consultant-senior-infor-m-finance-1663164;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-senior-infor-m-finance-1663164;[]
+103;developpeur-integrateur-perl-1663139;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-integrateur-perl-1663139;[' sas']
+104;consultant-support-au-deploiement-du-mes-1663067;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; 340-400 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-support-au-deploiement-du-mes-1663067;['modélisation', 'anglais']
+105;business-analyst-support-au-deploiement-sap-1663065;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; 340-400 €;07/02/2022;https://www.freelance-info.fr/mission/business-analyst-support-au-deploiement-sap-1663065;['anglais', ' sas']
+106;consultant-qlik-sense-dashboard-kpi-1663057;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-qlik-sense-dashboard-kpi-1663057;['qlik', 'anglais']
+107;testeur-liferay-1663045;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/testeur-liferay-1663045;['jira', 'confluence']
+108;consultant-fonctionnel-sap-fi-co-1660891;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-fonctionnel-sap-fi-co-1660891;[]
+109;pilote-support-bureautique-1660750;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pilote-support-bureautique-1660750;['anglais']
+110;adjoint-au-rssi-1660737;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/adjoint-au-rssi-1660737;['tableau']
+111;consultant-sap-sales-adv-administration-des-ventes-1662830;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-sap-sales-adv-administration-des-ventes-1662830;[' sas']
+112;developpeur-bo-bi-1662826;"
+                    CS Group Solutions ";Courbevoie;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-bo-bi-1662826;[' bo ', 'db2']
+113;consultant-sas-1662825;"
+                    CS Group Solutions ";Courbevoie;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-sas-1662825;['qlik', 'jira', 'agile', ' sas', 'linux']
+114;expert-technique-pleiades-ng-1662824;"
+                    CS Group Solutions ";Toulouse;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-technique-pleiades-ng-1662824;['sql']
+115;chef-de-projet-aws-1660690;"
+                    CS Group Solutions ";Toulouse;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-aws-1660690;['aws', 'anglais']
+116;coach-agile-1660680;"
+                    CS Group Solutions ";Montpellier;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/coach-agile-1660680;['agile', 'anglais', 'kanban', 'scrum']
+117;expert-vro-vra-1662510;"
+                    CS Group Solutions ";Montpellier;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-vro-vra-1662510;[' sas']
+118;architect-infra-vmware-citrix-netscaler-migration-1662507;"
+                    CS Group Solutions ";Olivet;10 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architect-infra-vmware-citrix-netscaler-migration-1662507;['anglais', ' sas']
+119;developpeur-j-e-front-1662101;"
+                    CS Group Solutions ";Olivet;10 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-j-e-front-1662101;['java', ' git ', ' sas']
+120;developpeur-j-e-1662098;"
+                    CS Group Solutions ";Châtillon;5 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-j-e-1662098;['java', 'tableau', 'sql', 'tableaux de bord', 'springboot']
+121;integrateur-1662095;"
+                    CS Group Solutions ";Châtillon;5 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/integrateur-1662095;['java', 'jenkins', 'oracle', 'tomcat', 'vpn']
+122;developpeur-drupal-1662092;"
+                    CS Group Solutions ";Montpellier;7 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-1662092;[' sas']
+123;expert-python-1662087;"
+                    CS Group Solutions ";Montpellier;7 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-python-1662087;['python', ' sas', 'linux']
+124;developpeur-senior-python-1662077;"
+                    CS Group Solutions ";Montpellier;5 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-python-1662077;['jenkins', 'python', ' sas']
+125;responsable-technique-1662075;"
+                    CS Group Solutions ";Montpellier;5 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/responsable-technique-1662075;['jenkins', 'python']
+126;integrateur-1662073;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/integrateur-1662073;[' git ', 'jenkins', 'ansible', 'ci/cd', 'linux']
+127;developpeur-java-1662071;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1662071;['java', ' git ']
+128;product-owner-1659887;"
+                    CS Group Solutions ";Paris;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/product-owner-1659887;['agile', 'anglais']
+129;consultant-senior-vue-js-1661364;"
+                    CS Group Solutions ";Paris;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-senior-vue-js-1661364;[' sas']
+130;consultant-sap-pp-fonctionnel-1661359;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-sap-pp-fonctionnel-1661359;['anglais', ' sas']
+131;dba-postgres-1661154;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/dba-postgres-1661154;['java', 'sql']
+132;administreur-logiciel-splunk-1661137;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administreur-logiciel-splunk-1661137;['tableau', 'aws', 'azure', 'python', 'splunk']
+133;consultant-ssis-1661131;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-ssis-1661131;['qlik', 'sql', ' ssis']
+134;consultant-ssis-1661128;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-ssis-1661128;['qlik', 'sql', ' ssis']
+135;consultant-ssis-1661127;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-ssis-1661127;['qlik', 'sql', ' sas', ' ssis']
+136;consultant-pilote-wms-senior-1661125;"
+                    CS Group Solutions ";Nantes;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-pilote-wms-senior-1661125;['anglais']
+137;analyste-applicatif-pl-sql-api-kafka-1661120;"
+                    CS Group Solutions ";Nantes;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-applicatif-pl-sql-api-kafka-1661120;['kafka', 'sql', 'api rest']
+138;developpeur-windev-wedev-1659150;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-windev-wedev-1659150;[]
+139;coordinateur-activite-d-integration-1659131;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/coordinateur-activite-d-integration-1659131;['oracle', 'apache', 'tomcat', 'jboss', 'linux']
+140;consultant-scrum-php-1659050;"
+                    CS Group Solutions ";La Défense (92);6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-scrum-php-1659050;['gitlab', 'jira', 'agile', 'confluence', 'scrum', 'linux']
+141;developpeur-fullstack-java-angular-1658974;"
+                    CS Group Solutions ";La Défense (92);6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-1658974;['java', 'aws', 'gcp', 'oracle', 'agile', 'springboot', 'scrum']
+142;administrateur-parametreur-solution-cegid-tax-ultimate-1658988;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/administrateur-parametreur-solution-cegid-tax-ultimate-1658988;[]
+143;integrateur-technique-1658973;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/integrateur-technique-1658973;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', 'linux']
+144;product-owner-1658958;"
+                    CS Group Solutions ";Saclay;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-1658958;['agile', 'anglais']
+145;infor-m-finance-1661095;"
+                    CS Group Solutions ";Saclay;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/infor-m-finance-1661095;[]
+146;chef-de-projet-java-dev-backend-1660996;"
+                    CS Group Solutions ";Mesnil-Amelot (Le);6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-java-dev-backend-1660996;[' sas']
+147;developpeur-referent-technique-vue-js-1660995;"
+                    CS Group Solutions ";Mesnil-Amelot (Le);6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-referent-technique-vue-js-1660995;[' sas']
+148;developpeur-full-stack-1660991;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-1660991;['java']
+149;sap-pp-fonctionnel-1658815;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/sap-pp-fonctionnel-1658815;[]
+150;expert-active-directory-1658761;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-1658761;['anglais', 'powershell']
+151;consultant-stambia-1658709;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-stambia-1658709;['java', 'sql', 'oracle']
+152;consultant-tibco-bw-ou-bpm-case-management-1658710;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-tibco-bw-ou-bpm-case-management-1658710;[' sas']
+153;manager-de-transition-communication-unifiee-1658620;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/manager-de-transition-communication-unifiee-1658620;[]
+154;developpeur-react-js-1658604;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-react-js-1658604;['api rest', 'agile', 'anglais', 'scrum']
+155;product-owner-experimente-sur-portail-1660464;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/product-owner-experimente-sur-portail-1660464;['agile', 'anglais']
+156;scrum-master-1658463;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/scrum-master-1658463;['agile', 'scrum']
+157;lead-technique-drupal-1658379;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/lead-technique-drupal-1658379;['jenkins', 'sql', 'agile', 'sonar', 'mysql', 'scrum', 'mariadb', 'sonarqube']
+158;developpeur-fullstack-java-angular-1658373;"
+                    CS Group Solutions ";Télétravail;5 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-1658373;['java', 'aws', 'sql', 'gcp', 'api rest', 'agile', 'mysql', 'scrum']
+159;administrateur-systeme-unix-linux-dba-postgresql-mysql-1658354;"
+                    CS Group Solutions ";Télétravail;5 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-unix-linux-dba-postgresql-mysql-1658354;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', 'linux']
+160;developpeur-drupal-1658351;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-1658351;['agile', 'scrum']
+161;expert-architect-as-1660364;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/expert-architect-as-1660364;[' sas']
+162;tech-lead-data-platform-1660171;"
+                    CS Group Solutions ";Aix-en-Provence;9 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-platform-1660171;[]
+163;integrateur-systeme-1660169;"
+                    CS Group Solutions ";Aix-en-Provence;9 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/integrateur-systeme-1660169;['puppet']
+164;manager-de-transition-datalake-1660166;"
+                    CS Group Solutions ";Orléans;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/manager-de-transition-datalake-1660166;[]
+165;tech-lead-bigdata-spark-scala-1660061;"
+                    CS Group Solutions ";Orléans;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-bigdata-spark-scala-1660061;[]
+166;tech-lead-bigdata-spark-scala-1660060;"
+                    CS Group Solutions ";Lyon;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-bigdata-spark-scala-1660060;[]
+167;tech-lead-bigdata-spark-scala-1660058;"
+                    CS Group Solutions ";Lyon;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-bigdata-spark-scala-1660058;[]
+168;sap-fi-co-fonctionnel-1660049;"
+                    CS Group Solutions ";Lyon;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/sap-fi-co-fonctionnel-1660049;[' sas']
+169;consultant-devops-1658102;"
+                    CS Group Solutions ";Lyon;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-devops-1658102;['java', 'jenkins']
+170;concepteur-developpeur-android-1658065;"
+                    CS Group Solutions ";Grenoble;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-android-1658065;['java', 'gitlab', 'docker', 'agile', 'sonar']
+171;architecte-java-et-ou-php-1658068;"
+                    CS Group Solutions ";Grenoble;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/architecte-java-et-ou-php-1658068;['java', 'ci/cd']
+172;ingenieur-exploitation-1658048;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-exploitation-1658048;['sql', 'anglais']
+173;ingenieur-devops-1658061;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1658061;['java', 'github', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'ci/cd', 'jira', 'agile', 'confluence', 'terraform', 'sonar', 'anglais', 'splunk', 'sonarqube', 'linux']
+174;consultant-sap-ui-1658025;"
+                    CS Group Solutions ";Lyon;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-sap-ui-1658025;['anglais']
+175;testeur-integrateur-soapui-1660015;"
+                    CS Group Solutions ";Lyon;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/testeur-integrateur-soapui-1660015;[]
+176;expert-technique-sap-ariba-1659916;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/expert-technique-sap-ariba-1659916;['anglais', ' sas']
+177;consultant-sap-grc-1659747;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-sap-grc-1659747;[]
+178;developpeur-api-framework-java-spring-rest-1659687;"
+                    CS Group Solutions ";Montpellier;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-api-framework-java-spring-rest-1659687;['java', 'jenkins', 'agile', 'tomcat', 'jboss']
+179;consultant-sap-ariba-1659683;"
+                    CS Group Solutions ";Montpellier;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-sap-ariba-1659683;['anglais']
+180;developpeur-php-1657646;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-php-1657646;['java', 'sql', 'oracle', 'agile', 'scrum']
+181;consultant-universe-1657641;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-universe-1657641;['aws', 'apache', 'tomcat', 'itil', 'linux']
+182;analyste-technico-fonctionnel-1659302;"
+                    CS Group Solutions ";Tours;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/analyste-technico-fonctionnel-1659302;['java', 'sql', 'postgresql']
+183;chef-de-projet-technique-java-ou-php-confirme-1659278;"
+                    CS Group Solutions ";Tours;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-java-ou-php-confirme-1659278;['java', 'agile', 'pmp', 'scrum']
+184;consultant-pilote-amoa-1659265;"
+                    CS Group Solutions ";Clermont-Ferrand;10 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/consultant-pilote-amoa-1659265;[]
+185;developpeur-java-1659259;"
+                    CS Group Solutions ";Clermont-Ferrand;10 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/developpeur-java-1659259;[' sas']
+186;ingenieur-de-production-1657251;"
+                    CS Group Solutions ";Ivry-sur-Seine;2 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-1657251;['apache', 'scala', 'linux']
+187;integrateur-technique-1657243;"
+                    CS Group Solutions ";Ivry-sur-Seine;2 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/integrateur-technique-1657243;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', 'linux']
+188;expert-webmethods-1659253;"
+                    CS Group Solutions ";Toulouse;2 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/expert-webmethods-1659253;['kafka', 'hive']
+189;consultant-sap-sd-mm-1659250;"
+                    CS Group Solutions ";Toulouse;2 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/consultant-sap-sd-mm-1659250;[]
+190;expert-sur-la-solution-filenet-baw-1659244;"
+                    CS Group Solutions ";Bezons;10 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/expert-sur-la-solution-filenet-baw-1659244;['java', 'anglais']
+191;consultant-odi-1659242;"
+                    CS Group Solutions ";Bezons;10 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/consultant-odi-1659242;[' odi ', 'db2', 'oracle', 'apache', 'tomcat']
+192;consultant-pilote-crm-salesforce-et-ou-dynamic-1659236;"
+                    CS Group Solutions ";Clayes-sous-Bois (Les);3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/consultant-pilote-crm-salesforce-et-ou-dynamic-1659236;['powerbi', 'power bi', 'anglais', 'salesforce']
+193;consultant-sap-sd-1659062;"
+                    CS Group Solutions ";Clayes-sous-Bois (Les);3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/consultant-sap-sd-1659062;['anglais']
+194;developpeur-webmethods-confirm-1658999;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/developpeur-webmethods-confirm-1658999;['java']
+195;developpeur-kafka-1658998;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/developpeur-kafka-1658998;['java', 'kafka', 'docker']
+196;sap-mm-ewm-fonctionnel-1658995;"
+                    CS Group Solutions ";Rennes;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/sap-mm-ewm-fonctionnel-1658995;[' sas']
+197;sap-sd-mm-fonctionnel-1658991;"
+                    CS Group Solutions ";Rennes;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/sap-sd-mm-fonctionnel-1658991;[' sas']
+198;consultant-senior-jasper-reports-1658676;"
+                    CS Group Solutions ";Rouen;12 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/consultant-senior-jasper-reports-1658676;[]
+199;consultant-boostratp-1658674;"
+                    CS Group Solutions ";Rouen;12 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/consultant-boostratp-1658674;[]
+200;chef-de-projet-technique-java-ou-php-confirme-1658633;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-java-ou-php-confirme-1658633;['java', 'agile', 'pmp', 'scrum']
+201;ingenieur-kubernetes-1656470;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-kubernetes-1656470;[' sas']
+202;consultant-sap-planification-sap-mrp-gestion-bip-1658275;"
+                    CS Group Solutions ";Paris;10 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-planification-sap-mrp-gestion-bip-1658275;[' sas']
+203;consultant-sap-planification-sap-mrp-gestion-bip-1658274;"
+                    CS Group Solutions ";Paris;10 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-planification-sap-mrp-gestion-bip-1658274;[' sas']
+204;consultant-sap-mm-1658273;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-mm-1658273;[' sas']
+205;consultant-sap-mm-1658272;"
+                    CS Group Solutions ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-mm-1658272;[' sas']
+206;consultant-sap-mm-ewm-mes-1658269;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-mm-ewm-mes-1658269;[' sas']
+207;consultant-sap-mm-ewm-mes-1658268;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-mm-ewm-mes-1658268;[' sas']
+208;consultant-sap-sales-adv-administration-des-ventes-1658263;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-sales-adv-administration-des-ventes-1658263;[' sas']
+209;consultant-sap-sales-adv-administration-des-ventes-1658262;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-sales-adv-administration-des-ventes-1658262;[' sas']
+210;developpeur-experimente-python-et-framework-django-sql-1656064;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-experimente-python-et-framework-django-sql-1656064;['python', 'sql', ' sas']
+211;dba-posgre-1658126;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/dba-posgre-1658126;['java', 'sql', 'agile']
+212;consultant-senior-pilote-de-test-qa-lead-1657913;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-senior-pilote-de-test-qa-lead-1657913;['azure', 'agile', 'anglais']
+213;controleur-de-gestion-sociale-et-sirh-1657652;"
+                    CS Group Solutions ";Saint-Ouen;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/controleur-de-gestion-sociale-et-sirh-1657652;[]
+214;developpeur-kafka-1657609;"
+                    CS Group Solutions ";Nanterre;9 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-kafka-1657609;['java', 'kafka', 'docker']
+215;developpeur-t-sql-1657539;"
+                    CS Group Solutions ";Nanterre;9 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-t-sql-1657539;['sql', ' sas']
+216;developpeur-j-ee-1657417;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-j-ee-1657417;['java', 'sql', 'springboot']
+217;integrateur-1657404;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/integrateur-1657404;['java', 'jenkins', 'oracle', 'tomcat', 'vpn']
+218;sap-pp-mrp-1657201;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/sap-pp-mrp-1657201;[]
+219;consultant-sap-sd-fonctionnel-1657101;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sap-sd-fonctionnel-1657101;[]
+220;sap-qm-fonctionnel-experimente-1657100;"
+                    CS Group Solutions ";Mer;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/sap-qm-fonctionnel-experimente-1657100;[]
+221;sap-mm-le-wm-pm-fonctionnel-1657099;"
+                    CS Group Solutions ";Mer;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/sap-mm-le-wm-pm-fonctionnel-1657099;[]
+222;consultant-sap-pp-fonctionnel-1657098;"
+                    CS Group Solutions ";Colombes;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-sap-pp-fonctionnel-1657098;[' sas']
+223;sap-fi-co-fonctionnel-experimente-1657097;"
+                    CS Group Solutions ";Colombes;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/sap-fi-co-fonctionnel-experimente-1657097;[]
+224;referent-technique-expert-jcl-cobol-1657094;"
+                    CS Group Solutions ";Ivry-sur-Seine;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/referent-technique-expert-jcl-cobol-1657094;[]
+225;administrateur-expert-jira-et-confluence-1656967;"
+                    CS Group Solutions ";Ivry-sur-Seine;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/administrateur-expert-jira-et-confluence-1656967;['jira', 'confluence']
+226;rssi-1656886;"
+                    CS Group Solutions ";Ivry-sur-Seine;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/rssi-1656886;[]
+227;consultant-qlikview-1656714;"
+                    CS Group Solutions ";Ivry-sur-Seine;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-qlikview-1656714;['qlik', 'sql', ' sas']
+228;consultant-stambia-1656706;"
+                    CS Group Solutions ";Paris;4 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-stambia-1656706;['java', 'sql', 'oracle']
+229;rssi-cybersecurite-1656685;"
+                    CS Group Solutions ";Paris;4 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/rssi-cybersecurite-1656685;['anglais']
+230;recette-applicative-1656596;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/recette-applicative-1656596;[' sas']
+231;consultant-data-developpement-spark-python-1656589;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-data-developpement-spark-python-1656589;[' sas']
+232;expert-power-bi-1656586;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/expert-power-bi-1656586;[' sas']
+233;developpement-power-bi-1656584;"
+                    CS Group Solutions ";Toulouse;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpement-power-bi-1656584;[' sas']
+234;architecte-specialise-micro-service-1656577;"
+                    CS Group Solutions ";Vélizy-Villacoublay;121 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/architecte-specialise-micro-service-1656577;[' sas']
+235;architecte-api-manager-1656573;"
+                    CS Group Solutions ";Vélizy-Villacoublay;121 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/architecte-api-manager-1656573;[' sas']
+236;architecte-dev-specialise-en-securite-1656570;"
+                    CS Group Solutions ";Vélizy-Villacoublay;12 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/architecte-dev-specialise-en-securite-1656570;[' sas']
+237;architecte-data-manager-1656568;"
+                    CS Group Solutions ";Vélizy-Villacoublay;12 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/architecte-data-manager-1656568;[' sas']
+238;developpeur-salesforce-1656563;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-salesforce-1656563;[' sas']
+239;scrum-master-1656483;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/scrum-master-1656483;[' sas']
+240;ingenieur-zos-1656480;"
+                    CS Group Solutions ";Bordeaux;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/ingenieur-zos-1656480;[' sas']
+241;developpeur-cobol-1656465;"
+                    CS Group Solutions ";Bordeaux;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-cobol-1656465;[' sas']
+242;consultant-tibco-bw-et-amx-1656463;"
+                    CS Group Solutions ";Lyon;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-tibco-bw-et-amx-1656463;[]
+243;developpeur-informatica-mdm-1656420;"
+                    CS Group Solutions ";Lyon;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-informatica-mdm-1656420;['anglais']
+244;consultant-support-fonctionnel-application-1656409;"
+                    CS Group Solutions ";Lille;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-support-fonctionnel-application-1656409;[]
+245;architecte-applicatif-1655537;"
+                    CS Group Solutions ";Lille;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/architecte-applicatif-1655537;['java', 'sql', 'oracle', 'tomcat', 'postgresql', 'cartographie', 'jboss']
+246;expert-architecte-devops-1655539;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/expert-architecte-devops-1655539;['agile']
+247;consultant-technico-fonctionnel-sap-sd-mm-1655531;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-sap-sd-mm-1655531;['anglais', ' sas']
+248;consultant-technico-fonctionnel-sap-fi-co-1655532;"
+                    CS Group Solutions ";Montreuil;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-sap-fi-co-1655532;['anglais']
+249;developpeur-informatica-mdm-1655533;"
+                    CS Group Solutions ";Montreuil;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-informatica-mdm-1655533;['anglais', ' sas']
+250;consultant-liferay-1655534;"
+                    CS Group Solutions ";Montreuil;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-liferay-1655534;['github', 'jenkins', 'jira', 'confluence', 'scrum']
+251;pilote-de-projet-amoa-1655535;"
+                    CS Group Solutions ";Montreuil;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/pilote-de-projet-amoa-1655535;[]
+252;consultant-front-office-murex-1655496;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-front-office-murex-1655496;['anglais', ' sas']
+253;architecte-technique-applicatif-microservices-1655502;"
+                    CS Group Solutions ";Noisy-le-Grand;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/architecte-technique-applicatif-microservices-1655502;['java', 'kafka', 'modélisation', ' sas', 'microservice']
+254;developpeur-service-now-1655483;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-service-now-1655483;['java', 'anglais', 'itil', ' sas']
+255;developpeur-service-now-1655486;"
+                    CS Group Solutions ";Toulouse;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-service-now-1655486;['java', 'anglais', 'itil', ' sas']
+256;tech-lead-confirme-java-spring-postgresql-1655490;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/tech-lead-confirme-java-spring-postgresql-1655490;['java', 'sql', 'postgresql', ' sas']
+257;integrateur-logiciel-1655491;"
+                    CS Group Solutions ";Paris;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/integrateur-logiciel-1655491;[' sas', 'linux']
+258;developpeur-confirme-java-vue-js-postgresql-1655493;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/developpeur-confirme-java-vue-js-postgresql-1655493;['java', 'sql', ' sas']
+259;developpeur-service-now-1655480;"
+                    CS Group Solutions ";Noisy-le-Grand;6 mois; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/developpeur-service-now-1655480;['java', 'anglais', 'itil', ' sas']

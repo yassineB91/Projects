@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;consultant-dba-db-h-f-1666764;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-dba-db-h-f-1666764;['talend', 'sql', 'db2', 'oracle', 'splunk']
+1;architecte-fonctionnel-h-f-1666761;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-h-f-1666761;['modélisation']
+2;expert-solution-rsa-securid-h-f-1664344;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-solution-rsa-securid-h-f-1664344;[]
+3;ingenieur-telecom-transverse-1664338;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-telecom-transverse-1664338;[]
+4;chef-de-projet-technique-1664163;"
+                    Uniware ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-1664163;[]
+5;architecte-infrastructure-1664169;"
+                    Uniware ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-1664169;['java', 'kafka', 'terraform']
+6;chef-de-projet-poste-de-travail-secteur-bancaire-h-f-1664156;"
+                    Uniware ";Montreuil;3 années; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-poste-de-travail-secteur-bancaire-h-f-1664156;[]
+7;ingenieur-reseau-cisco-nexus-1664160;"
+                    Uniware ";Montreuil;3 années; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-cisco-nexus-1664160;['anglais']
+8;expert-systeme-d-exploitation-secteur-bancaire-h-f-1664161;"
+                    Uniware ";Montreuil;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-systeme-d-exploitation-secteur-bancaire-h-f-1664161;[]
+9;expert-securite-hsm-et-cryptographie-h-f-1666289;"
+                    Uniware ";Montreuil;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-securite-hsm-et-cryptographie-h-f-1666289;['azure']
+10;csirt-analyt-anglais-h-f-1663699;"
+                    Uniware ";Montreuil;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/csirt-analyt-anglais-h-f-1663699;['aws', 'python', 'vpn', 'powershell', 'linux']
+11;accompagnement-strategie-et-gouvernance-cybersecurite-h-f-1665324;"
+                    Uniware ";Montreuil;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/accompagnement-strategie-et-gouvernance-cybersecurite-h-f-1665324;['anglais']
+12;architecte-zero-trust-secteur-bancaire-h-f-1665321;"
+                    Uniware ";Villejuif;12 mois; 460-490 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-zero-trust-secteur-bancaire-h-f-1665321;[]
+13;expert-varonis-h-f-1665317;"
+                    Uniware ";Villejuif;12 mois; 460-490 €;10/02/2022;https://www.freelance-info.fr/mission/expert-varonis-h-f-1665317;['anglais']
+14;pentester-secteur-bancaire-h-f-1665311;"
+                    Uniware ";Montreuil;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/pentester-secteur-bancaire-h-f-1665311;[]
+15;amoa-gestion-des-habilitations-secteur-bancaire-h-f-1663273;"
+                    Uniware ";Montreuil;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/amoa-gestion-des-habilitations-secteur-bancaire-h-f-1663273;[]
+16;dast-project-manager-h-f-1663278;"
+                    Uniware ";Villejuif;12 mois; 460-490 €;10/02/2022;https://www.freelance-info.fr/mission/dast-project-manager-h-f-1663278;['anglais', ' sas']
+17;expert-mcafee-web-gateway-anglais-h-f-1663258;"
+                    Uniware ";Villejuif;12 mois; 460-490 €;10/02/2022;https://www.freelance-info.fr/mission/expert-mcafee-web-gateway-anglais-h-f-1663258;['vpn']
+18;architecte-office-h-f-1663226;"
+                    Uniware ";Montreuil;12 mois; 530-590 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-office-h-f-1663226;['azure']
+19;chef-de-projet-workplace-h-f-1663184;"
+                    Uniware ";Montreuil;12 mois; 530-590 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-workplace-h-f-1663184;['agile', 'scrum']
+20;expert-cryptographie-anglais-h-f-1664802;"
+                    Uniware ";La Défense (92);12 mois; 520-550 €;08/02/2022;https://www.freelance-info.fr/mission/expert-cryptographie-anglais-h-f-1664802;[]
+21;architecte-securite-anglais-h-f-1664800;"
+                    Uniware ";La Défense (92);12 mois; 520-550 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-securite-anglais-h-f-1664800;['aws', 'azure', 'gcp']
+22;administrateur-kubernetes-1664720;"
+                    Uniware ";Montreuil;10 mois; 500-530 €;07/02/2022;https://www.freelance-info.fr/mission/administrateur-kubernetes-1664720;['linux']
+23;consultant-linux-confirm-1664713;"
+                    Uniware ";Montreuil;10 mois; 500-530 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-linux-confirm-1664713;['docker', 'python', 'ldap', ' sas', 'linux']
+24;service-manager-anglais-courant-1664708;"
+                    Uniware ";Montreuil;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/service-manager-anglais-courant-1664708;['anglais']
+25;ingenieur-symantec-endpoint-protection-h-f-1662615;"
+                    Uniware ";Montreuil;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-symantec-endpoint-protection-h-f-1662615;['azure']
+26;ingenieur-packageur-h-f-1662616;"
+                    Uniware ";Montreuil;14 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-packageur-h-f-1662616;[]
+27;expert-sccm-h-f-1662491;"
+                    Uniware ";Montreuil;14 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-sccm-h-f-1662491;['sql']
+28;chef-de-projet-cybersecurite-h-f-1662226;"
+                    Uniware ";Montreuil;10 mois; 500-530 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-cybersecurite-h-f-1662226;['cartographie', ' ssis']
+29;architecte-technique-connaissance-cloud-aws-h-f-1662108;"
+                    Uniware ";Montreuil;10 mois; 500-530 €;07/02/2022;https://www.freelance-info.fr/mission/architecte-technique-connaissance-cloud-aws-h-f-1662108;['aws', 'zscaler', 'vpn', 'linux']
+30;chef-de-projet-infrastructures-h-f-1662096;"
+                    Uniware ";Paris;12 mois; 460-510 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructures-h-f-1662096;['aws', 'zscaler', 'vpn']
+31;chef-de-projet-reseau-h-f-1661950;"
+                    Uniware ";Paris;12 mois; 460-510 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-reseau-h-f-1661950;['itil', 'scrum']
+32;architecte-office-h-f-1661934;"
+                    Uniware ";Paris;12 mois; 510-540 €;05/02/2022;https://www.freelance-info.fr/mission/architecte-office-h-f-1661934;['azure']
+33;chef-de-projet-sharepoint-h-f-1661455;"
+                    Uniware ";Paris;12 mois; 510-540 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sharepoint-h-f-1661455;['anglais']
+34;architecte-cloud-aws-h-f-1661159;"
+                    Uniware ";Paris;12 mois; 510-540 €;05/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-aws-h-f-1661159;['gitlab', 'jenkins', 'aws', 'azure', 'ansible', 'python', 'terraform']
+35;architecte-office-azure-ad-h-f-1661092;"
+                    Uniware ";Paris;12 mois; 510-540 €;05/02/2022;https://www.freelance-info.fr/mission/architecte-office-azure-ad-h-f-1661092;['azure', ' sas']
+36;ingenieur-cloud-et-virtualisation-h-f-1660838;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-et-virtualisation-h-f-1660838;['sql']
+37;architecte-technique-cloud-h-f-1660804;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/architecte-technique-cloud-h-f-1660804;['jenkins', 'azure', 'kafka', 'ansible', 'gcp', 'agile', 'confluence', 'terraform', 'anglais', 'apache']
+38;technicien-datacenter-h-f-1660288;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/technicien-datacenter-h-f-1660288;[]
+39;dba-production-connaissance-outil-veeam-1659948;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/dba-production-connaissance-outil-veeam-1659948;['azure', 'sql', 'gcp', 'oracle', 'anglais', 'postgresql', 'powershell', 'linux']
+40;chef-de-projet-elaboration-budgetaire-solutions-epm-1659539;"
+                    Uniware ";Paris;12 mois; 550-580 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-elaboration-budgetaire-solutions-epm-1659539;['jira', 'agile', 'confluence', 'anglais']
+41;expert-monitoring-1659518;"
+                    Uniware ";Paris;12 mois; 550-580 €;03/02/2022;https://www.freelance-info.fr/mission/expert-monitoring-1659518;['anglais', ' sas', 'linux']
+42;dba-sql-server-1659522;"
+                    Uniware ";Paris;12 mois; 550-580 €;03/02/2022;https://www.freelance-info.fr/mission/dba-sql-server-1659522;['powerbi', 'azure', 'sql', 'anglais', 'mongodb', 'powershell', 'ssrs', ' ssis']
+43;expert-intune-h-f-1659254;"
+                    Uniware ";Paris;12 mois; 550-580 €;03/02/2022;https://www.freelance-info.fr/mission/expert-intune-h-f-1659254;['vpn']
+44;ops-engineer-delivery-h-f-1659233;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ops-engineer-delivery-h-f-1659233;[' git ', 'azure', 'ci/cd', 'agile', 'terraform']
+45;consultant-devops-azure-h-f-1659237;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-devops-azure-h-f-1659237;[' git ', 'azure', 'ci/cd', 'agile', 'powershell']
+46;ingenieur-de-production-1658810;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-1658810;['gitlab', 'jenkins', 'python', 'sql', 'ci/cd', 'oracle', 'apache', 'postgresql', 'jboss', 'mariadb', 'mongodb', 'powershell', 'linux']
+47;architecte-aws-1658812;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-aws-1658812;['github', 'jenkins', 'aws', 'glue', 'terraform', ' sas']
+48;dba-sql-server-1658796;"
+                    Uniware ";La Défense (92);3 années; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/dba-sql-server-1658796;['docker', 'sql', 'anglais', 'mysql', 'ssrs', ' ssis']
+49;consultant-cybersecurite-1658798;"
+                    Uniware ";La Défense (92);3 années; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-cybersecurite-1658798;['vpn']
+50;dba-oracle-postgresql-1658800;"
+                    Uniware ";Villejuif;12 mois; 450-490 €;03/02/2022;https://www.freelance-info.fr/mission/dba-oracle-postgresql-1658800;['aws', 'azure', 'sql', 'oracle', 'anglais', 'postgresql', 'mysql']
+51;ingenieur-devops-1658803;"
+                    Uniware ";Villejuif;12 mois; 450-490 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1658803;['jenkins', 'azure', 'ansible', 'ci/cd', 'xray', 'sonar', ' sas']
+52;chef-de-projet-production-devops-h-f-1658257;"
+                    Uniware ";Villejuif;12 mois; 450-490 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-production-devops-h-f-1658257;['azure', 'ansible', 'agile', 'powershell', 'linux']
+53;ingenieur-netdevops-h-f-1657624;"
+                    Uniware ";Villejuif;12 mois; 450-490 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-netdevops-h-f-1657624;['jenkins', 'ansible', 'python', 'gcp', 'agile', 'anglais', 'scrum']
+54;expert-office-h-f-1657440;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-office-h-f-1657440;['anglais']
+55;ingenieur-support-n-h-f-1657273;"
+                    Uniware ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-n-h-f-1657273;['itil']
+56;consultant-devops-azure-ops-engineer-h-f-1656927;"
+                    Uniware ";Villepinte;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-devops-azure-ops-engineer-h-f-1656927;['azure', 'ansible', 'powershell', 'linux']
+57;product-owner-securite-secteur-bancaire-h-f-1656721;"
+                    Uniware ";Villepinte;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/product-owner-securite-secteur-bancaire-h-f-1656721;[]
+58;expert-cybersecurite-secteur-bancaire-h-f-1656724;"
+                    Uniware ";Puteaux;12 mois; 530-560 €;02/02/2022;https://www.freelance-info.fr/mission/expert-cybersecurite-secteur-bancaire-h-f-1656724;['github', 'docker', 'python']
+59;consultant-devops-secteur-grande-distribution-h-f-1656683;"
+                    Uniware ";Puteaux;12 mois; 530-560 €;02/02/2022;https://www.freelance-info.fr/mission/consultant-devops-secteur-grande-distribution-h-f-1656683;['java', 'jenkins', 'azure', 'docker', 'ansible', 'python', 'spark', 'sql', 'gcp', 'api rest', 'bigquery', 'agile', 'grafana', 'postgresql']

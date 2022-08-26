@@ -1,0 +1,141 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;data-analyst-senior-1666713;"
+                    TEOLIA ";Paris;6 mois; 520 €;10/02/2022;https://www.freelance-info.fr/mission/data-analyst-senior-1666713;[' sas']
+1;functional-project-manager-level-1666710;"
+                    TEOLIA ";Paris;6 mois; 520 €;10/02/2022;https://www.freelance-info.fr/mission/functional-project-manager-level-1666710;['azure', ' sas', 'powershell']
+2;security-engineer-for-systems-network-level-1664218;"
+                    TEOLIA ";Bruxelles (BE);10 mois; 450-620 €;10/02/2022;https://www.freelance-info.fr/mission/security-engineer-for-systems-network-level-1664218;['agile', ' sas']
+3;business-analyst-product-portfolio-1664215;"
+                    TEOLIA ";Bruxelles (BE);10 mois; 450-620 €;10/02/2022;https://www.freelance-info.fr/mission/business-analyst-product-portfolio-1664215;[' sas']
+4;devops-engineer-1666267;"
+                    TEOLIA ";Bruxelles (BE);206 jours; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/devops-engineer-1666267;[' git ', 'gitlab', 'jenkins', 'docker', 'python', 'ci/cd', ' sas']
+5;profil-senior-bi-datastage-px-1664015;"
+                    TEOLIA ";Bruxelles (BE);206 jours; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/profil-senior-bi-datastage-px-1664015;['datastage', 'anglais']
+6;developpeur-java-angular-aws-confirme-1663841;"
+                    TEOLIA ";Bruxelles (BE);6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-aws-confirme-1663841;['java', 'aws', 'sql', 'agile', 'scrum']
+7;pmo-integration-1665992;"
+                    TEOLIA ";Bruxelles (BE);6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/pmo-integration-1665992;['azure', 'agile']
+8;administrateur-systeme-reseaux-confirme-1665922;"
+                    TEOLIA ";Bruxelles (BE);110 jours; 400-500 €;09/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-reseaux-confirme-1665922;['talend', ' git ', 'github', 'gitlab', 'jenkins', 'azure', 'elk', 'puppet', 'docker', 'spark', 'databricks', 'hadoop', 'cloudera', ' sas', 'linux']
+9;business-analyst-data-1665832;"
+                    TEOLIA ";Bruxelles (BE);110 jours; 400-500 €;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-data-1665832;['agile']
+10;lead-dev-1663511;"
+                    TEOLIA ";Paris;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/lead-dev-1663511;['anglais']
+11;architecte-data-azure-meta-modelisation-1663500;"
+                    TEOLIA ";Paris;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-data-azure-meta-modelisation-1663500;['azure', 'sql', 'modélisation']
+12;solution-architect-architecte-applicatif-1663492;"
+                    TEOLIA ";Paris;12 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/solution-architect-architecte-applicatif-1663492;['java', 'kafka', 'sql', 'gcp', 'postgresql', 'mongodb', 'microservice']
+13;ingenieur-sap-1663462;"
+                    TEOLIA ";Paris;12 mois; 350-550 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-sap-1663462;['sql', 'oracle', 'agile', 'anglais', 'itil', ' sas', 'linux']
+14;incident-manager-1663468;"
+                    TEOLIA ";Paris;24 mois; 520-590 €;08/02/2022;https://www.freelance-info.fr/mission/incident-manager-1663468;['anglais', 'itil', 'salesforce']
+15;devops-expert-gcp-1663449;"
+                    TEOLIA ";Paris;24 mois; 520-590 €;08/02/2022;https://www.freelance-info.fr/mission/devops-expert-gcp-1663449;['github', 'docker', 'ci/cd', 'terraform', 'sonar']
+16;responsable-technique-1665616;"
+                    TEOLIA ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/responsable-technique-1665616;['itil', 'linux']
+17;administrateur-systemes-reseaux-oriente-bigdata-1665487;"
+                    TEOLIA ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-reseaux-oriente-bigdata-1665487;['talend', ' git ', 'github', 'gitlab', 'jenkins', 'aws', 'azure', 'kafka', 'elk', 'puppet', ' odi ', 'docker', 'ansible', 'spark', 'sql', 'databricks', 'hadoop', 'snowflake', 'oracle', 'cloudera', 'apache', 'tomcat', 'postgresql', ' sas', 'linux']
+18;pmo-infrastructure-level-1665481;"
+                    TEOLIA ";Paris;12 mois; 300-600 €;08/02/2022;https://www.freelance-info.fr/mission/pmo-infrastructure-level-1665481;['itil', ' sas']
+19;responsable-equipes-mobiles-1665430;"
+                    TEOLIA ";Paris;12 mois; 300-600 €;08/02/2022;https://www.freelance-info.fr/mission/responsable-equipes-mobiles-1665430;[]
+20;business-analyst-product-portfolio-1665419;"
+                    TEOLIA ";Lille;228 jours; 300-500 €;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-product-portfolio-1665419;['anglais']
+21;release-manager-1665284;"
+                    TEOLIA ";Lille;228 jours; 300-500 €;08/02/2022;https://www.freelance-info.fr/mission/release-manager-1665284;['agile', 'itil']
+22;devops-1665269;"
+                    TEOLIA ";Paris;1 année; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/devops-1665269;['gitlab', 'docker', 'apache', ' sas', 'linux']
+23;product-owner-technique-1664975;"
+                    TEOLIA ";Paris;1 année; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/product-owner-technique-1664975;['anglais']
+24;cloud-data-engineer-1664926;"
+                    TEOLIA ";Lille;228 jours; 350-500 €;08/02/2022;https://www.freelance-info.fr/mission/cloud-data-engineer-1664926;['gitlab', 'python', 'spark', 'data lake', 'sql', 'gcp', 'airflow', 'ci/cd', 'jira', 'confluence', ' sas']
+25;data-engineer-senior-1664714;"
+                    TEOLIA ";Lille;228 jours; 350-500 €;08/02/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1664714;['python', 'spark', 'sql', 'airflow', 'hadoop', 'bigquery', 'agile']
+26;developpeur-full-stack-1664678;"
+                    TEOLIA ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-1664678;['java', 'github', 'kafka', 'docker', 'python', 'maven', 'gcp', 'agile', 'anglais', 'springboot', 'kanban', 'scrum', 'mongodb']
+27;tech-lead-java-1664651;"
+                    TEOLIA ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-1664651;['java']
+28;administrateur-systeme-stockage-1664412;"
+                    TEOLIA ";Paris;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-stockage-1664412;['anglais', 'linux']
+29;scrum-master-junior-1662183;"
+                    TEOLIA ";Paris;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/scrum-master-junior-1662183;['ci/cd', 'agile']
+30;chef-de-projet-cloud-1662168;"
+                    TEOLIA ";Lille;243 jours; 350-500 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-cloud-1662168;['tableau', 'aws', 'tableaux de bord']
+31;expert-python-1662140;"
+                    TEOLIA ";Lille;243 jours; 350-500 €;08/02/2022;https://www.freelance-info.fr/mission/expert-python-1662140;['python', 'hadoop', 'apache']
+32;consultant-en-conformite-1662112;"
+                    TEOLIA ";Lyon;12 mois; 300-450 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-en-conformite-1662112;['anglais', ' sas']
+33;developpeur-fullstack-net-angular-js-1662067;"
+                    TEOLIA ";Lyon;12 mois; 300-450 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-net-angular-js-1662067;['sql', ' sas']
+34;developpeur-fullsatck-net-angular-confirme-min-ans-d-xp-1662065;"
+                    TEOLIA ";Paris;10 mois; 400-500 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-fullsatck-net-angular-confirme-min-ans-d-xp-1662065;['sql']
+35;administrateur-jira-1663933;"
+                    TEOLIA ";Paris;10 mois; 400-500 €;07/02/2022;https://www.freelance-info.fr/mission/administrateur-jira-1663933;['python', 'jira']
+36;administrateur-d-outils-de-systemes-de-reseaux-telecoms-m-1661662;"
+                    TEOLIA ";Bruxelles (BE);6 mois; 450-600 €;07/02/2022;https://www.freelance-info.fr/mission/administrateur-d-outils-de-systemes-de-reseaux-telecoms-m-1661662;[]
+37;chef-de-projet-retail-1661368;"
+                    TEOLIA ";Bruxelles (BE);6 mois; 450-600 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-retail-1661368;['sql', 'anglais', ' sas']
+38;junior-project-manager-domaine-ops-it-1661175;"
+                    TEOLIA ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/junior-project-manager-domaine-ops-it-1661175;['anglais', ' sas']
+39;front-office-senior-business-analyst-solide-experience-aladin-1661181;"
+                    TEOLIA ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/front-office-senior-business-analyst-solide-experience-aladin-1661181;[' sas']
+40;data-analyst-1661186;"
+                    TEOLIA ";Bruxelles (BE);12 mois; 280-550 €;07/02/2022;https://www.freelance-info.fr/mission/data-analyst-1661186;['java', 'tableau', 'power bi', 'azure', 'python', 'sql', 'postgresql']
+41;product-owner-reseau-1661174;"
+                    TEOLIA ";Bruxelles (BE);12 mois; 280-550 €;07/02/2022;https://www.freelance-info.fr/mission/product-owner-reseau-1661174;['jira', 'agile', 'scrum']
+42;ingenieur-securite-systems-reseau-level-1660925;"
+                    TEOLIA ";Paris;3 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-systems-reseau-level-1660925;['agile', ' sas']
+43;developpeur-net-angular-1660531;"
+                    TEOLIA ";Paris;3 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-net-angular-1660531;[' sas']
+44;project-manager-infrastructure-1660333;"
+                    TEOLIA ";Paris;6 mois; 400-530 €;07/02/2022;https://www.freelance-info.fr/mission/project-manager-infrastructure-1660333;['itil', 'prince2', ' sas']
+45;ingenieur-reseaux-level-cybersecurity-projects-1660325;"
+                    TEOLIA ";Paris;6 mois; 400-530 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-level-cybersecurity-projects-1660325;['vpn', ' sas']
+46;architecte-d-entreprise-oriente-applicatif-logiciel-1659873;"
+                    TEOLIA ";Paris;2 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-oriente-applicatif-logiciel-1659873;['java', 'python', 'agile', 'anglais']
+47;developpeur-front-react-e-commerce-1659758;"
+                    TEOLIA ";Paris;2 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-front-react-e-commerce-1659758;['java']
+48;scrum-master-experimente-bizsecdevops-1659757;"
+                    TEOLIA ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/scrum-master-experimente-bizsecdevops-1659757;['ci/cd', 'agile', 'anglais']
+49;developpeur-front-react-senior-1659706;"
+                    TEOLIA ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-front-react-senior-1659706;['gitlab', 'jira', 'agile']
+50;developpeur-front-javascript-1659690;"
+                    TEOLIA ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-front-javascript-1659690;['java', 'agile', ' sas']
+51;scrum-master-idealement-ancien-developpeur-1659684;"
+                    TEOLIA ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/scrum-master-idealement-ancien-developpeur-1659684;['java', 'gitlab', 'jenkins', 'aws', 'python', 'oracle', 'scrum', ' sas']
+52;coach-agile-1661247;"
+                    TEOLIA ";Lille;2 années; 300-450 €;03/02/2022;https://www.freelance-info.fr/mission/coach-agile-1661247;['agile', 'anglais']
+53;expert-devops-kubernetes-1661156;"
+                    TEOLIA ";Lille;2 années; 300-450 €;03/02/2022;https://www.freelance-info.fr/mission/expert-devops-kubernetes-1661156;['python']
+54;consultant-aws-sysops-1659130;"
+                    TEOLIA ";Lille;12 mois; 100-550 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-aws-sysops-1659130;['aws', 'python', 'terraform', 'vpn', 'scala', ' sas', 'linux']
+55;responsable-infrastructure-1659088;"
+                    TEOLIA ";Lille;12 mois; 100-550 €;03/02/2022;https://www.freelance-info.fr/mission/responsable-infrastructure-1659088;[]
+56;developper-full-stack-1659080;"
+                    TEOLIA ";Ile de France;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developper-full-stack-1659080;['java', 'docker', 'sql', 'oracle', 'mongodb', ' sas']
+57;chef-de-projet-senior-infrastructure-et-securite-1659018;"
+                    TEOLIA ";Ile de France;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-senior-infrastructure-et-securite-1659018;['anglais']
+58;developpeur-fullstack-java-angular-aws-1633901;"
+                    TEOLIA ";Paris;3 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-aws-1633901;['java', 'aws', ' sas']
+59;technical-lead-cloud-1658833;"
+                    TEOLIA ";Paris;3 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/technical-lead-cloud-1658833;[' sas']
+60;developpeur-python-angular-1658730;"
+                    TEOLIA ";Paris;24 mois; 500-560 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-python-angular-1658730;['java', 'jenkins', 'azure', 'docker', 'python', 'sql', 'jira', 'confluence', 'mysql', 'mongodb']
+61;developpeur-senior-net-1660218;"
+                    TEOLIA ";Paris;24 mois; 500-560 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-net-1660218;['java', 'azure', 'kafka', 'sql', 'ci/cd', 'jira']
+62;chef-de-projet-ancien-developpeur-net-avec-bon-niveau-en-anglais-1657910;"
+                    TEOLIA ";Paris;3 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-ancien-developpeur-net-avec-bon-niveau-en-anglais-1657910;['java', 'azure', 'anglais', ' sas']
+63;chef-de-projet-moe-run-1657654;"
+                    TEOLIA ";Paris;3 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-run-1657654;['agile', 'anglais']
+64;developpeur-python-et-angular-1657640;"
+                    TEOLIA ";Paris;6 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-python-et-angular-1657640;['java', 'jenkins', 'azure', 'docker', 'python', 'sql', 'jira', 'confluence', 'mysql', 'mongodb', ' sas']
+65;architect-cloud-azure-1659449;"
+                    TEOLIA ";Paris;6 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/architect-cloud-azure-1659449;['azure', 'docker']
+66;developpeur-pyhton-angular-1657114;"
+                    TEOLIA ";Paris;3 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-pyhton-angular-1657114;['gitlab', 'jenkins', 'azure', 'docker', 'ansible', 'oracle', ' sas']
+67;senior-fullstack-developer-java-react-camunda-1658719;"
+                    TEOLIA ";Paris;3 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/senior-fullstack-developer-java-react-camunda-1658719;['java', 'anglais']
+68;controleur-de-gestion-pmo-1656752;"
+                    TEOLIA ";Paris;6 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/controleur-de-gestion-pmo-1656752;['power bi', ' excel ', 'vba', ' sas']
+69;controleur-de-gestion-pmo-1656700;"
+                    TEOLIA ";Paris;6 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/controleur-de-gestion-pmo-1656700;[' excel ']

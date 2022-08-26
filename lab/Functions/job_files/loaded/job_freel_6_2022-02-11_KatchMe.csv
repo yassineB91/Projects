@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;responsable-des-developpements-1666786;"
+                    KatchMe ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/responsable-des-developpements-1666786;['java', 'kafka', 'docker', 'sql', 'agile', 'mysql', 'mongodb']
+1;consultant-rgdp-gdpr-1664331;"
+                    KatchMe ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-rgdp-gdpr-1664331;[]
+2;integrateur-solutions-industrielles-1664052;"
+                    KatchMe ";Télétravail;4 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/integrateur-solutions-industrielles-1664052;[' sas']
+3;developpeur-react-ruby-experimente-e-1664044;"
+                    KatchMe ";Télétravail;4 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-react-ruby-experimente-e-1664044;['aws', 'kafka', 'sql', 'jira', 'postgresql', 'mysql', ' sas']
+4;technical-product-owner-salesforce-1666057;"
+                    KatchMe ";Télétravail;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/technical-product-owner-salesforce-1666057;['agile', 'anglais', 'salesforce']
+5;business-analyst-crm-salesforce-1663680;"
+                    KatchMe ";Télétravail;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-crm-salesforce-1663680;['itil', 'salesforce']
+6;chef-de-projet-integration-crm-1663443;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-integration-crm-1663443;['itil', 'salesforce']
+7;chef-de-projet-salesforce-1663445;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-salesforce-1663445;['itil', 'salesforce']
+8;test-lead-1663424;"
+                    KatchMe ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/test-lead-1663424;['jira', 'agile', 'confluence', 'anglais']
+9;mission-test-lead-1665287;"
+                    KatchMe ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/mission-test-lead-1665287;['jira', 'agile', 'confluence']
+10;product-owner-oms-senior-1663261;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/product-owner-oms-senior-1663261;['anglais', ' sas']
+11;project-management-officer-oms-senior-1663263;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/project-management-officer-oms-senior-1663263;['agile', 'anglais', 'itil', ' sas']
+12;logistic-project-leader-chef-de-projet-logistique-1665093;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/logistic-project-leader-chef-de-projet-logistique-1665093;[]
+13;chef-de-projet-project-leader-1665060;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-project-leader-1665060;['agile', 'anglais', 'itil', 'scrum']
+14;urgent-scrum-master-1665008;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/urgent-scrum-master-1665008;['github', 'jira', 'agile', 'confluence', 'anglais', 'kanban', 'scrum', ' sas']
+15;developpeur-python-confirme-1664943;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-python-confirme-1664943;['python', 'api rest', 'agile', 'mongodb', 'scala']
+16;projet-manager-logistique-supply-chain-1664888;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/projet-manager-logistique-supply-chain-1664888;['anglais', ' sas']
+17;chef-de-projet-integration-crm-1662929;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-integration-crm-1662929;['itil', 'salesforce']
+18;mission-technicien-reseau-1662697;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/mission-technicien-reseau-1662697;['anglais', 'vpn']
+19;developpeur-vuejs-confirme-1664783;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-vuejs-confirme-1664783;['docker', 'agile']
+20;developpeur-php-symfony-confirme-1664735;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-confirme-1664735;['gitlab', 'docker', 'sql', 'api rest', 'agile', 'mysql', ' sas', 'linux']
+21;consultant-iam-developpeur-openidm-1662590;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/consultant-iam-developpeur-openidm-1662590;['java', 'jenkins', 'maven', 'sql', 'api rest', 'oracle', 'agile', 'apache', 'tomcat', 'ldap', 'scrum', ' sas', 'powershell']
+22;developpeur-java-j-ee-1662341;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-java-j-ee-1662341;['java', 'tableau', 'sql', 'tableaux de bord', 'springboot', 'postgresql']
+23;test-engineer-1662109;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/test-engineer-1662109;['jira', 'agile', 'confluence', 'anglais', ' sas']
+24;data-engineer-1661914;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/data-engineer-1661914;['kafka', 'spark', 'oracle', 'cloudera', ' sas']
+25;chef-de-projet-pim-1661516;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-pim-1661516;['talend', 'modélisation', 'anglais']
+26;chef-de-projet-integration-crm-salesforce-1661504;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-integration-crm-salesforce-1661504;['anglais', ' sas', 'salesforce']
+27;responsable-d-applications-1661513;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/responsable-d-applications-1661513;['azure', 'anglais']
+28;mission-longue-test-lead-it-1661335;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/mission-longue-test-lead-it-1661335;['jira', 'agile', 'confluence']
+29;data-engineer-azure-1661187;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/data-engineer-azure-1661187;['azure', 'kafka', 'docker', 'python', 'spark', 'sql', 'databricks', 'datawarehouse', 'terraform', 'anglais', 'scala']
+30;product-manager-1661030;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/product-manager-1661030;['agile', 'scrum']
+31;data-engineer-1660774;"
+                    KatchMe ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/data-engineer-1660774;['kafka', 'spark', 'oracle', 'cloudera', ' sas']
+32;devops-1660768;"
+                    KatchMe ";Lille;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/devops-1660768;[' git ', 'github', 'gitlab', 'jenkins', 'aws', 'azure', 'docker', 'jira', 'confluence', 'modélisation', ' sas', 'linux']
+33;consultant-cloud-security-1660184;"
+                    KatchMe ";Lille;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-cloud-security-1660184;['aws', 'python', 'anglais', ' sas']
+34;consultant-azure-security-1660188;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-azure-security-1660188;['azure']
+35;data-engineer-1660108;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/data-engineer-1660108;['jenkins', 'kafka', 'docker', 'spark', 'hive', 'sql', 'hadoop', 'api rest', 'agile', 'grafana', 'postgresql', 'scrum', 'scala', ' sas']
+36;chef-de-projet-test-1660081;"
+                    KatchMe ";Hauts-de-France;2 mois; 200-270 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-test-1660081;['tableau', 'anglais', 'tableaux de bord', ' sas']
+37;administrateur-technique-mes-1659612;"
+                    KatchMe ";Hauts-de-France;2 mois; 200-270 €;04/02/2022;https://www.freelance-info.fr/mission/administrateur-technique-mes-1659612;['sql', 'scala']
+38;developpeur-spark-scala-senior-1659325;"
+                    KatchMe ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-spark-scala-senior-1659325;['jenkins', 'kafka', 'docker', 'spark', 'hive', 'sql', 'hadoop', 'api rest', 'agile', 'grafana', 'postgresql', 'scrum', 'scala', ' sas']
+39;chef-de-projet-big-data-senior-1659328;"
+                    KatchMe ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-big-data-senior-1659328;['jenkins', 'kafka', 'docker', 'ansible', 'python', 'spark', 'data lake', 'hive', 'airflow', 'hadoop', 'agile', 'cloudera', 'scala', ' sas']
+40;test-project-manager-1659329;"
+                    KatchMe ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/test-project-manager-1659329;[' sas']
+41;expert-datadog-1658989;"
+                    KatchMe ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-datadog-1658989;[]
+42;tech-lead-data-ops-1648444;"
+                    KatchMe ";Paris;6 mois; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-ops-1648444;[' git ', 'github', 'gitlab', 'jenkins', 'aws', 'azure', 'kafka', 'docker', 'spark', 'hive', 'sql', 'gcp', 'airflow', 'bigquery', 'cloudera', 'apache', 'mongodb']
+43;chefferie-de-projet-chantier-1657409;"
+                    KatchMe ";Paris;6 mois; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/chefferie-de-projet-chantier-1657409;[]
+44;mission-pour-technicien-reseau-n-n-1628329;"
+                    KatchMe ";Bordeaux;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/mission-pour-technicien-reseau-n-n-1628329;['anglais', 'vpn', ' sas']
+45;technicien-reseau-1646994;"
+                    KatchMe ";Bordeaux;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/technicien-reseau-1646994;['anglais', 'vpn', ' sas']
+46;assistants-projets-suivie-de-chantier-1657244;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/assistants-projets-suivie-de-chantier-1657244;[' sas']
+47;developpeur-senior-big-data-1657179;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-big-data-1657179;['jenkins', 'kafka', 'docker', 'spark', 'hive', 'sql', 'hadoop', 'api rest', 'agile', 'grafana', 'postgresql', 'scrum', 'scala', ' sas']
+48;responsable-d-applications-1656394;"
+                    KatchMe ";La Défense (92);12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/responsable-d-applications-1656394;['azure', 'anglais', ' sas']
+49;application-manager-1656397;"
+                    KatchMe ";La Défense (92);12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/application-manager-1656397;['azure', ' sas']
+50;mission-consultant-cybersecurite-1652703;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/mission-consultant-cybersecurite-1652703;['anglais', ' sas']
+51;mission-acheteur-mro-capex-1651313;"
+                    KatchMe ";Lille;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/mission-acheteur-mro-capex-1651313;[' sas']
+52;data-manager-groupe-1655541;"
+                    KatchMe ";Lille;12 mois; 100-600 €;01/02/2022;https://www.freelance-info.fr/mission/data-manager-groupe-1655541;['data lake']
+53;chef-de-projet-big-data-1655507;"
+                    KatchMe ";Lille;12 mois; 100-600 €;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-big-data-1655507;['cartographie', ' sas']
+54;cybersecurite-operationnel-1655452;"
+                    KatchMe ";Lens;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/cybersecurite-operationnel-1655452;['azure']
+55;tech-lead-big-data-1655438;"
+                    KatchMe ";Lens;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-big-data-1655438;['jenkins', 'kafka', 'docker', 'ansible', 'hadoop', 'agile', 'terraform', 'scala', ' sas']
+56;chef-de-projet-crm-1655137;"
+                    KatchMe ";Lille;24 mois; 400-500 €;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-crm-1655137;[' sas', 'salesforce']
+57;chef-de-projets-sirh-1655110;"
+                    KatchMe ";Lille;24 mois; 400-500 €;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projets-sirh-1655110;['jira', 'anglais', ' sas']
+58;chef-de-projet-pim-1654780;"
+                    KatchMe ";La Défense (92);12 mois; 100-550 €;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-pim-1654780;['talend', 'modélisation', 'anglais', ' sas']
+59;devsecops-pour-un-grand-groupe-international-1654363;"
+                    KatchMe ";La Défense (92);12 mois; 100-550 €;29/01/2022;https://www.freelance-info.fr/mission/devsecops-pour-un-grand-groupe-international-1654363;['gitlab', 'aws', 'azure', 'docker', 'ci/cd', 'anglais', 'linux']

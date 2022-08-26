@@ -1,0 +1,141 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;data-engineer-hadoop-spark-1664146;"
+                    Nexius Finance ";Paris;15 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/data-engineer-hadoop-spark-1664146;['java', 'spark', 'sql', 'hadoop', 'scala']
+1;data-developpeur-python-1664140;"
+                    Nexius Finance ";Paris;15 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/data-developpeur-python-1664140;['python', 'spark', 'databricks', 'pyspark', ' sas']
+2;software-engineer-1666374;"
+                    Nexius Finance ";Paris;15 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/software-engineer-1666374;['sql', ' sas']
+3;developpeur-sas-sql-1666204;"
+                    Nexius Finance ";Paris;15 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-sas-sql-1666204;['sql', 'agile', 'anglais', ' sas']
+4;dev-algorithme-trading-c-1634147;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dev-algorithme-trading-c-1634147;[]
+5;dev-python-1634179;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dev-python-1634179;['sql', 'oracle']
+6;dev-python-java-1638300;"
+                    Nexius Finance ";La Défense (92);11 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dev-python-java-1638300;['java', 'python', ' sas']
+7;big-data-1631254;"
+                    Nexius Finance ";La Défense (92);11 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/big-data-1631254;['spark', 'hadoop', 'scala']
+8;architecte-big-data-1630046;"
+                    Nexius Finance ";Paris;3 années; 200-500 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-big-data-1630046;[' git ', 'jenkins', 'kafka', 'ansible', 'spark', 'data lake', 'hive', 'maven', 'hortonworks', 'sql', 'logstash', 'mongodb']
+9;dev-c-it-quant-1630034;"
+                    Nexius Finance ";Paris;3 années; 200-500 €;09/02/2022;https://www.freelance-info.fr/mission/dev-c-it-quant-1630034;[]
+10;dev-java-back-end-1630023;"
+                    Nexius Finance ";94;3 mois; 200-500 €;09/02/2022;https://www.freelance-info.fr/mission/dev-java-back-end-1630023;['java', 'anglais']
+11;dev-fullstack-react-et-java-1650488;"
+                    Nexius Finance ";94;3 mois; 200-500 €;09/02/2022;https://www.freelance-info.fr/mission/dev-fullstack-react-et-java-1650488;['java', 'azure', 'ci/cd', ' sas']
+12;dev-c-vue-1650766;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dev-c-vue-1650766;[' sas']
+13;expert-kafka-1650765;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-kafka-1650765;['azure', 'kafka', ' sas']
+14;dev-c-sophis-1650842;"
+                    Nexius Finance ";Paris;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dev-c-sophis-1650842;['sql', 'oracle', 'anglais']
+15;business-analyst-sophis-1650925;"
+                    Nexius Finance ";Paris;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-sophis-1650925;[' sas']
+16;dev-c-angular-1653198;"
+                    Nexius Finance ";Guyancourt;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dev-c-angular-1653198;['oracle', 'anglais', ' sas']
+17;dev-net-net-core-cloud-azure-1653266;"
+                    Nexius Finance ";Guyancourt;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dev-net-net-core-cloud-azure-1653266;[' sas']
+18;architecte-big-data-1644200;"
+                    Nexius Finance ";Paris;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-big-data-1644200;['aws', 'azure', 'kafka', 'elk', 'cloudera', 'anglais', ' sas']
+19;expert-big-data-1644201;"
+                    Nexius Finance ";Paris;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-big-data-1644201;['jenkins', 'kafka', 'ansible', 'spark', 'data lake', 'hive', 'maven', 'hortonworks', 'sql', 'logstash', 'mongodb']
+20;developpeur-java-1665999;"
+                    Nexius Finance ";Paris;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1665999;['java', 'sql', 'oracle', 'agile', 'anglais']
+21;developpeur-net-1665803;"
+                    Nexius Finance ";Paris;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-net-1665803;['aws', 'azure', 'anglais', ' sas']
+22;developpeur-big-data-python-1663641;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-python-1663641;['java', 'spark', 'hortonworks', 'hadoop', 'modélisation']
+23;assistant-moa-maitrisant-sas-risque-de-credit-1663480;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/assistant-moa-maitrisant-sas-risque-de-credit-1663480;[' r ', 'python', 'anglais', ' sas']
+24;developpeur-c-finance-de-marche-1663260;"
+                    Nexius Finance ";Paris;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-finance-de-marche-1663260;['jenkins']
+25;developpeur-c-net-core-finance-1663267;"
+                    Nexius Finance ";Paris;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-net-core-finance-1663267;['jenkins', ' sas']
+26;software-craftsmanship-1662708;"
+                    Nexius Finance ";Paris;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/software-craftsmanship-1662708;['java', 'github', 'puppet', 'agile', 'scala']
+27;developpeur-python-1662682;"
+                    Nexius Finance ";Paris;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1662682;['python', 'sql', 'ci/cd', 'api rest', 'linux']
+28;sofware-devops-engineer-python-1662667;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/sofware-devops-engineer-python-1662667;['python', 'sql', 'ci/cd', 'api rest', 'linux']
+29;data-manager-1662227;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/data-manager-1662227;[' sas']
+30;developpeur-sophis-1661666;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-sophis-1661666;['sql', 'oracle']
+31;moa-murex-1661669;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/moa-murex-1661669;[' bo ']
+32;moa-sophis-1661671;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/moa-sophis-1661671;['sql']
+33;support-fonctionnel-1661336;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/support-fonctionnel-1661336;[' excel ', 'sql', ' sas']
+34;developpeur-java-craftman-1660820;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-java-craftman-1660820;[' sas']
+35;consultant-vba-excel-1660645;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-vba-excel-1660645;['python', 'sql', 'anglais', 'vba', ' sas']
+36;developpeur-c-back-end-1660648;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-back-end-1660648;[' sas']
+37;developpeur-c-equity-1660641;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-equity-1660641;['jenkins', 'agile']
+38;business-analyst-finance-de-marche-1660550;"
+                    Nexius Finance ";Guyancourt;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-finance-de-marche-1660550;['sql', 'hadoop', 'agile', 'kanban', 'scrum']
+39;tech-lead-data-1660440;"
+                    Nexius Finance ";Guyancourt;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-1660440;['modélisation']
+40;release-manager-1660441;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/release-manager-1660441;[]
+41;data-tech-lead-1660444;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/data-tech-lead-1660444;['java', 'aws', 'kafka', 'docker', 'sql', 'agile', 'microservice']
+42;tech-lead-data-senior-1660309;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-senior-1660309;['java', 'aws', 'kafka', 'docker', 'sql', 'agile', 'microservice']
+43;release-manager-1660310;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/release-manager-1660310;[]
+44;data-modeler-senior-1660305;"
+                    Nexius Finance ";Paris;13 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/data-modeler-senior-1660305;['modélisation']
+45;developpeur-java-1659735;"
+                    Nexius Finance ";Paris;13 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1659735;['java', ' git ', 'maven', 'sql', 'ci/cd', 'oracle']
+46;developpeur-java-back-end-expert-1659738;"
+                    Nexius Finance ";Ile de France;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-back-end-expert-1659738;['java', 'github', 'jenkins', 'python', 'maven', 'sql', 'agile', 'anglais', 'kanban']
+47;developpeur-java-core-finance-1659410;"
+                    Nexius Finance ";Ile de France;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-core-finance-1659410;['java', 'springboot']
+48;big-data-java-full-stack-1659037;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/big-data-java-full-stack-1659037;['java', 'github', 'jenkins', 'azure', 'kafka', 'spark', 'maven', 'sql', 'hadoop', 'api rest', 'jira', 'oracle', 'sonar', 'mysql', 'mongodb']
+49;expert-cognos-1658637;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/expert-cognos-1658637;['java', 'tableau', 'sql', 'oracle']
+50;data-engineer-1627942;"
+                    Nexius Finance ";La Défense (92);13 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/data-engineer-1627942;['tableau', 'powerbi', 'python', 'sql', 'microstrategy', 'gcp', 'anglais', 'cartographie']
+51;devops-java-azure-1630037;"
+                    Nexius Finance ";La Défense (92);13 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/devops-java-azure-1630037;['java', 'jenkins', 'docker', 'maven', 'ci/cd', 'terraform']
+52;developpeur-big-data-1632214;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-1632214;['kafka', 'spark', 'hive', 'sql', 'hadoop', 'scala']
+53;dev-c-1632403;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/dev-c-1632403;['sql', 'anglais']
+54;developpeur-full-stack-net-angular-1631714;"
+                    Nexius Finance ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-net-angular-1631714;[]
+55;developpeur-java-core-1647776;"
+                    Nexius Finance ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-core-1647776;['java', 'jenkins', 'jira', 'agile', 'kanban', 'scrum', ' sas', 'linux']
+56;commando-vba-c-1647220;"
+                    Nexius Finance ";Paris;18 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/commando-vba-c-1647220;['vba', ' sas']
+57;expert-active-directory-1647832;"
+                    Nexius Finance ";Paris;18 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-1647832;['anglais', ' sas']
+58;devops-engineer-1646992;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/devops-engineer-1646992;[]
+59;dev-c-1644802;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/dev-c-1644802;['sql', 'oracle', ' sas']
+60;devops-engineer-1645892;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/devops-engineer-1645892;['github', 'jenkins', 'elk', 'docker', 'ansible', 'python', 'agile', 'terraform', 'apache', ' sas']
+61;developpeur-support-pricing-1656644;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-support-pricing-1656644;['sql', 'vba']
+62;developpeur-c-1656402;"
+                    Nexius Finance ";Paris;3 années; 400-550 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-c-1656402;['jenkins', 'agile']
+63;java-active-pivot-risk-developer-h-f-1656156;"
+                    Nexius Finance ";Paris;3 années; 400-550 €;01/02/2022;https://www.freelance-info.fr/mission/java-active-pivot-risk-developer-h-f-1656156;['hadoop', 'agile', 'anglais', 'tomcat']
+64;commando-finance-de-march-1656148;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/commando-finance-de-march-1656148;['python', 'oracle', 'anglais', 'vba']
+65;developpeur-c-1656149;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-c-1656149;['python', 'anglais', 'vba']
+66;it-quant-1656150;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/it-quant-1656150;['jenkins']
+67;developpeur-c-1656151;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/developpeur-c-1656151;[]
+68;consultant-amadea-1655784;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-amadea-1655784;[' sas']
+69;devops-cloud-engineer-1655752;"
+                    Nexius Finance ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/devops-cloud-engineer-1655752;['jenkins', 'jira', ' sas']

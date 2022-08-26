@@ -1,0 +1,461 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;expert-gouvernance-des-identites-h-f-1666811;"
+                    LeHibou ";Lille;6 mois; 550-650 €;11/02/2022;https://www.freelance-info.fr/mission/expert-gouvernance-des-identites-h-f-1666811;['agile', 'anglais', 'ldap']
+1;architecte-technique-h-f-1666810;"
+                    LeHibou ";Lille;6 mois; 550-650 €;11/02/2022;https://www.freelance-info.fr/mission/architecte-technique-h-f-1666810;['java', 'elk', 'sql', 'oracle', 'apache', 'springboot', 'postgresql', 'mysql']
+2;ingenieur-system-windows-h-f-1666809;"
+                    LeHibou ";Saint-Quentin;6 mois; 550-650 €;11/02/2022;https://www.freelance-info.fr/mission/ingenieur-system-windows-h-f-1666809;[]
+3;consultant-en-data-management-alimentation-collibra-f-h-1666682;"
+                    LeHibou ";Saint-Quentin;6 mois; 550-650 €;11/02/2022;https://www.freelance-info.fr/mission/consultant-en-data-management-alimentation-collibra-f-h-1666682;['sql', 'modélisation']
+4;concepteur-developpeur-mainframe-f-h-1666680;"
+                    LeHibou ";Malakoff;4 mois; Tarif non renseigné;11/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-mainframe-f-h-1666680;['db2']
+5;ingenieur-test-automation-tetra-h-f-1666648;"
+                    LeHibou ";Malakoff;4 mois; Tarif non renseigné;11/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-automation-tetra-h-f-1666648;['java', 'jenkins', 'docker', 'python', 'jira']
+6;developpeur-bi-azure-h-f-1666641;"
+                    LeHibou ";Massy;12 mois; 600 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-bi-azure-h-f-1666641;['power bi', 'azure', 'sql', 'datawarehouse', 'oracle', ' ssis']
+7;business-analyst-bi-h-f-1666637;"
+                    LeHibou ";Massy;12 mois; 600 €;10/02/2022;https://www.freelance-info.fr/mission/business-analyst-bi-h-f-1666637;['power bi', 'azure', 'datawarehouse', 'anglais']
+8;chef-de-projet-support-a-la-mise-en-place-du-pca-h-f-1666609;"
+                    LeHibou ";Massy;12 mois; 550 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-support-a-la-mise-en-place-du-pca-h-f-1666609;[]
+9;ingenieur-cybersecurite-toulouse-h-f-1666525;"
+                    LeHibou ";Massy;12 mois; 550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-cybersecurite-toulouse-h-f-1666525;['python', 'splunk', 'linux']
+10;architecte-java-devops-aws-h-f-1666520;"
+                    LeHibou ";Valence;12 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-java-devops-aws-h-f-1666520;['java', 'github', 'jenkins', 'aws', 'elk', 'docker', 'maven', 'api rest', 'agile', 'sonar', 'grafana']
+11;pmo-infrastructure-h-f-1666506;"
+                    LeHibou ";Valence;12 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/pmo-infrastructure-h-f-1666506;[]
+12;developpeur-windev-senior-h-f-nantes-1664118;"
+                    LeHibou ";Clermont-Ferrand;12 mois; 350-450 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-windev-senior-h-f-nantes-1664118;['java', 'anglais', 'kanban', 'scrum']
+13;ingenieur-reseaux-et-securite-expert-fortinet-1666467;"
+                    LeHibou ";Clermont-Ferrand;12 mois; 350-450 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-et-securite-expert-fortinet-1666467;['anglais']
+14;expert-outillage-centreon-h-f-1666465;"
+                    LeHibou ";Clermont-Ferrand;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/expert-outillage-centreon-h-f-1666465;['kafka', 'elk', 'ansible', 'cartographie', 'splunk']
+15;expert-devops-sonarqube-ansible-h-f-1666463;"
+                    LeHibou ";Clermont-Ferrand;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/expert-devops-sonarqube-ansible-h-f-1666463;['java', 'gitlab', 'docker', 'ansible', 'ci/cd', 'sonar', 'sonarqube']
+16;developpeur-android-kotlin-f-h-1666462;"
+                    LeHibou ";Tours;10 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-android-kotlin-f-h-1666462;['java', ' git ', 'jenkins', 'docker', 'jira', 'agile', 'xray', 'sonar', 'sonarqube']
+17;responsable-des-systemes-applicatifs-ingenieur-d-etude-mainframe-unix-h-f-1666348;"
+                    LeHibou ";Tours;10 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/responsable-des-systemes-applicatifs-ingenieur-d-etude-mainframe-unix-h-f-1666348;['java', 'db2']
+18;chef-de-projet-infrastructure-anglais-courant-h-f-1666345;"
+                    LeHibou ";Toulouse;12 mois; 400-520 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-anglais-courant-h-f-1666345;['anglais']
+19;developpeur-full-stack-experimente-techlead-spring-sencha-ext-js-ou-vue-js-1666237;"
+                    LeHibou ";Toulouse;12 mois; 400-520 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-experimente-techlead-spring-sencha-ext-js-ou-vue-js-1666237;['java', 'jenkins', 'maven', 'sql', 'api rest', 'oracle', 'sonar', 'postgresql']
+20;ingenieur-securite-informatique-h-f-1666227;"
+                    LeHibou ";Fontenay-sous-Bois;24 mois; 650 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-informatique-h-f-1666227;[]
+21;ingenieur-test-automation-next-gen-android-h-f-1666213;"
+                    LeHibou ";Fontenay-sous-Bois;24 mois; 650 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-automation-next-gen-android-h-f-1666213;['jenkins', 'docker', 'python', 'jira']
+22;chef-de-projet-sap-supply-chain-finance-h-f-1666179;"
+                    LeHibou ";Montreuil;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sap-supply-chain-finance-h-f-1666179;['powerbi']
+23;crm-data-manager-h-f-1664037;"
+                    LeHibou ";Montreuil;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/crm-data-manager-h-f-1664037;['sql', 'anglais', ' sas', 'salesforce']
+24;architecte-infrastructure-h-f-1663958;"
+                    LeHibou ";Nantes;9 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-h-f-1663958;['java', 'kafka', 'terraform', ' sas']
+25;expert-cybersecurite-h-f-1663910;"
+                    LeHibou ";Nantes;9 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/expert-cybersecurite-h-f-1663910;['tableau', 'tableaux de bord', ' sas']
+26;ingenieur-support-helpdesk-h-f-1663847;"
+                    LeHibou ";Paris;6 mois; 500-550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-helpdesk-h-f-1663847;['gitlab', 'aws', 'api rest', 'jira', 'agile', 'confluence', 'grafana', 'kanban', 'scrum', ' sas', 'microservice']
+27;lead-dev-java-h-f-1663777;"
+                    LeHibou ";Paris;6 mois; 500-550 €;10/02/2022;https://www.freelance-info.fr/mission/lead-dev-java-h-f-1663777;['java', ' git ', 'spark', 'sql', 'gcp', 'api rest', 'agile', 'anglais', 'apache', 'springboot', 'postgresql', 'scala']
+28;developpeur-back-end-java-toulouse-h-f-1663778;"
+                    LeHibou ";Paris;12 mois; 550-700 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-java-toulouse-h-f-1663778;['java', 'jenkins', 'kafka', 'agile', 'sonar', 'tomcat', 'sonarqube']
+29;developpeur-vb-net-asp-h-f-1663775;"
+                    LeHibou ";Paris;12 mois; 550-700 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-vb-net-asp-h-f-1663775;['java', 'sql', 'oracle', 'agile', 'modélisation', ' sas']
+30;developpeur-vue-js-h-f-1663757;"
+                    LeHibou ";Paris;12 mois; 650 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-vue-js-h-f-1663757;['java', ' git ', 'sql', 'api rest', 'anglais']
+31;developpeur-php-symfony-confirme-h-f-1663759;"
+                    LeHibou ";Paris;12 mois; 650 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-confirme-h-f-1663759;['gitlab', 'docker', 'sql', 'api rest', 'agile', 'mysql', 'linux']
+32;tech-lead-devops-h-f-1663762;"
+                    LeHibou ";Suresnes;12 mois; 450 €;10/02/2022;https://www.freelance-info.fr/mission/tech-lead-devops-h-f-1663762;['docker', 'sql', 'apache', 'mysql', 'mariadb']
+33;ingenieur-data-spark-scala-h-f-1666105;"
+                    LeHibou ";Suresnes;12 mois; 450 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-data-spark-scala-h-f-1666105;['java', ' git ', 'spark', 'sql', 'gcp', 'api rest', 'agile', 'anglais', 'apache', 'postgresql', 'scala']
+34;consultant-experimente-xrjd-ais-sai-h-f-1666078;"
+                    LeHibou ";Guyancourt;12 mois; 500-550 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-experimente-xrjd-ais-sai-h-f-1666078;['anglais']
+35;chef-de-projet-moa-applicatif-assurance-prevoyance-f-h-1666076;"
+                    LeHibou ";Guyancourt;12 mois; 500-550 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-applicatif-assurance-prevoyance-f-h-1666076;[]
+36;developpeur-salesforce-cpq-h-f-full-remote-1666075;"
+                    LeHibou ";Paris;24 mois; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-salesforce-cpq-h-f-full-remote-1666075;[' sas', 'salesforce']
+37;administrateur-db-h-f-1666021;"
+                    LeHibou ";Paris;24 mois; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/administrateur-db-h-f-1666021;['db2', 'apache', 'tomcat']
+38;dba-db-experimente-montpellier-h-f-1666020;"
+                    LeHibou ";Nantes;6 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/dba-db-experimente-montpellier-h-f-1666020;['sql', 'db2', 'oracle']
+39;chef-de-projet-d-experience-h-f-1665952;"
+                    LeHibou ";Nantes;6 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-d-experience-h-f-1665952;['jira', 'agile', 'confluence', 'anglais', 'scala']
+40;ux-ui-designer-h-f-1665950;"
+                    LeHibou ";Quimper;12 mois; 500 €;09/02/2022;https://www.freelance-info.fr/mission/ux-ui-designer-h-f-1665950;['anglais']
+41;chef-de-projet-upgrade-sap-s-hana-finance-f-h-1665919;"
+                    LeHibou ";Quimper;12 mois; 500 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-upgrade-sap-s-hana-finance-f-h-1665919;[]
+42;directeur-de-programme-retail-monetique-h-f-1665863;"
+                    LeHibou ";Valence;12 mois; 400 €;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-programme-retail-monetique-h-f-1665863;['anglais']
+43;directeur-de-projet-deploiement-h-f-1665856;"
+                    LeHibou ";Valence;12 mois; 400 €;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-deploiement-h-f-1665856;['azure', 'anglais', ' sas']
+44;delivery-manager-product-owner-e-commerce-h-f-1663572;"
+                    LeHibou ";Courbevoie;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/delivery-manager-product-owner-e-commerce-h-f-1663572;[' sas']
+45;cto-h-f-1663553;"
+                    LeHibou ";Courbevoie;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/cto-h-f-1663553;[' sas']
+46;senior-service-delivery-manager-h-f-1663490;"
+                    LeHibou ";Paris;3 mois; 480 €;09/02/2022;https://www.freelance-info.fr/mission/senior-service-delivery-manager-h-f-1663490;['tableau', 'anglais', 'itil']
+47;expert-vmware-h-f-1663373;"
+                    LeHibou ";Paris;3 mois; 480 €;09/02/2022;https://www.freelance-info.fr/mission/expert-vmware-h-f-1663373;['anglais', 'itil', 'powershell']
+48;developpeur-java-scala-h-f-1663374;"
+                    LeHibou ";Paris;6 mois; 600 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-java-scala-h-f-1663374;['java', 'gitlab', 'aws', 'kafka', 'docker', 'ansible', 'gcp', 'ci/cd', 'jira', 'agile', 'anglais', 'scala', 'linux', 'microservice']
+49;consultant-expertise-linux-automatisation-ansible-oriente-devops-h-f-1663362;"
+                    LeHibou ";Paris;6 mois; 600 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-expertise-linux-automatisation-ansible-oriente-devops-h-f-1663362;['ansible', 'api rest', 'linux']
+50;consultant-quality-assurance-h-f-1663363;"
+                    LeHibou ";Paris;1 année; 550 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-quality-assurance-h-f-1663363;['java', 'jenkins', 'sql', 'api rest', 'scrum']
+51;senior-project-manager-it-assurances-h-f-1665729;"
+                    LeHibou ";Paris;1 année; 550 €;09/02/2022;https://www.freelance-info.fr/mission/senior-project-manager-it-assurances-h-f-1665729;['anglais', 'pmp']
+52;manager-de-catalogue-de-service-h-f-1665650;"
+                    LeHibou ";Courbevoie;3 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/manager-de-catalogue-de-service-h-f-1665650;[' sas']
+53;chef-de-projet-recettes-f-h-1665649;"
+                    LeHibou ";Courbevoie;3 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-recettes-f-h-1665649;['tableau']
+54;scrum-master-anglais-courant-h-f-1665648;"
+                    LeHibou ";Boulogne-Billancourt;3 mois; 580 €;09/02/2022;https://www.freelance-info.fr/mission/scrum-master-anglais-courant-h-f-1665648;['aws', 'api rest', 'jira', 'agile', 'anglais', 'scrum']
+55;directeur-de-programme-centre-de-contact-h-f-1665486;"
+                    LeHibou ";Boulogne-Billancourt;3 mois; 580 €;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-programme-centre-de-contact-h-f-1665486;['anglais']
+56;developpeur-c-wpf-uml-h-f-1665404;"
+                    LeHibou ";Toulouse;3 mois; 450 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-wpf-uml-h-f-1665404;['modélisation', 'scrum']
+57;expert-devops-h-f-1665402;"
+                    LeHibou ";Toulouse;3 mois; 450 €;09/02/2022;https://www.freelance-info.fr/mission/expert-devops-h-f-1665402;['java', 'gitlab', 'docker', 'ansible', 'ci/cd', 'sonar', 'sonarqube']
+58;ingenieur-systeme-aix-power-ha-vc-h-f-1665327;"
+                    LeHibou ";Paris;3 mois; 500 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-aix-power-ha-vc-h-f-1665327;['ansible', 'python']
+59;developpeur-frontend-angular-typescript-javascript-h-f-1665211;"
+                    LeHibou ";Paris;3 mois; 500 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-angular-typescript-javascript-h-f-1665211;['java', 'aws', 'db2', 'agile', 'terraform', 'anglais', 'microservice']
+60;appui-concepteur-confirme-sap-logistique-h-f-1665209;"
+                    LeHibou ";Paris;1 année; 450 €;09/02/2022;https://www.freelance-info.fr/mission/appui-concepteur-confirme-sap-logistique-h-f-1665209;[]
+61;ingenieur-infrastructure-z-os-h-f-1663290;"
+                    LeHibou ";Paris;1 année; 450 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-infrastructure-z-os-h-f-1663290;['db2']
+62;product-owner-monetique-h-f-1663192;"
+                    LeHibou ";Boulogne-Billancourt;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/product-owner-monetique-h-f-1663192;['jira', 'agile', 'anglais']
+63;chef-de-projet-infrastructures-f-h-1664967;"
+                    LeHibou ";Boulogne-Billancourt;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructures-f-h-1664967;['tableau', 'anglais']
+64;ops-software-engineer-h-f-1664961;"
+                    LeHibou ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ops-software-engineer-h-f-1664961;['docker', 'python', 'ci/cd', 'terraform']
+65;architecte-technique-infrastructures-h-f-1664959;"
+                    LeHibou ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-technique-infrastructures-h-f-1664959;['anglais', 'cartographie']
+66;concepteur-technico-fonctionnel-sap-mm-et-sd-senior-h-f-1664958;"
+                    LeHibou ";Boulogne-Billancourt;3 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/concepteur-technico-fonctionnel-sap-mm-et-sd-senior-h-f-1664958;[]
+67;chef-de-projet-amoa-retail-h-f-1664956;"
+                    LeHibou ";Boulogne-Billancourt;3 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-retail-h-f-1664956;['anglais']
+68;developpeur-back-end-java-h-f-1664948;"
+                    LeHibou ";Nantes;6 mois; 500 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-java-h-f-1664948;['java', 'gitlab', 'aws', 'spark', 'ci/cd', 'db2', 'agile', 'terraform', 'modélisation', 'springboot', 'grafana', 'kanban', 'scrum', 'splunk', 'scala', 'microservice']
+69;moe-python-aws-h-f-1664890;"
+                    LeHibou ";Nantes;6 mois; 500 €;09/02/2022;https://www.freelance-info.fr/mission/moe-python-aws-h-f-1664890;['github', 'powerbi', 'aws', 'ansible', 'python', 'sql', 'jira', 'agile', 'modélisation', 'postgresql', 'scrum', 'vba', 'linux']
+70;dba-sql-server-h-f-1662946;"
+                    LeHibou ";Saint-Denis;6 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/dba-sql-server-h-f-1662946;['sql']
+71;architecte-applicatif-nantes-h-f-1662855;"
+                    LeHibou ";Saint-Denis;6 mois; 550 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-applicatif-nantes-h-f-1662855;['sql']
+72;consultant-agile-sap-fico-h-f-1662787;"
+                    LeHibou ";Lyon;5 mois; 400-430 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-agile-sap-fico-h-f-1662787;['anglais']
+73;tech-lead-data-integration-anglais-courant-h-f-1662717;"
+                    LeHibou ";Lyon;5 mois; 400-430 €;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-integration-anglais-courant-h-f-1662717;['powerbi', 'azure', 'sql', 'ci/cd', 'agile', 'anglais', 'salesforce']
+74;data-manager-senior-h-f-1662660;"
+                    LeHibou ";Bordeaux;6 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/data-manager-senior-h-f-1662660;[]
+75;chef-de-projet-sirh-f-h-1664867;"
+                    LeHibou ";Bordeaux;6 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sirh-f-h-1664867;['jira', 'anglais']
+76;administrateur-syteme-linux-h-f-saint-denis-lille-lyon-nantes-1664852;"
+                    LeHibou ";Montpellier;12 mois; 550 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-syteme-linux-h-f-saint-denis-lille-lyon-nantes-1664852;['python', 'agile', ' sas', 'linux']
+77;project-manager-digital-h-f-anglais-courant-1664775;"
+                    LeHibou ";Montpellier;12 mois; 550 €;08/02/2022;https://www.freelance-info.fr/mission/project-manager-digital-h-f-anglais-courant-1664775;['data lake', 'anglais', ' sas']
+78;expert-technique-microsoft-active-directory-h-f-1664556;"
+                    LeHibou ";Paris;6 mois; 600 €;08/02/2022;https://www.freelance-info.fr/mission/expert-technique-microsoft-active-directory-h-f-1664556;['anglais']
+79;ingenieur-systeme-aix-power-ha-vc-h-f-1664512;"
+                    LeHibou ";Paris;6 mois; 600 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-aix-power-ha-vc-h-f-1664512;['ansible', 'python']
+80;testeur-automaticien-postman-h-f-1664495;"
+                    LeHibou ";Paris;3 mois; 400 €;08/02/2022;https://www.freelance-info.fr/mission/testeur-automaticien-postman-h-f-1664495;['java', 'gitlab', 'aws', 'ci/cd', 'api rest', 'jira', 'xray', 'terraform', 'anglais', 'scrum', 'microservice']
+81;administrateur-systeme-n-1662315;"
+                    LeHibou ";Paris;3 mois; 400 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-n-1662315;['anglais', ' sas', 'powershell', 'linux']
+82;chef-de-projet-it-vernis-infrastructure-anglais-courant-h-f-1664482;"
+                    LeHibou ";Paris;12 mois; 650 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-vernis-infrastructure-anglais-courant-h-f-1664482;['anglais']
+83;administrateur-systeme-senior-coordinateur-d-equipe-h-f-1664475;"
+                    LeHibou ";Paris;12 mois; 650 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-senior-coordinateur-d-equipe-h-f-1664475;['ldap']
+84;ingenieur-reseau-experimente-cisco-nexus-h-f-1664473;"
+                    LeHibou ";Paris;12 mois; 600-750 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-experimente-cisco-nexus-h-f-1664473;[]
+85;developpeur-web-fullstack-java-x-angular-f-h-1664468;"
+                    LeHibou ";Paris;12 mois; 600-750 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-web-fullstack-java-x-angular-f-h-1664468;['java', 'jenkins', 'python', 'sql', 'oracle', 'agile', 'modélisation', 'tomcat', 'mysql', 'scrum', 'linux', 'microservice']
+86;business-analyst-qa-trade-f-h-1664467;"
+                    LeHibou ";Paris;6 mois; 770 €;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-qa-trade-f-h-1664467;['jira', 'agile', 'anglais', 'scrum']
+87;lead-developpeur-iam-sailpoint-h-f-1664466;"
+                    LeHibou ";Paris;6 mois; 770 €;08/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-iam-sailpoint-h-f-1664466;['java', 'ldap']
+88;developpeur-java-h-f-1664465;"
+                    LeHibou ";Paris;6 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1664465;['java', 'jenkins', 'python', 'sql', 'oracle', 'agile', 'modélisation', 'tomcat', 'mysql', 'scrum', 'linux', 'microservice']
+89;developpeur-front-react-senior-h-f-1664294;"
+                    LeHibou ";Paris;6 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-front-react-senior-h-f-1664294;['anglais']
+90;developpeur-fullstack-java-react-and-shell-script-f-h-1664266;"
+                    LeHibou ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-react-and-shell-script-f-h-1664266;['java', 'github', 'sql', 'anglais', 'linux']
+91;tech-lead-java-sql-pl-sql-h-f-1664166;"
+                    LeHibou ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-sql-pl-sql-h-f-1664166;['java', 'sql', 'agile', 'anglais', 'cartographie', 'scrum']
+92;security-platform-sre-h-f-1661970;"
+                    LeHibou ";Saint-Denis;6 mois; 600 €;08/02/2022;https://www.freelance-info.fr/mission/security-platform-sre-h-f-1661970;['java', 'docker', 'ci/cd', 'ldap']
+93;devsecops-sre-securite-h-f-1661947;"
+                    LeHibou ";Saint-Denis;6 mois; 600 €;08/02/2022;https://www.freelance-info.fr/mission/devsecops-sre-securite-h-f-1661947;['tableau', 'aws', 'docker', 'ci/cd', 'terraform', 'modélisation', 'anglais']
+94;chef-de-projet-transverse-et-moe-informatica-h-f-1661869;"
+                    LeHibou ";Paris;12 mois; 500-600 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-transverse-et-moe-informatica-h-f-1661869;['java', 'maven', 'sql', 'oracle', 'agile', 'scrum']
+95;devops-automatisation-et-integration-e-commerce-et-retail-f-h-1661843;"
+                    LeHibou ";Paris;12 mois; 500-600 €;08/02/2022;https://www.freelance-info.fr/mission/devops-automatisation-et-integration-e-commerce-et-retail-f-h-1661843;['gitlab', 'kafka', 'elk', 'docker', 'python', 'sql', 'oracle', 'postgresql']
+96;expert-elasticsearch-h-f-1661844;"
+                    LeHibou ";Suresnes;12 mois; 450-500 €;08/02/2022;https://www.freelance-info.fr/mission/expert-elasticsearch-h-f-1661844;['jenkins', 'elk', 'docker', 'python', 'grafana', 'logstash', ' sas', 'linux']
+97;developpeur-front-react-senior-h-f-1661846;"
+                    LeHibou ";Suresnes;12 mois; 450-500 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-front-react-senior-h-f-1661846;['anglais', ' sas']
+98;controleur-permanent-it-h-f-1664137;"
+                    LeHibou ";Paris;12 mois; 500-600 €;08/02/2022;https://www.freelance-info.fr/mission/controleur-permanent-it-h-f-1664137;['tableau', 'anglais', 'cartographie']
+99;dba-db-experimente-h-f-1664131;"
+                    LeHibou ";Paris;12 mois; 500-600 €;08/02/2022;https://www.freelance-info.fr/mission/dba-db-experimente-h-f-1664131;['sql', 'db2', 'oracle']
+100;responsable-de-programme-crm-1664109;"
+                    LeHibou ";Saint-Denis;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/responsable-de-programme-crm-1664109;['agile', 'anglais', 'salesforce']
+101;directeur-de-projet-acpr-h-f-1664108;"
+                    LeHibou ";Saint-Denis;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-acpr-h-f-1664108;[]
+102;ingenieur-devops-h-f-toulouse-1664107;"
+                    LeHibou ";Saint-Denis;4 mois; 600-650 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-toulouse-1664107;['github', 'jenkins', 'docker', 'sonar', ' sas']
+103;directeur-de-projets-infrastructures-f-h-1664106;"
+                    LeHibou ";Saint-Denis;4 mois; 600-650 €;08/02/2022;https://www.freelance-info.fr/mission/directeur-de-projets-infrastructures-f-h-1664106;['tableau', 'elk', 'anglais']
+104;chef-de-projet-it-h-f-anglais-courant-necessaire-1664105;"
+                    LeHibou ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-h-f-anglais-courant-necessaire-1664105;['anglais']
+105;architecte-java-devops-aws-h-f-1663914;"
+                    LeHibou ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-java-devops-aws-h-f-1663914;['java', 'github', 'jenkins', 'aws', 'elk', 'docker', 'maven', 'api rest', 'agile', 'sonar', 'grafana', ' sas']
+106;data-scientist-gcp-h-f-1661693;"
+                    LeHibou ";Issy-les-Moulineaux;3 mois; 600 €;08/02/2022;https://www.freelance-info.fr/mission/data-scientist-gcp-h-f-1661693;['python', 'sql', 'gcp', 'anglais']
+107;data-analyst-h-f-1661672;"
+                    LeHibou ";Issy-les-Moulineaux;3 mois; 600 €;08/02/2022;https://www.freelance-info.fr/mission/data-analyst-h-f-1661672;[' sas']
+108;consultant-moa-moe-sd-mm-h-f-agen-1661432;"
+                    LeHibou ";Nanterre;12 mois; 550 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-moa-moe-sd-mm-h-f-agen-1661432;['tableau', ' excel ', 'anglais']
+109;architecte-d-entreprise-assurance-anglais-h-f-1661205;"
+                    LeHibou ";Nanterre;12 mois; 550 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-assurance-anglais-h-f-1661205;[]
+110;chef-de-projet-data-senior-h-f-1663093;"
+                    LeHibou ";Paris;12 mois; 650 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-data-senior-h-f-1663093;['talend', 'powerbi', 'anglais', ' sas']
+111;developpeur-c-wpf-uml-h-f-1663092;"
+                    LeHibou ";Paris;12 mois; 650 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-c-wpf-uml-h-f-1663092;['modélisation', 'scrum']
+112;consultant-devops-h-f-1663064;"
+                    LeHibou ";Aubervilliers;12 mois; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-devops-h-f-1663064;['java', 'python', 'sql', 'ci/cd', 'agile', 'anglais', 'scala']
+113;product-owner-manager-h-f-1662996;"
+                    LeHibou ";Aubervilliers;12 mois; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/product-owner-manager-h-f-1662996;[' sas']
+114;chef-de-projet-data-center-anglais-courant-necessaire-h-f-1662995;"
+                    LeHibou ";Paris;12 mois; 570-650 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-data-center-anglais-courant-necessaire-h-f-1662995;['anglais']
+115;devops-automatisation-ansible-h-f-1662994;"
+                    LeHibou ";Paris;12 mois; 570-650 €;07/02/2022;https://www.freelance-info.fr/mission/devops-automatisation-ansible-h-f-1662994;['ansible', 'python', 'anglais', 'linux']
+116;ingenieur-base-de-donnees-performances-h-f-1662815;"
+                    LeHibou ";Montreuil;24 mois; 500 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-base-de-donnees-performances-h-f-1662815;['sql']
+117;product-owner-senior-h-f-1662746;"
+                    LeHibou ";Montreuil;24 mois; 500 €;07/02/2022;https://www.freelance-info.fr/mission/product-owner-senior-h-f-1662746;['agile', 'anglais', ' sas']
+118;lead-devops-python-h-f-1662664;"
+                    LeHibou ";Paris;12 mois; 500-550 €;07/02/2022;https://www.freelance-info.fr/mission/lead-devops-python-h-f-1662664;[' git ', 'jenkins', 'docker', 'ansible', 'python', 'sql', 'ci/cd', 'api rest', 'oracle', 'agile', 'sonar', 'anglais']
+119;ingenieur-systeme-linux-experimente-h-f-1662663;"
+                    LeHibou ";Paris;12 mois; 500-550 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-experimente-h-f-1662663;['gitlab', 'aws', 'puppet', 'docker', 'ansible', 'python', ' sas']
+120;ingenieur-linux-unix-h-f-1662662;"
+                    LeHibou ";Paris;12 mois; 370-430 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-linux-unix-h-f-1662662;['python', ' sas', 'linux']
+121;product-owner-f-h-1662659;"
+                    LeHibou ";Paris;12 mois; 370-430 €;07/02/2022;https://www.freelance-info.fr/mission/product-owner-f-h-1662659;['anglais']
+122;controleur-permanent-it-h-f-1662658;"
+                    LeHibou ";Montreuil;6 mois; 600 €;05/02/2022;https://www.freelance-info.fr/mission/controleur-permanent-it-h-f-1662658;['tableau', 'anglais', 'cartographie']
+123;architecte-data-h-f-nantes-1662657;"
+                    LeHibou ";Montreuil;6 mois; 600 €;05/02/2022;https://www.freelance-info.fr/mission/architecte-data-h-f-nantes-1662657;['salesforce']
+124;lead-developer-java-h-f-1662632;"
+                    LeHibou ";Paris;12 mois; 550 €;05/02/2022;https://www.freelance-info.fr/mission/lead-developer-java-h-f-1662632;['java', 'gitlab', 'jenkins', 'docker', 'ansible', 'maven', 'sql', 'oracle', 'terraform', 'mysql', ' sas']
+125;ingenieur-devops-nodejs-iac-confirme-h-f-1662609;"
+                    LeHibou ";Paris;12 mois; 550 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-nodejs-iac-confirme-h-f-1662609;['jenkins', 'aws', 'azure', 'ansible', 'terraform']
+126;scrum-master-senior-f-h-1662326;"
+                    LeHibou ";Montreuil;6 mois; 550 €;04/02/2022;https://www.freelance-info.fr/mission/scrum-master-senior-f-h-1662326;['agile', 'anglais', 'scrum']
+127;ux-ui-designer-anglais-courant-h-f-1662300;"
+                    LeHibou ";Montreuil;6 mois; 550 €;04/02/2022;https://www.freelance-info.fr/mission/ux-ui-designer-anglais-courant-h-f-1662300;[' git ', 'jira', 'agile', 'scrum']
+128;ingenieur-de-production-finance-h-f-1659996;"
+                    LeHibou ";Paris;12 mois; 520 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-finance-h-f-1659996;['jenkins', 'python', 'spark', 'hive', 'hadoop', 'cartographie', 'linux']
+129;developpeur-mobile-ios-android-h-f-1659997;"
+                    LeHibou ";Paris;12 mois; 520 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-ios-android-h-f-1659997;['agile', 'scrum', ' sas']
+130;tech-customer-success-manager-h-f-1662277;"
+                    LeHibou ";Montreuil;6 mois; 650 €;04/02/2022;https://www.freelance-info.fr/mission/tech-customer-success-manager-h-f-1662277;['gitlab', 'aws', 'kafka', 'elk', 'docker', 'python', 'spark', 'sql', 'jira', 'agile', 'grafana', 'postgresql', 'scala']
+131;developpeur-maximo-confirme-h-f-1662276;"
+                    LeHibou ";Montreuil;6 mois; 650 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-maximo-confirme-h-f-1662276;['java', ' git ', 'jenkins', 'ansible', 'python', 'sql', 'api rest', 'oracle', 'linux']
+132;chef-de-projet-e-procurement-sap-mm-h-f-1662047;"
+                    LeHibou ";Paris;12 mois; 400-450 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-e-procurement-sap-mm-h-f-1662047;['anglais']
+133;expert-power-bi-rouen-f-h-1662033;"
+                    LeHibou ";Paris;12 mois; 400-450 €;04/02/2022;https://www.freelance-info.fr/mission/expert-power-bi-rouen-f-h-1662033;['powerbi', 'power bi', ' sas']
+134;architecte-big-data-h-f-1662012;"
+                    LeHibou ";Neuilly-sur-Seine;12 mois; 500 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-big-data-h-f-1662012;[' git ', 'jenkins', 'kafka', 'ansible', 'spark', 'data lake', 'hive', 'maven', 'hortonworks', 'sql', 'anglais', 'logstash', 'mongodb']
+135;chef-de-projet-scrum-master-h-f-1661975;"
+                    LeHibou ";Neuilly-sur-Seine;12 mois; 500 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-scrum-master-h-f-1661975;['agile', 'kanban', 'scrum', ' sas']
+136;pmo-senior-h-f-1659591;"
+                    LeHibou ";Nanterre;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/pmo-senior-h-f-1659591;['tableau', 'agile', 'anglais', 'tableaux de bord']
+137;chef-de-projet-sap-sd-edi-h-f-1659593;"
+                    LeHibou ";Nanterre;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sap-sd-edi-h-f-1659593;['agile', 'anglais']
+138;lead-dev-java-python-h-f-1661564;"
+                    LeHibou ";Fontenay-sous-Bois;24 mois; 580 €;04/02/2022;https://www.freelance-info.fr/mission/lead-dev-java-python-h-f-1661564;['java', 'gitlab', 'python', 'sql', 'ci/cd', 'api rest', 'agile', 'sonar', 'anglais', 'postgresql', 'scrum']
+139;tech-lead-data-integration-h-f-1661557;"
+                    LeHibou ";Fontenay-sous-Bois;24 mois; 580 €;04/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-integration-h-f-1661557;['powerbi', 'azure', 'sql', 'ci/cd', 'agile', 'anglais', 'salesforce']
+140;it-finance-senior-business-analyst-project-manager-h-f-1661451;"
+                    LeHibou ";Toulouse;6 mois; 450 €;04/02/2022;https://www.freelance-info.fr/mission/it-finance-senior-business-analyst-project-manager-h-f-1661451;['redshift', 'anglais']
+141;data-project-manager-senior-data-business-analyst-f-h-1661440;"
+                    LeHibou ";Toulouse;6 mois; 450 €;04/02/2022;https://www.freelance-info.fr/mission/data-project-manager-senior-data-business-analyst-f-h-1661440;['java', ' git ', 'jenkins', 'power bi', 'aws', 'python', 'sql', 'redshift', 'datawarehouse', 'sonar', 'anglais', 'sonarqube', ' sas']
+142;responsable-des-systemes-applicatifs-ingenieur-d-etude-mainframe-unix-h-f-1661439;"
+                    LeHibou ";Nantes;6 mois; 550 €;04/02/2022;https://www.freelance-info.fr/mission/responsable-des-systemes-applicatifs-ingenieur-d-etude-mainframe-unix-h-f-1661439;['java', 'db2']
+143;projet-manager-h-f-1661438;"
+                    LeHibou ";Nantes;6 mois; 550 €;04/02/2022;https://www.freelance-info.fr/mission/projet-manager-h-f-1661438;['data lake', 'anglais']
+144;developpeur-java-ops-f-h-1661437;"
+                    LeHibou ";Paris;6 mois; 600 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-ops-f-h-1661437;['java', ' git ', 'jenkins', 'elk', 'docker', 'maven', 'jira', 'oracle', 'agile', 'sonar', 'anglais', 'scrum']
+145;data-analyst-h-f-1661434;"
+                    LeHibou ";Paris;6 mois; 600 €;04/02/2022;https://www.freelance-info.fr/mission/data-analyst-h-f-1661434;['power bi', 'sql', 'gcp', 'modélisation', 'anglais']
+146;business-analyst-expert-sap-fi-h-f-1661433;"
+                    LeHibou ";Paris;6 mois; 500-600 €;04/02/2022;https://www.freelance-info.fr/mission/business-analyst-expert-sap-fi-h-f-1661433;['anglais']
+147;consultant-expert-data-management-h-f-1661155;"
+                    LeHibou ";Paris;6 mois; 500-600 €;04/02/2022;https://www.freelance-info.fr/mission/consultant-expert-data-management-h-f-1661155;['cartographie']
+148;program-manager-workplace-anglais-courant-obligatoire-h-f-1658870;"
+                    LeHibou ";Paris;6 mois; 650 €;04/02/2022;https://www.freelance-info.fr/mission/program-manager-workplace-anglais-courant-obligatoire-h-f-1658870;[]
+149;architecte-d-entreprise-urbaniste-anglais-courant-obligatoire-h-f-1658874;"
+                    LeHibou ";Paris;6 mois; 650 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-urbaniste-anglais-courant-obligatoire-h-f-1658874;['gcp']
+150;architecte-securite-cloud-h-f-1661104;"
+                    LeHibou ";Paris;12 mois; 600-800 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-securite-cloud-h-f-1661104;['anglais']
+151;responsable-de-projet-digitaux-h-f-1661080;"
+                    LeHibou ";Paris;12 mois; 600-800 €;04/02/2022;https://www.freelance-info.fr/mission/responsable-de-projet-digitaux-h-f-1661080;['agile', 'anglais']
+152;referent-fonctionnel-maintenance-logiciel-maximo-h-f-1658711;"
+                    LeHibou ";Paris;3 mois; 400-450 €;04/02/2022;https://www.freelance-info.fr/mission/referent-fonctionnel-maintenance-logiciel-maximo-h-f-1658711;[]
+153;developpeur-maximo-confirme-h-f-1658712;"
+                    LeHibou ";Paris;3 mois; 400-450 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-maximo-confirme-h-f-1658712;['java', ' git ', 'jenkins', 'ansible', 'python', 'sql', 'api rest', 'oracle', 'linux']
+154;developpeur-c-c-h-f-1658659;"
+                    LeHibou ";Paris;6 mois; 500-550 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-c-c-h-f-1658659;['jira']
+155;digital-lead-architect-anglais-courant-obligatoire-h-f-1658522;"
+                    LeHibou ";Paris;6 mois; 500-550 €;03/02/2022;https://www.freelance-info.fr/mission/digital-lead-architect-anglais-courant-obligatoire-h-f-1658522;['aws', 'azure', 'modélisation', 'scrum']
+156;chef-de-projet-infrastructure-anglais-courant-obligatoire-h-f-1658182;"
+                    LeHibou ";Paris;12 mois; 550-650 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-anglais-courant-obligatoire-h-f-1658182;['anglais']
+157;chef-de-projet-infrastructure-anglais-courant-obligatoire-h-f-1658183;"
+                    LeHibou ";Paris;12 mois; 550-650 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-anglais-courant-obligatoire-h-f-1658183;['anglais']
+158;ingenieur-systeme-microsoft-linux-ad-1660454;"
+                    LeHibou ";Montreuil;24 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-microsoft-linux-ad-1660454;['linux']
+159;ingenieur-integration-microsoft-h-f-1660453;"
+                    LeHibou ";Montreuil;24 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-integration-microsoft-h-f-1660453;[]
+160;chef-de-projet-product-owner-monetique-h-f-1660446;"
+                    LeHibou ";Nanterre;24 mois; 400-500 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-product-owner-monetique-h-f-1660446;['jira', 'agile', 'anglais']
+161;directeur-de-projet-salesforce-h-f-1660286;"
+                    LeHibou ";Nanterre;24 mois; 400-500 €;03/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-salesforce-h-f-1660286;['talend', 'java', 'jenkins', 'jira', 'agile', 'sonar', 'anglais', 'salesforce']
+162;data-integration-techlead-h-f-1657810;"
+                    LeHibou ";Paris;6 mois; 300-340 €;03/02/2022;https://www.freelance-info.fr/mission/data-integration-techlead-h-f-1657810;['powerbi', 'azure', 'sql', 'ci/cd', 'agile', 'anglais', 'salesforce']
+163;consultant-moe-tresorerie-h-f-1657813;"
+                    LeHibou ";Paris;6 mois; 300-340 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-moe-tresorerie-h-f-1657813;['sql', 'tomcat', 'linux']
+164;architecte-citrix-rds-h-f-1657814;"
+                    LeHibou ";Paris;24 mois; 500-600 €;03/02/2022;https://www.freelance-info.fr/mission/architecte-citrix-rds-h-f-1657814;['azure']
+165;developpeur-c-wpf-logiciel-d-1657811;"
+                    LeHibou ";Paris;24 mois; 500-600 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-c-wpf-logiciel-d-1657811;['modélisation', 'scrum']
+166;devops-terraform-ansible-gcp-h-f-1657812;"
+                    LeHibou ";Brunoy;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/devops-terraform-ansible-gcp-h-f-1657812;['java', ' git ', 'gitlab', 'jenkins', 'docker', 'ansible', 'python', 'gcp', 'ci/cd', 'terraform', 'linux']
+167;chef-de-projet-transverse-it-produit-h-f-1659998;"
+                    LeHibou ";Brunoy;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-transverse-it-produit-h-f-1659998;['agile', 'anglais']
+168;expert-technique-microsoft-active-directory-h-f-1659697;"
+                    LeHibou ";Montreuil;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-technique-microsoft-active-directory-h-f-1659697;['anglais']
+169;amoe-kafka-h-f-1659654;"
+                    LeHibou ";Montreuil;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/amoe-kafka-h-f-1659654;['java', 'gitlab', 'kafka']
+170;administration-environnement-decisionnel-h-f-1657797;"
+                    LeHibou ";Nanterre;12 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/administration-environnement-decisionnel-h-f-1657797;[' odi ', 'ansible', 'db2', 'oracle', 'apache', 'tomcat', 'linux']
+171;developpeur-c-wpf-uml-h-f-1659596;"
+                    LeHibou ";Nanterre;12 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-c-wpf-uml-h-f-1659596;['modélisation', 'scrum']
+172;developpeur-back-end-java-springboot-f-h-1659595;"
+                    LeHibou ";Fontenay-sous-Bois;24 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-java-springboot-f-h-1659595;['java', 'gitlab', 'docker', 'sql', 'jira', 'agile', 'confluence', 'sonar', 'springboot', 'postgresql', 'scrum']
+173;cp-moe-migration-documentum-alfresco-h-f-1659594;"
+                    LeHibou ";Fontenay-sous-Bois;24 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/cp-moe-migration-documentum-alfresco-h-f-1659594;[]
+174;chef-de-projet-amoa-confirme-retail-h-f-1657541;"
+                    LeHibou ";Paris;3 mois; 550 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-confirme-retail-h-f-1657541;['anglais']
+175;ingenieur-systeme-linux-opensource-h-f-1657501;"
+                    LeHibou ";Paris;3 mois; 550 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-opensource-h-f-1657501;['kafka', 'ansible', 'ldap', 'linux']
+176;architecte-technique-microsoft-active-directory-h-f-1657394;"
+                    LeHibou ";Nanterre;12 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/architecte-technique-microsoft-active-directory-h-f-1657394;['anglais']
+177;analyste-cloud-devops-h-f-1659445;"
+                    LeHibou ";Nanterre;12 mois; 500 €;03/02/2022;https://www.freelance-info.fr/mission/analyste-cloud-devops-h-f-1659445;['gitlab', 'jenkins', 'aws', 'azure', 'docker', 'ansible', 'gcp', 'terraform', ' sas', 'linux']
+178;pmo-transverse-experimente-h-f-1657290;"
+                    LeHibou ";Paris;12 mois; 550-600 €;02/02/2022;https://www.freelance-info.fr/mission/pmo-transverse-experimente-h-f-1657290;['tableau', 'jira', 'anglais', 'tableaux de bord', 'cartographie']
+179;moe-sap-senior-supply-chain-h-f-1657268;"
+                    LeHibou ";Paris;12 mois; 550-600 €;02/02/2022;https://www.freelance-info.fr/mission/moe-sap-senior-supply-chain-h-f-1657268;['anglais']
+180;moe-senior-sap-finance-h-f-1657264;"
+                    LeHibou ";Nanterre;24 mois; 600 €;02/02/2022;https://www.freelance-info.fr/mission/moe-senior-sap-finance-h-f-1657264;['anglais']
+181;architecte-solution-aws-h-f-1657204;"
+                    LeHibou ";Nanterre;24 mois; 600 €;02/02/2022;https://www.freelance-info.fr/mission/architecte-solution-aws-h-f-1657204;['java', 'aws', 'agile', 'anglais', 'kanban', 'scrum', 'microservice']
+182;developpeur-ecc-s-hana-h-f-1657153;"
+                    LeHibou ";Nantes;12 mois; 550 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-ecc-s-hana-h-f-1657153;['anglais']
+183;ingenieur-support-n-net-encaissement-et-promotions-transverse-1657154;"
+                    LeHibou ";Nantes;12 mois; 550 €;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-n-net-encaissement-et-promotions-transverse-1657154;['sql', 'oracle', 'agile', 'apache', 'mysql', 'powershell']
+184;integrateur-reseaux-et-securite-h-f-1657107;"
+                    LeHibou ";Télétravail;6 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/integrateur-reseaux-et-securite-h-f-1657107;['itil', 'firewalls', ' sas']
+185;architecte-technique-h-f-1657087;"
+                    LeHibou ";Télétravail;6 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/architecte-technique-h-f-1657087;['sql', 'gcp', 'agile', 'anglais', 'scala']
+186;developpeur-drupal-php-symfony-h-f-1659222;"
+                    LeHibou ";Bordeaux;5 mois; 500-800 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-php-symfony-h-f-1659222;['sql', 'mysql', 'linux']
+187;expert-infrastructure-devops-f-h-1659047;"
+                    LeHibou ";Bordeaux;5 mois; 500-800 €;02/02/2022;https://www.freelance-info.fr/mission/expert-infrastructure-devops-f-h-1659047;['ansible', 'ci/cd', 'terraform', 'anglais']
+188;e-commerce-run-problem-manager-h-f-1657001;"
+                    LeHibou ";Paris;12 mois; 600 €;02/02/2022;https://www.freelance-info.fr/mission/e-commerce-run-problem-manager-h-f-1657001;['anglais', 'itil']
+189;qa-business-analyste-h-f-1656969;"
+                    LeHibou ";Paris;12 mois; 600 €;02/02/2022;https://www.freelance-info.fr/mission/qa-business-analyste-h-f-1656969;['talend', 'sql', 'salesforce']
+190;architecte-securite-applicative-cloud-h-f-1656824;"
+                    LeHibou ";Paris;6 mois; 530 €;02/02/2022;https://www.freelance-info.fr/mission/architecte-securite-applicative-cloud-h-f-1656824;['anglais', ' sas']
+191;ingenieur-mlops-h-f-1656787;"
+                    LeHibou ";Paris;6 mois; 530 €;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-mlops-h-f-1656787;['github', 'gitlab', 'jenkins', 'docker', 'ansible', 'ci/cd', 'terraform', 'scala', 'linux']
+192;business-analyst-agile-domaine-rh-f-h-1658877;"
+                    LeHibou ";Charenton-le-Pont;24 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/business-analyst-agile-domaine-rh-f-h-1658877;['jira', 'agile', 'confluence', 'anglais']
+193;developpeur-front-react-senior-h-f-1658876;"
+                    LeHibou ";Charenton-le-Pont;24 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-front-react-senior-h-f-1658876;['anglais', ' sas']
+194;developpeur-d-application-asp-net-mvc-c-h-f-1658875;"
+                    LeHibou ";Paris;12 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-d-application-asp-net-mvc-c-h-f-1658875;['java', 'kafka', 'sql', 'agile']
+195;chef-de-projet-workday-h-f-1658873;"
+                    LeHibou ";Paris;12 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-workday-h-f-1658873;['jira', 'agile', 'confluence', 'anglais']
+196;data-integration-techlead-h-f-1658872;"
+                    LeHibou ";Guyancourt;12 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/data-integration-techlead-h-f-1658872;['powerbi', 'azure', 'sql', 'ci/cd', 'agile', 'anglais', 'salesforce']
+197;testeur-automaticien-postman-aws-h-f-1658871;"
+                    LeHibou ";Guyancourt;12 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/testeur-automaticien-postman-aws-h-f-1658871;['java', 'gitlab', 'aws', 'ci/cd', 'api rest', 'jira', 'xray', 'terraform', 'anglais', 'scrum', 'microservice']
+198;expertise-mongodb-sujet-d-audit-et-conseil-h-f-1658869;"
+                    LeHibou ";Montpellier;12 mois; 520 €;02/02/2022;https://www.freelance-info.fr/mission/expertise-mongodb-sujet-d-audit-et-conseil-h-f-1658869;['mongodb']
+199;ingenieur-bases-de-donnees-ms-sql-h-f-1656390;"
+                    LeHibou ";Montpellier;12 mois; 520 €;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-bases-de-donnees-ms-sql-h-f-1656390;['docker', 'ansible', 'sql', 'anglais', 'powershell', 'linux']
+200;directeur-de-projet-arretes-de-compte-comptabilite-h-f-1656369;"
+                    LeHibou ";Saint-Denis;6 mois; 650-800 €;02/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-arretes-de-compte-comptabilite-h-f-1656369;['db2']
+201;proxy-product-owner-h-f-1653114;"
+                    LeHibou ";Saint-Denis;6 mois; 650-800 €;02/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-h-f-1653114;['agile']
+202;moe-senior-sap-supply-chain-h-f-1658519;"
+                    LeHibou ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/moe-senior-sap-supply-chain-h-f-1658519;['anglais']
+203;architecte-fonctionnel-et-applicatif-h-f-1658473;"
+                    LeHibou ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-et-applicatif-h-f-1658473;['modélisation', 'anglais', 'cartographie']
+204;project-manager-it-h-f-1658347;"
+                    LeHibou ";Toulouse;6 mois; 400-520 €;02/02/2022;https://www.freelance-info.fr/mission/project-manager-it-h-f-1658347;['anglais']
+205;developpeur-front-angular-h-f-1658338;"
+                    LeHibou ";Toulouse;6 mois; 400-520 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-front-angular-h-f-1658338;['agile', 'scrum']
+206;lead-developer-fullstack-h-f-1658319;"
+                    LeHibou ";Paris;6 mois; 650 €;02/02/2022;https://www.freelance-info.fr/mission/lead-developer-fullstack-h-f-1658319;['java', 'aws', 'sql', 'agile', 'terraform', 'sonar', 'modélisation', 'anglais', 'grafana', 'kanban', 'scrum', 'splunk', 'sonarqube', 'microservice']
+207;moe-senior-sap-finance-h-f-1658317;"
+                    LeHibou ";Paris;6 mois; 650 €;02/02/2022;https://www.freelance-info.fr/mission/moe-senior-sap-finance-h-f-1658317;['anglais']
+208;consultant-securite-si-infrastructures-h-f-1656249;"
+                    LeHibou ";Paris;3 mois; 500-550 €;02/02/2022;https://www.freelance-info.fr/mission/consultant-securite-si-infrastructures-h-f-1656249;['linux']
+209;lead-tech-vb-net-wpf-c-h-f-1656183;"
+                    LeHibou ";Paris;3 mois; 500-550 €;02/02/2022;https://www.freelance-info.fr/mission/lead-tech-vb-net-wpf-c-h-f-1656183;[]
+210;ingenieur-securite-applicative-devsecops-h-f-1656103;"
+                    LeHibou ";Paris;1 année; 650 €;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-applicative-devsecops-h-f-1656103;['java', 'jenkins', 'docker', 'python', 'sonar', 'cartographie', 'sonarqube']
+211;expert-big-data-cdh-hadoop-h-f-1656097;"
+                    LeHibou ";Paris;1 année; 650 €;01/02/2022;https://www.freelance-info.fr/mission/expert-big-data-cdh-hadoop-h-f-1656097;['hadoop', 'anglais']
+212;developpeur-angular-kafka-h-f-1658185;"
+                    LeHibou ";Lezennes;4 mois; 550 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-angular-kafka-h-f-1658185;['gitlab', 'kafka', 'puppet', 'ci/cd', 'anglais']
+213;tech-lead-salesforce-h-f-1658042;"
+                    LeHibou ";Lezennes;4 mois; 550 €;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-salesforce-h-f-1658042;['salesforce']
+214;expert-documentum-open-text-f-h-1657977;"
+                    LeHibou ";Paris;6 mois; 510 €;01/02/2022;https://www.freelance-info.fr/mission/expert-documentum-open-text-f-h-1657977;['oracle', 'tomcat']
+215;customer-success-manager-h-f-1657972;"
+                    LeHibou ";Paris;6 mois; 510 €;01/02/2022;https://www.freelance-info.fr/mission/customer-success-manager-h-f-1657972;['modélisation', 'anglais']
+216;scrum-master-h-f-toulouse-1657935;"
+                    LeHibou ";Agen;12 mois; 550-630 €;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-toulouse-1657935;['agile', 'scrum']
+217;chef-de-projet-salesforce-commerce-cloud-h-f-1657872;"
+                    LeHibou ";Agen;12 mois; 550-630 €;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-salesforce-commerce-cloud-h-f-1657872;['anglais', 'salesforce']
+218;architecte-aix-h-f-toulouse-1657868;"
+                    LeHibou ";Paris;6 mois; 650 €;29/01/2022;https://www.freelance-info.fr/mission/architecte-aix-h-f-toulouse-1657868;['anglais']
+219;ingenieur-reseaux-et-securite-expert-fortinet-1657860;"
+                    LeHibou ";Paris;6 mois; 650 €;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-et-securite-expert-fortinet-1657860;['anglais', ' sas']
+220;ingenieur-reseaux-et-securite-expert-fortinet-1657672;"
+                    LeHibou ";Paris;3 mois; 630 €;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-et-securite-expert-fortinet-1657672;['anglais', ' sas']
+221;chef-de-projet-ged-f-h-1657511;"
+                    LeHibou ";Paris;3 mois; 630 €;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-ged-f-h-1657511;['anglais', ' sas']
+222;chef-de-projet-informatica-mdm-etl-h-f-1655778;"
+                    LeHibou ";Aubervilliers;12 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-informatica-mdm-etl-h-f-1655778;['java', 'maven', 'sql', 'oracle', 'agile', 'scrum']
+223;product-owner-senior-workplace-f-h-1655569;"
+                    LeHibou ";Aubervilliers;12 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/product-owner-senior-workplace-f-h-1655569;['anglais']
+224;problem-manager-e-commerce-h-f-1655245;"
+                    LeHibou ";Libourne;6 mois; 500-550 €;28/01/2022;https://www.freelance-info.fr/mission/problem-manager-e-commerce-h-f-1655245;['anglais', 'itil']
+225;ingenieur-moe-python-h-f-1655089;"
+                    LeHibou ";Libourne;6 mois; 500-550 €;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-moe-python-h-f-1655089;['github', 'powerbi', 'aws', 'ansible', 'python', 'sql', 'jira', 'agile', 'modélisation', 'postgresql', 'scrum', 'vba', 'linux']
+226;administrateur-reseau-n-h-f-1655030;"
+                    LeHibou ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/administrateur-reseau-n-h-f-1655030;['ansible', 'anglais', 'firewalls', 'splunk']
+227;chef-de-projet-product-owner-h-f-1654958;"
+                    LeHibou ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-product-owner-h-f-1654958;['jira', 'agile', 'confluence', 'anglais']
+228;responsable-qualite-de-service-si-1654959;"
+                    LeHibou ";Télétravail;18 mois; 500-600 €;28/01/2022;https://www.freelance-info.fr/mission/responsable-qualite-de-service-si-1654959;[]
+229;directeur-de-programme-retail-monetique-h-f-1654961;"
+                    LeHibou ";Télétravail;18 mois; 500-600 €;28/01/2022;https://www.freelance-info.fr/mission/directeur-de-programme-retail-monetique-h-f-1654961;['anglais', ' sas']

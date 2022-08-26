@@ -1,0 +1,421 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;developpeur-back-end-java-lille-1666760;"
+                    Nigel Frank International LTD ";Lille;3 mois; 340-360 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-java-lille-1666760;['java', 'jenkins', 'docker']
+1;developpeur-java-senior-1666758;"
+                    Nigel Frank International LTD ";Lille;3 mois; 340-360 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-java-senior-1666758;['java', 'springboot']
+2;product-owner-1666757;"
+                    Nigel Frank International LTD ";Paris;6 mois; 440-560 €;10/02/2022;https://www.freelance-info.fr/mission/product-owner-1666757;[]
+3;ingenieur-cloud-devops-1666658;"
+                    Nigel Frank International LTD ";Paris;6 mois; 440-560 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-devops-1666658;['jenkins', 'aws', 'azure', 'docker', 'ansible', 'terraform']
+4;architecte-vmware-1666645;"
+                    Nigel Frank International LTD ";Paris;6 mois; 470-550 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-vmware-1666645;['gitlab', 'terraform', 'anglais', 'powershell']
+5;scrum-master-1666542;"
+                    Nigel Frank International LTD ";Paris;6 mois; 470-550 €;10/02/2022;https://www.freelance-info.fr/mission/scrum-master-1666542;[' sas']
+6;ingenieur-solutions-1664346;"
+                    Nigel Frank International LTD ";Nantes;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-solutions-1664346;['java', ' git ', 'gitlab', 'jenkins', 'docker', 'ansible', 'python', 'sql', 'ci/cd', 'jira', 'agile', 'confluence', 'terraform', 'apache', 'tomcat', 'grafana', 'postgresql', 'ldap', 'scrum']
+7;ingenieur-software-senior-java-scala-1664260;"
+                    Nigel Frank International LTD ";Nantes;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-software-senior-java-scala-1664260;['java', 'kafka', 'docker', 'sql', 'scala', 'linux', 'microservice']
+8;architect-si-sensible-1666469;"
+                    Nigel Frank International LTD ";Paris;24 mois; 600 €;10/02/2022;https://www.freelance-info.fr/mission/architect-si-sensible-1666469;['tableau']
+9;architecte-si-sensible-1666466;"
+                    Nigel Frank International LTD ";Paris;24 mois; 600 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-si-sensible-1666466;['tableau']
+10;developpeur-java-angular-1666326;"
+                    Nigel Frank International LTD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-1666326;['java']
+11;developpeur-scala-nantes-1666301;"
+                    Nigel Frank International LTD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-scala-nantes-1666301;['gitlab', 'kafka', 'sql', 'ci/cd', 'api rest', 'scala']
+12;developpeur-back-end-java-nantes-1666294;"
+                    Nigel Frank International LTD ";Sophia-Antipolis;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-java-nantes-1666294;['java']
+13;salesforce-technical-lead-1666216;"
+                    Nigel Frank International LTD ";Sophia-Antipolis;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/salesforce-technical-lead-1666216;['java', 'sql', 'salesforce']
+14;developpeur-fullstack-devops-1663846;"
+                    Nigel Frank International LTD ";Nantes;6 mois; 450 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-devops-1663846;['java', 'gitlab', 'docker', 'ansible', 'maven', 'sql', 'api rest', 'terraform', 'cartographie', 'linux']
+15;opportunite-chef-de-projet-ax-1663808;"
+                    Nigel Frank International LTD ";Nantes;6 mois; 450 €;10/02/2022;https://www.freelance-info.fr/mission/opportunite-chef-de-projet-ax-1663808;[]
+16;testeur-qa-manuel-bordeaux-1663820;"
+                    Nigel Frank International LTD ";Paris;6 mois; 100-1220 €;10/02/2022;https://www.freelance-info.fr/mission/testeur-qa-manuel-bordeaux-1663820;['jira', 'confluence']
+17;consultant-data-msbi-1663791;"
+                    Nigel Frank International LTD ";Paris;6 mois; 100-1220 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-data-msbi-1663791;['terdata', 'powerbi', 'azure', 'sql', 'datawarehouse', 'cartographie', 'ssrs']
+18;architecte-solutions-1666092;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-solutions-1666092;['aws', 'azure', 'gcp', 'oracle', 'anglais', 'itil']
+19;developpeur-se-web-php-symfony-cdi-montpellier-full-remote-1666086;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-se-web-php-symfony-cdi-montpellier-full-remote-1666086;['jenkins', 'elk', 'docker', 'ansible', 'sql', 'agile', 'mysql', 'scrum']
+20;developpeur-se-web-php-symfony-fullstack-cdi-marseille-1666084;"
+                    Nigel Frank International LTD ";Paris;3 mois; 350-380 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-se-web-php-symfony-fullstack-cdi-marseille-1666084;['java', 'gitlab', 'aws', 'elk', 'sql', 'ci/cd', 'agile', 'anglais', 'scrum', 'mongodb', 'scala']
+21;developpeur-se-web-php-symfony-cdi-marseille-1666085;"
+                    Nigel Frank International LTD ";Paris;3 mois; 350-380 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-se-web-php-symfony-cdi-marseille-1666085;['docker', 'anglais', 'kanban', 'scrum']
+22;developpeur-dynamics-crm-freelance-1666025;"
+                    Nigel Frank International LTD ";Nantes;18 mois; 350-380 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-dynamics-crm-freelance-1666025;['java']
+23;developpeur-java-1665986;"
+                    Nigel Frank International LTD ";Nantes;18 mois; 350-380 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1665986;['java', 'agile', 'anglais', 'tomcat', 'scrum', 'jboss']
+24;client-final-consultant-powerplatform-cdi-paris-h-f-1665966;"
+                    Nigel Frank International LTD ";Nantes;18 mois; 350-380 €;09/02/2022;https://www.freelance-info.fr/mission/client-final-consultant-powerplatform-cdi-paris-h-f-1665966;['sql', 'anglais']
+25;developer-net-azure-1665965;"
+                    Nigel Frank International LTD ";Nantes;18 mois; 350-380 €;09/02/2022;https://www.freelance-info.fr/mission/developer-net-azure-1665965;['azure']
+26;responsable-commercial-microsoft-france-secteur-automotive-1665959;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/responsable-commercial-microsoft-france-secteur-automotive-1665959;['anglais']
+27;product-owner-net-salario-hast-k-1665957;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/product-owner-net-salario-hast-k-1665957;['java', 'azure']
+28;dba-expert-senior-bases-de-donnees-1665954;"
+                    Nigel Frank International LTD ";Lyon;4 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dba-expert-senior-bases-de-donnees-1665954;['aws', 'sql', 'oracle', 'anglais', 'postgresql', 'mysql']
+29;developpeur-react-native-1665936;"
+                    Nigel Frank International LTD ";Lyon;4 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-react-native-1665936;['java']
+30;consultant-sedentaire-sage-1665924;"
+                    Nigel Frank International LTD ";"Val d&#39;oise";12 mois; 600-750 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-sedentaire-sage-1665924;[]
+31;consultant-powerbi-1665875;"
+                    Nigel Frank International LTD ";"Val d&#39;oise";12 mois; 600-750 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-powerbi-1665875;['powerbi', 'azure', 'sql']
+32;consultant-dms-sedentaire-1665774;"
+                    Nigel Frank International LTD ";Bordeaux;3 mois; 330-350 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-dms-sedentaire-1665774;['scala']
+33;architecte-azure-data-1663471;"
+                    Nigel Frank International LTD ";Bordeaux;3 mois; 330-350 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-azure-data-1663471;['azure', 'python', 'spark', 'data lake', 'databricks', 'pyspark', 'anglais', ' sas']
+34;developpeur-javascript-fullstack-1663475;"
+                    Nigel Frank International LTD ";Cergy;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-javascript-fullstack-1663475;['java', 'docker', 'anglais']
+35;lead-qa-paris-1663456;"
+                    Nigel Frank International LTD ";Cergy;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lead-qa-paris-1663456;['azure', 'anglais']
+36;architecte-applicatif-1663422;"
+                    Nigel Frank International LTD ";La Défense (92);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-applicatif-1663422;['java', 'jenkins', 'aws', 'docker', 'sql', 'tomcat', 'mysql', 'mongodb', 'scala']
+37;architecte-cloud-aws-1665548;"
+                    Nigel Frank International LTD ";La Défense (92);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-aws-1665548;['aws', 'ansible', 'terraform']
+38;developpeur-vue-js-1665546;"
+                    Nigel Frank International LTD ";Montpellier;521 160 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-vue-js-1665546;[]
+39;techlead-1665543;"
+                    Nigel Frank International LTD ";Montpellier;521 160 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/techlead-1665543;['java', 'gitlab', 'jenkins', 'azure', 'elk', 'puppet', 'ansible', 'python', 'sql', 'oracle', 'agile', 'terraform', 'sonar', 'anglais', 'apache', 'tomcat', 'postgresql', 'mysql', 'jboss', 'splunk', 'mariadb', 'mongodb']
+40;ingenieur-devops-aws-1665578;"
+                    Nigel Frank International LTD ";Marseille;521 160 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-aws-1665578;['agile']
+41;sccm-1665575;"
+                    Nigel Frank International LTD ";Marseille;521 160 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/sccm-1665575;['azure', ' sas', 'powershell']
+42;expert-office-h-f-1665535;"
+                    Nigel Frank International LTD ";Marseille;521 160 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-office-h-f-1665535;[]
+43;avant-vente-infra-cloud-1665519;"
+                    Nigel Frank International LTD ";Marseille;521 160 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/avant-vente-infra-cloud-1665519;['tableau']
+44;consultant-technico-fonctionnel-sap-1665507;"
+                    Nigel Frank International LTD ";Luxembourg;521 160 mois; 700 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-sap-1665507;[]
+45;senior-devops-aws-run-1665491;"
+                    Nigel Frank International LTD ";Luxembourg;521 160 mois; 700 €;08/02/2022;https://www.freelance-info.fr/mission/senior-devops-aws-run-1665491;['jenkins', 'aws', 'ansible', 'terraform', ' sas']
+46;developpeur-fullstack-java-react-pays-de-la-loire-1665472;"
+                    Nigel Frank International LTD ";France;Durée non renseignée; 312 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-react-pays-de-la-loire-1665472;['java', 'jenkins', 'microservice']
+47;opportunite-wms-manhattan-1665251;"
+                    Nigel Frank International LTD ";France;Durée non renseignée; 312 €;08/02/2022;https://www.freelance-info.fr/mission/opportunite-wms-manhattan-1665251;[]
+48;consultant-msbi-1663158;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-msbi-1663158;['azure', 'sql', 'ssrs', ' ssis', 'ssas']
+49;consultant-paie-1665044;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-paie-1665044;[]
+50;consultant-junior-erp-1665022;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-junior-erp-1665022;['tableau', 'sql', 'tableaux de bord']
+51;missions-dba-sql-paris-remote-1664910;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/missions-dba-sql-paris-remote-1664910;['anglais']
+52;data-engineer-msbi-azure-1664874;"
+                    Nigel Frank International LTD ";France;Durée non renseignée; 333 €;08/02/2022;https://www.freelance-info.fr/mission/data-engineer-msbi-azure-1664874;['github', 'power bi', 'azure', 'spark', 'sql', 'databricks', 'ci/cd', 'datawarehouse', 'jira', 'agile', 'modélisation', 'cartographie', 'scala']
+53;consultant-technique-navision-1664871;"
+                    Nigel Frank International LTD ";France;Durée non renseignée; 333 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-technique-navision-1664871;['azure']
+54;consultant-technico-fonctionnel-1662919;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-1662919;[]
+55;expert-design-api-1662721;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-design-api-1662721;['azure', 'agile', 'anglais', 'scrum']
+56;ingenieur-devops-aws-cdi-remote-1664860;"
+                    Nigel Frank International LTD ";Guyancourt;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-aws-cdi-remote-1664860;['java', 'jenkins', 'aws', 'puppet', 'ci/cd', 'linux']
+57;consultant-e-qa-angers-1664789;"
+                    Nigel Frank International LTD ";Guyancourt;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-e-qa-angers-1664789;[]
+58;data-analyst-1664761;"
+                    Nigel Frank International LTD ";Bordeaux;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/data-analyst-1664761;['powerbi', 'sql', 'gcp', 'bigquery', ' sas']
+59;consultant-sedentaire-dms-1664753;"
+                    Nigel Frank International LTD ";Bordeaux;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-sedentaire-dms-1664753;['scala']
+60;developpeur-net-angular-lyon-1664738;"
+                    Nigel Frank International LTD ";Nantes;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-net-angular-lyon-1664738;['sql']
+61;chef-de-projet-erp-industriel-1664729;"
+                    Nigel Frank International LTD ";Nantes;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-erp-industriel-1664729;['sql']
+62;full-stack-developer-barcelona-team-lead-developer-net-1664707;"
+                    Nigel Frank International LTD ";Aix-en-Provence;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/full-stack-developer-barcelona-team-lead-developer-net-1664707;['java', 'aws', 'azure', 'docker', 'gcp']
+63;data-engineer-azure-1664656;"
+                    Nigel Frank International LTD ";Aix-en-Provence;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/data-engineer-azure-1664656;['github', 'power bi', 'azure', 'spark', 'data lake', 'sql', 'databricks', 'ci/cd', 'datawarehouse', 'jira', 'agile', 'modélisation', 'cartographie', 'scala']
+64;chef-de-projet-erp-industriel-1664551;"
+                    Nigel Frank International LTD ";Bordeaux;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-erp-industriel-1664551;['sql']
+65;missions-m-ingenieurs-n-n-nantes-1662395;"
+                    Nigel Frank International LTD ";Bordeaux;Durée non renseignée; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/missions-m-ingenieurs-n-n-nantes-1662395;['azure']
+66;developpeur-dynamics-crm-1662391;"
+                    Nigel Frank International LTD ";Lyon;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-dynamics-crm-1662391;['java', 'sql']
+67;responsable-equipe-developpement-1662286;"
+                    Nigel Frank International LTD ";Lyon;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/responsable-equipe-developpement-1662286;['talend', 'jenkins', 'tableau', 'power bi', 'azure', 'docker', 'ci/cd', 'agile', 'scrum']
+68;consultant-fonctionnel-navision-1664477;"
+                    Nigel Frank International LTD ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-fonctionnel-navision-1664477;['azure', 'anglais']
+69;team-leader-aws-data-1664403;"
+                    Nigel Frank International LTD ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/team-leader-aws-data-1664403;['java', 'aws', 'python', 'spark', 'databricks', 'redshift', 'snowflake', 'glue', 'scala']
+70;consultant-erp-industriel-1664354;"
+                    Nigel Frank International LTD ";Paris;18 mois; 600-700 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-erp-industriel-1664354;['tableau', 'sql', 'tableaux de bord']
+71;consultant-chef-de-projet-erp-divalto-1664209;"
+                    Nigel Frank International LTD ";Paris;18 mois; 600-700 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-chef-de-projet-erp-divalto-1664209;[]
+72;consultant-chef-de-projet-erp-divalto-1664200;"
+                    Nigel Frank International LTD ";Levallois-Perret;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-chef-de-projet-erp-divalto-1664200;[]
+73;kafka-data-streaming-expert-1664168;"
+                    Nigel Frank International LTD ";Levallois-Perret;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/kafka-data-streaming-expert-1664168;['java', 'aws', 'azure', 'kafka', 'python', 'sql', 'agile', 'apache', 'mysql', 'scrum', 'scala']
+74;tech-lead-front-end-senior-1662257;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 333 €;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-front-end-senior-1662257;['java']
+75;developer-net-core-azure-devops-1662240;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 333 €;07/02/2022;https://www.freelance-info.fr/mission/developer-net-core-azure-devops-1662240;['azure', 'sql', 'ci/cd', 'terraform']
+76;developpeur-node-react-1662242;"
+                    Nigel Frank International LTD ";Paris;6 mois; 450-530 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-node-react-1662242;[]
+77;ingenieur-systeme-linux-1662182;"
+                    Nigel Frank International LTD ";Paris;6 mois; 450-530 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1662182;['gitlab', 'elk', 'docker', 'ansible', 'terraform', 'linux']
+78;developpeur-android-1662126;"
+                    Nigel Frank International LTD ";Rennes;3 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-android-1662126;['java']
+79;architecte-technique-full-remote-1662042;"
+                    Nigel Frank International LTD ";Rennes;3 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/architecte-technique-full-remote-1662042;['java', 'jenkins', 'kafka', 'elk', 'maven', 'sql', 'oracle', 'sonar', 'tomcat', 'postgresql', 'cartographie', 'jboss']
+80;ingenieur-etude-developpement-back-end-devops-1662024;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 271 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-etude-developpement-back-end-devops-1662024;['aws', 'api rest', 'jira']
+81;consultant-logiciel-paie-1664019;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 271 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-logiciel-paie-1664019;[]
+82;chef-de-projet-amoa-1663890;"
+                    Nigel Frank International LTD ";Nantes;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-1663890;[]
+83;consultant-m-niveau-n-n-paris-1661448;"
+                    Nigel Frank International LTD ";Nantes;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-m-niveau-n-n-paris-1661448;['azure', 'agile', 'vpn', 'kanban', 'scrum', 'powershell']
+84;ingenieur-devops-cdi-paris-1663713;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-cdi-paris-1663713;['aws', 'python', 'powershell']
+85;senior-data-engineer-azure-remote-k-1663677;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/senior-data-engineer-azure-remote-k-1663677;['gitlab', 'power bi', 'azure', 'python', 'spark', 'sql', 'databricks']
+86;architecte-modern-workplace-h-f-1663540;"
+                    Nigel Frank International LTD ";Levallois-Perret;Durée non renseignée; 458 €;07/02/2022;https://www.freelance-info.fr/mission/architecte-modern-workplace-h-f-1663540;['anglais']
+87;consultant-sap-supply-chain-1663415;"
+                    Nigel Frank International LTD ";Levallois-Perret;Durée non renseignée; 458 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-sap-supply-chain-1663415;[]
+88;consultant-technique-dynamics-crm-1663406;"
+                    Nigel Frank International LTD ";Normandel;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-technique-dynamics-crm-1663406;['azure', 'anglais']
+89;microsoft-dynamics-nav-consultant-1663337;"
+                    Nigel Frank International LTD ";Normandel;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/microsoft-dynamics-nav-consultant-1663337;['azure']
+90;moe-data-projet-run-1661328;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/moe-data-projet-run-1661328;['java', 'github', 'power bi', 'azure', 'python', 'spark', 'sql', 'databricks', 'ci/cd', 'scala', 'ssrs']
+91;developpeur-ios-1661106;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-ios-1661106;[]
+92;developpeur-net-nord-pas-de-calais-1661097;"
+                    Nigel Frank International LTD ";Pays de Loire;24 mois; 280-320 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-net-nord-pas-de-calais-1661097;['sql', ' sas']
+93;salesforce-functional-consultant-1663262;"
+                    Nigel Frank International LTD ";Pays de Loire;24 mois; 280-320 €;07/02/2022;https://www.freelance-info.fr/mission/salesforce-functional-consultant-1663262;['salesforce']
+94;opportunite-chef-de-projet-ax-1663048;"
+                    Nigel Frank International LTD ";Lille;6 mois; 750-950 €;07/02/2022;https://www.freelance-info.fr/mission/opportunite-chef-de-projet-ax-1663048;[]
+95;microsoft-dynamics-nav-consultant-1663025;"
+                    Nigel Frank International LTD ";Lille;6 mois; 750-950 €;07/02/2022;https://www.freelance-info.fr/mission/microsoft-dynamics-nav-consultant-1663025;['azure']
+96;developpeur-react-js-rennes-1661036;"
+                    Nigel Frank International LTD ";Nice;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-react-js-rennes-1661036;[' sas']
+97;data-ops-aws-1660829;"
+                    Nigel Frank International LTD ";Nice;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/data-ops-aws-1660829;['aws', 'kafka', 'ansible', 'hadoop', 'terraform', 'grafana']
+98;devops-senior-java-1660835;"
+                    Nigel Frank International LTD ";Dijon;Durée non renseignée; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/devops-senior-java-1660835;['java', 'jenkins', 'kafka', 'docker', 'ansible', 'maven', 'jira', 'oracle', 'agile', 'confluence']
+99;consultant-o-1660824;"
+                    Nigel Frank International LTD ";Dijon;Durée non renseignée; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-o-1660824;[' sas']
+100;developpeur-react-net-1660772;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-react-net-1660772;['sql', ' sas']
+101;architecte-fonctionnel-1660759;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-1660759;['azure', 'agile', 'cartographie']
+102;architecte-applicatif-net-azure-1660765;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architecte-applicatif-net-azure-1660765;['java', ' git ', 'azure', 'docker', 'sql', 'anglais', ' sas']
+103;ingenieur-production-exploitation-docker-1660754;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-production-exploitation-docker-1660754;['tableau']
+104;consultant-sdmm-1662891;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-sdmm-1662891;[]
+105;microsoft-dynamics-nav-consultant-1662823;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/microsoft-dynamics-nav-consultant-1662823;['azure', 'anglais']
+106;net-tech-lead-fluent-english-1662713;"
+                    Nigel Frank International LTD ";Kortrijk;6 mois; 600 €;04/02/2022;https://www.freelance-info.fr/mission/net-tech-lead-fluent-english-1662713;['azure', 'docker', 'sql', 'agile', 'scrum', 'microservice']
+107;developpeur-net-senior-fluent-english-1662707;"
+                    Nigel Frank International LTD ";Kortrijk;6 mois; 600 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-net-senior-fluent-english-1662707;['azure', 'docker', 'scala']
+108;developpeurs-sql-vb-net-nantes-1660630;"
+                    Nigel Frank International LTD ";Nord;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeurs-sql-vb-net-nantes-1660630;['sql', 'anglais']
+109;developpeur-net-lyon-1660546;"
+                    Nigel Frank International LTD ";Nord;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-net-lyon-1660546;['sql', ' sas']
+110;consultant-supply-chain-s-hana-1660425;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-supply-chain-s-hana-1660425;[]
+111;opportunite-consultant-fonctionnel-trade-logistics-d-fo-1662398;"
+                    Nigel Frank International LTD ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/opportunite-consultant-fonctionnel-trade-logistics-d-fo-1662398;[]
+112;data-ingenieur-msbi-1660331;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 271 €;04/02/2022;https://www.freelance-info.fr/mission/data-ingenieur-msbi-1660331;['azure', 'sql', 'anglais', 'ssrs', ' ssis', 'ssas']
+113;consultant-sharepoint-online-1660316;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 271 €;04/02/2022;https://www.freelance-info.fr/mission/consultant-sharepoint-online-1660316;['azure', 'sql']
+114;consultant-telephonie-teams-1660306;"
+                    Nigel Frank International LTD ";Angers;3 mois; 300-350 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-telephonie-teams-1660306;['azure', 'sql', 'anglais']
+115;data-scientist-expert-1660182;"
+                    Nigel Frank International LTD ";Angers;3 mois; 300-350 €;03/02/2022;https://www.freelance-info.fr/mission/data-scientist-expert-1660182;['python', 'sql', 'gcp', 'anglais']
+116;data-analyst-expert-1660183;"
+                    Nigel Frank International LTD ";Lille;1 année; 100-750 €;03/02/2022;https://www.freelance-info.fr/mission/data-analyst-expert-1660183;['power bi', 'sql', 'gcp', 'modélisation', 'anglais']
+117;chef-de-projet-moe-expert-1660185;"
+                    Nigel Frank International LTD ";Lille;1 année; 100-750 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-expert-1660185;['qlik', 'power bi', 'sql', 'bigquery', 'anglais']
+118;salesforce-technical-architect-1662133;"
+                    Nigel Frank International LTD ";Bordeaux;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/salesforce-technical-architect-1662133;['jenkins', 'salesforce']
+119;consultant-formateur-erp-1662028;"
+                    Nigel Frank International LTD ";Bordeaux;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-formateur-erp-1662028;['tableau', 'sql', 'tableaux de bord']
+120;consultant-office-h-f-cdi-1661913;"
+                    Nigel Frank International LTD ";Lyon;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-office-h-f-cdi-1661913;['azure', 'anglais']
+121;consultant-data-engineer-azure-1659924;"
+                    Nigel Frank International LTD ";Lyon;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-data-engineer-azure-1659924;['power bi', 'azure', 'python', 'spark', 'sql', 'databricks', 'ssrs']
+122;architecte-technique-aws-1659728;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-technique-aws-1659728;['aws', 'snowflake', 'itil']
+123;developpeur-magento-senior-1659710;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-magento-senior-1659710;['jira', 'agile', 'confluence']
+124;devops-aws-gcp-1661859;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; 271 €;03/02/2022;https://www.freelance-info.fr/mission/devops-aws-gcp-1661859;['gitlab', 'aws', 'ansible', 'python', 'gcp', 'terraform', 'sonar', 'sonarqube']
+125;full-remote-developpeur-full-stack-net-blazor-1661575;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; 271 €;03/02/2022;https://www.freelance-info.fr/mission/full-remote-developpeur-full-stack-net-blazor-1661575;[]
+126;responsable-equipe-developpement-leaddev-1661528;"
+                    Nigel Frank International LTD ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/responsable-equipe-developpement-leaddev-1661528;['talend', 'jenkins', 'tableau', 'power bi', 'azure', 'docker', 'ci/cd', 'agile', 'scrum', ' sas']
+127;chef-de-projet-ia-rh-1661509;"
+                    Nigel Frank International LTD ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-ia-rh-1661509;['jira', 'anglais']
+128;consultant-amoa-epargne-retraite-1659452;"
+                    Nigel Frank International LTD ";Reims;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-amoa-epargne-retraite-1659452;[' sas']
+129;developpeur-net-grenoble-1659424;"
+                    Nigel Frank International LTD ";Reims;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-net-grenoble-1659424;['jenkins', 'elk', 'docker', 'sql', 'scrum']
+130;developpeur-net-senior-migration-mvc-core-1659337;"
+                    Nigel Frank International LTD ";Nantes;1 année; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-net-senior-migration-mvc-core-1659337;['java', 'azure', 'sql', 'agile']
+131;administrateur-system-linux-1659270;"
+                    Nigel Frank International LTD ";Nantes;1 année; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/administrateur-system-linux-1659270;['java', 'jenkins', 'docker', 'mongodb', 'linux']
+132;consultant-erp-divalto-1661411;"
+                    Nigel Frank International LTD ";Paris;6 mois; 550 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-erp-divalto-1661411;[]
+133;consultant-erp-divalto-1661410;"
+                    Nigel Frank International LTD ";Paris;6 mois; 550 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-erp-divalto-1661410;[]
+134;consultant-support-erp-finance-1661409;"
+                    Nigel Frank International LTD ";Lille;3 mois; 550-650 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-support-erp-finance-1661409;[]
+135;consultant-support-erp-finance-1661408;"
+                    Nigel Frank International LTD ";Lille;3 mois; 550-650 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-support-erp-finance-1661408;[]
+136;chef-de-projet-sage-1661391;"
+                    Nigel Frank International LTD ";Charleroi;6 mois; 600 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sage-1661391;['tableau', 'tableaux de bord']
+137;consultant-technique-erp-1661379;"
+                    Nigel Frank International LTD ";Charleroi;6 mois; 600 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-technique-erp-1661379;['sql']
+138;consultant-erp-finance-1661256;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 417 €;02/02/2022;https://www.freelance-info.fr/mission/consultant-erp-finance-1661256;['sql']
+139;architect-gcp-full-remote-1659148;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 417 €;02/02/2022;https://www.freelance-info.fr/mission/architect-gcp-full-remote-1659148;['github', 'gcp', 'bigquery', 'terraform']
+140;developpeur-ios-et-android-1659042;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-ios-et-android-1659042;[]
+141;microsoft-dynamics-nav-consultant-1661087;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/microsoft-dynamics-nav-consultant-1661087;['azure', 'anglais']
+142;microsoft-dynamics-nav-consultant-1661086;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/microsoft-dynamics-nav-consultant-1661086;['azure', 'anglais']
+143;ingenieur-commercial-infra-cloud-1661014;"
+                    Nigel Frank International LTD ";Lyon;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-commercial-infra-cloud-1661014;['azure', 'sql', 'oracle', 'anglais', ' sas', 'linux']
+144;consultant-msbi-power-bi-1661012;"
+                    Nigel Frank International LTD ";Lille;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-msbi-power-bi-1661012;['talend', 'tableau', 'power bi', 'agile', 'modélisation', 'tableaux de bord', 'scrum', 'ssrs', 'ssas']
+145;consultant-ms-bi-azure-1660999;"
+                    Nigel Frank International LTD ";Lille;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-ms-bi-azure-1660999;['power bi', 'azure', 'spark', 'data lake', 'sql', 'hadoop', 'datawarehouse', 'modélisation', 'ssrs', ' ssis', 'ssas']
+146;consultant-fonctionnel-dynamics-finance-1660921;"
+                    Nigel Frank International LTD ";Madrid;1 année; 250 €;02/02/2022;https://www.freelance-info.fr/mission/consultant-fonctionnel-dynamics-finance-1660921;['anglais']
+147;consultant-fonctionnel-dynamics-f-o-supply-chain-1660895;"
+                    Nigel Frank International LTD ";Madrid;1 année; 250 €;02/02/2022;https://www.freelance-info.fr/mission/consultant-fonctionnel-dynamics-f-o-supply-chain-1660895;['azure']
+148;administrateur-sas-resp-appli-1658735;"
+                    Nigel Frank International LTD ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/administrateur-sas-resp-appli-1658735;['sql', 'snowflake', 'oracle', ' sas', 'linux']
+149;dba-sql-mission-freelance-nantes-1658713;"
+                    Nigel Frank International LTD ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/dba-sql-mission-freelance-nantes-1658713;['sql', ' ssis']
+150;chef-de-projet-power-platform-recherche-urgente-demarrage-immediat-1658714;"
+                    Nigel Frank International LTD ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-power-platform-recherche-urgente-demarrage-immediat-1658714;[]
+151;integration-et-administration-poste-de-travail-1658649;"
+                    Nigel Frank International LTD ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/integration-et-administration-poste-de-travail-1658649;[' sas']
+152;assistant-en-integration-applicative-serveurs-et-poste-de-travail-microsoft-1658564;"
+                    Nigel Frank International LTD ";Montpellier;1 année; 400-450 €;02/02/2022;https://www.freelance-info.fr/mission/assistant-en-integration-applicative-serveurs-et-poste-de-travail-microsoft-1658564;['tableau', 'sql', 'oracle', 'powershell']
+153;chef-de-projet-cloud-aws-azure-1658372;"
+                    Nigel Frank International LTD ";Montpellier;1 année; 400-450 €;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-cloud-aws-azure-1658372;['aws', 'azure', 'agile']
+154;developpeur-net-nord-pas-de-calais-1658212;"
+                    Nigel Frank International LTD ";Lille;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-net-nord-pas-de-calais-1658212;[' git ', 'azure', 'docker', 'sql', 'jira', 'agile', 'sonar', 'sonarqube', ' sas']
+155;consultant-senior-sap-fico-tma-1660434;"
+                    Nigel Frank International LTD ";Lille;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-senior-sap-fico-tma-1660434;['anglais']
+156;expert-embedded-software-1660367;"
+                    Nigel Frank International LTD ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/expert-embedded-software-1660367;['python', 'agile', 'scrum', 'linux']
+157;developpeur-net-st-nazaire-1660311;"
+                    Nigel Frank International LTD ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-net-st-nazaire-1660311;['sql', 'anglais', ' sas']
+158;consultant-sedentaire-sage-1660194;"
+                    Nigel Frank International LTD ";Paris;6 mois; 210-1630 €;02/02/2022;https://www.freelance-info.fr/mission/consultant-sedentaire-sage-1660194;[]
+159;ingenieur-azure-1657922;"
+                    Nigel Frank International LTD ";Paris;6 mois; 210-1630 €;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-azure-1657922;['azure', 'anglais']
+160;ingenieur-cybersecurite-h-f-1657864;"
+                    Nigel Frank International LTD ";La Défense (92);6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-cybersecurite-h-f-1657864;['anglais', 'firewalls', 'cartographie', 'linux']
+161;administrateur-exchange-o-1658150;"
+                    Nigel Frank International LTD ";La Défense (92);6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/administrateur-exchange-o-1658150;['azure', 'sql', 'powershell']
+162;architecte-infrastructure-technique-1657848;"
+                    Nigel Frank International LTD ";Marmande;Durée non renseignée; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-technique-1657848;['modélisation', 'linux']
+163;ingenieur-cloud-azure-aws-1657830;"
+                    Nigel Frank International LTD ";Marmande;Durée non renseignée; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-azure-aws-1657830;['aws', 'azure', 'anglais']
+164;expert-devops-1657819;"
+                    Nigel Frank International LTD ";Bordeaux;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/expert-devops-1657819;['java', 'docker', 'sql', 'agile', 'mysql', 'mariadb']
+165;senior-m-powerplatform-1659963;"
+                    Nigel Frank International LTD ";Bordeaux;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/senior-m-powerplatform-1659963;['azure']
+166;ingenieur-devops-cloud-scaleway-cdi-lille-1659631;"
+                    Nigel Frank International LTD ";Courbevoie;1 année; 400-450 €;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-cloud-scaleway-cdi-lille-1659631;['github', 'docker', 'python', 'sql', 'ci/cd', 'linux', 'microservice']
+167;consultant-senior-power-app-1657510;"
+                    Nigel Frank International LTD ";Courbevoie;1 année; 400-450 €;01/02/2022;https://www.freelance-info.fr/mission/consultant-senior-power-app-1657510;['azure', 'sql', 'anglais']
+168;analyste-securite-1657497;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 271 €;31/01/2022;https://www.freelance-info.fr/mission/analyste-securite-1657497;[]
+169;architect-m-1657506;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; 271 €;31/01/2022;https://www.freelance-info.fr/mission/architect-m-1657506;['azure', 'sql', 'anglais', 'powershell']
+170;architecte-fonctionnel-1657494;"
+                    Nigel Frank International LTD ";Spain;1 année; 250 €;31/01/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-1657494;['agile', 'modélisation']
+171;microsoft-dynamics-nav-consultant-1659426;"
+                    Nigel Frank International LTD ";Spain;1 année; 250 €;31/01/2022;https://www.freelance-info.fr/mission/microsoft-dynamics-nav-consultant-1659426;['azure', 'anglais']
+172;project-manager-dynamics-f-o-freelance-1659400;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/project-manager-dynamics-f-o-freelance-1659400;['azure', 'anglais']
+173;mission-devops-aws-run-freelance-1657285;"
+                    Nigel Frank International LTD ";Paris;Durée non renseignée; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/mission-devops-aws-run-freelance-1657285;['aws', 'ansible', 'python', 'sql', 'terraform', 'apache', 'postgresql', 'mysql', 'splunk', 'mongodb', 'linux']
+174;developpeur-react-react-native-1657228;"
+                    Nigel Frank International LTD ";France;2 années; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/developpeur-react-react-native-1657228;['java', 'scrum', ' sas']
+175;architecte-cloud-azure-1657102;"
+                    Nigel Frank International LTD ";France;2 années; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/architecte-cloud-azure-1657102;['azure']
+176;ingenieur-de-production-infrastructure-azure-support-n-1657110;"
+                    Nigel Frank International LTD ";Brussels;521 160 mois; 600 €;31/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-infrastructure-azure-support-n-1657110;['azure', 'anglais', ' sas']
+177;consultant-sedentaire-sage-1658981;"
+                    Nigel Frank International LTD ";Brussels;521 160 mois; 600 €;31/01/2022;https://www.freelance-info.fr/mission/consultant-sedentaire-sage-1658981;[]
+178;chef-de-projet-workplace-1657024;"
+                    Nigel Frank International LTD ";Eindhoven;6 mois; 600 €;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-workplace-1657024;['azure', 'cartographie']
+179;architecte-solutions-cloud-microsoft-modern-workplace-h-f-1658772;"
+                    Nigel Frank International LTD ";Eindhoven;6 mois; 600 €;29/01/2022;https://www.freelance-info.fr/mission/architecte-solutions-cloud-microsoft-modern-workplace-h-f-1658772;['anglais']
+180;consultant-office-h-f-1658770;"
+                    Nigel Frank International LTD ";Paris;6 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/consultant-office-h-f-1658770;['azure', 'anglais']
+181;architecte-microsoft-modern-workplace-h-f-1658696;"
+                    Nigel Frank International LTD ";Paris;6 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/architecte-microsoft-modern-workplace-h-f-1658696;['azure']
+182;consultant-office-h-f-paris-cdi-1658658;"
+                    Nigel Frank International LTD ";Lille;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/consultant-office-h-f-paris-cdi-1658658;['anglais']
+183;solution-architect-avant-vente-infra-cloud-1658503;"
+                    Nigel Frank International LTD ";Lille;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/solution-architect-avant-vente-infra-cloud-1658503;[]
+184;ingenieur-devops-1658501;"
+                    Nigel Frank International LTD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1658501;['aws', 'ansible', 'terraform', 'scala']
+185;senior-backend-developer-1658199;"
+                    Nigel Frank International LTD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/senior-backend-developer-1658199;['java', 'agile']
+186;opportunite-consultant-fonctionnel-finance-d-fo-1658117;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/opportunite-consultant-fonctionnel-finance-d-fo-1658117;[]
+187;responsable-data-bi-microsoft-client-final-1658036;"
+                    Nigel Frank International LTD ";Barcelona;Durée non renseignée; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/responsable-data-bi-microsoft-client-final-1658036;['powerbi', 'azure', 'datawarehouse', 'anglais']
+188;arquitecto-azure-aws-part-time-full-remote-spain-1657927;"
+                    Nigel Frank International LTD ";Paris;86 400 années; 700 €;28/01/2022;https://www.freelance-info.fr/mission/arquitecto-azure-aws-part-time-full-remote-spain-1657927;['aws', 'azure']
+189;developpeur-integrateur-biztalk-1657903;"
+                    Nigel Frank International LTD ";Paris;86 400 années; 700 €;28/01/2022;https://www.freelance-info.fr/mission/developpeur-integrateur-biztalk-1657903;['github', 'azure', 'sql', 'oracle', 'agile', 'anglais', 'kanban', 'scrum']
+190;opportunite-consultant-fonctionnel-finance-d-fo-1657882;"
+                    Nigel Frank International LTD ";Amsterdam;6 mois; 600 €;28/01/2022;https://www.freelance-info.fr/mission/opportunite-consultant-fonctionnel-finance-d-fo-1657882;[]
+191;consultant-junior-sage-paie-1657651;"
+                    Nigel Frank International LTD ";Amsterdam;6 mois; 600 €;28/01/2022;https://www.freelance-info.fr/mission/consultant-junior-sage-paie-1657651;['tableau', 'tableaux de bord']
+192;consultant-experimente-erp-finance-1657649;"
+                    Nigel Frank International LTD ";Rennes;12 mois; 430-450 €;28/01/2022;https://www.freelance-info.fr/mission/consultant-experimente-erp-finance-1657649;['anglais']
+193;functional-consultant-nav-business-central-1657184;"
+                    Nigel Frank International LTD ";Rennes;12 mois; 430-450 €;28/01/2022;https://www.freelance-info.fr/mission/functional-consultant-nav-business-central-1657184;['powerbi', 'azure']
+194;functional-consultant-nav-business-central-1657161;"
+                    Nigel Frank International LTD ";Lille;3 années; 290-1760 €;28/01/2022;https://www.freelance-info.fr/mission/functional-consultant-nav-business-central-1657161;['powerbi', 'azure']
+195;consultant-sage-1656797;"
+                    Nigel Frank International LTD ";Lille;3 années; 290-1760 €;28/01/2022;https://www.freelance-info.fr/mission/consultant-sage-1656797;[]
+196;developpeur-dynamics-crm-1656789;"
+                    Nigel Frank International LTD ";La Défense (92);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-dynamics-crm-1656789;['java', 'azure', 'sql', 'agile', 'anglais', 'scrum', 'ssrs', ' ssis']
+197;integrateur-developpeur-azure-1656610;"
+                    Nigel Frank International LTD ";La Défense (92);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/integrateur-developpeur-azure-1656610;['azure', 'modélisation', 'anglais']
+198;backend-developer-go-python-1656439;"
+                    Nigel Frank International LTD ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/backend-developer-go-python-1656439;['github', 'docker', 'python', 'sql', 'api rest', 'mysql', 'mongodb']
+199;project-manager-dynamics-crm-1656368;"
+                    Nigel Frank International LTD ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/project-manager-dynamics-crm-1656368;['anglais']
+200;consultant-fonctionnel-navision-1655988;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-fonctionnel-navision-1655988;['azure', 'anglais']
+201;chef-de-projet-o-1655510;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-o-1655510;['azure', 'sql']
+202;consultant-sage-1655958;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-sage-1655958;[]
+203;functional-consultant-crm-1655905;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/functional-consultant-crm-1655905;['azure']
+204;consultant-o-sharepoint-1654967;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-o-sharepoint-1654967;['azure', 'sql', 'powershell']
+205;solution-architect-dynamics-crm-1655766;"
+                    Nigel Frank International LTD ";Paris;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/solution-architect-dynamics-crm-1655766;[]
+206;consultant-fonctionnel-navision-1655765;"
+                    Nigel Frank International LTD ";Paris;2 années; 100-500 €;28/01/2022;https://www.freelance-info.fr/mission/consultant-fonctionnel-navision-1655765;['azure', 'anglais']
+207;consultant-technique-dynamics-crm-1655764;"
+                    Nigel Frank International LTD ";Paris;2 années; 100-500 €;28/01/2022;https://www.freelance-info.fr/mission/consultant-technique-dynamics-crm-1655764;['java', 'azure', 'sql', 'agile', 'anglais', 'scrum', 'ssrs', ' ssis']
+208;consultant-technique-navision-1655763;"
+                    Nigel Frank International LTD ";Bordeaux;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-technique-navision-1655763;['azure']
+209;project-manager-navision-1655762;"
+                    Nigel Frank International LTD ";Bordeaux;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/project-manager-navision-1655762;['azure']

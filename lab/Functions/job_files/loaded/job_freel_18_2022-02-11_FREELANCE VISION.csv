@@ -1,0 +1,361 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;chef-de-projet-infra-signature-electronique-1666671;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infra-signature-electronique-1666671;[]
+1;expert-fonctionnel-servicenow-1664117;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-fonctionnel-servicenow-1664117;[]
+2;architecte-urbaniste-1664119;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-urbaniste-1664119;['itil']
+3;chef-de-projet-technique-bancaire-1664115;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-bancaire-1664115;[]
+4;integrateur-d-application-qualification-logiciel-1666298;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/integrateur-d-application-qualification-logiciel-1666298;['java', 'jira', 'anglais', 'splunk']
+5;chef-de-projet-moe-bancaire-1664013;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-bancaire-1664013;['scrum']
+6;expert-e-securite-si-1666091;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-e-securite-si-1666091;[]
+7;expert-e-securite-si-1666090;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-e-securite-si-1666090;[]
+8;dba-oracle-confirm-1666089;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dba-oracle-confirm-1666089;['oracle']
+9;chef-de-projet-monetique-1665931;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-monetique-1665931;['sql', 'db2', 'oracle', 'agile']
+10;integrateur-d-applications-1665894;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/integrateur-d-applications-1665894;['java', 'jira', 'anglais', 'splunk']
+11;directeur-de-projet-senior-bancaire-1665888;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-senior-bancaire-1665888;[]
+12;consultant-support-avaya-n-1665881;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-support-avaya-n-1665881;['tableau']
+13;chef-de-projet-moe-php-mysql-1665879;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-php-mysql-1665879;['sql', 'datawarehouse', 'mysql']
+14;consultant-cloud-1665878;"
+                    FREELANCE VISION ";Cesson-Sévigné;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-cloud-1665878;[]
+15;consultant-sap-fiaa-1665877;"
+                    FREELANCE VISION ";Cesson-Sévigné;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-sap-fiaa-1665877;['jira', 'cartographie']
+16;concepteur-sas-1663518;"
+                    FREELANCE VISION ";Rochelle (La);12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/concepteur-sas-1663518;['qlik', 'sql', 'jira', 'agile', ' sas', 'linux']
+17;business-analyste-bancaire-1663499;"
+                    FREELANCE VISION ";Rochelle (La);12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyste-bancaire-1663499;['jira', 'agile']
+18;chef-de-projet-technique-1663509;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-1663509;['java', 'agile']
+19;dba-etude-mysql-db-luw-1663497;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/dba-etude-mysql-db-luw-1663497;['sql', 'db2', 'mysql', 'linux']
+20;expert-power-bi-1663487;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-power-bi-1663487;['tableau', 'powerbi', 'power bi', 'tableaux de bord']
+21;administrateur-bases-de-donnees-oracle-sql-server-1663453;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-bases-de-donnees-oracle-sql-server-1663453;['sql', 'oracle', 'postgresql', 'mysql', 'mongodb', 'linux']
+22;chef-de-projet-coordinateur-technique-infra-1663441;"
+                    FREELANCE VISION ";Roubaix;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-coordinateur-technique-infra-1663441;[]
+23;chef-de-projet-infra-1663442;"
+                    FREELANCE VISION ";Roubaix;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infra-1663442;['agile']
+24;chef-de-projet-amoe-java-1663395;"
+                    FREELANCE VISION ";Saint-Denis;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoe-java-1663395;['java', 'sql', 'apache', 'tomcat', 'postgresql', 'linux']
+25;developpeur-bo-bi-1663398;"
+                    FREELANCE VISION ";Saint-Denis;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-bo-bi-1663398;['sql', ' bo ', 'db2']
+26;consultant-data-senior-specialise-ssis-1663400;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-data-senior-specialise-ssis-1663400;['sql', 'datawarehouse', 'jira', ' ssis']
+27;pmo-1663403;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/pmo-1663403;['tableau', 'tableaux de bord']
+28;consultant-risques-1663388;"
+                    FREELANCE VISION ";Strasbourg;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-risques-1663388;[]
+29;chef-de-projet-directeur-de-projet-de-production-1663390;"
+                    FREELANCE VISION ";Strasbourg;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-directeur-de-projet-de-production-1663390;['elk', 'docker', 'oracle', 'itil', 'jboss', 'linux']
+30;testeur-automaticien-1663391;"
+                    FREELANCE VISION ";Nanterre;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/testeur-automaticien-1663391;['gitlab', 'azure', 'ci/cd', 'jira', 'agile', 'anglais']
+31;integrateur-unix-aix-oracle-1663393;"
+                    FREELANCE VISION ";Nanterre;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-unix-aix-oracle-1663393;['sql', 'oracle']
+32;chef-de-projet-obsolescences-techniques-1663394;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-obsolescences-techniques-1663394;['java', 'agile']
+33;coordinateur-technique-infra-1663383;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/coordinateur-technique-infra-1663383;[]
+34;expert-informatica-1663384;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-informatica-1663384;['oracle']
+35;developpeur-full-stack-1665701;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-1665701;['java', 'anglais']
+36;administrateur-bases-de-donnees-dba-h-f-1665699;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-bases-de-donnees-dba-h-f-1665699;['sql', 'oracle', 'mysql', 'mongodb', 'linux']
+37;consultant-sap-success-factor-position-management-1665697;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-sap-success-factor-position-management-1665697;['anglais']
+38;ingenieur-reseau-expert-cisco-aci-1665693;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-expert-cisco-aci-1665693;[' excel ', 'agile']
+39;concepteur-developpeur-api-1665689;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-api-1665689;['java', 'gitlab', 'jenkins', 'docker', 'api rest']
+40;architecte-urbaniste-si-1665687;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-urbaniste-si-1665687;[]
+41;proxy-product-owner-1665686;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-1665686;['agile', 'anglais', 'scrum']
+42;chef-de-projet-moe-1665685;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-1665685;['scrum']
+43;consultant-securite-operationnelle-1665683;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-securite-operationnelle-1665683;['firewalls']
+44;developpeur-java-1665682;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1665682;['java', 'gitlab', 'jenkins', 'kafka', 'maven', 'sql', 'db2', 'sonar', 'postgresql']
+45;tech-lead-java-1665680;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-1665680;['java', 'gitlab', 'sql', 'ci/cd', 'jira', 'tomcat', 'jboss', 'splunk']
+46;developpeur-full-stack-java-j-ee-angular-1665679;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-j-ee-angular-1665679;['java']
+47;leader-technique-1665678;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/leader-technique-1665678;['gitlab', 'jenkins', 'elk', 'jira', 'agile', 'anglais', 'linux']
+48;gestionnaire-catalogue-de-service-itil-1665677;"
+                    FREELANCE VISION ";Ile de France;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/gestionnaire-catalogue-de-service-itil-1665677;['agile', 'powerpoint', 'itil']
+49;developpeur-java-springboot-1665675;"
+                    FREELANCE VISION ";Ile de France;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-springboot-1665675;['java', 'sql', 'hadoop', 'springboot', 'scrum']
+50;consultant-sap-s-hana-1665674;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-sap-s-hana-1665674;['jira', 'agile']
+51;tech-lead-forgerock-1665672;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-forgerock-1665672;[]
+52;ingenieur-developpement-java-1665671;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-java-1665671;['java', 'jenkins', 'aws', 'sql', 'jira', 'oracle', 'sonar', 'mysql']
+53;architecte-reseau-1665670;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-1665670;['jenkins', 'elk', 'ansible', 'apache', 'linux']
+54;integrateur-unix-elk-1665667;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-unix-elk-1665667;['gitlab', 'elk', 'ansible', 'logstash', 'linux']
+55;ingenieur-supervision-centreon-1665665;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-supervision-centreon-1665665;['gitlab', 'python', 'agile']
+56;proxy-product-owner-1665500;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-1665500;['agile', 'anglais', 'scrum']
+57;developpeur-java-1665498;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1665498;['java', 'gitlab', 'jenkins', 'kafka', 'maven', 'sql', 'db2', 'sonar', 'postgresql']
+58;developpeur-full-stack-java-j-ee-angular-1665424;"
+                    FREELANCE VISION ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-j-ee-angular-1665424;['java']
+59;gestionnaire-catalogue-de-service-itil-1665423;"
+                    FREELANCE VISION ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/gestionnaire-catalogue-de-service-itil-1665423;['agile', 'powerpoint', 'itil']
+60;developpeur-java-springboot-1665421;"
+                    FREELANCE VISION ";Rennes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-springboot-1665421;['java', 'sql', 'hadoop', 'springboot', 'scrum']
+61;tech-lead-forgerock-1665397;"
+                    FREELANCE VISION ";Rennes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-forgerock-1665397;[]
+62;ingenieur-developpement-java-1665297;"
+                    FREELANCE VISION ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-java-1665297;['java', 'jenkins', 'aws', 'sql', 'jira', 'oracle', 'sonar', 'mysql']
+63;ingenieur-supervision-centreon-1665259;"
+                    FREELANCE VISION ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-supervision-centreon-1665259;['gitlab', 'python', 'agile']
+64;ingenieur-reseau-expert-cisco-aci-1665255;"
+                    FREELANCE VISION ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-expert-cisco-aci-1665255;[' excel ', 'agile']
+65;concepteur-developpeur-api-1665249;"
+                    FREELANCE VISION ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-api-1665249;['java', 'gitlab', 'jenkins', 'docker', 'api rest']
+66;architecte-urbaniste-si-1665248;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-urbaniste-si-1665248;[]
+67;chef-de-projet-moe-1665246;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-1665246;['scrum']
+68;tech-lead-java-1665244;"
+                    FREELANCE VISION ";Puteaux;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-1665244;['java', 'gitlab', 'sql', 'ci/cd', 'jira', 'tomcat', 'jboss', 'splunk']
+69;leader-technique-1665240;"
+                    FREELANCE VISION ";Puteaux;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/leader-technique-1665240;['gitlab', 'jenkins', 'elk', 'jira', 'agile', 'anglais', 'linux']
+70;consultant-sap-s-hana-1665238;"
+                    FREELANCE VISION ";Clermont-Ferrand;6 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-sap-s-hana-1665238;['jira', 'agile']
+71;consultant-sap-success-factor-position-management-1665236;"
+                    FREELANCE VISION ";Clermont-Ferrand;6 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-sap-success-factor-position-management-1665236;['anglais']
+72;administrateur-bases-de-donnees-dba-h-f-1665234;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-bases-de-donnees-dba-h-f-1665234;['sql', 'oracle', 'mysql', 'mongodb', 'linux']
+73;developpeur-full-stack-1665233;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-1665233;['java', 'anglais']
+74;architecte-reseau-1665232;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-1665232;['jenkins', 'elk', 'ansible', 'apache', 'linux']
+75;integrateur-unix-elk-1665231;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-unix-elk-1665231;['gitlab', 'elk', 'ansible', 'logstash', 'linux']
+76;developpeur-scrum-master-1665230;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-scrum-master-1665230;['java', 'agile', 'scrum']
+77;integrateur-d-applications-linux-unix-1665227;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-d-applications-linux-unix-1665227;['linux']
+78;coordinateur-technique-infra-1665225;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/coordinateur-technique-infra-1665225;[]
+79;expert-genesys-cloud-1665223;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-genesys-cloud-1665223;['agile', 'anglais', 'salesforce']
+80;coordinateur-technique-infra-1665221;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/coordinateur-technique-infra-1665221;['agile']
+81;developpeur-siebel-1665220;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-siebel-1665220;[]
+82;developpeur-siebel-1665217;"
+                    FREELANCE VISION ";Aix-en-Provence;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-siebel-1665217;[]
+83;developpeur-java-angular-1665213;"
+                    FREELANCE VISION ";Aix-en-Provence;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-1665213;['java', 'gitlab', 'agile', 'itil']
+84;chef-de-projet-obsolescences-techniques-1663243;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-obsolescences-techniques-1663243;['java', 'agile']
+85;coordinateur-technique-infra-1662997;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/coordinateur-technique-infra-1662997;[]
+86;expert-informatica-1662998;"
+                    FREELANCE VISION ";Boulogne-Billancourt;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-informatica-1662998;['oracle']
+87;expert-genesys-cloud-1665011;"
+                    FREELANCE VISION ";Boulogne-Billancourt;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-genesys-cloud-1665011;['agile', 'anglais', 'salesforce']
+88;consultant-service-now-1664930;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-service-now-1664930;['agile', 'anglais']
+89;developpeur-rapports-et-univers-bo-bi-1662860;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-rapports-et-univers-bo-bi-1662860;['sql', ' bo ', 'db2']
+90;concepteur-sas-1662856;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/concepteur-sas-1662856;['qlik', 'sql', 'jira', 'agile', ' sas', 'linux']
+91;scrum-master-1662842;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/scrum-master-1662842;['agile', 'scrum']
+92;integrateur-d-applications-linux-unix-1662723;"
+                    FREELANCE VISION ";Lyon;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-d-applications-linux-unix-1662723;['linux']
+93;testeur-fonctionnel-bancaire-1662726;"
+                    FREELANCE VISION ";Lyon;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/testeur-fonctionnel-bancaire-1662726;[]
+94;coordinateur-technique-infra-1662685;"
+                    FREELANCE VISION ";Vannes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/coordinateur-technique-infra-1662685;['agile']
+95;chef-de-projet-moe-bancaire-1664621;"
+                    FREELANCE VISION ";Vannes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-bancaire-1664621;['scrum']
+96;chef-de-projet-decisionnel-1664619;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-decisionnel-1664619;['sql', 'jira', 'db2', ' sas']
+97;expertise-technique-digdash-1662146;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expertise-technique-digdash-1662146;[]
+98;developpeur-fullstack-jee-vue-js-confirme-1661969;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-jee-vue-js-confirme-1661969;['java', 'agile']
+99;developpeur-bi-ssis-ssrs-erp-1661955;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-bi-ssis-ssrs-erp-1661955;['sql', 'anglais', 'ssrs', ' ssis']
+100;testeur-liferay-1661959;"
+                    FREELANCE VISION ";Courbevoie;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/testeur-liferay-1661959;['jira', 'confluence']
+101;analyste-cybersecurite-1661948;"
+                    FREELANCE VISION ";Courbevoie;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/analyste-cybersecurite-1661948;['aws', 'azure', 'python', 'anglais', 'firewalls']
+102;developpeur-talend-cloud-1661936;"
+                    FREELANCE VISION ";Châtillon;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-talend-cloud-1661936;['talend']
+103;parametreur-expert-cleva-web-1661929;"
+                    FREELANCE VISION ";Châtillon;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/parametreur-expert-cleva-web-1661929;['java', 'sql', 'jira', 'agile', 'confluence', 'scrum']
+104;developpeur-java-angular-1661924;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-1661924;['java', 'gitlab', 'agile', 'itil']
+105;ingenieur-exploitation-applicatif-1661900;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-exploitation-applicatif-1661900;['oracle', 'jboss']
+106;ingenieur-exploitation-applicatif-1661902;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-exploitation-applicatif-1661902;['oracle', 'jboss']
+107;testeur-fonctionnel-1661892;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/testeur-fonctionnel-1661892;['azure', 'jira', 'agile', 'anglais']
+108;tech-lead-unix-aix-1661876;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-unix-aix-1661876;[]
+109;chef-de-projet-mainframe-1661879;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-mainframe-1661879;['db2']
+110;pmo-risques-1661880;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/pmo-risques-1661880;[]
+111;pmo-bancaire-1661882;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/pmo-bancaire-1661882;['tableau', 'tableaux de bord']
+112;developpeur-full-stack-java-jee-angular-spring-1661865;"
+                    FREELANCE VISION ";Aix-en-Provence;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-jee-angular-spring-1661865;['java', 'docker']
+113;developpeur-full-stack-java-jee-angular-spring-1661866;"
+                    FREELANCE VISION ";Aix-en-Provence;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-jee-angular-spring-1661866;['java', 'docker']
+114;chef-de-projet-obsolescence-1661867;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-obsolescence-1661867;['docker', 'sql', 'jira', 'oracle', 'agile', 'apache', 'postgresql', 'itil', 'mysql', 'linux']
+115;expert-technique-java-unix-1661868;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-technique-java-unix-1661868;[]
+116;consultant-tibco-bw-bpm-1661870;"
+                    FREELANCE VISION ";Lyon;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-tibco-bw-bpm-1661870;['jenkins', 'tableau', 'kafka', 'apache', 'grafana', 'scrum', 'linux']
+117;coach-agile-1661871;"
+                    FREELANCE VISION ";Lyon;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/coach-agile-1661871;['agile', 'kanban', 'scrum']
+118;pmo-risques-1661872;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pmo-risques-1661872;[]
+119;pmo-risques-1661873;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pmo-risques-1661873;[]
+120;expert-genesys-1661874;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-genesys-1661874;[]
+121;developpeur-vuejs-1661875;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-vuejs-1661875;['gitlab', 'docker', 'api rest', 'agile']
+122;consultant-risques-operationnels-1661852;"
+                    FREELANCE VISION ";Châtillon;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-risques-operationnels-1661852;[]
+123;analyste-ssis-1661853;"
+                    FREELANCE VISION ";Châtillon;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-ssis-1661853;['qlik', 'sql', ' ssis']
+124;consultant-ssis-1661854;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-ssis-1661854;['qlik', ' ssis']
+125;analyste-ssis-confirme-1661856;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-ssis-confirme-1661856;['qlik', 'sql', ' ssis']
+126;pmo-bancaire-1661857;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pmo-bancaire-1661857;['tableau', 'tableaux de bord']
+127;consultant-powerbi-1661858;"
+                    FREELANCE VISION ";Brest;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-powerbi-1661858;['powerbi', ' ssis', 'ssas']
+128;expert-e-securite-si-1661861;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-e-securite-si-1661861;['anglais']
+129;expert-e-securite-si-1661862;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-e-securite-si-1661862;['anglais']
+130;analyste-applicatif-pl-sql-api-kafka-1661864;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-applicatif-pl-sql-api-kafka-1661864;['kafka', 'sql', 'api rest']
+131;analyste-applicatif-pl-sql-api-kafka-1661162;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-applicatif-pl-sql-api-kafka-1661162;['kafka', 'sql', 'api rest']
+132;expert-e-securite-si-1661130;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-e-securite-si-1661130;['anglais']
+133;expert-e-securite-si-1661134;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-e-securite-si-1661134;['anglais']
+134;analyste-ssis-1661112;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-ssis-1661112;['qlik', 'sql', ' ssis']
+135;consultant-ssis-1661115;"
+                    FREELANCE VISION ";Nantes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-ssis-1661115;['qlik', ' ssis']
+136;analyste-ssis-confirme-1661116;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-ssis-confirme-1661116;['qlik', 'sql', ' ssis']
+137;consultant-powerbi-1661117;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-powerbi-1661117;['powerbi', ' ssis', 'ssas']
+138;chef-de-projet-bancaire-responsable-d-applications-1661109;"
+                    FREELANCE VISION ";Vannes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-bancaire-responsable-d-applications-1661109;[]
+139;consultant-risques-operationnels-1661111;"
+                    FREELANCE VISION ";Vannes;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-risques-operationnels-1661111;[]
+140;pmo-bancaire-1661098;"
+                    FREELANCE VISION ";Courbevoie;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pmo-bancaire-1661098;['tableau']
+141;testeur-automaticien-1660822;"
+                    FREELANCE VISION ";Courbevoie;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/testeur-automaticien-1660822;['gitlab', 'azure', 'ci/cd', 'jira', 'agile', 'anglais']
+142;integrateur-unix-aix-oracle-1660817;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/integrateur-unix-aix-oracle-1660817;['sql', 'oracle']
+143;chef-de-projet-directeur-de-projet-de-production-1660746;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-directeur-de-projet-de-production-1660746;['elk', 'docker', 'oracle', 'itil', 'jboss', 'linux']
+144;consultant-risques-1660740;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-risques-1660740;[]
+145;business-analyste-bancaire-1660480;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-analyste-bancaire-1660480;['jira', 'agile']
+146;consultant-risques-1660488;"
+                    FREELANCE VISION ";Clermont-Ferrand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-risques-1660488;[]
+147;administrateur-des-solutions-de-telephonie-et-de-mobilite-1660134;"
+                    FREELANCE VISION ";Clermont-Ferrand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-des-solutions-de-telephonie-et-de-mobilite-1660134;[]
+148;coach-agile-1660135;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/coach-agile-1660135;['agile', 'scrum']
+149;ingenieur-de-developpement-siebel-confirme-1660128;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-developpement-siebel-confirme-1660128;['java']
+150;expert-fonctionnel-call-center-1660114;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-fonctionnel-call-center-1660114;['anglais']
+151;tech-lead-unix-aix-1659489;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-unix-aix-1659489;[]
+152;developpeur-vuejs-1659294;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-vuejs-1659294;['gitlab', 'docker', 'api rest', 'agile']
+153;scrum-master-1659292;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/scrum-master-1659292;['jira', 'agile', 'scrum']
+154;expert-genesys-1659257;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-genesys-1659257;[]
+155;pmo-risques-1659266;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pmo-risques-1659266;[]
+156;coach-agile-1659267;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/coach-agile-1659267;['agile', 'kanban', 'scrum']
+157;consultant-tibco-bw-bpm-1659252;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-tibco-bw-bpm-1659252;['jenkins', 'tableau', 'kafka', 'apache', 'grafana', 'scrum', 'linux']
+158;expert-technique-java-unix-1659255;"
+                    FREELANCE VISION ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-technique-java-unix-1659255;[]
+159;chef-de-projet-obsolescence-1658983;"
+                    FREELANCE VISION ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-obsolescence-1658983;['docker', 'sql', 'jira', 'oracle', 'agile', 'apache', 'postgresql', 'itil', 'mysql', 'linux']
+160;developpeur-full-stack-java-jee-angular-spring-1658962;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-jee-angular-spring-1658962;['java', 'docker']
+161;developpeur-full-stack-java-jee-angular-spring-1658964;"
+                    FREELANCE VISION ";Bordeaux;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-jee-angular-spring-1658964;['java', 'docker']
+162;expert-genesys-1658707;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-genesys-1658707;[]
+163;chef-de-projet-microsoft-dynamics-1658587;"
+                    FREELANCE VISION ";Montpellier;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-microsoft-dynamics-1658587;['powerbi', 'power bi', 'anglais', 'salesforce']
+164;manager-de-transition-communication-unifiee-et-de-l-audiovisuel-1658547;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/manager-de-transition-communication-unifiee-et-de-l-audiovisuel-1658547;[]
+165;administrateur-systeme-windows-linux-devops-1658549;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-windows-linux-devops-1658549;['java', 'gitlab', 'jenkins', 'docker', 'python', 'sql', 'oracle', 'apache', 'tomcat', 'itil', 'ldap', 'mysql', 'jboss', 'powershell', 'linux']
+166;expert-crm-salesforce-1658550;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-crm-salesforce-1658550;['powerbi', 'power bi', 'anglais', 'salesforce']
+167;consultant-amoa-retraite-1658541;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-amoa-retraite-1658541;[]
+168;concepteur-java-spring-angular-1658441;"
+                    FREELANCE VISION ";Nantes;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/concepteur-java-spring-angular-1658441;['java', 'agile']
+169;developpeur-android-mobile-1658417;"
+                    FREELANCE VISION ";Nantes;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-android-mobile-1658417;['java', 'gitlab', 'docker', 'agile', 'sonar']
+170;architecte-java-ou-php-1658415;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/architecte-java-ou-php-1658415;['java', 'ci/cd']
+171;product-owner-e-commerce-1658344;"
+                    FREELANCE VISION ";Bordeaux;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/product-owner-e-commerce-1658344;['jira', 'agile', 'confluence', 'anglais', 'scrum']
+172;expert-qlikview-nprinting-1658332;"
+                    FREELANCE VISION ";Puteaux;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/expert-qlikview-nprinting-1658332;['qlik', 'tableau', 'qliksense']
+173;developpeur-front-end-experimente-react-1658337;"
+                    FREELANCE VISION ";Puteaux;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-experimente-react-1658337;['java', 'api rest', 'agile']
+174;ingenieur-systeme-big-data-1658328;"
+                    FREELANCE VISION ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-big-data-1658328;[]
+175;chef-de-projet-mainframe-1658189;"
+                    FREELANCE VISION ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-mainframe-1658189;['db2']
+176;coach-agile-1658190;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/coach-agile-1658190;['agile', 'kanban', 'scrum']
+177;chef-de-projet-mainframe-1657526;"
+                    FREELANCE VISION ";Toulouse;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-mainframe-1657526;['db2']
+178;coach-agile-1657292;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/coach-agile-1657292;['agile', 'anglais', 'kanban', 'scrum']
+179;consultant-e-tagetik-1656889;"
+                    FREELANCE VISION ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-e-tagetik-1656889;[]

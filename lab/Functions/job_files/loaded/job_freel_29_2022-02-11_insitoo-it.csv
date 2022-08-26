@@ -1,0 +1,581 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;business-process-manager-supply-h-f-1666651;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-process-manager-supply-h-f-1666651;['anglais']
+1;leader-technique-jee-h-f-1666342;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/leader-technique-jee-h-f-1666342;['java', 'aws', 'azure', 'ci/cd']
+2;ingenieur-support-n-h-f-1666270;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-n-h-f-1666270;['gcp', 'oracle', ' sas', 'linux']
+3;scrum-master-experimente-h-f-1666224;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/scrum-master-experimente-h-f-1666224;['jira', 'agile', 'kanban', 'scrum']
+4;ingenieur-de-production-h-f-1666214;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-h-f-1666214;['tableau', 'python', 'sql', 'gcp', 'hadoop', 'datawarehouse', 'linux']
+5;responsable-des-systemes-applicatif-h-f-1666211;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/responsable-des-systemes-applicatif-h-f-1666211;[]
+6;lead-test-1666203;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lead-test-1666203;[]
+7;expert-active-directory-1666198;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-1666198;['azure', 'anglais', 'scala']
+8;sysops-h-f-1666191;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/sysops-h-f-1666191;['azure', 'gcp']
+9;developpeur-c-h-f-1666171;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-h-f-1666171;['python', 'modélisation', 'linux']
+10;superviseur-fonctionnel-h-f-1666099;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/superviseur-fonctionnel-h-f-1666099;['jira', 'agile', 'itil', 'kanban', 'scrum']
+11;chef-de-projet-paiement-h-f-1666022;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-paiement-h-f-1666022;[]
+12;business-analyst-confirme-h-f-1665997;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-confirme-h-f-1665997;['sql', 'oracle', 'agile']
+13;administrateur-reseaux-h-f-1665795;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administrateur-reseaux-h-f-1665795;['zscaler', ' sas']
+14;data-engineer-h-f-1665559;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/data-engineer-h-f-1665559;['azure', 'python', 'spark', 'databricks', 'hadoop', 'snowflake']
+15;analyst-data-sql-python-h-f-1665539;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/analyst-data-sql-python-h-f-1665539;['github', 'power bi', 'aws', 'python', 'spark', 'data lake', 'sql', 'databricks', 'jira', 'scrum', 'ssrs']
+16;ingenieur-data-h-f-1665533;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-data-h-f-1665533;['java', 'github', 'power bi', 'aws', 'python', 'spark', 'data lake', 'sql', 'databricks', 'ci/cd', 'jira', 'terraform', 'scala', 'ssrs']
+17;developpeur-c-vue-js-h-f-1665529;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-vue-js-h-f-1665529;['azure', 'sql', 'scrum']
+18;technicien-habilitations-h-f-1665515;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/technicien-habilitations-h-f-1665515;['vpn']
+19;developpeur-full-stack-h-f-1665446;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-h-f-1665446;['java', 'sql', 'gcp', 'agile', 'scrum', 'mongodb']
+20;developpeur-c-dotnet-h-f-1665394;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-dotnet-h-f-1665394;['sql']
+21;directeur-de-projet-h-f-1665333;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-h-f-1665333;[]
+22;chef-de-projet-crm-applicatif-h-f-1665219;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-crm-applicatif-h-f-1665219;['sql', 'ssrs', ' ssis']
+23;scrum-master-h-f-1663212;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1663212;['java', 'scrum', ' sas']
+24;leader-technique-front-end-h-f-1648146;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/leader-technique-front-end-h-f-1648146;['gitlab', 'docker', ' sas']
+25;developpeur-java-avec-competences-devops-h-f-1650355;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-avec-competences-devops-h-f-1650355;['java', 'gitlab', 'ci/cd', 'modélisation', ' sas']
+26;developpeur-fullstack-net-angular-h-f-1652869;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-net-angular-h-f-1652869;['sql', 'sonar', ' sas']
+27;developpeur-qliksense-h-f-1652904;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-qliksense-h-f-1652904;['qlik', 'qliksense', 'modélisation', 'anglais', ' sas']
+28;consultant-technique-ms-bi-h-f-1650719;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-technique-ms-bi-h-f-1650719;['tableau', 'azure', 'anglais', 'tableaux de bord', ' sas']
+29;analyste-test-h-f-1655822;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-test-h-f-1655822;[' sas']
+30;rssi-h-f-1665048;"
+                    insitoo-it ";Lyon;1 année; 350 €;07/02/2022;https://www.freelance-info.fr/mission/rssi-h-f-1665048;[]
+31;analyste-cobol-h-f-1665000;"
+                    insitoo-it ";Lyon;1 année; 350 €;07/02/2022;https://www.freelance-info.fr/mission/analyste-cobol-h-f-1665000;['java', 'agile', ' sas']
+32;developpeur-net-h-f-1664996;"
+                    insitoo-it ";Lyon;1 année; 350 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-net-h-f-1664996;['agile', ' sas']
+33;developpeur-java-h-f-1631680;"
+                    insitoo-it ";Lyon;1 année; 350 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1631680;['java', 'tomcat', ' sas']
+34;consultant-devops-h-f-1631651;"
+                    insitoo-it ";Lyon;1 année; 350 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-devops-h-f-1631651;['ci/cd', ' sas']
+35;integrateur-distribue-h-f-1639766;"
+                    insitoo-it ";Lyon;1 année; 350 €;07/02/2022;https://www.freelance-info.fr/mission/integrateur-distribue-h-f-1639766;[' sas']
+36;consultant-talend-confirme-h-f-1612601;"
+                    insitoo-it ";Lyon;1 année; 260 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-talend-confirme-h-f-1612601;['talend', ' sas']
+37;analyste-technique-mvs-h-f-1597986;"
+                    insitoo-it ";Lyon;1 année; 260 €;07/02/2022;https://www.freelance-info.fr/mission/analyste-technique-mvs-h-f-1597986;['oracle']
+38;consultant-stambia-h-f-1664991;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-stambia-h-f-1664991;['sql', 'snowflake', 'anglais', ' sas']
+39;consultant-sas-stambia-h-f-1664987;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-sas-stambia-h-f-1664987;['sql', 'snowflake', 'anglais', ' sas']
+40;business-analyst-junior-h-f-1664899;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-analyst-junior-h-f-1664899;['anglais']
+41;devsecops-h-f-1664891;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/devsecops-h-f-1664891;['java', 'github', 'gitlab', 'aws', 'azure', 'docker', 'ansible', 'python', 'ci/cd', 'terraform', 'powershell', 'linux']
+42;chef-de-projet-data-migration-h-f-1664887;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-data-migration-h-f-1664887;['anglais']
+43;chef-de-projet-data-h-f-1664875;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-data-h-f-1664875;['datawarehouse']
+44;architecte-cloud-azure-h-f-1662854;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-azure-h-f-1662854;['azure', 'ci/cd', 'anglais', 'scala', ' sas']
+45;lead-test-h-f-1664768;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/lead-test-h-f-1664768;['anglais']
+46;developpeur-back-java-h-f-1664765;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-back-java-h-f-1664765;['java', 'kafka']
+47;data-engineer-sap-bi-h-f-1664762;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/data-engineer-sap-bi-h-f-1664762;[]
+48;developpeur-pl-sql-1664758;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-pl-sql-1664758;['sql', ' sas']
+49;developpeur-sql-h-f-1664754;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-sql-h-f-1664754;['sql']
+50;developpeur-back-h-f-1664745;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-back-h-f-1664745;['java', 'sql', 'gcp', 'ci/cd', 'api rest', 'oracle', 'agile']
+51;chef-de-projet-moe-h-f-1664744;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-h-f-1664744;['oracle', 'agile', 'scrum']
+52;developpeur-windev-h-f-1664741;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-windev-h-f-1664741;[]
+53;designer-web-mobile-h-f-1664739;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/designer-web-mobile-h-f-1664739;['jira']
+54;data-analyst-h-f-1664717;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/data-analyst-h-f-1664717;['powerbi', 'sql', 'gcp']
+55;business-analyst-h-f-1664698;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/business-analyst-h-f-1664698;['sql', 'agile', 'kanban', 'scrum']
+56;proxi-product-owner-h-f-1664673;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/proxi-product-owner-h-f-1664673;['sql', ' sas']
+57;chef-de-projet-referencement-h-f-1664655;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-referencement-h-f-1664655;[' sas']
+58;administrateur-n-fonctionnel-h-f-1664648;"
+                    insitoo-it ";Lille et périphérie;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/administrateur-n-fonctionnel-h-f-1664648;['oracle', 'anglais', 'itil', 'linux']
+59;ingenieur-support-applicatif-supply-chain-h-f-1664351;"
+                    insitoo-it ";Lille et périphérie;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-applicatif-supply-chain-h-f-1664351;['talend', 'kafka', 'oracle', 'anglais', 'grafana', 'scala', ' sas', 'linux']
+60;developpeur-back-h-f-1664328;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-back-h-f-1664328;['java', 'agile']
+61;lead-dev-h-f-1664325;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/lead-dev-h-f-1664325;['java', 'sql', 'postgresql']
+62;responsable-systeme-applicatif-h-f-1664324;"
+                    insitoo-it ";Lille;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/responsable-systeme-applicatif-h-f-1664324;['sql', 'linux']
+63;business-analyst-finance-comptabilite-h-f-1664265;"
+                    insitoo-it ";Lille;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/business-analyst-finance-comptabilite-h-f-1664265;[' sas']
+64;analyste-test-mainframe-h-f-1663989;"
+                    insitoo-it ";Grenoble;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/analyste-test-mainframe-h-f-1663989;['xray']
+65;analystes-d-exploitation-h-f-1663960;"
+                    insitoo-it ";Grenoble;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/analystes-d-exploitation-h-f-1663960;['linux']
+66;ingenieur-de-production-h-f-1663957;"
+                    insitoo-it ";Télétravail;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-h-f-1663957;['aws', 'powershell', 'linux']
+67;technicien-reseau-securite-junior-h-f-1663954;"
+                    insitoo-it ";Télétravail;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/technicien-reseau-securite-junior-h-f-1663954;[]
+68;expert-reseaux-n-h-f-1663947;"
+                    insitoo-it ";Rouen (76000);1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-reseaux-n-h-f-1663947;[]
+69;administrateur-service-now-h-f-1663935;"
+                    insitoo-it ";Rouen (76000);1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-service-now-h-f-1663935;['java', 'itil']
+70;application-ingenieur-sysops-h-f-1663929;"
+                    insitoo-it ";Paris;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/application-ingenieur-sysops-h-f-1663929;['docker', 'ansible', 'python', 'ci/cd', 'terraform', 'anglais']
+71;architecte-cloud-gcp-expert-terraform-h-f-1663925;"
+                    insitoo-it ";Paris;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-gcp-expert-terraform-h-f-1663925;['azure', 'gcp', 'terraform']
+72;administrateur-virtualisations-systemes-1663922;"
+                    insitoo-it ";Lille;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-virtualisations-systemes-1663922;['oracle', 'powershell', 'linux']
+73;administrateur-automation-h-f-1663921;"
+                    insitoo-it ";Lille;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-automation-h-f-1663921;['java', 'gitlab', 'aws', 'ansible', 'python', 'gcp', 'scrum', 'powershell']
+74;ingenieur-middleware-et-outils-1663917;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-middleware-et-outils-1663917;['sql', 'modélisation']
+75;data-steward-data-owner-h-f-1663879;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/data-steward-data-owner-h-f-1663879;[' excel ']
+76;developpeur-fullstack-h-f-1663876;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1663876;['java', 'kafka', 'api rest']
+77;developpeur-fullstack-h-f-1663873;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1663873;['java', 'kafka']
+78;lead-dev-java-h-f-1663870;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/lead-dev-java-h-f-1663870;['java']
+79;coach-agile-h-f-1663852;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/coach-agile-h-f-1663852;['jira', 'agile', 'scrum']
+80;developpeur-back-h-f-1663848;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-back-h-f-1663848;['java', 'kafka']
+81;data-engineer-h-f-1663839;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/data-engineer-h-f-1663839;['python', 'sql', 'gcp', 'airflow']
+82;chef-de-projet-informatique-senior-h-f-1663833;"
+                    insitoo-it ";Lyon;1 année; 480 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-informatique-senior-h-f-1663833;['docker', ' sas', 'linux']
+83;developpeur-pl-sql-comptable-h-f-1663832;"
+                    insitoo-it ";Lyon;1 année; 480 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-pl-sql-comptable-h-f-1663832;[' git ', 'sql', 'oracle']
+84;test-leader-h-f-1663682;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/test-leader-h-f-1663682;['sql', 'jira', 'oracle', 'agile', 'xray']
+85;expert-base-de-donnees-h-f-1661141;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-base-de-donnees-h-f-1661141;['oracle', ' sas', 'linux']
+86;leader-technique-java-h-f-1658055;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/leader-technique-java-h-f-1658055;['java', 'agile', ' sas']
+87;developpeur-databricks-h-f-1658067;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-databricks-h-f-1658067;['azure', 'databricks', ' sas']
+88;responsable-de-projet-sap-h-f-1660608;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/responsable-de-projet-sap-h-f-1660608;['anglais', ' sas']
+89;developpeur-cobol-h-f-1654075;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-h-f-1654075;['sql', 'db2', 'anglais', ' sas']
+90;business-analyst-mainframe-h-f-1654080;"
+                    insitoo-it ";Lille et périphérie (59000);6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/business-analyst-mainframe-h-f-1654080;['db2', 'anglais', ' sas']
+91;consultant-sap-mm-h-f-1645701;"
+                    insitoo-it ";Lille et périphérie (59000);6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-sap-mm-h-f-1645701;['anglais', ' sas']
+92;analyste-developpeur-automation-h-f-1663334;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-automation-h-f-1663334;[]
+93;ingenieur-support-h-f-1663333;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-h-f-1663333;['sql', 'datawarehouse', ' bo ', 'oracle', ' sas']
+94;analyste-developpeur-bi-h-f-1663331;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-bi-h-f-1663331;['sql', 'datawarehouse', ' bo ', 'oracle']
+95;team-leader-bi-h-f-1663330;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/team-leader-bi-h-f-1663330;['tableau', 'sql', 'datawarehouse', ' bo ', 'oracle', 'tableaux de bord']
+96;team-leader-h-f-1663329;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/team-leader-h-f-1663329;['tableau', 'tableaux de bord']
+97;expert-ci-cd-devops-1663291;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-ci-cd-devops-1663291;['ansible', 'ci/cd']
+98;developpeur-drupal-1663288;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-1663288;['agile']
+99;developpeur-big-data-1663284;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-1663284;[' git ', 'jenkins', 'elk', 'hortonworks', 'hadoop', 'xray', 'cloudera', 'sonar', 'grafana', 'sonarqube']
+100;coordinateur-de-tests-sap-1663283;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/coordinateur-de-tests-sap-1663283;['anglais']
+101;chef-de-projet-moe-confirme-h-f-1663227;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-confirme-h-f-1663227;['api rest', 'jira', 'agile', 'confluence']
+102;developpeur-java-h-f-1628616;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1628616;['java', ' sas', 'linux']
+103;developpeur-ios-swift-h-f-1627769;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-ios-swift-h-f-1627769;['agile', 'anglais', ' sas']
+104;developpeur-fullstack-java-angular-h-f-1625913;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-h-f-1625913;['java', 'gitlab', 'jenkins', 'aws', 'ansible', 'agile', 'springboot', ' sas']
+105;directeur-de-projets-infrastructure-h-f-1663058;"
+                    insitoo-it ";Le Havre (76600);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/directeur-de-projets-infrastructure-h-f-1663058;[]
+106;chef-de-projet-change-junior-1663054;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-change-junior-1663054;[]
+107;administrateur-reseaux-et-systemes-1663051;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/administrateur-reseaux-et-systemes-1663051;[]
+108;technicien-informatique-h-f-1663049;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/technicien-informatique-h-f-1663049;['scala', 'linux']
+109;responsable-application-h-f-1663047;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/responsable-application-h-f-1663047;['sql', 'oracle', 'agile', 'itil', 'scrum']
+110;ingenieur-systeme-et-reseaux-h-f-1663032;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-et-reseaux-h-f-1663032;['java', 'azure', 'tomcat', 'vpn', 'linux']
+111;consultant-bi-h-f-1663026;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-bi-h-f-1663026;[' odi ', 'sql', 'jira', ' sas']
+112;data-analyst-sas-viya-h-f-1663011;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/data-analyst-sas-viya-h-f-1663011;['tableau', 'agile', 'tableaux de bord', 'scrum', ' sas']
+113;responsable-applicatif-h-f-1662912;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/responsable-applicatif-h-f-1662912;['java', 'sql', 'postgresql']
+114;analyste-technique-microsoft-dynamics-crm-h-f-1662771;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-technique-microsoft-dynamics-crm-h-f-1662771;[]
+115;analyste-technique-datastage-h-f-1662246;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-technique-datastage-h-f-1662246;['datastage']
+116;consultant-peoplesoft-h-f-1662244;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-peoplesoft-h-f-1662244;['oracle', 'apache', ' sas', 'linux']
+117;expert-technique-alfresco-h-f-1662241;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-technique-alfresco-h-f-1662241;['java', 'jenkins', 'docker', 'maven', 'sql', 'oracle', 'sonar', 'tomcat', 'mysql', 'jboss', 'linux']
+118;chef-de-projet-pim-h-f-1662236;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-pim-h-f-1662236;['talend', 'modélisation', 'anglais']
+119;chef-de-projet-integration-crm-h-f-1662232;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-integration-crm-h-f-1662232;['anglais', 'itil', 'salesforce']
+120;developpeur-fullstack-java-angular-h-f-1603766;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-h-f-1603766;['java', ' git ', 'kafka', 'maven', 'sql', 'agile']
+121;leader-technique-fullstack-java-angular-1662170;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/leader-technique-fullstack-java-angular-1662170;['java', ' git ', 'jenkins', 'kafka', 'sql', 'hadoop', 'jira', 'agile', 'confluence', 'modélisation', 'springboot', 'postgresql']
+122;data-analyst-sas-h-f-1662117;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/data-analyst-sas-h-f-1662117;[' sas']
+123;concepteur-fonctionnel-d-application-proxy-po-h-f-1661952;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/concepteur-fonctionnel-d-application-proxy-po-h-f-1661952;['sql', 'modélisation', 'anglais']
+124;administrateur-systeme-h-f-1661945;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-h-f-1661945;['sql', 'oracle']
+125;administrateur-base-de-donnees-h-f-1661938;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/administrateur-base-de-donnees-h-f-1661938;['azure', 'sql', 'mysql', 'linux']
+126;chef-de-projet-moe-h-f-1661933;"
+                    insitoo-it ";Rouen (76000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-h-f-1661933;[]
+127;gestionnaire-d-application-h-f-1661922;"
+                    insitoo-it ";Rouen (76000);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/gestionnaire-d-application-h-f-1661922;[]
+128;gestionnaire-d-application-supply-h-f-1661904;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/gestionnaire-d-application-supply-h-f-1661904;['oracle', 'scala']
+129;responsable-data-bi-h-f-1661894;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/responsable-data-bi-h-f-1661894;['tableau', 'tableaux de bord']
+130;administrateur-systemes-h-f-1661793;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-h-f-1661793;['sql', 'mysql', ' sas', 'linux']
+131;technicien-informatique-h-f-1661791;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/technicien-informatique-h-f-1661791;[]
+132;administrateur-systemes-h-f-1661783;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-h-f-1661783;['java', 'gitlab', 'linux']
+133;gestionnaire-d-applications-h-f-1661779;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/gestionnaire-d-applications-h-f-1661779;['sql', 'oracle', 'scala']
+134;tech-lead-java-h-f-1661370;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-h-f-1661370;['java']
+135;chef-de-projet-deploiement-h-f-1661297;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-deploiement-h-f-1661297;['anglais']
+136;manager-de-transition-infra-flux-h-f-1661294;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/manager-de-transition-infra-flux-h-f-1661294;[]
+137;service-delivery-manager-h-f-1661292;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/service-delivery-manager-h-f-1661292;['itil']
+138;developpeur-back-java-h-f-1661257;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-back-java-h-f-1661257;['java']
+139;developpeur-php-symfony-h-f-1661255;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-h-f-1661255;['api rest', 'agile']
+140;proxy-product-owner-h-f-1661253;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-h-f-1661253;['jira']
+141;devops-h-f-1661250;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/devops-h-f-1661250;['ci/cd']
+142;directeur-de-projets-h-f-1661248;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/directeur-de-projets-h-f-1661248;['salesforce']
+143;integrateur-d-applications-h-f-1661246;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/integrateur-d-applications-h-f-1661246;['terraform']
+144;administrateur-systeme-h-f-1661243;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-h-f-1661243;['azure', 'gcp', 'linux']
+145;developpeur-fullstack-java-javascript-h-f-1661241;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-javascript-h-f-1661241;['java', 'github', 'sql', 'bigquery', 'jira', 'agile', 'scala', 'linux']
+146;tech-lead-one-identity-1661240;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-one-identity-1661240;['ldap']
+147;developpeur-front-angular-h-f-1661239;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-front-angular-h-f-1661239;['java', 'scrum']
+148;developpeur-fullstack-java-angular-h-f-1661237;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-h-f-1661237;['java', 'docker', 'sql', 'agile', 'springboot', 'postgresql']
+149;developpeur-front-vuejs-1661235;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-front-vuejs-1661235;['scrum']
+150;ux-designer-h-f-1661206;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ux-designer-h-f-1661206;[]
+151;concepteur-developpeur-stambia-h-f-1660975;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-stambia-h-f-1660975;['qlik', ' odi ', 'sql', 'hadoop']
+152;developpeur-back-end-experimente-h-f-1660960;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-experimente-h-f-1660960;['java', 'aws', 'azure', 'sql', 'postgresql']
+153;developpeur-front-end-react-js-h-f-1660956;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-react-js-h-f-1660956;['java', 'aws', 'azure']
+154;developpeur-etl-h-f-1660941;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-etl-h-f-1660941;['datastage', 'python', 'sql', 'snowflake', 'jira', 'oracle', 'agile', ' sas']
+155;concepteur-developpeur-c-net-h-f-1660911;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-c-net-h-f-1660911;['sql', 'oracle']
+156;concepteur-developpeur-as-h-f-1660909;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-as-h-f-1660909;[]
+157;developpeur-cobol-h-f-1660845;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-h-f-1660845;[' sas']
+158;developpeur-java-experimente-h-f-1660842;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-experimente-h-f-1660842;['java', 'jira', ' sas']
+159;administrateur-systeme-et-reseau-h-f-1660813;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-et-reseau-h-f-1660813;['firewalls']
+160;business-analyst-experimente-po-h-f-1660811;"
+                    insitoo-it ";"Villeneuve-d&#39;Ascq (59000)";1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-experimente-po-h-f-1660811;[' sas']
+161;chef-de-projets-techniques-h-f-1660810;"
+                    insitoo-it ";"Villeneuve-d&#39;Ascq (59000)";1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projets-techniques-h-f-1660810;['qlik', 'gitlab', 'docker', 'hive', 'sql', 'oracle', 'modélisation', 'apache', 'postgresql', 'mysql', ' sas', 'linux']
+162;cto-h-f-1660805;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/cto-h-f-1660805;['agile']
+163;developpeur-ios-h-f-1660792;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-ios-h-f-1660792;[' git ', ' sas']
+164;developpeur-java-h-f-1660781;"
+                    insitoo-it ";Télétravail;1 année; 530 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1660781;['java', 'gitlab', 'maven', 'jira', 'oracle', 'agile', 'sonar', 'anglais', 'tomcat', 'sonarqube', ' sas']
+165;developpeur-fullstack-h-f-1660678;"
+                    insitoo-it ";Télétravail;1 année; 530 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1660678;['java', 'sql', 'gcp', 'agile', 'confluence', 'scrum', 'mongodb', ' sas']
+166;developpeur-as-h-f-1660677;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-as-h-f-1660677;['java', 'agile', ' sas']
+167;developpeur-back-h-f-1660673;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-back-h-f-1660673;['java', ' git ', 'kafka', 'jira', 'mongodb']
+168;product-owner-h-f-1660671;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1660671;[]
+169;product-owner-h-f-1660669;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1660669;[]
+170;business-process-manager-h-f-1660564;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/business-process-manager-h-f-1660564;[]
+171;developpeur-back-h-f-1660547;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/developpeur-back-h-f-1660547;['java']
+172;developpeur-front-end-specialise-test-automatise-h-f-1660523;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/developpeur-front-end-specialise-test-automatise-h-f-1660523;['gitlab', 'ci/cd', 'jira', 'agile', 'confluence']
+173;chef-de-projet-it-h-f-1660448;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-h-f-1660448;[' sas']
+174;developpeur-fullstack-h-f-1660443;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1660443;['java', 'gcp', 'ci/cd', 'agile', 'scrum']
+175;concepteur-business-analyst-mainframe-java-h-f-1660241;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/concepteur-business-analyst-mainframe-java-h-f-1660241;['java', ' sas']
+176;chef-de-projet-technique-h-f-1660228;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-h-f-1660228;['azure', ' sas']
+177;testeur-qa-h-f-1660006;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/testeur-qa-h-f-1660006;['anglais']
+178;designer-ux-ui-h-f-1659930;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/designer-ux-ui-h-f-1659930;[' sas']
+179;developpeur-mobile-h-f-1659761;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/developpeur-mobile-h-f-1659761;[]
+180;product-owner-h-f-1659755;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1659755;['sql']
+181;gestionnaire-d-applications-h-f-1659751;"
+                    insitoo-it ";Lyon;3 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/gestionnaire-d-applications-h-f-1659751;[]
+182;architecte-d-entreprise-h-f-1659643;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-h-f-1659643;[]
+183;architecte-d-entreprise-h-f-1659641;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-h-f-1659641;[]
+184;chef-de-projet-maitrise-d-oeuvre-h-f-1659640;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-maitrise-d-oeuvre-h-f-1659640;[]
+185;developpeur-php-sql-h-f-1659548;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-php-sql-h-f-1659548;['java', 'python', 'sql', 'agile', 'linux']
+186;business-analyst-supply-h-f-1659465;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/business-analyst-supply-h-f-1659465;['talend', 'sql', 'gcp']
+187;expert-bi-h-f-1659460;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/expert-bi-h-f-1659460;['tableau', 'power bi', 'sql', 'jira', 'agile', 'modélisation']
+188;developpeur-fullstack-java-angular-1659459;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-1659459;['java']
+189;developpeur-spark-java-h-f-1659454;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-spark-java-h-f-1659454;['java', 'jenkins', 'spark', 'hive', 'maven', 'hadoop', 'agile', 'modélisation', 'scrum', 'linux']
+190;gestionnaire-d-applications-h-f-1659103;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/gestionnaire-d-applications-h-f-1659103;['talend', 'sql', 'oracle']
+191;chef-de-projet-process-referencement-b-b-b-c-medias-h-f-1659099;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-process-referencement-b-b-b-c-medias-h-f-1659099;['talend']
+192;operation-manager-h-f-1659094;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/operation-manager-h-f-1659094;['sql', 'oracle', 'linux']
+193;responsable-run-h-f-1659090;"
+                    insitoo-it ";Grenoble;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/responsable-run-h-f-1659090;[]
+194;product-owner-supply-h-f-1659082;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/product-owner-supply-h-f-1659082;['gcp']
+195;developpeur-dotnet-core-h-f-1659009;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-dotnet-core-h-f-1659009;[' git ', 'sql', 'oracle', ' sas']
+196;ingenieur-systeme-linux-h-f-1658797;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-h-f-1658797;[' sas', 'linux']
+197;data-engineer-h-f-1658795;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/data-engineer-h-f-1658795;['sql', 'gcp', 'anglais']
+198;expert-sauvergarde-active-directory-h-f-1658794;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/expert-sauvergarde-active-directory-h-f-1658794;['azure', ' sas']
+199;chef-de-projet-remplacement-de-switchs-h-f-1658788;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-remplacement-de-switchs-h-f-1658788;[' sas']
+200;developpeur-fullstack-h-f-1658775;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1658775;['java', 'puppet', 'agile', 'scrum']
+201;data-manager-h-f-1658546;"
+                    insitoo-it ";Anjou;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/data-manager-h-f-1658546;['sql', 'modélisation']
+202;testeur-senior-h-f-1658544;"
+                    insitoo-it ";Saint-Etienne et périphérie (42000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/testeur-senior-h-f-1658544;['sql', 'jira', 'anglais']
+203;testeur-h-f-1658540;"
+                    insitoo-it ";Saint-Etienne et périphérie (42000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/testeur-h-f-1658540;['sql', 'anglais']
+204;responsable-applicatif-h-f-1658455;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/responsable-applicatif-h-f-1658455;['java', 'tableau', 'sql', 'api rest', 'oracle', 'tableaux de bord', 'itil']
+205;ingenieur-reseaux-h-f-1658450;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-h-f-1658450;['azure', 'python', 'gcp', 'terraform', 'anglais', 'itil', 'vpn']
+206;concepteur-developpeur-h-f-1658442;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-h-f-1658442;['java', 'gitlab', 'anglais', 'scrum']
+207;chef-de-projet-moe-h-f-1658223;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-h-f-1658223;['talend', 'anglais']
+208;developpeur-back-h-f-1658219;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-back-h-f-1658219;['java', 'sql']
+209;architecte-technique-h-f-1658215;"
+                    insitoo-it ";Lyon;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/architecte-technique-h-f-1658215;['docker', 'python', 'sql', 'gcp', 'ci/cd', 'terraform', 'anglais', 'linux']
+210;designer-web-h-f-1658211;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/designer-web-h-f-1658211;[]
+211;developpeur-back-h-f-1658210;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-back-h-f-1658210;['java', 'kafka', 'gcp', 'api rest', 'anglais', 'mongodb']
+212;chef-de-projet-moa-h-f-1658201;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-h-f-1658201;['anglais']
+213;directeur-de-projet-h-f-1658196;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/directeur-de-projet-h-f-1658196;['tableau', 'tableaux de bord']
+214;product-owner-h-f-1658141;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1658141;['jira', 'agile']
+215;directeur-de-projet-h-f-1658140;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/directeur-de-projet-h-f-1658140;[]
+216;chef-de-projet-maitrise-d-oeuvre-h-f-1658136;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-maitrise-d-oeuvre-h-f-1658136;['qlik', 'power bi', 'sql', 'bigquery']
+217;chef-de-projet-informatique-h-f-1658132;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-informatique-h-f-1658132;['sql', 'mysql', 'linux']
+218;chef-de-projet-maitrise-d-oeuvre-h-f-1658128;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-maitrise-d-oeuvre-h-f-1658128;['agile']
+219;administrateur-d-outils-h-f-1658125;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/administrateur-d-outils-h-f-1658125;[]
+220;expert-systeme-d-exploitation-h-f-1658122;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/expert-systeme-d-exploitation-h-f-1658122;[' git ', 'github', 'ansible', 'python', 'gcp', 'ci/cd', 'linux']
+221;developpeur-front-h-f-1658118;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-front-h-f-1658118;['java', 'agile']
+222;directeur-de-projet-finance-h-f-1658086;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/directeur-de-projet-finance-h-f-1658086;[' sas']
+223;rssi-h-f-1658069;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/rssi-h-f-1658069;['azure', 'gcp', 'anglais']
+224;data-scientist-h-f-1658059;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/data-scientist-h-f-1658059;['python', 'sql', 'gcp', ' sas']
+225;administrateur-d-outils-h-f-1658053;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/administrateur-d-outils-h-f-1658053;['gcp']
+226;chef-de-projet-h-f-1658020;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1658020;['datastage', 'agile', 'kanban', 'scrum']
+227;consultant-bi-h-f-1657967;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-bi-h-f-1657967;['github', 'power bi', 'kafka', 'sql', 'ci/cd', 'bigquery', 'agile', 'terraform', 'modélisation']
+228;analyste-web-mobile-h-f-1657936;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/analyste-web-mobile-h-f-1657936;['azure', 'anglais']
+229;dba-experimente-h-f-1639865;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/dba-experimente-h-f-1639865;['sql', 'db2', 'oracle', 'postgresql']
+230;consultant-technique-talend-h-f-1629446;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-technique-talend-h-f-1629446;['talend', 'azure', 'sql']
+231;administrateur-systeme-unix-linux-h-f-1607770;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-unix-linux-h-f-1607770;['python', 'linux']
+232;developpeur-front-end-angular-h-f-1657556;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-front-end-angular-h-f-1657556;['gitlab', 'ci/cd', 'jira', 'agile', 'confluence']
+233;leader-technique-nodejs-h-f-1657551;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/leader-technique-nodejs-h-f-1657551;['docker', 'agile', 'scrum', ' sas']
+234;administrateur-poste-de-travail-h-f-1657388;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/administrateur-poste-de-travail-h-f-1657388;['agile', 'itil', 'scala', 'powershell']
+235;developpeur-java-h-f-1657302;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1657302;['java', ' git ', 'jenkins', 'maven', 'sql', 'oracle', 'postgresql', 'microservice']
+236;developpeur-j-ee-1657216;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-j-ee-1657216;['java', 'sql', 'scrum']
+237;chef-de-projet-deploiement-h-f-1657151;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-deploiement-h-f-1657151;[' sas']
+238;concepteur-deployeur-metier-h-f-1656891;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/concepteur-deployeur-metier-h-f-1656891;[]
+239;chef-de-projet-deploiement-h-f-1656887;"
+                    insitoo-it ";Lille;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-deploiement-h-f-1656887;[' sas']
+240;devops-sysops-h-f-1656881;"
+                    insitoo-it ";Lyon;6 mois; 330-350 €;25/01/2022;https://www.freelance-info.fr/mission/devops-sysops-h-f-1656881;['azure', 'ansible', 'gcp', 'terraform', 'linux']
+241;administrateur-de-production-h-f-1656878;"
+                    insitoo-it ";Lyon;6 mois; 330-350 €;25/01/2022;https://www.freelance-info.fr/mission/administrateur-de-production-h-f-1656878;['gitlab', 'jenkins', 'ansible', 'ci/cd']
+242;data-analyst-quality-manager-h-f-1656872;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/data-analyst-quality-manager-h-f-1656872;['sql']
+243;chef-de-projet-moa-h-f-1656866;"
+                    insitoo-it ";Lyon;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-h-f-1656866;[]
+244;chef-de-projet-supply-h-f-1656856;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-supply-h-f-1656856;[]
+245;technicien-support-utilisateur-h-f-1656844;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/technicien-support-utilisateur-h-f-1656844;['java', 'api rest', 'scala']
+246;consultant-systeme-d-information-h-f-1656841;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-systeme-d-information-h-f-1656841;[]
+247;administrateur-d-exploitation-h-f-1656835;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/administrateur-d-exploitation-h-f-1656835;['oracle', 'linux']
+248;business-analyst-h-f-1656833;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/business-analyst-h-f-1656833;['sql']
+249;product-owner-h-f-1656819;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1656819;['sql', 'jira', 'agile', 'confluence', 'xray', 'kanban']
+250;developpeur-plsql-h-f-1656816;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-plsql-h-f-1656816;['sql', 'oracle', 'modélisation']
+251;technicien-informatique-h-f-1656739;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/technicien-informatique-h-f-1656739;['jira', 'scala', ' sas']
+252;cybersecurite-operationnelle-h-f-1656734;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/cybersecurite-operationnelle-h-f-1656734;['sql', 'gcp', 'oracle', 'postgresql', 'mongodb']
+253;lead-test-h-f-1656731;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/lead-test-h-f-1656731;['jira', 'anglais']
+254;administrateur-d-infrastructure-h-f-1656727;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/administrateur-d-infrastructure-h-f-1656727;[]
+255;scrum-master-h-f-1656720;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1656720;['scrum']
+256;developpeur-front-end-h-f-1656718;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-front-end-h-f-1656718;[]
+257;testeur-h-f-1656704;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/testeur-h-f-1656704;['sql', 'jira', 'oracle', 'xray']
+258;data-engineer-h-f-1656698;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/data-engineer-h-f-1656698;['talend', 'data lake', 'sql', 'gcp', 'bigquery']
+259;ingenieur-reseaux-h-f-1656500;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-h-f-1656500;[' sas']
+260;tech-lead-java-reactjs-h-f-1656490;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/tech-lead-java-reactjs-h-f-1656490;['java', 'kafka', 'sql', 'api rest', 'springboot', 'postgresql', 'cartographie']
+261;chef-de-projet-deploiement-h-f-1655952;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-deploiement-h-f-1655952;['anglais']
+262;directeur-de-projet-cloud-h-f-1655951;"
+                    insitoo-it ";Paris;1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/directeur-de-projet-cloud-h-f-1655951;['anglais']
+263;chef-de-projet-maitrise-d-oeuvre-h-f-1655950;"
+                    insitoo-it ";Paris;1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-maitrise-d-oeuvre-h-f-1655950;['anglais', ' sas']
+264;testeur-h-f-1655949;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/testeur-h-f-1655949;['jira', 'agile', 'xray']
+265;chef-de-projet-maitrise-d-oeuvre-h-f-1655948;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-maitrise-d-oeuvre-h-f-1655948;['talend', 'oracle', 'anglais']
+266;developpeur-back-end-h-f-1655947;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/developpeur-back-end-h-f-1655947;['java', ' git ', 'gitlab', 'docker', 'sql', 'api rest', 'mongodb']
+267;product-owner-h-f-1655942;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1655942;['scrum']
+268;product-owner-h-f-1655941;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1655941;[' sas']
+269;developpeur-front-vuejs-h-f-1655940;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/developpeur-front-vuejs-h-f-1655940;['java']
+270;developpeur-front-mobile-h-f-1655939;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/developpeur-front-mobile-h-f-1655939;['java', 'agile']
+271;chef-de-projet-flux-h-f-1655938;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-flux-h-f-1655938;['talend', 'sql']
+272;expert-dns-h-f-1655937;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/expert-dns-h-f-1655937;['python']
+273;coach-agile-h-f-1655936;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/coach-agile-h-f-1655936;['agile', 'scrum']
+274;chef-de-projet-metier-h-f-1655934;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-metier-h-f-1655934;[]
+275;product-owner-h-f-1655933;"
+                    insitoo-it ";Lille et périphérie;1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1655933;[]
+276;administrateur-n-h-f-1655930;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/administrateur-n-h-f-1655930;['sql', 'itil']
+277;data-steward-h-f-1655927;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/data-steward-h-f-1655927;['agile']
+278;chef-de-projet-flux-h-f-1655925;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-flux-h-f-1655925;['gcp', ' sas']
+279;gestionnaire-d-applications-h-f-1655924;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/gestionnaire-d-applications-h-f-1655924;['anglais']
+280;chef-de-projet-gouvernance-h-f-1655923;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-gouvernance-h-f-1655923;[]
+281;architecte-d-entreprise-finance-h-f-1655922;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-finance-h-f-1655922;[]
+282;developpeur-java-experimente-h-f-1655918;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/developpeur-java-experimente-h-f-1655918;['java', 'agile', 'scrum']
+283;product-owner-data-h-f-1655917;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/product-owner-data-h-f-1655917;['gcp']
+284;developpeur-fullstack-confirme-h-f-1655916;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-confirme-h-f-1655916;['azure', 'docker', 'api rest', 'agile', 'scrum', 'mongodb', 'linux']
+285;data-analyst-h-f-1655915;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/data-analyst-h-f-1655915;['power bi', 'sql']
+286;architecte-h-f-1655878;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/architecte-h-f-1655878;['java', 'aws', 'anglais']
+287;manager-de-projet-h-f-1655876;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/manager-de-projet-h-f-1655876;['java', 'aws', 'anglais', ' sas']
+288;architecte-bi-h-f-1655848;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/architecte-bi-h-f-1655848;['talend', 'powerbi', 'power bi', 'python', 'sql', 'oracle', ' sas']
+289;consultant-support-h-f-1655830;"
+                    insitoo-it ";Lille et périphérie (59000);1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/consultant-support-h-f-1655830;[]

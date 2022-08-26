@@ -1,0 +1,601 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;developpeur-react-native-1666731;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-react-native-1666731;['java', ' sas']
+1;business-analsyt-titrisation-risque-1666684;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-analsyt-titrisation-risque-1666684;['power bi', ' bo ', 'agile']
+2;ingenieur-d-exploitation-1666528;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-exploitation-1666528;['azure', 'docker', 'linux']
+3;chef-de-projet-experience-en-developpement-d-applications-web-anglais-courant-1664430;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-experience-en-developpement-d-applications-web-anglais-courant-1664430;['agile', 'anglais']
+4;business-analyst-api-1664345;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-analyst-api-1664345;['jira', 'agile', 'confluence', 'xray', 'anglais', 'scrum', 'microservice']
+5;expert-architecte-securite-infrastructures-1664290;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-architecte-securite-infrastructures-1664290;['azure', 'ci/cd', 'scala']
+6;coordinateur-it-1664176;"
+                    HIGHTEAM ";Paris;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/coordinateur-it-1664176;[]
+7;chef-de-projet-qualite-recette-1664127;"
+                    HIGHTEAM ";Paris;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-qualite-recette-1664127;[' excel ', 'jira', 'xray']
+8;consultant-qualification-tests-d-integration-recette-fonctionnelle-1664128;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-qualification-tests-d-integration-recette-fonctionnelle-1664128;[' excel ', 'jira', 'xray']
+9;charge-de-projets-programme-de-paiement-1664112;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/charge-de-projets-programme-de-paiement-1664112;[]
+10;consultant-data-microsoft-1666389;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-data-microsoft-1666389;['power bi', 'azure', 'sql', 'agile', 'modélisation', 'scrum', ' ssis']
+11;business-analyst-specialiste-derives-listes-1666338;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-analyst-specialiste-derives-listes-1666338;[' sas']
+12;administrateur-ingenieur-ou-integrateur-base-de-donnees-ms-sql-1666272;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/administrateur-ingenieur-ou-integrateur-base-de-donnees-ms-sql-1666272;['sql', 'anglais', 'powershell', 'tsql', 'ssrs', ' ssis', 'ssas', 'linux']
+13;qa-testing-1666263;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/qa-testing-1666263;['azure']
+14;core-hr-1666261;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/core-hr-1666261;['aws', 'anglais']
+15;expertise-kubernetes-docker-1666226;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expertise-kubernetes-docker-1666226;['github', 'docker', 'python', 'agile', 'apache', 'tomcat', 'jboss', ' sas', 'powershell']
+16;chef-de-projet-java-1666151;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-java-1666151;['java', 'sql', 'oracle', ' sas']
+17;chef-de-projet-pms-1666139;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-pms-1666139;['anglais']
+18;developpeur-transact-sql-1666138;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-transact-sql-1666138;['sql', 'datawarehouse', 'powershell', ' ssis']
+19;ingenieur-infrastructure-messagerie-exchange-skype-teams-1643920;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-infrastructure-messagerie-exchange-skype-teams-1643920;['anglais', 'powershell']
+20;developpeur-android-confirme-1652235;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-android-confirme-1652235;['java', 'jenkins', 'api rest', 'jira', 'agile', 'xray', 'anglais']
+21;ingenieur-de-production-1666134;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-1666134;['ansible', 'sql', 'oracle', 'apache', 'mysql']
+22;expert-en-cybersecurite-1663931;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-en-cybersecurite-1663931;['tableau', 'tableaux de bord', ' sas']
+23;architecte-java-devops-aws-1663926;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-java-devops-aws-1663926;['java', 'github', 'jenkins', 'aws', 'elk', 'docker', 'maven', 'api rest', 'agile', 'sonar', 'grafana', ' sas']
+24;developpeur-mobile-senior-front-end-android-ios-flutter-1663864;"
+                    HIGHTEAM ";Montreuil;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-senior-front-end-android-ios-flutter-1663864;['anglais', ' sas']
+25;consultant-developpement-mulesoft-1663853;"
+                    HIGHTEAM ";Montreuil;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-developpement-mulesoft-1663853;['anglais', ' sas']
+26;tech-lead-java-vue-js-1663834;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-vue-js-1663834;['java', 'gitlab', 'aws', 'docker', 'ansible', 'ci/cd', 'agile', 'terraform', 'sonar', 'anglais', 'tomcat', 'scrum', 'splunk', ' sas']
+27;qa-senior-1663769;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/qa-senior-1663769;['agile']
+28;consultant-anglais-oral-net-angular-ou-net-azure-sql-1665907;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-anglais-oral-net-angular-ou-net-azure-sql-1665907;['azure', 'sql', 'api rest', 'anglais']
+29;architecte-technique-infrastructure-iaas-1665900;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-technique-infrastructure-iaas-1665900;[' sas']
+30;automation-and-virtualisation-technical-expertise-vmware-1665896;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/automation-and-virtualisation-technical-expertise-vmware-1665896;[' git ', 'jenkins', 'elk', 'docker', 'ansible', 'python', 'jira', 'vba', ' sas']
+31;chef-de-projet-1665890;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-1665890;['anglais']
+32;openstack-devops-1665889;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/openstack-devops-1665889;[' git ', 'github', 'jenkins', 'elk', 'docker', 'ansible', 'python', 'jira', 'grafana', 'ldap', 'scrum', 'vba', ' sas', 'linux']
+33;chef-fe-de-projet-qualification-1665808;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-fe-de-projet-qualification-1665808;['sql', 'jira', ' sas']
+34;charge-e-de-qualification-manuel-1665807;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/charge-e-de-qualification-manuel-1665807;['sql', 'jira', 'agile']
+35;business-analyst-fbti-1665799;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-fbti-1665799;['anglais']
+36;integrateur-devops-1665763;"
+                    HIGHTEAM ";Ile de France;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/integrateur-devops-1665763;['talend', 'java', 'jenkins', 'aws', 'elk', 'docker', 'ansible', 'maven', 'sql', 'oracle', 'apache', 'postgresql', 'mysql', 'mongodb']
+37;consultant-technico-fonctionnel-trading-finance-de-marche-fixed-income-anglais-courant-1665739;"
+                    HIGHTEAM ";Ile de France;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-trading-finance-de-marche-fixed-income-anglais-courant-1665739;['python', 'sql', 'anglais', 'vba', ' sas']
+38;chef-de-projet-it-1663668;"
+                    HIGHTEAM ";Ile de France;3 années; 200-500 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-1663668;['anglais']
+39;product-owner-1663672;"
+                    HIGHTEAM ";Ile de France;3 années; 200-500 €;09/02/2022;https://www.freelance-info.fr/mission/product-owner-1663672;['java', 'aws', 'sql', 'agile', 'anglais', ' sas', 'microservice']
+40;qa-test-lead-1663661;"
+                    HIGHTEAM ";Ile de France;3 années; 100-450 €;09/02/2022;https://www.freelance-info.fr/mission/qa-test-lead-1663661;['anglais', ' sas']
+41;product-owner-data-1663504;"
+                    HIGHTEAM ";Ile de France;3 années; 100-450 €;09/02/2022;https://www.freelance-info.fr/mission/product-owner-data-1663504;['tableau', 'sql', 'agile', 'modélisation', 'tableaux de bord', 'scrum', 'linux']
+42;responsable-conformite-1665691;"
+                    HIGHTEAM ";Ile de France;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/responsable-conformite-1665691;['tableau']
+43;developpeur-data-bi-1665531;"
+                    HIGHTEAM ";Ile de France;3 années; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-data-bi-1665531;['gitlab', 'tableau', 'aws', 'sql', 'ci/cd', 'snowflake', 'jira', 'confluence', 'terraform', 'scrum', ' sas']
+44;scrum-master-1665510;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/scrum-master-1665510;['tableau', 'jira', 'scrum']
+45;qa-testeur-automaticien-1665389;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/qa-testeur-automaticien-1665389;['java', 'sql', 'jira', 'confluence', 'splunk']
+46;architecte-o-1665235;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-o-1665235;['azure', 'anglais', 'powershell']
+47;chef-de-projet-si-it-1663160;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-si-it-1663160;['agile', 'anglais']
+48;functional-analyst-1663012;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/functional-analyst-1663012;['python', 'sql']
+49;product-owner-1663017;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/product-owner-1663017;['java', 'kafka', 'sql', 'jira', 'oracle', 'agile', 'postgresql', 'scrum', 'jboss']
+50;consultant-net-support-1665068;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-net-support-1665068;['sql']
+51;administrateur-systemes-et-securite-1665017;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-et-securite-1665017;['tableau', 'tableaux de bord', ' sas']
+52;amoa-1664981;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/amoa-1664981;[]
+53;tech-lead-vue-js-1664979;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-vue-js-1664979;['java', ' git ', 'agile', ' sas']
+54;qa-automaticien-cypress-1664974;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/qa-automaticien-cypress-1664974;['java', 'gitlab', 'api rest', 'xray', 'mongodb']
+55;developpeur-progiciel-datahub-1664955;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-progiciel-datahub-1664955;['oracle']
+56;gestionnaire-iam-1662917;"
+                    HIGHTEAM ";Nanterre;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/gestionnaire-iam-1662917;['powerbi', 'azure', 'python', 'powershell']
+57;chef-de-projet-moyens-de-paiement-contestations-de-paiements-retraits-cartes-1662889;"
+                    HIGHTEAM ";Nanterre;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moyens-de-paiement-contestations-de-paiements-retraits-cartes-1662889;['java', 'oracle']
+58;ingenieur-de-production-linux-cloud-public-1662873;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-linux-cloud-public-1662873;['elk', 'gcp', 'grafana', 'linux']
+59;business-analyst-data-1662803;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-data-1662803;['power bi', 'agile']
+60;business-analyst-moa-summit-front-1662804;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-moa-summit-front-1662804;[]
+61;business-analyst-moa-kyc-1662785;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-moa-kyc-1662785;['agile', 'anglais']
+62;business-analyst-erp-comptable-1662720;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-erp-comptable-1662720;['anglais']
+63;business-analyst-financements-structures-1662702;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-financements-structures-1662702;['gitlab', ' sas']
+64;testeur-bdd-sql-1664801;"
+                    HIGHTEAM ";Paris;3 années; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/testeur-bdd-sql-1664801;['gitlab', 'tableau', 'sql', 'ci/cd', 'snowflake', 'jira', 'terraform', 'scrum', ' sas']
+65;consultant-technique-sharepoint-1664796;"
+                    HIGHTEAM ";Paris;3 années; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-technique-sharepoint-1664796;['azure', 'powershell']
+66;architecte-c-1664553;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-c-1664553;['java', 'aws', 'kafka', 'python', 'spark', 'sql', 'agile', 'postgresql', 'linux']
+67;change-manager-salesforce-1662539;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/change-manager-salesforce-1662539;['anglais', ' sas', 'salesforce']
+68;change-manager-salesforce-1662440;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/change-manager-salesforce-1662440;['anglais', 'salesforce']
+69;business-analyst-risque-de-marche-1662375;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-risque-de-marche-1662375;['agile', 'scrum', ' sas']
+70;business-analyst-it-big-data-1662378;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-it-big-data-1662378;['sql', 'jira', 'agile', 'scrum', ' sas']
+71;business-analyst-data-referentiel-1662381;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-data-referentiel-1662381;['modélisation', ' sas']
+72;chef-de-projet-production-azure-gcp-1662363;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-production-azure-gcp-1662363;['azure', 'gcp', 'linux']
+73;consultant-moa-1662324;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-moa-1662324;[' sas']
+74;business-analyst-risque-de-contrepartie-1662321;"
+                    HIGHTEAM ";Paris;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-risque-de-contrepartie-1662321;[' sas']
+75;analyst-bi-1664490;"
+                    HIGHTEAM ";Paris;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/analyst-bi-1664490;['datastage', 'powerbi', 'power bi', 'sql', 'oracle', 'agile', 'anglais']
+76;ingenieur-de-production-1664488;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-1664488;['anglais', 'powershell', 'linux']
+77;chef-de-projet-big-data-1664478;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-big-data-1664478;['talend', 'java', 'python', 'spark', 'hive', 'sql', 'gcp', 'hadoop', 'datawarehouse', 'db2']
+78;expert-api-1664415;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-api-1664415;[' sas']
+79;developpeur-net-microservices-ci-cd-1664411;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-net-microservices-ci-cd-1664411;['ci/cd', 'anglais', 'kanban', 'scrum']
+80;dba-devops-oracle-1664407;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/dba-devops-oracle-1664407;['gitlab', 'jenkins', 'aws', 'azure', 'docker', 'ansible', 'maven', 'sql', 'ci/cd', 'jira', 'oracle', 'confluence', 'terraform', 'sonar', 'apache', 'grafana', 'ldap', 'mysql', 'jboss', 'splunk', 'mariadb', 'blueprism', 'sonarqube']
+81;dba-sql-server-1664400;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/dba-sql-server-1664400;['powerbi', 'azure', 'sql', 'anglais', 'mongodb', 'powershell', 'ssrs']
+82;ingenieur-de-production-1664369;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-1664369;['docker', 'ansible', 'sql', 'oracle', 'apache', 'mysql']
+83;ingenieur-de-production-1664219;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-1664219;['ansible', 'python', 'sql', 'oracle', 'postgresql', 'itil', 'ldap', 'linux']
+84;release-manager-1662190;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/release-manager-1662190;[' sas']
+85;chef-de-projet-moyens-de-paiement-1662017;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moyens-de-paiement-1662017;['java', 'oracle']
+86;administrateur-telecom-call-center-1661918;"
+                    HIGHTEAM ";Évry;36 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-telecom-call-center-1661918;[]
+87;dba-postgresql-junior-1661908;"
+                    HIGHTEAM ";Évry;36 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/dba-postgresql-junior-1661908;['tableau', 'sql', 'db2', 'oracle', 'modélisation', 'tableaux de bord', 'postgresql', ' sas', 'linux']
+88;consultant-systeme-poste-de-travail-citrix-lille-1661895;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-systeme-poste-de-travail-citrix-lille-1661895;['azure', 'python', 'sql', 'gcp', 'anglais', 'grafana', 'powershell', 'linux']
+89;expert-openshift-kubernetes-1661897;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-openshift-kubernetes-1661897;['gitlab', 'ansible', 'ci/cd', 'terraform', 'sonar', 'grafana', 'sonarqube', 'scala', 'linux']
+90;product-owner-moyen-de-paiement-1661848;"
+                    HIGHTEAM ";Paris;3 années; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/product-owner-moyen-de-paiement-1661848;['agile', 'anglais']
+91;administrateur-systemes-linux-1664130;"
+                    HIGHTEAM ";Paris;3 années; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-linux-1664130;['java', 'apache', 'tomcat', 'linux']
+92;developpeur-t-sql-1663883;"
+                    HIGHTEAM ";Rueil-Malmaison;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-t-sql-1663883;['sql', 'datawarehouse', 'powershell', ' ssis']
+93;developpeur-salesforce-1634441;"
+                    HIGHTEAM ";Rueil-Malmaison;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-salesforce-1634441;['scrum', 'salesforce']
+94;consultant-atlassian-confirme-h-f-1636464;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/consultant-atlassian-confirme-h-f-1636464;['java', 'gitlab', 'jenkins', ' excel ', 'jira', 'agile', 'confluence', 'vba', ' sas']
+95;homologation-de-projets-comptables-et-financiers-1641345;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/homologation-de-projets-comptables-et-financiers-1641345;['github', 'jenkins', 'python', 'sql', 'datawarehouse', 'oracle', ' sas', 'linux']
+96;developpeur-python-django-1641729;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-python-django-1641729;[' git ', 'github', 'python', 'sql', 'jira', 'postgresql', ' sas']
+97;developpeur-java-smart-cpq-1646297;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-java-smart-cpq-1646297;['java', 'jenkins', 'maven', 'sql', 'api rest', 'modélisation', 'jboss', ' sas']
+98;developpeur-fullstack-java-react-js-1630757;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-react-js-1630757;['java', 'jenkins', 'jira', 'agile', 'confluence', 'anglais', 'scrum', 'linux']
+99;architecte-big-data-cloud-azure-1631857;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/architecte-big-data-cloud-azure-1631857;['java', 'spark', 'hive', 'hadoop']
+100;developpeur-fullstack-java-react-1632058;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-react-1632058;['java', 'github', 'jenkins', 'elk', 'docker', 'python', 'maven', 'jira', 'oracle', 'agile', 'sonar']
+101;developpeur-fullstack-java-react-1632103;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-react-1632103;['java', 'github', 'jenkins', 'elk', 'docker', 'python', 'maven', 'jira', 'oracle', 'agile', 'sonar', 'springboot']
+102;devops-craft-jenkins-maven-nexus-ci-cd-1632574;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/devops-craft-jenkins-maven-nexus-ci-cd-1632574;[' git ', 'github', 'jenkins', 'azure', 'docker', 'python', 'maven', 'scala']
+103;devops-craft-leader-1634170;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/devops-craft-leader-1634170;['github', 'jenkins', 'maven', 'springboot', ' sas']
+104;ingenieur-devops-craft-1634168;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-craft-1634168;['github', 'jenkins', 'maven', 'springboot', ' sas']
+105;loan-iq-support-fonctionnel-1634167;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/loan-iq-support-fonctionnel-1634167;['sql', 'mysql', ' sas']
+106;developpeur-fullstack-net-c-react-1634443;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-net-c-react-1634443;[]
+107;developpeur-react-js-scala-1630259;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-react-js-scala-1630259;['agile', 'scrum', 'scala']
+108;developpeur-reactjs-1628494;"
+                    HIGHTEAM ";Paris;36 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-reactjs-1628494;['github']
+109;developpeur-c-net-backend-1628311;"
+                    HIGHTEAM ";Paris;36 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-c-net-backend-1628311;['aws']
+110;developpeur-java-tactique-1628319;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-tactique-1628319;['java', 'oracle', 'agile', 'scrum', 'linux']
+111;developpeur-fullstack-java-angular-azure-1628322;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-azure-1628322;['java', 'jenkins', 'azure', 'docker', 'maven', 'airflow']
+112;developpeur-python-django-1628302;"
+                    HIGHTEAM ";Ile de France;3 années; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-python-django-1628302;[' git ', 'github', 'python', 'sql', 'jira', 'postgresql']
+113;business-analyst-risque-de-contrepartie-1628304;"
+                    HIGHTEAM ";Ile de France;3 années; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/business-analyst-risque-de-contrepartie-1628304;['agile', 'scrum']
+114;business-analyst-ost-operations-sur-titres-bancs-1628305;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/business-analyst-ost-operations-sur-titres-bancs-1628305;['jira']
+115;developpeur-python-1628307;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1628307;['python']
+116;developpeur-frontend-angular-ops-jenkins-docker-1628308;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-angular-ops-jenkins-docker-1628308;['jenkins', 'docker']
+117;tech-lead-data-engineer-spark-scala-hadoop-1650450;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-engineer-spark-scala-hadoop-1650450;[' git ', 'jenkins', 'spark', 'hadoop', 'scala']
+118;consultant-bi-snowflake-1663789;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-bi-snowflake-1663789;['talend', 'gitlab', 'tableau', 'sql', 'microstrategy', 'snowflake', 'jira', 'agile', 'xray', 'terraform', 'anglais', 'splunk']
+119;chef-de-projet-data-clients-1661746;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-data-clients-1661746;['python', 'sql']
+120;technicien-support-niveau-ou-technicien-helpdesk-1661716;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/technicien-support-niveau-ou-technicien-helpdesk-1661716;['agile', 'itil', 'scrum', 'scala']
+121;ingenieur-devops-1663774;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1663774;['gitlab', 'aws', 'ansible', 'sql', 'ci/cd', 'terraform', 'cloudera', 'scala', 'linux']
+122;chef-de-projet-confirme-sap-fi-co-1661291;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-confirme-sap-fi-co-1661291;[]
+123;chef-de-projet-direction-commerciale-1661266;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-direction-commerciale-1661266;[]
+124;architecte-fonctionnel-big-data-infrastructure-1661193;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-big-data-infrastructure-1661193;['java', 'aws', 'kafka', 'ansible', 'python', 'spark', 'sql', 'postgresql', 'linux']
+125;tools-manager-1661200;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/tools-manager-1661200;['jira', 'agile', 'anglais']
+126;developpeur-confirme-ou-senior-en-back-end-python-flask-1661101;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-confirme-ou-senior-en-back-end-python-flask-1661101;['java', 'jenkins', 'docker', 'ansible', 'python', 'sql', 'gcp', 'postgresql', ' sas']
+127;consultant-fullstack-net-extjs-1663228;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-fullstack-net-extjs-1663228;['azure', 'sql', 'oracle', 'linux']
+128;consultant-c-finance-1663223;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-c-finance-1663223;['jira', 'confluence']
+129;developpeur-net-angular-1663221;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-net-angular-1663221;['sql', 'anglais']
+130;developpeur-net-angular-1663219;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-net-angular-1663219;['sql', 'anglais']
+131;consultant-sql-1663215;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-sql-1663215;['sql']
+132;product-owner-digital-1660987;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-digital-1660987;[]
+133;product-owner-paiement-1660992;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-paiement-1660992;['sql', 'api rest', 'jira', 'agile', ' sas']
+134;product-owner-monetique-1660894;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-monetique-1660894;['jira', 'agile']
+135;chef-de-projet-technico-fonctionnel-mm-sd-readsoft-1660733;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technico-fonctionnel-mm-sd-readsoft-1660733;[]
+136;cloud-application-architect-azure-aws-expert-1662910;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/cloud-application-architect-azure-aws-expert-1662910;['aws', 'azure', 'docker', 'sql', 'ci/cd', 'mongodb']
+137;ingenieur-securite-it-securite-des-terminaux-1662753;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-it-securite-des-terminaux-1662753;['itil', 'splunk']
+138;pmo-senior-1660551;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/pmo-senior-1660551;['azure', 'anglais', ' sas']
+139;dba-postgresql-junior-1660521;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/dba-postgresql-junior-1660521;['tableau', 'sql', 'db2', 'oracle', 'modélisation', 'tableaux de bord', 'postgresql', 'linux']
+140;chef-de-projet-active-directory-1660506;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-active-directory-1660506;[]
+141;chef-de-projet-reseaux-1660512;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-reseaux-1660512;[]
+142;team-lead-incident-change-problem-manager-1660515;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/team-lead-incident-change-problem-manager-1660515;['itil']
+143;chef-de-projet-technique-1660470;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-1660470;[' sas']
+144;chef-de-projet-directeur-de-projet-pca-pra-1660472;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-directeur-de-projet-pca-pra-1660472;[' sas']
+145;chef-de-projet-securite-1660463;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-securite-1660463;[' sas']
+146;product-owner-devops-1660321;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-devops-1660321;['gitlab', 'ansible', 'ci/cd', 'terraform', 'sonar', 'grafana', 'sonarqube']
+147;developpeur-developpeuse-full-stack-c-ext-js-1660229;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-developpeuse-full-stack-c-ext-js-1660229;['azure', 'sql', 'oracle', 'linux']
+148;ingenieurs-z-os-1660041;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieurs-z-os-1660041;[]
+149;administrateur-teradata-senior-1660042;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/administrateur-teradata-senior-1660042;['sql', 'linux']
+150;ingenieur-de-production-confirme-1660052;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-confirme-1660052;['linux']
+151;product-owner-infrastructure-1660031;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-infrastructure-1660031;['gitlab', 'jenkins', 'aws', 'azure', 'elk', 'docker', 'ansible', 'maven', 'sql', 'ci/cd', 'jira', 'oracle', 'confluence', 'terraform', 'sonar', 'apache', 'grafana', 'ldap', 'mysql', 'jboss', 'splunk', 'mariadb', 'blueprism', 'sonarqube']
+152;administrateur-systemes-linux-1660033;"
+                    HIGHTEAM ";Bois-Colombes;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-linux-1660033;['itil', 'linux']
+153;team-lead-virtualisation-vmware-et-devops-1660037;"
+                    HIGHTEAM ";Bois-Colombes;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/team-lead-virtualisation-vmware-et-devops-1660037;['puppet', 'ansible', 'terraform', 'itil']
+154;product-owner-fonctionnel-1660013;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-fonctionnel-1660013;['jira', 'anglais', ' sas']
+155;administrateur-systemes-linux-1660020;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-linux-1660020;['itil', 'linux']
+156;consultant-atlassian-1660011;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-atlassian-1660011;['jira', 'agile', 'confluence', 'itil', 'scrum']
+157;consultant-c-c-embarqu-1662237;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-c-c-embarqu-1662237;[' git ', 'sql', 'jira', 'agile', 'scrum', 'linux']
+158;consultant-c-temps-reel-1662235;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-c-temps-reel-1662235;['agile', 'anglais']
+159;consultant-c-big-data-1662231;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-c-big-data-1662231;['aws', 'spark', 'sql', 'scala']
+160;leader-technique-c-1662220;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/leader-technique-c-1662220;['sql', 'anglais']
+161;ingenieur-systeme-linux-1662216;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1662216;['ansible', 'terraform', ' sas', 'linux']
+162;consultant-data-t-sql-1662208;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-data-t-sql-1662208;['sql', 'hadoop', ' bo ', 'agile', 'anglais', 'kanban', 'ssas']
+163;consultant-fullstack-net-anglais-1662185;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-fullstack-net-anglais-1662185;['java', 'azure', 'sql', 'agile', 'anglais', 'scrum', ' sas']
+164;developpeur-net-scrum-master-1662179;"
+                    HIGHTEAM ";Montreuil;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-net-scrum-master-1662179;['azure', 'anglais', 'scrum', ' sas']
+165;un-expert-rabbit-mq-1662167;"
+                    HIGHTEAM ";Montreuil;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-expert-rabbit-mq-1662167;['jenkins', 'tableau', 'azure', 'kafka', 'ansible', 'gcp', 'terraform', 'tableaux de bord', 'apache', 'grafana', ' sas']
+166;dba-sql-server-azure-database-1662164;"
+                    HIGHTEAM ";La Défense (92);3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/dba-sql-server-azure-database-1662164;['azure', 'kafka', 'sql', 'itil', 'powershell']
+167;dba-oracle-aws-devops-1662160;"
+                    HIGHTEAM ";La Défense (92);3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/dba-oracle-aws-devops-1662160;['jenkins', 'aws', 'docker', 'ansible', 'sql', 'ci/cd', 'oracle', 'grafana', 'mysql', 'mariadb']
+168;business-analyst-acces-marche-1659933;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/business-analyst-acces-marche-1659933;['python', 'linux']
+169;customer-success-manager-1659900;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/customer-success-manager-1659900;['modélisation', 'anglais']
+170;qa-automation-engineer-1659906;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/qa-automation-engineer-1659906;['gitlab', 'kafka', 'puppet', 'docker', 'sql', 'agile', 'postgresql']
+171;developpeur-c-fullstack-angular-1659867;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-c-fullstack-angular-1659867;['sql', 'anglais']
+172;chef-de-projet-transverse-it-produit-1659765;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-transverse-it-produit-1659765;['agile', 'anglais']
+173;project-manager-1659768;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/project-manager-1659768;['jira', 'anglais', 'itil', 'scala']
+174;automaticien-senior-1659746;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/automaticien-senior-1659746;['java', 'gitlab', 'api rest', 'xray', 'mongodb']
+175;support-global-analytics-1659626;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/support-global-analytics-1659626;['aws', 'python', 'sql', 'redshift', ' sas']
+176;charge-de-relation-client-operationnel-1659621;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/charge-de-relation-client-operationnel-1659621;['tableau']
+177;architecte-reseau-lan-wan-1661701;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-lan-wan-1661701;['aws', 'azure', 'grafana', 'vpn']
+178;developpeur-react-js-1659297;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-react-js-1659297;['java', 'github', 'jenkins', 'sql', 'agile', 'scrum', ' sas']
+179;chef-de-projet-1659238;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-1659238;[' sas']
+180;developpeur-fullstack-java-angular-confirme-senior-1659155;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-confirme-senior-1659155;['java', 'jenkins', 'docker', 'oracle', 'sonar', 'springboot', ' sas']
+181;developpeur-java-cubes-olap-et-api-1659162;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-java-cubes-olap-et-api-1659162;['java', 'jenkins', 'maven', 'oracle', 'agile', 'anglais', ' sas']
+182;ingenieur-devops-1659164;"
+                    HIGHTEAM ";Nanterre;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1659164;['github', 'jenkins', 'azure', 'maven', 'springboot', ' sas']
+183;moa-risque-de-marche-pnl-1659147;"
+                    HIGHTEAM ";Nanterre;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/moa-risque-de-marche-pnl-1659147;['agile', 'scrum', ' sas']
+184;moa-agile-liquidite-tresorerie-1659151;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/moa-agile-liquidite-tresorerie-1659151;['java', 'jira', 'agile', 'scrum', ' sas']
+185;moa-peoplesoft-1659140;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/moa-peoplesoft-1659140;['sql', 'jira', 'agile', 'scrum', ' sas']
+186;developpeur-java-spark-big-data-hadoop-1659141;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-spark-big-data-hadoop-1659141;['java', 'spark', 'sql', 'hadoop', 'oracle', 'agile', 'postgresql', ' sas']
+187;craftsman-1659136;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/craftsman-1659136;['java', 'agile', 'sonar', ' sas']
+188;it-data-project-manager-1659137;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/it-data-project-manager-1659137;['jira', 'agile', 'itil', 'scrum', ' sas']
+189;business-analyst-support-activites-middle-office-1658878;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-support-activites-middle-office-1658878;['sql']
+190;chef-de-projet-moe-1658882;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-1658882;['java', 'jira', 'agile', 'anglais']
+191;ingenieur-supervision-monitoring-1660944;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-supervision-monitoring-1660944;['elk', 'anglais', 'grafana', 'itil']
+192;exploitant-systeme-1660785;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/exploitant-systeme-1660785;[' git ', 'ansible', 'apache', 'tomcat', 'itil', 'linux']
+193;functionnal-analyst-1658548;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/functionnal-analyst-1658548;['anglais']
+194;data-po-1658534;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/data-po-1658534;['aws', 'sql', 'jira', 'oracle', 'agile', 'confluence']
+195;scrum-master-1658402;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-1658402;['jenkins', 'jira', 'agile', 'anglais', 'kanban', 'scrum']
+196;developpeur-cobol-1658340;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-1658340;['java', ' sas']
+197;qa-manager-1658302;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/qa-manager-1658302;[]
+198;administrateur-systeme-z-os-1658307;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-z-os-1658307;['db2']
+199;ingenieur-as-1658308;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-as-1658308;[]
+200;tech-lead-nodejs-1658288;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tech-lead-nodejs-1658288;['java', 'aws', 'python', 'spark', 'agile', 'anglais', 'kanban', 'scrum']
+201;gestion-de-projet-amoe-1658289;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/gestion-de-projet-amoe-1658289;['jira', 'agile', 'confluence']
+202;gestion-de-projet-amoe-1658290;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/gestion-de-projet-amoe-1658290;['jira', 'agile', 'confluence']
+203;developpeur-node-js-1658294;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-node-js-1658294;['jenkins', 'aws', 'agile', 'terraform', 'anglais', 'mongodb']
+204;developpeur-web-mobile-fullstack-nodejs-aws-terraform-graphql-1658222;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-web-mobile-fullstack-nodejs-aws-terraform-graphql-1658222;['java', 'gitlab', 'aws', 'ci/cd', 'terraform']
+205;consultant-anaplan-1658227;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-anaplan-1658227;['agile']
+206;technicien-support-n-1660214;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/technicien-support-n-1660214;['oracle']
+207;technicien-support-proximite-1660186;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/technicien-support-proximite-1660186;[]
+208;ingenieur-integrateur-applicatif-devops-1660090;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-integrateur-applicatif-devops-1660090;['gitlab', 'kafka', 'elk', 'puppet', 'docker', 'ansible', 'python', 'sql', 'agile', 'anglais', 'grafana', 'kanban', 'scrum', 'linux', 'microservice']
+209;devops-engineer-1660079;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/devops-engineer-1660079;['gitlab', 'python', 'jira', 'agile', 'linux']
+210;developpeur-sybase-javascript-secteur-assurance-1658077;"
+                    HIGHTEAM ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-sybase-javascript-secteur-assurance-1658077;['java', 'sql', ' sas']
+211;support-applicatif-1658115;"
+                    HIGHTEAM ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/support-applicatif-1658115;['anglais', ' sas']
+212;product-owner-1658108;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/product-owner-1658108;['agile', 'anglais']
+213;consultant-e-reporting-asset-management-1658111;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-e-reporting-asset-management-1658111;['sql']
+214;moa-cash-management-swift-1658116;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/moa-cash-management-swift-1658116;[' sas']
+215;testeur-analyste-e-commerce-1658098;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/testeur-analyste-e-commerce-1658098;[]
+216;ppo-qa-1658103;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ppo-qa-1658103;['jira', 'agile', 'xray', 'modélisation', 'kanban', 'scrum']
+217;business-analyst-senior-1657932;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-senior-1657932;['sql', 'anglais', 'scrum']
+218;support-applicatif-1657934;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/support-applicatif-1657934;['python', 'sql', 'anglais', 'powershell']
+219;business-analyst-1657878;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-1657878;['sql', 'jira', 'anglais']
+220;data-office-1657884;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/data-office-1657884;[' excel ', 'anglais']
+221;testeur-1657853;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/testeur-1657853;['java', 'jenkins', 'aws', 'azure', 'docker', 'maven', 'sql', 'jira', 'oracle', 'postgresql', 'jboss', 'mongodb', 'linux']
+222;assurance-qualite-bu-1657855;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/assurance-qualite-bu-1657855;[' sas']
+223;chef-de-projet-architecte-fonctionnel-1657862;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-architecte-fonctionnel-1657862;['cartographie']
+224;business-analyst-sharepoint-power-platform-1657865;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-sharepoint-power-platform-1657865;['jira', 'agile', 'anglais']
+225;business-analyst-application-1657870;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-application-1657870;['sql', 'confluence', 'anglais']
+226;business-analyst-confirm-1657873;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-confirm-1657873;[' git ', 'jira', 'agile', 'confluence', 'modélisation', 'anglais', 'scrum']
+227;solution-analyst-confirm-1657874;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/solution-analyst-confirm-1657874;['agile', 'anglais']
+228;integrateur-mbis-1657852;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/integrateur-mbis-1657852;['java', 'python', 'sql', 'ci/cd', 'jira', 'oracle', 'xray', 'sonar', 'anglais', 'jboss', 'sonarqube', 'linux']
+229;un-ingenieur-sd-wan-1660022;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-sd-wan-1660022;['anglais', ' sas']
+230;consultant-e-reporting-connaitre-asset-management-calculs-et-attribution-de-performances-sql-1657658;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-e-reporting-connaitre-asset-management-calculs-et-attribution-de-performances-sql-1657658;['sql']
+231;developpeur-c-xamarin-forms-1657632;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-c-xamarin-forms-1657632;['azure']
+232;business-analyst-moa-confluence-sql-assurance-credit-anglais-indispensable-1657597;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-moa-confluence-sql-assurance-credit-anglais-indispensable-1657597;['sql', 'confluence', 'anglais']
+233;solution-analyst-it-business-intelligence-anglais-indispensable-mission-idf-1657588;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/solution-analyst-it-business-intelligence-anglais-indispensable-mission-idf-1657588;['agile', 'anglais']
+234;data-office-solution-collibra-data-management-anglais-indispensable-mission-idf-1657575;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/data-office-solution-collibra-data-management-anglais-indispensable-mission-idf-1657575;['anglais']
+235;business-analyst-uml-customer-experience-anglais-indispensable-mission-idf-1657578;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-uml-customer-experience-anglais-indispensable-mission-idf-1657578;[' git ', 'jira', 'agile', 'confluence', 'modélisation', 'anglais', 'scrum']
+236;business-analyst-outil-imx-tres-bon-niveau-d-anglais-indispensable-mission-idf-1657581;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-outil-imx-tres-bon-niveau-d-anglais-indispensable-mission-idf-1657581;['sql', 'jira', 'anglais']
+237;business-analyst-sharepoint-power-platform-bon-niveau-d-anglais-indispensable-mission-1657570;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-sharepoint-power-platform-bon-niveau-d-anglais-indispensable-mission-1657570;['jira', 'agile', 'anglais']
+238;ux-ui-ba-designer-1657533;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ux-ui-ba-designer-1657533;['jira', 'agile', 'scrum', ' sas']
+239;business-analyst-salesforce-apex-talend-1657425;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-salesforce-apex-talend-1657425;['talend', 'jira', 'agile', 'confluence', 'scrum', 'salesforce']
+240;developpeur-c-fullstack-1659526;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-c-fullstack-1659526;[' git ', 'sql', 'anglais']
+241;consultant-c-winforms-1659509;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-c-winforms-1659509;[' git ', 'sql', 'anglais']
+242;coach-agile-safe-scrum-secteur-bfa-1634166;"
+                    HIGHTEAM ";Ivry-sur-Seine;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/coach-agile-safe-scrum-secteur-bfa-1634166;['agile', 'kanban', 'scrum']
+243;business-analyst-it-pre-trade-1641334;"
+                    HIGHTEAM ";Ivry-sur-Seine;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-it-pre-trade-1641334;['jira', ' sas']
+244;release-train-engineer-rte-1641331;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/release-train-engineer-rte-1641331;['agile', 'scrum', ' sas']
+245;business-analyst-scrum-master-data-1641341;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/business-analyst-scrum-master-data-1641341;['power bi', 'azure', 'hadoop', 'agile', 'scrum', ' sas']
+246;business-analyst-market-risk-1641349;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/business-analyst-market-risk-1641349;['sql', 'agile', 'scrum', ' sas']
+247;developpeur-full-stack-java-react-1641352;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-react-1641352;['java', ' git ', 'github', 'sql', 'agile', 'postgresql', 'mysql', 'scrum', 'mongodb', 'vba', ' sas']
+248;support-specialist-case-management-1659024;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/support-specialist-case-management-1659024;['python', 'sql', 'oracle', 'postgresql', 'linux']
+249;architecte-cloud-azure-1659019;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/architecte-cloud-azure-1659019;['azure', 'agile']
+250;ingenieur-devops-migration-1659017;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-migration-1659017;['kafka', 'puppet', 'ansible', 'python', 'sql', 'agile', 'anglais', 'kanban', ' sas', 'linux']
+251;consultant-securite-cloud-azure-1658987;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/consultant-securite-cloud-azure-1658987;['gitlab', 'aws', 'azure', 'ansible', 'python', 'ci/cd', 'terraform', 'powershell']
+252;chef-de-projets-pki-1658947;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projets-pki-1658947;[' sas']
+253;ingenieur-confirme-secdevops-1658938;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-confirme-secdevops-1658938;['ci/cd', ' sas', 'microservice']
+254;consultant-infrastructure-securite-operationnelle-internationale-1658924;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-infrastructure-securite-operationnelle-internationale-1658924;['anglais', 'itil']
+255;developpeur-cobol-java-1656956;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-cobol-java-1656956;['java', 'db2', ' sas']
+256;ingenieur-de-prod-mvs-1658900;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-prod-mvs-1658900;[' sas']
+257;expert-technique-monitoring-1658678;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/expert-technique-monitoring-1658678;['powershell', 'linux']
+258;architecte-infrastructure-messagerie-1658471;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-messagerie-1658471;[' sas']
+259;ingenieur-infrastructure-messagerie-1658468;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-infrastructure-messagerie-1658468;[' sas']
+260;ingenieur-infrastructure-messagerie-1658464;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-infrastructure-messagerie-1658464;[]
+261;consultant-excel-vba-1658403;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/consultant-excel-vba-1658403;['python', 'sql', 'anglais', 'vba']
+262;ingenieur-devops-1658114;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1658114;['java', 'gitlab', 'jenkins', 'python', 'xray', 'scala', ' sas']
+263;ingenieur-de-production-devops-iops-1658109;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-devops-iops-1658109;['gitlab', 'jenkins', 'docker', 'ansible', 'agile', 'sonar', 'anglais', 'sonarqube', ' sas', 'linux']
+264;referent-poste-de-travail-1658040;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/referent-poste-de-travail-1658040;['azure', 'python', 'sql', 'gcp', 'agile', 'anglais', 'grafana', 'powershell', 'linux']
+265;ingenieur-aws-terraform-jenkins-ou-gitlab-ci-docker-1657923;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-aws-terraform-jenkins-ou-gitlab-ci-docker-1657923;['jenkins', 'aws', 'ansible', 'ci/cd', 'terraform', 'sonar', 'anglais', 'scrum', 'mongodb']
+266;chef-de-projet-infrastructure-1655959;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-1655959;['anglais', 'scala']
+267;developpeur-big-data-scala-kafka-spark-1657653;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-big-data-scala-kafka-spark-1657653;['java', 'agile', 'scala']
+268;developpeur-pl-sql-1657595;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-pl-sql-1657595;['sql', 'oracle']
+269;ingenieur-securite-pentester-1657499;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-securite-pentester-1657499;[]
+270;product-owner-api-1657391;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/product-owner-api-1657391;['agile', 'anglais', ' sas']
+271;expert-kubernetes-openshift-1656949;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/expert-kubernetes-openshift-1656949;['gitlab', 'ansible', 'ci/cd', 'agile', 'terraform', 'sonar', 'grafana', 'sonarqube', 'scala', ' sas', 'linux']
+272;ingenieur-active-directory-senior-1656942;"
+                    HIGHTEAM ";La Défense (92);3 années; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-active-directory-senior-1656942;['azure', 'agile', 'anglais', 'ldap', ' sas', 'powershell']
+273;scrum-master-chef-de-projet-technique-1655787;"
+                    HIGHTEAM ";La Défense (92);3 années; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/scrum-master-chef-de-projet-technique-1655787;['gitlab', 'agile', 'apache', 'tomcat', 'scrum', 'splunk']
+274;ingenieur-devops-craft-1655724;"
+                    HIGHTEAM ";La Défense (92);3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-craft-1655724;['github', 'jenkins', 'maven', 'springboot', ' sas']
+275;architecte-big-data-cloud-azure-1655725;"
+                    HIGHTEAM ";La Défense (92);3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/architecte-big-data-cloud-azure-1655725;['java', 'azure', 'spark', 'hive', 'hadoop', ' sas']
+276;tech-lead-data-engineer-spark-scala-hadoop-1655716;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/tech-lead-data-engineer-spark-scala-hadoop-1655716;[' git ', 'jenkins', 'spark', 'hadoop', 'scala']
+277;developpeur-python-django-1655717;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-python-django-1655717;[' git ', 'github', 'python', 'sql', 'jira', 'postgresql', ' sas']
+278;developpeur-c-net-backend-1655718;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-c-net-backend-1655718;['aws', ' sas']
+279;developpeur-python-1655719;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-python-1655719;['python', ' sas']
+280;developpeur-fullstack-java-angular-azure-1655720;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-azure-1655720;['java', 'jenkins', 'azure', 'docker', 'maven', 'airflow', ' sas']
+281;developpeur-fullstack-net-c-react-1655721;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-net-c-react-1655721;['sql', 'postgresql']
+282;devops-craft-jenkins-maven-nexus-ci-cd-1655722;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/devops-craft-jenkins-maven-nexus-ci-cd-1655722;[' git ', 'github', 'jenkins', 'azure', 'docker', 'python', 'maven', 'scala', ' sas']
+283;lead-dev-c-1656623;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/lead-dev-c-1656623;['sql', 'jira', 'agile', 'confluence', 'linux']
+284;developpeur-net-angular-1656424;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-net-angular-1656424;['azure', 'agile', 'anglais']
+285;responsable-si-1655596;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/responsable-si-1655596;['java', 'sql', 'apache', 'mysql', 'linux']
+286;business-analyst-e-commerce-1655600;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/business-analyst-e-commerce-1655600;['jira', 'agile']
+287;consultant-big-data-talend-1656233;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-big-data-talend-1656233;['talend', 'java', 'python', 'spark', 'hive', 'sql', 'gcp', 'hadoop', 'datawarehouse', 'db2', 'scala']
+288;administrateur-systemes-linux-1656152;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/administrateur-systemes-linux-1656152;['aws', 'cartographie', 'linux']
+289;business-analyst-support-activites-middle-office-1655488;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/business-analyst-support-activites-middle-office-1655488;['sql']
+290;devops-azure-c-release-manager-anglais-1655364;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/devops-azure-c-release-manager-anglais-1655364;['aws', 'azure', 'docker', 'ansible', 'ci/cd', 'agile', 'sonar', 'sonarqube', ' sas', 'powershell']
+291;data-engineer-lead-python-r-spark-kubernetes-kafka-anglais-fortement-apprecie-1655379;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/data-engineer-lead-python-r-spark-kubernetes-kafka-anglais-fortement-apprecie-1655379;['azure', 'kafka', 'docker', 'python', 'spark', 'hadoop', 'snowflake', 'cloudera', ' sas']
+292;proxy-product-owner-moteur-de-push-eligibilite-1655132;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/proxy-product-owner-moteur-de-push-eligibilite-1655132;['sql', 'agile']
+293;consultant-securite-racf-1655093;"
+                    HIGHTEAM ";Paris;3 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/consultant-securite-racf-1655093;['db2', 'anglais']
+294;core-hr-manager-1654914;"
+                    HIGHTEAM ";Paris;24 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/core-hr-manager-1654914;['tableau', 'anglais']
+295;dba-sql-server-azure-database-1654911;"
+                    HIGHTEAM ";Paris;24 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/dba-sql-server-azure-database-1654911;['azure', 'kafka', 'sql', 'itil', ' sas', 'powershell']
+296;chef-de-projet-support-1654876;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-support-1654876;['java', 'sql', 'oracle', 'anglais']
+297;it-program-manager-marketing-communication-1654878;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/it-program-manager-marketing-communication-1654878;['jira', 'confluence', 'modélisation', 'anglais', 'powerpoint', ' sas']
+298;un-ingenieur-systeme-linux-gestion-des-infrastructures-linux-gestion-des-incidents-n-et-mco-1654816;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/un-ingenieur-systeme-linux-gestion-des-infrastructures-linux-gestion-des-incidents-n-et-mco-1654816;['aws', 'azure', 'sql', 'oracle', 'anglais', 'apache', 'tomcat', 'postgresql', 'mysql', 'mongodb', ' sas', 'powershell', 'linux']
+299;business-analyst-summit-front-office-1654740;"
+                    HIGHTEAM ";Ile de France;3 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/business-analyst-summit-front-office-1654740;['modélisation']

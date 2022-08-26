@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;developpeur-front-end-1666787;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;36 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-1666787;['java', 'ci/cd', 'agile']
+1;chef-de-projet-infrastructures-1664333;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;36 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructures-1664333;['azure', ' sas']
+2;ingenieur-expert-reseaux-securite-1664316;"
+                    OBJECTWARE MANAGEMENT GROUP ";Angoulême;11 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-expert-reseaux-securite-1664316;['anglais', ' sas']
+3;expertise-flux-h-f-1666387;"
+                    OBJECTWARE MANAGEMENT GROUP ";Angoulême;11 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/expertise-flux-h-f-1666387;['jenkins', 'aws', 'azure', 'docker', 'ansible', 'sql', 'databricks', 'oracle', 'apache', 'tomcat', 'postgresql', 'cartographie', 'splunk', 'mongodb', 'linux']
+4;dba-oracle-h-f-1666336;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/dba-oracle-h-f-1666336;['sql', 'oracle', 'postgresql', 'mongodb']
+5;chef-de-projet-reseaux-1664053;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-reseaux-1664053;[' sas']
+6;chef-de-projet-agence-1664055;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-agence-1664055;[' sas']
+7;dba-oracle-production-1664016;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dba-oracle-production-1664016;['sql', 'oracle']
+8;ingenieur-systeme-linux-senior-1664010;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-senior-1664010;['puppet', 'linux']
+9;administrateur-websphere-1666049;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administrateur-websphere-1666049;[' sas', 'linux']
+10;administrateur-splunk-1666040;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administrateur-splunk-1666040;['splunk', ' sas']
+11;developpeur-php-symfony-node-js-1663724;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-node-js-1663724;[' sas']
+12;expertise-provisioning-1665323;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expertise-provisioning-1665323;['java', 'ldap', 'mongodb', ' sas', 'powershell']
+13;chef-de-projet-infrastructure-1664939;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-1664939;['tableau', ' sas']
+14;architecte-infrastructure-cloud-1664933;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-cloud-1664933;['azure', ' sas']
+15;architecte-infrastructure-1664922;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-1664922;[' sas']
+16;chef-de-projet-infrastructure-h-f-1664059;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1664059;[]
+17;chef-de-projet-infrastructure-anglais-courant-international-1662981;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-anglais-courant-international-1662981;['vpn', ' sas']
+18;expertise-messagerie-h-f-1662967;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expertise-messagerie-h-f-1662967;['powershell']
+19;support-applicatif-1664696;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/support-applicatif-1664696;[' excel ', 'sql', 'powerpoint']
+20;ingenieur-de-production-devops-1664672;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-devops-1664672;['java', 'jenkins', 'docker', 'ansible', 'sql', 'oracle', 'apache', 'tomcat', 'linux']
+21;architecte-messagerie-microsoft-exchange-f-h-1664668;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-messagerie-microsoft-exchange-f-h-1664668;[' sas']
+22;expert-solution-skye-for-business-1664662;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-solution-skye-for-business-1664662;[' sas']
+23;expert-messagerie-microsoft-exchange-1664647;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-messagerie-microsoft-exchange-1664647;[' sas']
+24;ingenieur-infrastructure-cloud-1664643;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-infrastructure-cloud-1664643;[' sas', 'linux']
+25;developpeur-ruby-1662608;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-ruby-1662608;['agile', ' sas']
+26;analyste-securite-si-1662610;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/analyste-securite-si-1662610;['tableau', 'anglais', 'tableaux de bord', 'splunk']
+27;developpeur-shell-sql-java-1662358;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-shell-sql-java-1662358;['java', 'sql', ' sas', 'linux']
+28;pmo-facturation-1662051;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/pmo-facturation-1662051;['tableau', 'powerbi', ' sas']
+29;ingenierie-devops-specialise-toolchain-1660978;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenierie-devops-specialise-toolchain-1660978;['gitlab', 'jenkins', 'ansible']
+30;ingenieur-devops-ci-mobile-1660697;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-ci-mobile-1660697;['gitlab', 'jenkins', 'agile']
+31;chef-de-projet-retail-e-commerce-1660655;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-retail-e-commerce-1660655;[' sas']
+32;developpeur-kotlin-android-java-ionic-reactjs-1659860;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-kotlin-android-java-ionic-reactjs-1659860;['java', ' sas']
+33;developpeur-java-reactjs-liferay-1659705;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-reactjs-liferay-1659705;[' sas']
+34;developpeur-pl-sql-transctionnel-obligatoire-1659707;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-pl-sql-transctionnel-obligatoire-1659707;['oracle', ' sas']
+35;ingenieur-devops-azure-1659497;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-azure-1659497;['aws', 'azure', 'python', 'terraform', ' sas', 'linux']
+36;dba-oracle-sql-devops-1659481;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;2 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/dba-oracle-sql-devops-1659481;['ansible', ' sas']
+37;ingenieur-devops-aws-1659491;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;2 années; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-aws-1659491;['aws', 'azure', 'python', ' sas']
+38;chef-de-projet-infrastructure-coordinateur-active-directory-1659441;"
+                    OBJECTWARE MANAGEMENT GROUP ";Saint-André-de-Cubzac;1 année; 220-260 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-coordinateur-active-directory-1659441;[' sas']
+39;developpeur-front-1659296;"
+                    OBJECTWARE MANAGEMENT GROUP ";Saint-André-de-Cubzac;1 année; 220-260 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-front-1659296;['java', ' git ', 'agile', 'scrum', 'mongodb']
+40;chef-de-projet-itsm-1659230;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-itsm-1659230;[' sas']
+41;ingenieur-ops-1658720;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-ops-1658720;['python']
+42;chef-de-projet-infrastructure-1658500;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-1658500;[' sas']
+43;developpeur-adoba-campaign-1658484;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-adoba-campaign-1658484;[]
+44;developpeur-javascript-player-1657826;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-javascript-player-1657826;['java', 'api rest', 'agile', 'anglais', 'scrum', ' sas']
+45;expert-react-js-node-js-1629966;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-react-js-node-js-1629966;[]
+46;dba-postgresql-1635607;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/dba-postgresql-1635607;['python', 'sql', 'oracle', 'agile', 'anglais', 'postgresql', 'scrum', ' sas', 'linux']
+47;developpeur-ng-script-pleiades-1657045;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-ng-script-pleiades-1657045;['sql', ' sas']
+48;directeur-de-projet-1641012;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-1641012;['agile', 'scrum']
+49;ingenieur-systeme-virtualisation-1600182;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-virtualisation-1600182;['agile']
+50;scrum-master-1610710;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;24 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/scrum-master-1610710;['agile', 'scrum', ' sas']
+51;developpeur-python-1611871;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;24 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1611871;['ansible', 'python', 'sql', 'ci/cd', 'cloudera', 'postgresql']
+52;architecte-solution-1592279;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-solution-1592279;['anglais']
+53;architecte-cloud-azure-1592272;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-azure-1592272;['gitlab', 'aws', 'azure', 'ansible', 'python', 'gcp', 'ci/cd', 'jira', 'agile', 'terraform', 'anglais', 'kanban', 'scrum', 'splunk']
+54;administrateur-elastic-search-1629041;"
+                    OBJECTWARE MANAGEMENT GROUP ";Mérignac;1 année; 280 €;03/02/2022;https://www.freelance-info.fr/mission/administrateur-elastic-search-1629041;['github', 'python', 'hadoop']
+55;expert-kafka-administration-1632622;"
+                    OBJECTWARE MANAGEMENT GROUP ";Mérignac;1 année; 280 €;03/02/2022;https://www.freelance-info.fr/mission/expert-kafka-administration-1632622;[' git ', 'github', 'kafka', 'ansible', 'python', 'hive', 'terraform', 'apache', 'linux']
+56;ingenieur-systeme-linux-1609703;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1609703;['agile', 'itil', 'scala', 'linux']
+57;chef-de-projet-infrastructure-cloud-1634799;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-cloud-1634799;[' git ', 'jira', ' sas']
+58;proxy-product-owner-e-commerce-1655427;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/proxy-product-owner-e-commerce-1655427;[' sas']
+59;expertise-reseaux-load-balancer-h-f-1654724;"
+                    OBJECTWARE MANAGEMENT GROUP ";Paris;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/expertise-reseaux-load-balancer-h-f-1654724;['tableau', 'tableaux de bord', 'scala']

@@ -1,0 +1,181 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;migration-c-vers-java-h-f-1666551;"
+                    INFOTEL CONSEIL ";Sophia-Antipolis;6 mois; 250-430 €;10/02/2022;https://www.freelance-info.fr/mission/migration-c-vers-java-h-f-1666551;['java', 'anglais', ' sas']
+1;product-owner-h-f-1664233;"
+                    INFOTEL CONSEIL ";Sophia-Antipolis;6 mois; 250-430 €;10/02/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1664233;[]
+2;senior-business-analysis-asset-management-1666478;"
+                    INFOTEL CONSEIL ";Niort;2 années; 370-400 €;10/02/2022;https://www.freelance-info.fr/mission/senior-business-analysis-asset-management-1666478;[' excel ', 'sql', 'vba', ' sas']
+3;developpeur-python-urgent-h-f-1664045;"
+                    INFOTEL CONSEIL ";Niort;2 années; 370-400 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-python-urgent-h-f-1664045;[' sas']
+4;developpeur-net-fullstack-mvc-core-1665775;"
+                    INFOTEL CONSEIL ";Paris;3 années; 500-600 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-net-fullstack-mvc-core-1665775;['sql', ' sas']
+5;developpeur-data-etl-seniot-h-f-1665337;"
+                    INFOTEL CONSEIL ";Paris;3 années; 500-600 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-data-etl-seniot-h-f-1665337;['talend', 'java', 'ansible', 'sql', 'agile', 'postgresql', 'mysql', 'kanban', 'scrum', 'linux']
+6;amoa-business-analys-secteur-aeronautique-1663063;"
+                    INFOTEL CONSEIL ";Bordeaux;3 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/amoa-business-analys-secteur-aeronautique-1663063;['agile', 'modélisation', 'anglais']
+7;pmo-h-f-1665015;"
+                    INFOTEL CONSEIL ";Bordeaux;3 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/pmo-h-f-1665015;['tableau', 'tableaux de bord', 'cartographie']
+8;integrateur-f-h-1665012;"
+                    INFOTEL CONSEIL ";Clichy;3 années; 500-550 €;08/02/2022;https://www.freelance-info.fr/mission/integrateur-f-h-1665012;['linux']
+9;ux-ui-designer-h-f-1665007;"
+                    INFOTEL CONSEIL ";Clichy;3 années; 500-550 €;08/02/2022;https://www.freelance-info.fr/mission/ux-ui-designer-h-f-1665007;[]
+10;scrum-master-h-f-niort-1664998;"
+                    INFOTEL CONSEIL ";Niort;2 années; 350-400 €;07/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-niort-1664998;['agile']
+11;etude-developpement-sas-h-f-1664986;"
+                    INFOTEL CONSEIL ";Niort;2 années; 350-400 €;07/02/2022;https://www.freelance-info.fr/mission/etude-developpement-sas-h-f-1664986;['sql', ' sas']
+12;pilote-de-projets-sirh-h-f-1664941;"
+                    INFOTEL CONSEIL ";Tremblay-en-France;12 mois; 100-750 €;05/02/2022;https://www.freelance-info.fr/mission/pilote-de-projets-sirh-h-f-1664941;['powerpoint']
+13;responsable-applicatif-h-f-1664936;"
+                    INFOTEL CONSEIL ";Tremblay-en-France;12 mois; 100-750 €;05/02/2022;https://www.freelance-info.fr/mission/responsable-applicatif-h-f-1664936;[]
+14;business-analyst-concepteur-f-h-1664935;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-580 €;04/02/2022;https://www.freelance-info.fr/mission/business-analyst-concepteur-f-h-1664935;[]
+15;developpeur-java-react-angular-h-f-1664934;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-580 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-react-angular-h-f-1664934;['java', 'api rest', 'agile', 'springboot']
+16;developpeur-fullstack-java-reactjs-1662493;"
+                    INFOTEL CONSEIL ";Niort;2 années; 350-380 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-reactjs-1662493;['java', 'aws', 'sql', ' sas']
+17;ingenieur-production-1662436;"
+                    INFOTEL CONSEIL ";Niort;2 années; 350-380 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-production-1662436;['jenkins', 'ansible', 'python', 'sql', 'oracle', 'anglais', 'splunk', 'linux']
+18;ingenieur-developpement-sirh-1662438;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-600 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-sirh-1662438;[]
+19;project-engineer-identity-and-access-management-openidm-specialist-1662439;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-600 €;04/02/2022;https://www.freelance-info.fr/mission/project-engineer-identity-and-access-management-openidm-specialist-1662439;['java', 'jenkins', 'maven', 'sql', 'api rest', 'oracle', 'agile', 'apache', 'tomcat', 'ldap', 'scrum', 'powershell']
+20;product-owner-secteur-aeronautique-1661991;"
+                    INFOTEL CONSEIL ";Niort;2 années; 380-420 €;04/02/2022;https://www.freelance-info.fr/mission/product-owner-secteur-aeronautique-1661991;['agile', 'confluence', 'anglais', 'scrum']
+21;data-analyst-project-manager-revenue-management-secteur-aeronautique-1661974;"
+                    INFOTEL CONSEIL ";Niort;2 années; 380-420 €;04/02/2022;https://www.freelance-info.fr/mission/data-analyst-project-manager-revenue-management-secteur-aeronautique-1661974;['tableau', 'sql', 'agile', 'anglais', 'tableaux de bord', ' sas']
+22;testeur-application-mobile-secteur-aeronautique-1661983;"
+                    INFOTEL CONSEIL ";Niort;2 années; 280-350 €;04/02/2022;https://www.freelance-info.fr/mission/testeur-application-mobile-secteur-aeronautique-1661983;['jira', 'agile', ' sas']
+23;concepteur-developpeur-cobol-oracle-script-shell-1661890;"
+                    INFOTEL CONSEIL ";Niort;2 années; 280-350 €;04/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-cobol-oracle-script-shell-1661890;['sql', 'oracle', ' sas']
+24;ingenieur-securite-h-f-1663884;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-550 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-h-f-1663884;['jira', 'linux']
+25;coach-agile-scrum-master-h-f-1663835;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-550 €;04/02/2022;https://www.freelance-info.fr/mission/coach-agile-scrum-master-h-f-1663835;['tableau', 'jira', 'agile', 'scrum', ' sas']
+26;consultant-sas-1661696;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-550 €;04/02/2022;https://www.freelance-info.fr/mission/consultant-sas-1661696;[' sas']
+27;chef-de-projet-1661690;"
+                    INFOTEL CONSEIL ";Niort;2 années; 500-550 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-1661690;[' sas']
+28;chef-de-projet-technique-moe-1661674;"
+                    INFOTEL CONSEIL ";Niort;2 années; 340-400 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-moe-1661674;['java', 'agile', ' sas']
+29;developpeur-net-c-urgent-1661520;"
+                    INFOTEL CONSEIL ";Niort;2 années; 340-400 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-net-c-urgent-1661520;[]
+30;amoa-recette-homologation-prestation-prevoyance-1663570;"
+                    INFOTEL CONSEIL ";Niort;2 années; 320-370 €;04/02/2022;https://www.freelance-info.fr/mission/amoa-recette-homologation-prestation-prevoyance-1663570;[' sas']
+31;developpeur-java-j-ee-angular-h-f-1639040;"
+                    INFOTEL CONSEIL ";Niort;2 années; 320-370 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-j-ee-angular-h-f-1639040;['java', 'github', 'jenkins', 'maven', 'agile']
+32;gestionnaire-d-applications-h-f-1661347;"
+                    INFOTEL CONSEIL ";Toulouse;9 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/gestionnaire-d-applications-h-f-1661347;['sql', 'jira', 'apache']
+33;pmo-gestionnaire-d-un-portefeuilles-strategiques-h-f-1661352;"
+                    INFOTEL CONSEIL ";Toulouse;9 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/pmo-gestionnaire-d-un-portefeuilles-strategiques-h-f-1661352;['vba']
+34;expertise-cyber-securite-h-f-1661254;"
+                    INFOTEL CONSEIL ";Nanterre;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expertise-cyber-securite-h-f-1661254;[]
+35;analyste-fonctionnel-h-f-1661249;"
+                    INFOTEL CONSEIL ";Nanterre;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-fonctionnel-h-f-1661249;['salesforce']
+36;developpeur-solidity-nodejs-angular-1663168;"
+                    INFOTEL CONSEIL ";Nanterre;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-solidity-nodejs-angular-1663168;[' sas']
+37;developpeur-mobile-react-native-ou-ios-et-android-h-f-1663072;"
+                    INFOTEL CONSEIL ";Nanterre;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-react-native-ou-ios-et-android-h-f-1663072;[' sas']
+38;test-lead-h-f-1637067;"
+                    INFOTEL CONSEIL ";Nanterre;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/test-lead-h-f-1637067;[]
+39;ingenieur-test-automatisation-h-f-1637068;"
+                    INFOTEL CONSEIL ";Nanterre;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-automatisation-h-f-1637068;['jira']
+40;developpeur-java-jee-full-stack-h-f-1637069;"
+                    INFOTEL CONSEIL ";Paris;12 mois; 100-750 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-java-jee-full-stack-h-f-1637069;['java', 'jenkins', 'aws', 'docker', 'sql', 'gcp', 'oracle', 'agile', 'sonar', 'microservice']
+41;developpeur-full-stack-java-confirme-h-f-1637070;"
+                    INFOTEL CONSEIL ";Paris;12 mois; 100-750 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-confirme-h-f-1637070;['java', 'docker', 'sql', 'gcp', 'api rest', 'oracle', 'agile', 'springboot', 'scrum', 'mongodb']
+42;developpeur-flutter-h-f-1637071;"
+                    INFOTEL CONSEIL ";Tremblay-en-France;12 mois; 100-700 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-flutter-h-f-1637071;['agile']
+43;business-analyst-h-f-1637073;"
+                    INFOTEL CONSEIL ";Tremblay-en-France;12 mois; 100-700 €;02/02/2022;https://www.freelance-info.fr/mission/business-analyst-h-f-1637073;['java', 'agile', 'scrum']
+44;analyste-developpeur-cobol-h-f-1637074;"
+                    INFOTEL CONSEIL ";Tremblay-en-France;12 mois; 100-700 €;02/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-cobol-h-f-1637074;['db2']
+45;concepteur-cobol-h-f-1637075;"
+                    INFOTEL CONSEIL ";Tremblay-en-France;12 mois; 100-700 €;02/02/2022;https://www.freelance-info.fr/mission/concepteur-cobol-h-f-1637075;['db2']
+46;testeur-h-f-1637066;"
+                    INFOTEL CONSEIL ";Neuilly-sur-Seine;6 mois; 300-500 €;02/02/2022;https://www.freelance-info.fr/mission/testeur-h-f-1637066;[]
+47;developpeur-data-etl-senior-h-f-1661025;"
+                    INFOTEL CONSEIL ";Neuilly-sur-Seine;6 mois; 300-500 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-data-etl-senior-h-f-1661025;['talend', 'java', 'ansible', 'sql', 'agile', 'postgresql', 'mysql', 'kanban', 'scrum', 'linux']
+48;coach-agile-h-f-1660767;"
+                    INFOTEL CONSEIL ";Niort;2 années; 420-460 €;01/02/2022;https://www.freelance-info.fr/mission/coach-agile-h-f-1660767;[]
+49;ux-designer-h-f-niort-nouvelle-aquitaine-1660354;"
+                    INFOTEL CONSEIL ";Niort;2 années; 420-460 €;01/02/2022;https://www.freelance-info.fr/mission/ux-designer-h-f-niort-nouvelle-aquitaine-1660354;[]
+50;developpeur-fullstack-net-react-h-f-1660287;"
+                    INFOTEL CONSEIL ";Niort;2 années; 450-530 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-net-react-h-f-1660287;[' sas']
+51;developpeur-net-net-core-h-f-urgent-1660290;"
+                    INFOTEL CONSEIL ";Niort;2 années; 450-530 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-net-net-core-h-f-urgent-1660290;[' sas']
+52;developpeur-fullstack-react-java-h-f-urgent-1660292;"
+                    INFOTEL CONSEIL ";Loiret;3 années; 360-420 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-react-java-h-f-urgent-1660292;[' sas']
+53;expert-dans-l-animation-methode-de-l-entreprise-h-f-1660275;"
+                    INFOTEL CONSEIL ";Loiret;3 années; 360-420 €;01/02/2022;https://www.freelance-info.fr/mission/expert-dans-l-animation-methode-de-l-entreprise-h-f-1660275;['agile']
+54;developpeur-java-back-h-f-1660282;"
+                    INFOTEL CONSEIL ";Orléans;3 années; 440-500 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-back-h-f-1660282;[]
+55;analyse-fonctionnelle-senior-h-f-1660272;"
+                    INFOTEL CONSEIL ";Orléans;3 années; 440-500 €;01/02/2022;https://www.freelance-info.fr/mission/analyse-fonctionnelle-senior-h-f-1660272;['cartographie']
+56;ingenieur-plateformes-it-h-f-nantes-1660030;"
+                    INFOTEL CONSEIL ";Paris;2 années; 490-550 €;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-plateformes-it-h-f-nantes-1660030;['azure', 'python', 'agile', 'anglais', ' sas', 'powershell']
+57;pmo-h-f-1660019;"
+                    INFOTEL CONSEIL ";Paris;2 années; 490-550 €;01/02/2022;https://www.freelance-info.fr/mission/pmo-h-f-1660019;['java', 'jira']
+58;testeur-recetteur-h-f-niort-nouvelle-aquitaine-1659944;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/testeur-recetteur-h-f-niort-nouvelle-aquitaine-1659944;[]
+59;chef-de-production-h-f-nantes-1659787;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-production-h-f-nantes-1659787;['elk', 'docker', 'oracle', 'agile', 'itil', 'jboss', ' sas', 'linux']
+60;chef-de-projet-moa-h-f-1659402;"
+                    INFOTEL CONSEIL ";Montreuil;6 mois; 400-550 €;31/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-h-f-1659402;['cartographie']
+61;chef-de-projet-moe-h-f-1659404;"
+                    INFOTEL CONSEIL ";Montreuil;6 mois; 400-550 €;31/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-h-f-1659404;[]
+62;chef-de-projet-moe-telephonie-h-f-1659398;"
+                    INFOTEL CONSEIL ";Lille;3 années; 200-500 €;31/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-telephonie-h-f-1659398;[]
+63;concepteur-developpeur-talend-h-f-1659039;"
+                    INFOTEL CONSEIL ";Lille;3 années; 200-500 €;31/01/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-talend-h-f-1659039;['talend', 'java', 'gitlab', 'jenkins', 'maven', 'sql', 'jira', 'oracle', 'sonar', 'sonarqube']
+64;analyste-integrateur-f-h-1659015;"
+                    INFOTEL CONSEIL ";Niort;2 années; 300-320 €;29/01/2022;https://www.freelance-info.fr/mission/analyste-integrateur-f-h-1659015;['linux']
+65;business-analyst-connectivite-avion-1658782;"
+                    INFOTEL CONSEIL ";Niort;2 années; 300-320 €;29/01/2022;https://www.freelance-info.fr/mission/business-analyst-connectivite-avion-1658782;['jira', 'agile', 'confluence', 'anglais']
+66;data-analyst-h-f-1658218;"
+                    INFOTEL CONSEIL ";Niort;2 années; 400-430 €;29/01/2022;https://www.freelance-info.fr/mission/data-analyst-h-f-1658218;['python', 'spark', 'pyspark', 'agile', 'scrum']
+67;ingenieur-de-production-z-os-sysops-1658064;"
+                    INFOTEL CONSEIL ";Niort;2 années; 400-430 €;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-z-os-sysops-1658064;[' sas']
+68;data-scientist-junior-h-f-1657835;"
+                    INFOTEL CONSEIL ";Niort;2 années; 550-600 €;29/01/2022;https://www.freelance-info.fr/mission/data-scientist-junior-h-f-1657835;['python', 'spark', 'pyspark', 'agile', 'scrum']
+69;ingenieur-d-etudes-et-developpement-php-symfony-js-1611906;"
+                    INFOTEL CONSEIL ";Niort;2 années; 550-600 €;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-d-etudes-et-developpement-php-symfony-js-1611906;[]
+70;chef-de-projet-agile-h-f-nantes-1568112;"
+                    INFOTEL CONSEIL ";Niort;2 années; 290-310 €;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-agile-h-f-nantes-1568112;['jira', 'agile', 'confluence', 'scrum']
+71;expert-java-h-f-nantes-1528659;"
+                    INFOTEL CONSEIL ";Niort;2 années; 290-310 €;29/01/2022;https://www.freelance-info.fr/mission/expert-java-h-f-nantes-1528659;['java', 'aws', 'sql', 'oracle', 'anglais', 'postgresql']
+72;concepteur-developpeur-editique-h-f-nantes-1593268;"
+                    INFOTEL CONSEIL ";Paris;1 année; 100-700 €;28/01/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-editique-h-f-nantes-1593268;['agile']
+73;chef-de-projet-production-h-f-nantes-1647677;"
+                    INFOTEL CONSEIL ";Paris;1 année; 100-700 €;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-production-h-f-nantes-1647677;['elk', 'oracle', 'jboss', 'linux']
+74;developpeur-java-angular-experimente-h-f-nantes-1647684;"
+                    INFOTEL CONSEIL ";Mans (Le);24 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-experimente-h-f-nantes-1647684;['gitlab', 'jenkins', 'docker', 'maven', 'sql', 'jira', 'oracle', 'apache', 'tomcat', 'mysql', 'jboss']
+75;profil-ops-h-f-1657643;"
+                    INFOTEL CONSEIL ";Mans (Le);24 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/profil-ops-h-f-1657643;['docker', 'apache', 'tomcat']
+76;testeur-f-h-1657246;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/testeur-f-h-1657246;['agile']
+77;business-analyst-cash-management-sct-sdd-1657195;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/business-analyst-cash-management-sct-sdd-1657195;['anglais']
+78;chef-de-projet-moa-expert-1657133;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-expert-1657133;['java', 'sql', ' sas']
+79;coach-agile-h-f-1657018;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/coach-agile-h-f-1657018;['agile', 'scrum']
+80;testeur-recetteur-h-f-1657012;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/testeur-recetteur-h-f-1657012;[]
+81;product-owner-h-f-1656995;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1656995;[]
+82;developeur-magento-h-f-1656892;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developeur-magento-h-f-1656892;['anglais']
+83;coach-agile-h-f-1656893;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/coach-agile-h-f-1656893;['agile', 'anglais']
+84;ux-writer-h-f-bilingue-anglais-1656890;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ux-writer-h-f-bilingue-anglais-1656890;['anglais']
+85;coach-agile-h-f-1656793;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/coach-agile-h-f-1656793;[]
+86;business-analyst-expert-senior-1656675;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/business-analyst-expert-senior-1656675;['modélisation', ' sas']
+87;developpeur-java-fullstack-h-f-1654803;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-java-fullstack-h-f-1654803;[' sas']
+88;lead-technique-java-fullstack-h-f-1654804;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/lead-technique-java-fullstack-h-f-1654804;[' sas']
+89;developpeur-java-h-f-1654805;"
+                    INFOTEL CONSEIL ";Lille;3 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1654805;[' sas']

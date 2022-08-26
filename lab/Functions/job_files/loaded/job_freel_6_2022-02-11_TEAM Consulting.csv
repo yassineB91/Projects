@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;lyon-developpeur-android-anglais-courant-t-1664388;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/lyon-developpeur-android-anglais-courant-t-1664388;['anglais', ' sas']
+1;lyon-developpeur-talend-confirme-t-1664380;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/lyon-developpeur-talend-confirme-t-1664380;['talend', 'anglais', ' sas']
+2;lyon-chef-de-projet-pim-anglais-courant-t-1664385;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/lyon-chef-de-projet-pim-anglais-courant-t-1664385;['anglais', ' sas']
+3;bordeaux-leader-technique-power-bi-a-1664225;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/bordeaux-leader-technique-power-bi-a-1664225;['powerbi', 'power bi', 'azure', 'agile', 'anglais', ' sas', 'powershell', 'ssrs']
+4;vannes-analyste-cobol-a-1666287;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/vannes-analyste-cobol-a-1666287;['anglais', ' sas']
+5;bordeaux-ingenieur-devops-a-1666279;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/bordeaux-ingenieur-devops-a-1666279;['elk', 'agile', 'anglais', 'grafana', ' sas']
+6;rennes-developpeur-c-t-1663945;"
+                    TEAM Consulting ";Bordeaux;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/rennes-developpeur-c-t-1663945;['sql', 'anglais', ' sas']
+7;clermont-ferrand-developpeur-java-fullstack-t-1663939;"
+                    TEAM Consulting ";Bordeaux;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/clermont-ferrand-developpeur-java-fullstack-t-1663939;['java', 'anglais', ' sas']
+8;lyon-developpeur-cobol-mainframe-r-1663845;"
+                    TEAM Consulting ";Vannes;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-developpeur-cobol-mainframe-r-1663845;['anglais', ' sas']
+9;lyon-developpeur-cobol-mainframe-r-1665868;"
+                    TEAM Consulting ";Vannes;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-developpeur-cobol-mainframe-r-1665868;['anglais', ' sas']
+10;nantes-architecte-infrastructure-a-1665867;"
+                    TEAM Consulting ";Bordeaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/nantes-architecte-infrastructure-a-1665867;['anglais', ' sas']
+11;lyon-developpeur-php-a-1663658;"
+                    TEAM Consulting ";Bordeaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-developpeur-php-a-1663658;['java', 'sql', 'anglais', 'mysql', ' sas', 'linux']
+12;bordeaux-ingenieur-python-a-1665541;"
+                    TEAM Consulting ";Rennes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/bordeaux-ingenieur-python-a-1665541;['docker', 'python', 'sql', 'anglais', ' sas']
+13;lyon-coordinateur-technique-a-1665256;"
+                    TEAM Consulting ";Rennes;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-coordinateur-technique-a-1665256;['agile', 'anglais', ' sas']
+14;lyon-scrum-master-anglais-courant-t-1663006;"
+                    TEAM Consulting ";Clermont-Ferrand;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-scrum-master-anglais-courant-t-1663006;['anglais', 'scrum', ' sas']
+15;lyon-data-analyst-anglais-courant-t-1663008;"
+                    TEAM Consulting ";Clermont-Ferrand;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-data-analyst-anglais-courant-t-1663008;['qlik', 'power bi', 'azure', 'python', 'sql', 'databricks', 'anglais', ' sas']
+16;lyon-business-analyst-anglais-courant-t-1663009;"
+                    TEAM Consulting ";Lyon;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-business-analyst-anglais-courant-t-1663009;['power bi', 'azure', 'anglais', ' sas']
+17;lyon-administrateur-unix-linux-n-a-1663014;"
+                    TEAM Consulting ";Lyon;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lyon-administrateur-unix-linux-n-a-1663014;['anglais', 'itil', ' sas']
+18;paris-administrateur-unix-linux-n-a-1663015;"
+                    TEAM Consulting ";Lyon;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/paris-administrateur-unix-linux-n-a-1663015;['anglais', 'itil', ' sas']
+19;lyon-architecte-data-azure-r-1663003;"
+                    TEAM Consulting ";Lyon;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/lyon-architecte-data-azure-r-1663003;['azure', 'python', 'spark', 'data lake', 'databricks', 'pyspark', 'api rest', 'anglais', ' sas']
+20;lyon-developpeur-powerbi-anglais-courant-t-1663005;"
+                    TEAM Consulting ";Nantes;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/lyon-developpeur-powerbi-anglais-courant-t-1663005;['powerbi', 'azure', 'anglais', ' sas']
+21;paris-administrateur-unix-linux-n-a-1664895;"
+                    TEAM Consulting ";Nantes;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/paris-administrateur-unix-linux-n-a-1664895;['anglais', 'itil', ' sas']
+22;lyon-administrateur-unix-linux-n-a-1664892;"
+                    TEAM Consulting ";Lyon;9 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/lyon-administrateur-unix-linux-n-a-1664892;['anglais', 'itil', ' sas']
+23;nantes-developpeur-data-a-1662877;"
+                    TEAM Consulting ";Lyon;9 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/nantes-developpeur-data-a-1662877;['spark', 'anglais', 'scala', ' sas']
+24;cholet-responsable-securite-projet-a-1661378;"
+                    TEAM Consulting ";Bordeaux;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/cholet-responsable-securite-projet-a-1661378;['anglais', ' sas']
+25;paris-administrateur-systeme-db-mvs-l-1661380;"
+                    TEAM Consulting ";Bordeaux;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/paris-administrateur-systeme-db-mvs-l-1661380;['db2', 'anglais', ' sas']
+26;paris-ingenieur-systeme-mvs-l-1661381;"
+                    TEAM Consulting ";Lyon;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/paris-ingenieur-systeme-mvs-l-1661381;['anglais', ' sas']
+27;ile-de-france-administrateur-systeme-mvs-l-1661382;"
+                    TEAM Consulting ";Lyon;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ile-de-france-administrateur-systeme-mvs-l-1661382;['anglais', ' sas']
+28;paris-ingenieur-integrateur-echanges-banque-r-1661031;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/paris-ingenieur-integrateur-echanges-banque-r-1661031;['sql', 'oracle', 'anglais', ' sas']
+29;nantes-business-analyst-a-1660683;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/nantes-business-analyst-a-1660683;['jira', 'agile', 'anglais', ' sas']
+30;lyon-developpeur-cobol-mainframe-r-1660246;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/lyon-developpeur-cobol-mainframe-r-1660246;['anglais', ' sas']
+31;ile-de-france-administrateur-systeme-z-os-l-1660143;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ile-de-france-administrateur-systeme-z-os-l-1660143;['anglais', ' sas']
+32;paris-administrateur-systeme-db-z-os-l-1660139;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/paris-administrateur-systeme-db-z-os-l-1660139;['db2', 'anglais', ' sas']
+33;paris-ingenieur-systeme-z-os-l-1660141;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/paris-ingenieur-systeme-z-os-l-1660141;['anglais', ' sas']
+34;nantes-data-analysts-data-engineer-a-1660018;"
+                    TEAM Consulting ";Lyon;12 mois; 350 €;05/02/2022;https://www.freelance-info.fr/mission/nantes-data-analysts-data-engineer-a-1660018;['anglais', ' sas']
+35;annecy-cobol-experimente-t-1659836;"
+                    TEAM Consulting ";Lyon;12 mois; 350 €;05/02/2022;https://www.freelance-info.fr/mission/annecy-cobol-experimente-t-1659836;['anglais', ' sas']
+36;annecy-developpeur-as-t-1659830;"
+                    TEAM Consulting ";Paris;12 mois; 400 €;05/02/2022;https://www.freelance-info.fr/mission/annecy-developpeur-as-t-1659830;['java', 'maven', 'agile', 'anglais', ' sas']
+37;annecy-coordinateur-de-tests-sap-t-1659834;"
+                    TEAM Consulting ";Paris;12 mois; 400 €;05/02/2022;https://www.freelance-info.fr/mission/annecy-coordinateur-de-tests-sap-t-1659834;['anglais', ' sas']
+38;paris-ingenieur-production-banque-r-1658504;"
+                    TEAM Consulting ";Lyon;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/paris-ingenieur-production-banque-r-1658504;['anglais', ' sas', 'linux']
+39;lyon-business-analyst-anglais-courant-t-1657577;"
+                    TEAM Consulting ";Lyon;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/lyon-business-analyst-anglais-courant-t-1657577;['power bi', 'azure', 'anglais', ' sas']
+40;paris-architecte-a-1657580;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/paris-architecte-a-1657580;['anglais', ' sas']
+41;lyon-data-analyst-anglais-courant-t-1657573;"
+                    TEAM Consulting ";Lyon;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/lyon-data-analyst-anglais-courant-t-1657573;['qlik', 'power bi', 'azure', 'python', 'sql', 'databricks', 'anglais', ' sas']
+42;nantes-administrateur-unix-linux-n-a-1657400;"
+                    TEAM Consulting ";Paris;12 mois; 400 €;04/02/2022;https://www.freelance-info.fr/mission/nantes-administrateur-unix-linux-n-a-1657400;['anglais', 'itil', ' sas']
+43;lille-administrateur-unix-linux-n-a-1657402;"
+                    TEAM Consulting ";Paris;12 mois; 400 €;04/02/2022;https://www.freelance-info.fr/mission/lille-administrateur-unix-linux-n-a-1657402;['anglais', 'itil', ' sas']
+44;lyon-administrateur-unix-linux-n-a-1657396;"
+                    TEAM Consulting ";Lyon;12 mois; 350 €;04/02/2022;https://www.freelance-info.fr/mission/lyon-administrateur-unix-linux-n-a-1657396;['anglais', 'itil', ' sas']
+45;paris-administrateur-unix-linux-n-a-1657397;"
+                    TEAM Consulting ";Lyon;12 mois; 350 €;04/02/2022;https://www.freelance-info.fr/mission/paris-administrateur-unix-linux-n-a-1657397;['anglais', 'itil', ' sas']
+46;lyon-scrum-master-anglais-courant-t-1657321;"
+                    TEAM Consulting ";Nantes;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/lyon-scrum-master-anglais-courant-t-1657321;['anglais', 'scrum', ' sas']
+47;bordeaux-ingenieur-devops-a-1657256;"
+                    TEAM Consulting ";Nantes;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/bordeaux-ingenieur-devops-a-1657256;['java', 'docker', 'ansible', 'terraform', 'anglais', 'grafana', 'scala', ' sas', 'linux']
+48;bordeaux-developpeur-python-a-1657260;"
+                    TEAM Consulting ";Cholet;12 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/bordeaux-developpeur-python-a-1657260;['azure', 'docker', 'python', 'anglais', 'scrum', ' sas', 'linux']
+49;lyon-administrateur-base-de-donnees-t-1657086;"
+                    TEAM Consulting ";Cholet;12 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/lyon-administrateur-base-de-donnees-t-1657086;['oracle', 'anglais', ' sas']
+50;nantes-testeur-java-a-1656491;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/nantes-testeur-java-a-1656491;['java', 'anglais', ' sas']
+51;lyon-developpeur-powerbi-anglais-courant-t-1656418;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/lyon-developpeur-powerbi-anglais-courant-t-1656418;['powerbi', 'azure', 'anglais', ' sas']
+52;nantes-ingenieur-reseau-a-1656159;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/nantes-ingenieur-reseau-a-1656159;['ansible', 'anglais', 'vpn', ' sas']
+53;lyon-expert-sap-fico-s-ou-ecc-r-1655384;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/lyon-expert-sap-fico-s-ou-ecc-r-1655384;['anglais', ' sas']
+54;lyon-expert-sap-sd-le-ou-sd-mm-r-1655386;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/lyon-expert-sap-sd-le-ou-sd-mm-r-1655386;['anglais', ' sas']
+55;lyon-developpeurs-abap-r-1655387;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/lyon-developpeurs-abap-r-1655387;['anglais', ' sas']
+56;bordeaux-developpeur-java-j-ee-t-1655389;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/bordeaux-developpeur-java-j-ee-t-1655389;['java', 'anglais', 'jboss', ' sas']
+57;lyon-consultant-qliksense-t-1655049;"
+                    TEAM Consulting ";Paris;3 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/lyon-consultant-qliksense-t-1655049;['qlik', 'qliksense', 'anglais', ' sas']
+58;lyon-expert-qliksense-t-1655050;"
+                    TEAM Consulting ";Nantes;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/lyon-expert-qliksense-t-1655050;['qlik', 'qliksense', 'anglais', ' sas']
+59;lyon-chef-de-projet-lyon-l-1655051;"
+                    TEAM Consulting ";Nantes;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/lyon-chef-de-projet-lyon-l-1655051;['anglais', ' sas']
