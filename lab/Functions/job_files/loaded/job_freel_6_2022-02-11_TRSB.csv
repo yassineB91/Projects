@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;ingenieur-de-production-1666737;"
+                    TRSB ";Bois-Colombes;3 années; 300-490 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-1666737;['anglais', 'powershell', 'linux']
+1;dba-oracle-sql-serveur-anglais-1666555;"
+                    TRSB ";Bois-Colombes;3 années; 300-490 €;10/02/2022;https://www.freelance-info.fr/mission/dba-oracle-sql-serveur-anglais-1666555;['sql', 'oracle', 'ssrs', ' ssis', 'linux']
+2;it-risk-cyber-analyst-1666515;"
+                    TRSB ";Nanterre;3 années; 490-620 €;10/02/2022;https://www.freelance-info.fr/mission/it-risk-cyber-analyst-1666515;[]
+3;developpeur-fullstack-symfony-1664143;"
+                    TRSB ";Nanterre;3 années; 490-620 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-symfony-1664143;['agile', 'scrum', ' sas']
+4;product-owner-cloud-azure-devops-anglophone-1666418;"
+                    TRSB ";Paris;3 années; 550-680 €;10/02/2022;https://www.freelance-info.fr/mission/product-owner-cloud-azure-devops-anglophone-1666418;['azure', 'agile', 'anglais', 'kanban', 'scrum', ' sas']
+5;developpement-sas-v-expertise-min-ans-1666280;"
+                    TRSB ";Paris;3 années; 550-680 €;10/02/2022;https://www.freelance-info.fr/mission/developpement-sas-v-expertise-min-ans-1666280;['qlik', 'tableau', 'power bi', 'sql', 'oracle', 'qliksense', 'vba', ' sas']
+6;developpeur-web-angular-1666266;"
+                    TRSB ";Issy-les-Moulineaux;6 mois; 500 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-web-angular-1666266;['java', 'sql', 'api rest', 'agile', 'anglais', 'scrum', ' sas']
+7;developpeur-back-end-aws-nodejs-graphql-1666141;"
+                    TRSB ";Issy-les-Moulineaux;6 mois; 500 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-aws-nodejs-graphql-1666141;['aws', 'sql', 'ci/cd', ' sas']
+8;developpeur-pl-sql-1666131;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-pl-sql-1666131;['sql']
+9;chef-de-projet-modern-workplace-o-azure-1663934;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-modern-workplace-o-azure-1663934;['tableau', 'azure']
+10;integrateur-infrastructure-1665482;"
+                    TRSB ";Paris;12 mois; 400-800 €;09/02/2022;https://www.freelance-info.fr/mission/integrateur-infrastructure-1665482;['jenkins', 'aws', 'docker', 'ansible', 'sql', 'agile', 'terraform', 'apache', 'itil', 'vpn', 'mysql', 'mongodb', 'powershell', 'linux']
+11;tech-lead-react-rest-api-ci-cd-1665441;"
+                    TRSB ";Paris;12 mois; 400-800 €;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-react-rest-api-ci-cd-1665441;['jenkins', 'kafka', 'sql', 'ci/cd', 'terraform', 'sonar', 'postgresql', 'sonarqube']
+12;architecte-data-conception-de-modeles-de-donnees-1663202;"
+                    TRSB ";Nanterre;3 années; 500 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-data-conception-de-modeles-de-donnees-1663202;[' sas']
+13;developpeur-pl-sql-apex-bilingue-anglais-1664563;"
+                    TRSB ";Nanterre;3 années; 500 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-pl-sql-apex-bilingue-anglais-1664563;['sql', 'oracle', 'anglais']
+14;consultant-iam-pim-anglais-1664562;"
+                    TRSB ";Télétravail;6 mois; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-iam-pim-anglais-1664562;['powershell']
+15;developpeur-fullstack-net-azure-1664515;"
+                    TRSB ";Télétravail;6 mois; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-net-azure-1664515;['java', 'aws', 'azure', 'python', 'sql', 'ci/cd', 'oracle', 'agile', 'anglais', 'mongodb', ' sas']
+16;data-architect-exp-azure-data-factory-1662627;"
+                    TRSB ";Cergy;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/data-architect-exp-azure-data-factory-1662627;['java', 'power bi', 'azure', 'data lake', 'sql', 'agile', 'modélisation', 'anglais', 'cartographie', ' sas']
+17;developpeur-full-stack-java-hibernate-1662345;"
+                    TRSB ";Cergy;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-hibernate-1662345;['java', 'jenkins', 'maven', 'sql', 'jira', 'oracle']
+18;consultant-postgresql-1662074;"
+                    TRSB ";Courbevoie;1 année; 550-760 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-postgresql-1662074;['sql', 'postgresql', ' sas']
+19;developpeur-c-solution-trading-1661739;"
+                    TRSB ";Courbevoie;1 année; 550-760 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-solution-trading-1661739;[' sas']
+20;developpeur-fullstack-java-angular-senior-1661682;"
+                    TRSB ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-angular-senior-1661682;['java', ' sas']
+21;ingenieur-devops-terraform-kubernetes-1661385;"
+                    TRSB ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-terraform-kubernetes-1661385;['java', 'azure', 'ansible', 'gcp', 'jira', 'terraform', 'cloudera', 'sonar', 'anglais']
+22;expert-openshift-1661019;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-openshift-1661019;['ansible', 'jira', 'agile', 'confluence', 'kanban', 'scrum', ' sas', 'linux']
+23;chef-de-projet-it-senior-programme-esg-1660986;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-senior-programme-esg-1660986;['power bi', 'azure', 'agile', 'modélisation', 'anglais', 'itil', 'cartographie', 'scala', ' sas']
+24;developpeur-react-1660629;"
+                    TRSB ";Ile de France;24 mois; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-react-1660629;[' sas']
+25;ingenieur-devops-1660487;"
+                    TRSB ";Ile de France;24 mois; 600-750 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1660487;['ansible', 'agile', 'anglais', ' sas', 'linux']
+26;integrateur-applicatif-1657545;"
+                    TRSB ";Nanterre;2 années; 450-530 €;03/02/2022;https://www.freelance-info.fr/mission/integrateur-applicatif-1657545;['java', 'docker', 'sql', 'jira', 'confluence', 'postgresql', 'jboss', ' sas']
+27;consultant-websphere-n-1657375;"
+                    TRSB ";Nanterre;2 années; 450-530 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-websphere-n-1657375;['java', 'linux']
+28;ingenieur-systeme-reseaux-1656869;"
+                    TRSB ";Nanterre;3 années; 550-650 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-reseaux-1656869;[]
+29;analyste-soc-1656796;"
+                    TRSB ";Nanterre;3 années; 550-650 €;03/02/2022;https://www.freelance-info.fr/mission/analyste-soc-1656796;['java', 'aws', 'azure', 'elk', 'python', 'anglais', 'splunk', 'scala', 'powershell', 'linux']
+30;service-delivery-manager-1656045;"
+                    TRSB ";Nanterre;3 années; 440-530 €;03/02/2022;https://www.freelance-info.fr/mission/service-delivery-manager-1656045;[' sas']
+31;consultant-securite-microsoft-active-directory-ad-1655423;"
+                    TRSB ";Nanterre;3 années; 440-530 €;03/02/2022;https://www.freelance-info.fr/mission/consultant-securite-microsoft-active-directory-ad-1655423;['linux']
+32;incident-manager-english-mandatory-1655405;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/incident-manager-english-mandatory-1655405;['anglais', 'itil', ' sas']
+33;officier-ingenieur-de-cyber-securite-1655410;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/officier-ingenieur-de-cyber-securite-1655410;['agile', 'scala']
+34;business-analyst-it-risque-de-credit-1655412;"
+                    TRSB ";Paris;3 années; 490-510 €;03/02/2022;https://www.freelance-info.fr/mission/business-analyst-it-risque-de-credit-1655412;['agile', 'anglais', 'scrum']
+35;dba-oracle-sql-server-1655414;"
+                    TRSB ";Paris;3 années; 490-510 €;03/02/2022;https://www.freelance-info.fr/mission/dba-oracle-sql-server-1655414;['sql', 'oracle']
+36;senior-problem-manager-1655416;"
+                    TRSB ";Paris;1 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/senior-problem-manager-1655416;['itil']
+37;tech-lead-analyste-developpeur-senior-salesforce-checkout-1655418;"
+                    TRSB ";Paris;1 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/tech-lead-analyste-developpeur-senior-salesforce-checkout-1655418;[' sas', 'salesforce']
+38;it-governance-officer-1655420;"
+                    TRSB ";Ile de France;36 mois; 550-750 €;01/02/2022;https://www.freelance-info.fr/mission/it-governance-officer-1655420;['anglais', 'powerpoint', 'itil', ' sas']
+39;chef-de-projet-architecte-infra-1655398;"
+                    TRSB ";Ile de France;36 mois; 550-750 €;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-architecte-infra-1655398;['anglais', 'linux']
+40;business-analyst-cleva-v-senior-1655403;"
+                    TRSB ";Paris;2 années; 500-650 €;01/02/2022;https://www.freelance-info.fr/mission/business-analyst-cleva-v-senior-1655403;[]
+41;x-consultant-websphere-n-et-n-1655394;"
+                    TRSB ";Paris;2 années; 500-650 €;01/02/2022;https://www.freelance-info.fr/mission/x-consultant-websphere-n-et-n-1655394;['java', 'linux']
+42;change-process-manager-sdm-service-delivery-manager-1655380;"
+                    TRSB ";Paris;2 années; 550-650 €;29/01/2022;https://www.freelance-info.fr/mission/change-process-manager-sdm-service-delivery-manager-1655380;[]
+43;consultant-autosys-1655383;"
+                    TRSB ";Paris;2 années; 550-650 €;29/01/2022;https://www.freelance-info.fr/mission/consultant-autosys-1655383;['sql', 'linux']
+44;dba-oracle-exadata-1655390;"
+                    TRSB ";Montpellier;16 mois; 400-490 €;28/01/2022;https://www.freelance-info.fr/mission/dba-oracle-exadata-1655390;['oracle']
+45;consultant-n-bigfix-1655368;"
+                    TRSB ";Montpellier;16 mois; 400-490 €;28/01/2022;https://www.freelance-info.fr/mission/consultant-n-bigfix-1655368;['tableau', 'tableaux de bord']
+46;engagement-contract-manager-1655370;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/engagement-contract-manager-1655370;['linux']
+47;client-service-manager-telecom-english-mandatory-1655378;"
+                    TRSB ";Paris;2 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/client-service-manager-telecom-english-mandatory-1655378;['anglais']
+48;problem-manager-1655348;"
+                    TRSB ";Neuilly-sur-Seine;6 mois; 300-470 €;27/01/2022;https://www.freelance-info.fr/mission/problem-manager-1655348;[]
+49;architecte-infrastructure-reseaux-1655357;"
+                    TRSB ";Neuilly-sur-Seine;6 mois; 300-470 €;27/01/2022;https://www.freelance-info.fr/mission/architecte-infrastructure-reseaux-1655357;['vpn', ' sas']
+50;ingenieur-devops-intermediaire-1655359;"
+                    TRSB ";Gonesse;12 mois; 400-520 €;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-intermediaire-1655359;['sql', 'terraform', 'anglais', 'linux']
+51;ingenieur-citrix-1655333;"
+                    TRSB ";Gonesse;12 mois; 400-520 €;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-citrix-1655333;[]
+52;ingenieur-data-kafka-1655336;"
+                    TRSB ";Paris;1 année; Tarif non renseigné;15/01/2022;https://www.freelance-info.fr/mission/ingenieur-data-kafka-1655336;['gitlab', 'kafka', 'docker', 'ansible']
+53;expert-infra-1655339;"
+                    TRSB ";Paris;1 année; Tarif non renseigné;15/01/2022;https://www.freelance-info.fr/mission/expert-infra-1655339;[]
+54;administrateur-ingenieur-splunk-1655342;"
+                    TRSB ";Paris;3 années; 400-520 €;14/01/2022;https://www.freelance-info.fr/mission/administrateur-ingenieur-splunk-1655342;['splunk', ' sas']
+55;ingenieur-developpeur-applicatif-java-iam-1655319;"
+                    TRSB ";Paris;3 années; 400-520 €;14/01/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-applicatif-java-iam-1655319;['java', 'agile']
+56;consultant-systeme-aix-power-1655322;"
+                    TRSB ";Maisons-Laffitte;3 mois; 400-490 €;13/01/2022;https://www.freelance-info.fr/mission/consultant-systeme-aix-power-1655322;[]
+57;ingenieur-virtualisation-vsan-vsphere-vra-vro-1655328;"
+                    TRSB ";Maisons-Laffitte;3 mois; 400-490 €;13/01/2022;https://www.freelance-info.fr/mission/ingenieur-virtualisation-vsan-vsphere-vra-vro-1655328;[]
+58;chef-de-projet-directeur-de-projet-1655308;"
+                    TRSB ";La Défense (92);3 années; Tarif non renseigné;13/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-directeur-de-projet-1655308;['scala']
+59;postes-poste-de-n-et-poste-de-n-hadoop-1655314;"
+                    TRSB ";La Défense (92);3 années; Tarif non renseigné;13/01/2022;https://www.freelance-info.fr/mission/postes-poste-de-n-et-poste-de-n-hadoop-1655314;['ansible', 'python', 'hortonworks', 'hadoop', 'terraform', 'ldap', 'linux']

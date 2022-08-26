@@ -1,0 +1,101 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;data-management-collibra-1666766;"
+                    UMANIS ";Paris;24 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/data-management-collibra-1666766;['sql']
+1;developpement-drupal-php-1666678;"
+                    UMANIS ";Paris;24 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/developpement-drupal-php-1666678;['github', 'aws', 'sql', 'mysql']
+2;developpeur-ios-1666627;"
+                    UMANIS ";Paris;24 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-ios-1666627;[]
+3;moa-business-analyste-moa-risque-de-credit-1666543;"
+                    UMANIS ";Paris;24 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/moa-business-analyste-moa-risque-de-credit-1666543;[]
+4;developpeur-big-data-java-scala-spark-1664446;"
+                    UMANIS ";Paris;24 mois; 400-480 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-java-scala-spark-1664446;['java', 'aws', 'spark', 'jira', 'agile', 'kanban', 'scala']
+5;developpeur-front-end-java-angular-react-native-1666293;"
+                    UMANIS ";Paris;24 mois; 400-480 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-java-angular-react-native-1666293;['agile', 'scrum']
+6;developpeur-java-full-stack-sprig-angular-1666291;"
+                    UMANIS ";Paris;24 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-java-full-stack-sprig-angular-1666291;['java', 'gitlab', 'aws', 'docker', 'sql', 'gcp', 'agile', 'scrum']
+7;moa-business-analyste-agile-1666253;"
+                    UMANIS ";Paris;24 mois; 400-500 €;10/02/2022;https://www.freelance-info.fr/mission/moa-business-analyste-agile-1666253;['agile', ' sas']
+8;business-analyste-banque-reglementaire-compta-anglais-cognos-1666249;"
+                    UMANIS ";Paris;24 mois; 400-490 €;10/02/2022;https://www.freelance-info.fr/mission/business-analyste-banque-reglementaire-compta-anglais-cognos-1666249;['sql', 'anglais', 'vba']
+9;senior-software-engineer-devops-aws-python-1663877;"
+                    UMANIS ";Paris;24 mois; 400-490 €;10/02/2022;https://www.freelance-info.fr/mission/senior-software-engineer-devops-aws-python-1663877;['aws', 'python']
+10;developpeur-cobol-java-1666042;"
+                    UMANIS ";Paris;24 mois; 400-470 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-java-1666042;['java']
+11;administrateur-jira-confluence-1666015;"
+                    UMANIS ";Paris;24 mois; 400-470 €;09/02/2022;https://www.freelance-info.fr/mission/administrateur-jira-confluence-1666015;['gitlab', 'jenkins', 'jira', 'agile', 'confluence', 'sonar', 'scrum', 'sonarqube', 'linux']
+12;analyste-rpa-1665925;"
+                    UMANIS ";Paris;24 mois; 400-470 €;09/02/2022;https://www.freelance-info.fr/mission/analyste-rpa-1665925;[]
+13;developpeur-big-data-1663585;"
+                    UMANIS ";Paris;24 mois; 400-470 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-1663585;['spark', 'hadoop', 'scala']
+14;tech-lead-big-data-1663580;"
+                    UMANIS ";Paris;24 mois; 400-500 €;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-big-data-1663580;['tableau', 'aws', 'azure', 'docker', 'spark', 'hive', 'hortonworks', 'gcp', 'hadoop', 'agile', 'cloudera', 'scrum']
+15;data-engineer-azure-cloud-devops-1663564;"
+                    UMANIS ";Paris;24 mois; 400-500 €;09/02/2022;https://www.freelance-info.fr/mission/data-engineer-azure-cloud-devops-1663564;['github', 'power bi', 'azure', 'spark', 'sql', 'databricks', 'ci/cd', 'datawarehouse', 'jira', 'agile', 'modélisation', 'cartographie', 'scala']
+16;ingenieur-d-exploitation-production-1665734;"
+                    UMANIS ";Paris;24 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-exploitation-production-1665734;['tomcat', 'linux']
+17;java-cloud-data-1665604;"
+                    UMANIS ";Paris;24 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/java-cloud-data-1665604;['java', 'gitlab', 'docker', 'sql', 'gcp', 'airflow', 'ci/cd', 'bigquery', 'terraform', 'apache', 'scrum', 'scala']
+18;developpement-sas-hadoop-et-de-leur-fonctionnement-notamment-hdfs-hive-spark-1665591;"
+                    UMANIS ";Paris;24 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpement-sas-hadoop-et-de-leur-fonctionnement-notamment-hdfs-hive-spark-1665591;[' r ', 'spark', 'hive', 'hadoop', ' sas', 'linux']
+19;ingenieur-devops-gcp-1665542;"
+                    UMANIS ";Paris;24 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-gcp-1665542;['gitlab', 'jenkins', 'docker', 'ansible', 'gcp', 'ci/cd', 'terraform', 'sonar', 'linux']
+20;responsable-applicatif-api-devops-1663301;"
+                    UMANIS ";Paris;24 mois; 400-480 €;08/02/2022;https://www.freelance-info.fr/mission/responsable-applicatif-api-devops-1663301;[]
+21;ingenieur-cyber-securite-splunk-1664928;"
+                    UMANIS ";Paris;24 mois; 400-480 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-cyber-securite-splunk-1664928;['aws', 'azure', 'splunk']
+22;administarteur-big-data-1662926;"
+                    UMANIS ";Paris;24 mois; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/administarteur-big-data-1662926;[]
+23;developpeur-big-data-sas-1662909;"
+                    UMANIS ";Paris;24 mois; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-sas-1662909;[' r ', 'spark', 'hadoop', 'scala', ' sas']
+24;devops-infrastructure-securite-1662865;"
+                    UMANIS ";Paris;24 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/devops-infrastructure-securite-1662865;['ci/cd', 'microservice']
+25;developpeur-stambia-1662760;"
+                    UMANIS ";Paris;24 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-stambia-1662760;['sql', 'oracle', 'modélisation']
+26;ingenieur-devops-infra-developpement-1662744;"
+                    UMANIS ";Paris;24 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-infra-developpement-1662744;['java', ' git ', 'jenkins', 'aws', 'kafka', 'docker', 'ansible', 'python', 'terraform', 'scala']
+27;architect-technique-java-1664569;"
+                    UMANIS ";Paris;24 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/architect-technique-java-1664569;['java', 'jenkins', 'docker', 'maven', 'api rest', 'tomcat', 'jboss']
+28;expertise-splunk-aws-azure-1662388;"
+                    UMANIS ";Paris;24 mois; 450-600 €;08/02/2022;https://www.freelance-info.fr/mission/expertise-splunk-aws-azure-1662388;['tableau', 'aws', 'azure', 'splunk']
+29;devops-aws-anglais-a-bruxelle-1662394;"
+                    UMANIS ";Paris;24 mois; 450-600 €;08/02/2022;https://www.freelance-info.fr/mission/devops-aws-anglais-a-bruxelle-1662394;['aws', 'python', 'sql', 'anglais', 'postgresql', 'linux']
+30;architecte-solution-data-1661052;"
+                    UMANIS ";Paris;24 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-solution-data-1661052;['kafka', 'cloudera']
+31;architecte-big-data-1661054;"
+                    UMANIS ";Paris;24 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-big-data-1661054;['java', ' git ', 'python', 'airflow', 'ci/cd', 'hadoop', 'confluence', 'cloudera']
+32;architect-finance-sap-1661045;"
+                    UMANIS ";Paris;24 mois; 400-440 €;08/02/2022;https://www.freelance-info.fr/mission/architect-finance-sap-1661045;[]
+33;product-owner-cloud-gcp-1660528;"
+                    UMANIS ";Paris;24 mois; 400-440 €;08/02/2022;https://www.freelance-info.fr/mission/product-owner-cloud-gcp-1660528;['gcp', 'hadoop']
+34;ingenieur-oracle-hyperion-essbase-v-1660360;"
+                    UMANIS ";Paris;24 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-oracle-hyperion-essbase-v-1660360;['sql', 'oracle']
+35;developpeur-fullstack-drupal-aws-devops-1660149;"
+                    UMANIS ";Paris;24 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-drupal-aws-devops-1660149;['jenkins', 'aws', 'python', 'maven', 'ci/cd', 'terraform', ' sas']
+36;developpeur-big-data-1660152;"
+                    UMANIS ";Paris;24 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-1660152;['java', 'aws', 'spark', 'jira', 'agile', 'kanban', 'scala']
+37;architecte-data-hadoop-airflow-micro-service-1659544;"
+                    UMANIS ";Paris;24 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/architecte-data-hadoop-airflow-micro-service-1659544;['airflow', 'hadoop']
+38;developpeur-graphtalk-aia-junior-1658851;"
+                    UMANIS ";Paris;24 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-graphtalk-aia-junior-1658851;[]
+39;developpeur-cobol-banque-finance-1658739;"
+                    UMANIS ";Paris;24 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-banque-finance-1658739;['db2', 'vba']
+40;integrateur-mainframe-cobol-zos-1658741;"
+                    UMANIS ";Paris;24 mois; 420-500 €;05/02/2022;https://www.freelance-info.fr/mission/integrateur-mainframe-cobol-zos-1658741;['java', 'db2']
+41;ingenieur-sap-mm-fi-anglais-1658306;"
+                    UMANIS ";Paris;24 mois; 420-500 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-sap-mm-fi-anglais-1658306;['jira', 'agile']
+42;ingenieur-devops-cloud-gcp-1657336;"
+                    UMANIS ";Paris;24 mois; 500-650 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-cloud-gcp-1657336;['gitlab', 'docker', 'gcp', 'ci/cd', 'terraform', 'sonar']
+43;developpeur-big-data-spark-scala-1657068;"
+                    UMANIS ";Paris;24 mois; 500-650 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-spark-scala-1657068;['spark', 'gcp', 'airflow', 'bigquery', 'scala']
+44;developpeur-graph-talk-aia-1656899;"
+                    UMANIS ";Paris;24 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-graph-talk-aia-1656899;[]
+45;architecte-data-anglais-1656760;"
+                    UMANIS ";Paris;24 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-data-anglais-1656760;[' git ', 'jenkins', 'kafka', 'ansible', 'spark', 'data lake', 'hive', 'maven', 'hortonworks', 'sql', 'anglais', 'logstash', 'mongodb']
+46;developpeur-cobol-pacbase-1656740;"
+                    UMANIS ";Paris;24 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-cobol-pacbase-1656740;['gitlab', 'jenkins', 'ci/cd', 'db2', 'agile']
+47;architecte-fonctionnel-et-data-1649765;"
+                    UMANIS ";Paris;24 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-et-data-1649765;['modélisation']
+48;developpeur-qlick-sense-anglais-1628005;"
+                    UMANIS ";Paris;24 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-qlick-sense-anglais-1628005;[' sas']
+49;developpement-cobol-1639975;"
+                    UMANIS ";Paris;24 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpement-cobol-1639975;[' sas']

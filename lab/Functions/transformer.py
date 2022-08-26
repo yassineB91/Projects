@@ -2,9 +2,8 @@
 def transformer(filepath):
     import pandas as pd
     import numpy as np
-    from pandas.api.types import is_string_dtype
-    from pandas.api.types import is_numeric_dtype
-    newdata = pd.read_csv(filepath, usecols=['title', 'companyname', 'location', 'duration','salary','date'], sep=';')
+
+    newdata = pd.read_csv(filepath, usecols=['title', 'companyname', 'location', 'duration','salary','date','joblink','jobskills'], sep=';')
     newdata['salary']=newdata['salary'].str.replace(' Tarif non renseigné', '0-0 €')
     
     mask=newdata['salary'].str.contains('-')

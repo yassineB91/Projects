@@ -1,0 +1,101 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;administrateur-sap-sap-bc-oracle-a-ans-d-experience-en-tant-qu-administrateur-sap-bc-1666411;"
+                    KEYNAN ";Lyon;9 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administrateur-sap-sap-bc-oracle-a-ans-d-experience-en-tant-qu-administrateur-sap-bc-1666411;['sql', 'oracle', 'itil', ' sas']
+1;ingenieur-de-production-confirme-ibm-zos-n-1666409;"
+                    KEYNAN ";Lyon;9 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-confirme-ibm-zos-n-1666409;['sql', 'db2', ' sas']
+2;assistant-chef-de-projet-1666347;"
+                    KEYNAN ";Paris;36 mois; 400-420 €;09/02/2022;https://www.freelance-info.fr/mission/assistant-chef-de-projet-1666347;['tableau', ' excel ', 'powerpoint']
+3;architecte-expert-technique-hadoop-hortonworks-cloudera-nouvelle-distribution-horton-works-1664073;"
+                    KEYNAN ";Paris;36 mois; 400-420 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-expert-technique-hadoop-hortonworks-cloudera-nouvelle-distribution-horton-works-1664073;['docker', 'ansible', 'spark', 'hive', 'hortonworks', 'hadoop', 'terraform', 'cloudera', 'apache', ' sas']
+4;developpeur-java-core-j-query-bordeaux-1664070;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-java-core-j-query-bordeaux-1664070;['java', ' sas']
+5;recetteur-technique-testeur-junior-1664054;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/recetteur-technique-testeur-junior-1664054;['java', 'sql', ' sas', 'linux']
+6;developpeur-experimente-fullstack-c-angular-1663755;"
+                    KEYNAN ";Bry-sur-Marne;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-experimente-fullstack-c-angular-1663755;['azure', 'sql', 'anglais', ' sas']
+7;developpeur-experimente-fullstack-net-c-angular-1665996;"
+                    KEYNAN ";Bry-sur-Marne;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-experimente-fullstack-net-c-angular-1665996;['azure', 'sql', 'anglais', ' sas']
+8;integrateur-devops-linux-terraform-ansible-notions-de-cloud-1663728;"
+                    KEYNAN ";Bordeaux;12 mois; 400-420 €;09/02/2022;https://www.freelance-info.fr/mission/integrateur-devops-linux-terraform-ansible-notions-de-cloud-1663728;['gitlab', 'jenkins', 'docker', 'ansible', 'python', 'ci/cd', 'terraform', ' sas', 'linux']
+9;architecte-reseaux-deploiment-reseaux-projet-cloud-1663732;"
+                    KEYNAN ";Bordeaux;12 mois; 400-420 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-reseaux-deploiment-reseaux-projet-cloud-1663732;[' sas']
+10;developpeur-python-ans-experience-1663711;"
+                    KEYNAN ";Bry-sur-Marne;18 mois; 330-380 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-python-ans-experience-1663711;['python', ' sas', 'linux']
+11;developpeur-drupal-1663705;"
+                    KEYNAN ";Bry-sur-Marne;18 mois; 330-380 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-1663705;[' sas']
+12;architecte-expert-technique-wso-1663470;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-expert-technique-wso-1663470;['java', 'jenkins', 'kafka', 'ci/cd', 'api rest', ' sas', 'linux']
+13;chef-de-projet-siem-1663360;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-siem-1663360;[' sas']
+14;chef-de-projet-production-responsable-exploitation-applicative-1663361;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-production-responsable-exploitation-applicative-1663361;[' sas']
+15;developpeur-full-stack-java-1665620;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-1665620;['java', 'jenkins', 'python', 'maven', 'sql', 'jira', 'sonar', 'postgresql', 'sonarqube', ' sas', 'microservice']
+16;integrateur-unix-perl-vtom-postgre-1665538;"
+                    KEYNAN ";Vincennes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-unix-perl-vtom-postgre-1665538;['java']
+17;profil-devops-sur-azure-1665353;"
+                    KEYNAN ";Vincennes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/profil-devops-sur-azure-1665353;['java', ' git ', 'azure', 'kafka', 'elk', 'docker', 'maven', 'sql', 'terraform', 'apache', 'postgresql', 'mongodb', ' sas']
+18;expert-senior-bases-de-donnees-postgresql-oracle-et-mysql-anglais-1663345;"
+                    KEYNAN ";Bry-sur-Marne;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-senior-bases-de-donnees-postgresql-oracle-et-mysql-anglais-1663345;['aws', 'sql', 'oracle', 'anglais', 'postgresql', 'mysql', ' sas']
+19;administrateur-systeme-et-reseaux-niveau-1663343;"
+                    KEYNAN ";Bry-sur-Marne;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-et-reseaux-niveau-1663343;[' sas']
+20;expertise-technique-sur-les-architectures-reseau-et-les-standards-d-architecture-soa-1663344;"
+                    KEYNAN ";Bry-sur-Marne;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expertise-technique-sur-les-architectures-reseau-et-les-standards-d-architecture-soa-1663344;['jenkins', 'elk', 'ansible', 'apache', ' sas', 'linux']
+21;administrateur-office-1663307;"
+                    KEYNAN ";Bry-sur-Marne;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-office-1663307;[' sas']
+22;tech-lead-big-data-hortonworks-cloudera-spark-1665107;"
+                    KEYNAN ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-big-data-hortonworks-cloudera-spark-1665107;['java', 'elk', 'spark', 'hive', 'hortonworks', 'hadoop', 'pyspark', 'cloudera', 'scala']
+23;ingenieur-de-production-confirme-ibm-zos-n-1662965;"
+                    KEYNAN ";Lille;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-confirme-ibm-zos-n-1662965;['sql', 'db2', ' sas']
+24;administrateur-sap-sap-bc-1664700;"
+                    KEYNAN ";Bry-sur-Marne;18 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-sap-sap-bc-1664700;['sql', 'oracle', 'itil', ' sas']
+25;developpeur-sas-va-visual-analytics-et-etl-1662636;"
+                    KEYNAN ";Bry-sur-Marne;18 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-sas-va-visual-analytics-et-etl-1662636;['talend', 'tableau', 'tableaux de bord', ' sas']
+26;administrateur-big-data-1662637;"
+                    KEYNAN ";Toulouse;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-big-data-1662637;['tableau', 'kafka', 'elk', 'spark', 'hortonworks', 'hadoop', 'tableaux de bord', ' sas']
+27;chef-de-projet-deploiement-reseau-1662354;"
+                    KEYNAN ";Toulouse;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-deploiement-reseau-1662354;[' sas']
+28;analyste-developpeur-mainframe-pacbase-cobol-1662342;"
+                    KEYNAN ";Toulouse;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-mainframe-pacbase-cobol-1662342;['db2', ' sas']
+29;architecte-devops-infrastructure-1662230;"
+                    KEYNAN ";Toulouse;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-devops-infrastructure-1662230;['ci/cd', ' sas']
+30;developpeur-java-1662025;"
+                    KEYNAN ";Aix-en-Provence;18 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1662025;['java', 'api rest', ' sas']
+31;integrateur-des-plateformes-d-api-management-1661999;"
+                    KEYNAN ";Aix-en-Provence;18 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/integrateur-des-plateformes-d-api-management-1661999;[' git ', 'jenkins', 'ansible', 'ci/cd', ' sas']
+32;integrateur-devops-linux-terraform-ansible-cloud-1661993;"
+                    KEYNAN ";Bry-sur-Marne;36 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/integrateur-devops-linux-terraform-ansible-cloud-1661993;['gitlab', 'jenkins', 'docker', 'ansible', 'python', 'ci/cd', 'terraform', ' sas', 'linux']
+33;ingenieur-support-applicatif-crm-pega-1661827;"
+                    KEYNAN ";Bry-sur-Marne;36 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-applicatif-crm-pega-1661827;['sql', 'anglais', 'tomcat', ' sas', 'linux']
+34;tech-lead-experimente-en-contexte-cloud-big-data-1661750;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-experimente-en-contexte-cloud-big-data-1661750;['spark', 'hortonworks', ' sas']
+35;integrateur-applicatif-experimente-anglais-1661420;"
+                    KEYNAN ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/integrateur-applicatif-experimente-anglais-1661420;['java', 'jenkins', 'docker', 'python', 'sql', 'db2', 'oracle', 'anglais', 'tomcat', 'mysql', 'scrum', ' sas', 'linux']
+36;pilote-d-exploitation-expert-gestion-de-crise-aws-cloud-1661421;"
+                    KEYNAN ";Élancourt;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pilote-d-exploitation-expert-gestion-de-crise-aws-cloud-1661421;['aws', ' sas']
+37;developpeur-confirme-python-jenkins-1661422;"
+                    KEYNAN ";Élancourt;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-confirme-python-jenkins-1661422;['jenkins', 'python', ' sas']
+38;chef-de-projet-siem-soc-1661417;"
+                    KEYNAN ";Brest;6 mois; 280-310 €;06/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-siem-soc-1661417;[' sas']
+39;ingenieur-systeme-vmware-habilite-habilitable-anglais-1661418;"
+                    KEYNAN ";Brest;6 mois; 280-310 €;06/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-vmware-habilite-habilitable-anglais-1661418;['anglais', ' sas']
+40;chef-de-projet-infrastructure-et-securite-anglais-1661419;"
+                    KEYNAN ";Bezons;12 mois; Tarif non renseigné;06/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-et-securite-anglais-1661419;['anglais', ' sas']
+41;integrateur-linux-jenkins-java-scripting-lyon-1661400;"
+                    KEYNAN ";Bezons;12 mois; Tarif non renseigné;06/02/2022;https://www.freelance-info.fr/mission/integrateur-linux-jenkins-java-scripting-lyon-1661400;['java', 'gitlab', 'jenkins', 'docker', 'ansible', 'python', 'ci/cd', 'terraform', ' sas', 'linux']
+42;developpeur-drupal-ou-1660207;"
+                    KEYNAN ";La Défense (92);12 mois; 300-330 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-drupal-ou-1660207;[' sas']
+43;ingenieur-de-production-confirme-ibm-zos-n-1659332;"
+                    KEYNAN ";La Défense (92);12 mois; 300-330 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-confirme-ibm-zos-n-1659332;['sql', 'db2', ' sas']
+44;architecte-developpement-front-vue-js-back-java-1658318;"
+                    KEYNAN ";Bagnolet;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architecte-developpement-front-vue-js-back-java-1658318;['java', 'docker', 'ansible', 'agile', 'terraform', ' sas']
+45;administrateur-sap-sap-bc-1656627;"
+                    KEYNAN ";Bagnolet;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-sap-sap-bc-1656627;['sql', 'oracle', 'itil', ' sas']
+46;architecte-expert-technique-hadoop-hortonworks-cloudera-1656566;"
+                    KEYNAN ";Paris;12 mois; 380-440 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-expert-technique-hadoop-hortonworks-cloudera-1656566;['docker', 'ansible', 'spark', 'hive', 'hortonworks', 'hadoop', 'terraform', 'cloudera', 'apache', ' sas']
+47;administrateur-big-data-1656559;"
+                    KEYNAN ";Paris;12 mois; 380-440 €;04/02/2022;https://www.freelance-info.fr/mission/administrateur-big-data-1656559;['tableau', 'kafka', 'elk', 'spark', 'hortonworks', 'hadoop', 'tableaux de bord', ' sas']
+48;chef-de-projet-citrix-1656224;"
+                    KEYNAN ";Lyon;9 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-citrix-1656224;[' sas']
+49;developpeur-sas-va-visual-analytics-1655029;"
+                    KEYNAN ";Lyon;9 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-sas-va-visual-analytics-1655029;['talend', 'tableau', 'tableaux de bord', ' sas']

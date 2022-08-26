@@ -2,8 +2,11 @@
 def scrap_transformer(filepath):
     import pandas as pd
     import numpy as np
+    from datetime import date
+    from datetime import timedelta
+
     
-    newdata = pd.read_csv(filepath, usecols=['title', 'wage', 'companyname', 'location', 'date', 'companynote'], sep=';')
+    newdata = pd.read_csv(filepath, usecols=['title', 'wage', 'companyname', 'location', 'date', 'companynote','joblink','jobskills'], sep=';')
     newdata['wage'] = newdata['wage'].replace(np.nan, '0 € - 0 € par nan')
     newdata[['salary', 'frequency']] = newdata['wage'].str.split('par', expand=True)
     newdata = newdata.drop('wage', axis=1)
@@ -16,6 +19,9 @@ def scrap_transformer(filepath):
     newdata['upper_salary'] = newdata['upper_salary'].fillna(newdata['lower_salary'])
     newdata['date']=newdata.date.str.extract('(\d+)')
     newdata['date']= pd.to_numeric(newdata['date'].fillna('0'))
+    b=list([date.today()]*len(newdata))
+    a=list(pd.to_timedelta(newdata['date'], unit='d'))
+    newdata['date']= [i-j for i,j in zip(b,a)]
     newdata['companynote']= pd.to_numeric(newdata['companynote'].str.replace(",","."))
     
     for i in range(len(newdata)):

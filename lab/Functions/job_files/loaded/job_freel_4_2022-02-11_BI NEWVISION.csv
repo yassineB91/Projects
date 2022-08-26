@@ -1,0 +1,81 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;devsecops-confirme-h-f-1664252;"
+                    BI NEWVISION ";Paris;12 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/devsecops-confirme-h-f-1664252;['ci/cd', 'microservice']
+1;chef-de-projet-h-f-1666036;"
+                    BI NEWVISION ";Paris;12 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1666036;['agile']
+2;chef-de-projet-infra-1666034;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infra-1666034;['tableau', 'tableaux de bord']
+3;product-owner-expert-saleforce-et-agilite-h-f-1665849;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/product-owner-expert-saleforce-et-agilite-h-f-1665849;['agile', 'scrum', 'salesforce']
+4;project-manager-confirme-h-f-1665847;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/project-manager-confirme-h-f-1665847;['java', 'tableau', 'azure', ' r ', 'sql']
+5;architecte-technique-expert-infrastructure-h-f-1665837;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-technique-expert-infrastructure-h-f-1665837;[]
+6;integrateur-application-expert-h-f-1665829;"
+                    BI NEWVISION ";Paris;12 mois; 500-550 €;08/02/2022;https://www.freelance-info.fr/mission/integrateur-application-expert-h-f-1665829;['tableau', 'azure', 'anglais', 'tableaux de bord', 'apache', 'cartographie', 'powershell', 'linux']
+7;admin-outils-systemes-reseaux-h-f-1665809;"
+                    BI NEWVISION ";Paris;12 mois; 500-550 €;08/02/2022;https://www.freelance-info.fr/mission/admin-outils-systemes-reseaux-h-f-1665809;['anglais', 'vpn']
+8;devops-java-expert-h-f-1663655;"
+                    BI NEWVISION ";Paris;12 mois; 350-450 €;08/02/2022;https://www.freelance-info.fr/mission/devops-java-expert-h-f-1663655;['java', 'jenkins', 'kafka', 'ansible', 'python', 'maven', 'sql', 'agile', 'terraform', 'apache', 'grafana', 'logstash', 'telegraf', 'postgresql', 'scala', ' sas', 'linux']
+9;business-analyste-fonctionnel-logistique-confirme-h-f-1663610;"
+                    BI NEWVISION ";Paris;12 mois; 350-450 €;08/02/2022;https://www.freelance-info.fr/mission/business-analyste-fonctionnel-logistique-confirme-h-f-1663610;['anglais', 'cartographie', ' sas']
+10;administrateur-systeme-outillage-h-f-grenoble-1663583;"
+                    BI NEWVISION ";Paris;12 mois; 450-500 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-outillage-h-f-grenoble-1663583;['apache', 'tomcat', ' sas']
+11;industrialisateur-outillage-h-f-1663586;"
+                    BI NEWVISION ";Paris;12 mois; 450-500 €;08/02/2022;https://www.freelance-info.fr/mission/industrialisateur-outillage-h-f-1663586;['java', 'sql', 'oracle', 'apache', 'tomcat', ' sas']
+12;expert-cybersecurite-h-f-1665405;"
+                    BI NEWVISION ";Paris;12 mois; 380-440 €;08/02/2022;https://www.freelance-info.fr/mission/expert-cybersecurite-h-f-1665405;['aws', 'azure', 'python', 'anglais', 'zscaler', 'splunk']
+13;po-h-f-1664925;"
+                    BI NEWVISION ";Paris;12 mois; 380-440 €;08/02/2022;https://www.freelance-info.fr/mission/po-h-f-1664925;['sql', 'jira', 'agile', 'kanban', 'scrum']
+14;developpeur-big-data-h-f-1664911;"
+                    BI NEWVISION ";Paris;12 mois; 350-380 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-h-f-1664911;['java', 'powerbi', 'kafka', 'python', 'spark', 'hive', 'hadoop', 'api rest', 'agile', 'scala']
+15;data-engineer-cloud-azure-h-f-1662861;"
+                    BI NEWVISION ";Paris;12 mois; 350-380 €;08/02/2022;https://www.freelance-info.fr/mission/data-engineer-cloud-azure-h-f-1662861;['github', 'azure', 'spark', 'sql', 'databricks', 'ci/cd', 'datawarehouse', 'jira', 'agile', 'modélisation', 'cartographie', 'scala']
+16;responsable-applicatifs-h-f-1662857;"
+                    BI NEWVISION ";Paris;12 mois; 370-450 €;08/02/2022;https://www.freelance-info.fr/mission/responsable-applicatifs-h-f-1662857;['sql', 'api rest', 'vba']
+17;architecte-technique-h-f-1662754;"
+                    BI NEWVISION ";Paris;12 mois; 370-450 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-technique-h-f-1662754;['oracle', 'apache', 'tomcat', 'scala']
+18;architecte-applicatif-data-integration-h-f-1664705;"
+                    BI NEWVISION ";Paris;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-applicatif-data-integration-h-f-1664705;['java', 'sql', 'modélisation', 'apache', 'mariadb', 'mongodb', 'linux']
+19;administrateur-expert-splunk-h-f-1662111;"
+                    BI NEWVISION ";Paris;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-expert-splunk-h-f-1662111;['tableau', 'aws', 'azure', 'python', 'anglais', 'tableaux de bord', 'splunk', ' sas']
+20;gestionnaire-d-applications-h-f-1662035;"
+                    BI NEWVISION ";Grenoble;12 mois; 250-300 €;08/02/2022;https://www.freelance-info.fr/mission/gestionnaire-d-applications-h-f-1662035;['gitlab', 'sql', 'ci/cd', 'scala', 'salesforce', 'linux']
+21;amoa-h-f-1661697;"
+                    BI NEWVISION ";Grenoble;12 mois; 250-300 €;08/02/2022;https://www.freelance-info.fr/mission/amoa-h-f-1661697;['agile']
+22;charge-de-deploiement-junior-h-f-1661482;"
+                    BI NEWVISION ";Grenoble;12 mois; 250-300 €;08/02/2022;https://www.freelance-info.fr/mission/charge-de-deploiement-junior-h-f-1661482;['python', ' excel ', 'anglais', ' sas']
+23;developpeur-java-devops-confirme-h-f-1661188;"
+                    BI NEWVISION ";Grenoble;12 mois; 250-300 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-devops-confirme-h-f-1661188;['java', 'jenkins', 'kafka', 'ansible', 'python', 'maven', 'sql', 'terraform', 'apache', 'grafana', 'logstash', 'telegraf', 'postgresql', 'scala', 'linux']
+24;devops-java-springboot-ansible-supervision-hf-1661042;"
+                    BI NEWVISION ";Paris;12 mois; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/devops-java-springboot-ansible-supervision-hf-1661042;['java', 'jenkins', 'kafka', 'ansible', 'python', 'maven', 'sql', 'oracle', 'agile', 'terraform', 'apache', 'grafana', 'logstash', 'telegraf', 'postgresql', 'linux']
+25;devops-java-springboot-supervision-automatisation-test-hf-1661033;"
+                    BI NEWVISION ";Paris;12 mois; 450-550 €;07/02/2022;https://www.freelance-info.fr/mission/devops-java-springboot-supervision-automatisation-test-hf-1661033;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'agile', 'springboot', 'grafana', 'postgresql']
+26;developpeur-java-embarque-devops-h-f-1660854;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-embarque-devops-h-f-1660854;['java', 'jenkins', 'docker', 'sql', 'agile', 'grafana', 'linux']
+27;developpeur-fullstack-java-react-devops-h-f-1660859;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-react-devops-h-f-1660859;['java', 'kafka', 'ansible', 'sql', 'agile', 'springboot', 'postgresql']
+28;developpeur-java-devops-experimente-h-f-1660846;"
+                    BI NEWVISION ";Saint-Denis;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-devops-experimente-h-f-1660846;['java', 'ansible', 'maven', 'sql', 'agile', 'terraform', 'springboot', 'grafana', 'logstash', 'telegraf', 'postgresql']
+29;developpeur-java-devops-supervision-et-testing-h-f-1660849;"
+                    BI NEWVISION ";Saint-Denis;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-devops-supervision-et-testing-h-f-1660849;['java', 'ansible', 'python', 'maven', 'sql', 'agile', 'springboot', 'grafana', 'logstash', 'telegraf', 'postgresql', 'linux']
+30;developpeur-java-devops-gatlin-jprofiler-h-f-1660851;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-devops-gatlin-jprofiler-h-f-1660851;['java', 'ansible', 'maven', 'sql', 'agile', 'springboot', 'postgresql', 'linux']
+31;tech-lead-java-devops-supervision-et-performance-h-f-1660819;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-devops-supervision-et-performance-h-f-1660819;['java', 'jenkins', 'ansible', 'sql', 'agile', 'springboot', 'grafana', 'postgresql']
+32;devops-dba-confirme-h-f-1660570;"
+                    BI NEWVISION ";Paris;12 mois; 400-460 €;04/02/2022;https://www.freelance-info.fr/mission/devops-dba-confirme-h-f-1660570;['gitlab', 'jenkins', 'aws', 'azure', 'elk', 'docker', 'ansible', 'maven', 'sql', 'ci/cd', 'jira', 'oracle', 'confluence', 'terraform', 'sonar', 'apache', 'grafana', 'ldap', 'mysql', 'jboss', 'splunk', 'mariadb', 'blueprism', 'sonarqube', ' sas']
+33;architecte-technique-zscaler-expert-h-f-1660533;"
+                    BI NEWVISION ";Paris;12 mois; 400-460 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-technique-zscaler-expert-h-f-1660533;['anglais', 'zscaler', 'firewalls', 'vpn', ' sas']
+34;product-owner-infrastructure-h-f-1660366;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/product-owner-infrastructure-h-f-1660366;['gitlab', 'jenkins', 'aws', 'azure', 'elk', 'docker', 'ansible', 'maven', 'sql', 'ci/cd', 'jira', 'oracle', 'agile', 'confluence', 'terraform', 'sonar', 'apache', 'grafana', 'ldap', 'mysql', 'kanban', 'scrum', 'jboss', 'splunk', 'mariadb', 'blueprism', 'sonarqube', ' sas']
+35;architecte-technique-expert-infrastructure-h-f-1659934;"
+                    BI NEWVISION ";Paris;12 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/architecte-technique-expert-infrastructure-h-f-1659934;[' sas']
+36;business-analyste-fonctionnel-tibco-axway-confirme-h-f-1659882;"
+                    BI NEWVISION ";Paris;12 mois; 460-580 €;03/02/2022;https://www.freelance-info.fr/mission/business-analyste-fonctionnel-tibco-axway-confirme-h-f-1659882;['cartographie', ' sas']
+37;business-analyste-fonctionnel-medier-de-la-logistique-confirme-h-f-1659865;"
+                    BI NEWVISION ";Paris;12 mois; 460-580 €;03/02/2022;https://www.freelance-info.fr/mission/business-analyste-fonctionnel-medier-de-la-logistique-confirme-h-f-1659865;['anglais', 'cartographie', ' sas']
+38;expert-linux-h-f-1659777;"
+                    BI NEWVISION ";Paris;12 mois; 450-500 €;02/02/2022;https://www.freelance-info.fr/mission/expert-linux-h-f-1659777;['ansible', 'sql', 'terraform', 'postgresql', 'ldap', 'mariadb', 'linux']
+39;responsable-projet-h-f-1659782;"
+                    BI NEWVISION ";Paris;12 mois; 450-500 €;02/02/2022;https://www.freelance-info.fr/mission/responsable-projet-h-f-1659782;['ansible', 'ldap', 'linux']

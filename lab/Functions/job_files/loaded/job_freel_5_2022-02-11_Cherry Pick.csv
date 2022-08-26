@@ -1,0 +1,101 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;devops-automation-1666628;"
+                    Cherry Pick ";Lyon;8 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/devops-automation-1666628;[]
+1;architecte-aws-1664291;"
+                    Cherry Pick ";Lyon;8 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-aws-1664291;['aws', 'agile', 'terraform']
+2;backend-software-engineer-1665991;"
+                    Cherry Pick ";Paris;15 jours; 600-650 €;10/02/2022;https://www.freelance-info.fr/mission/backend-software-engineer-1665991;['scala']
+3;developpeur-frontend-1665564;"
+                    Cherry Pick ";Paris;15 jours; 600-650 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-1665564;[]
+4;developpeur-android-1665528;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-android-1665528;[]
+5;devops-build-automation-1665442;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/devops-build-automation-1665442;[]
+6;tech-lead-python-1665433;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-python-1665433;['docker']
+7;cloud-engineer-1665432;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/cloud-engineer-1665432;['ci/cd']
+8;expert-dba-postgresql-dre-1665143;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-dba-postgresql-dre-1665143;['aws', 'azure', 'ansible', 'sql', 'gcp', 'terraform', 'anglais', 'postgresql', 'mysql', 'linux']
+9;developpeur-front-end-1663179;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-1663179;[]
+10;senior-software-engineer-net-1663163;"
+                    Cherry Pick ";Puteaux;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/senior-software-engineer-net-1663163;['java', 'azure', 'kanban', ' sas']
+11;microsoft-senior-tech-lead-1654187;"
+                    Cherry Pick ";Puteaux;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/microsoft-senior-tech-lead-1654187;['powerbi', 'agile', 'itil', 'scala', ' sas', 'powershell']
+12;senior-salesforce-developer-1664760;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/senior-salesforce-developer-1664760;[' sas', 'salesforce']
+13;developpeur-fullstack-java-react-1664526;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-java-react-1664526;['java', 'aws', 'sql']
+14;qa-test-automation-engineer-1664499;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/qa-test-automation-engineer-1664499;['kafka', 'python', ' excel ', 'scala', ' sas']
+15;senior-full-stack-engineer-1664498;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/senior-full-stack-engineer-1664498;['kafka', 'python', 'sql', 'postgresql', 'scala']
+16;ingenieur-devops-1662475;"
+                    Cherry Pick ";Paris;12 mois; 550-600 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1662475;['java', 'gitlab', 'puppet', 'docker', 'ansible', 'python', 'sql', 'jira', 'confluence', 'terraform', 'postgresql']
+17;ingenieur-front-end-senior-1662383;"
+                    Cherry Pick ";Paris;12 mois; 550-600 €;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-front-end-senior-1662383;['api rest', 'agile']
+18;responsable-ingenierie-1662382;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/responsable-ingenierie-1662382;['gitlab', 'aws', 'docker', 'sql', 'agile', 'sonar', 'mongodb', 'sonarqube', 'microservice']
+19;chef-de-projet-sap-pp-mm-sd-1664352;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sap-pp-mm-sd-1664352;['power bi', ' sas']
+20;senior-java-developer-1664273;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/senior-java-developer-1664273;['java', ' git ', 'puppet', 'docker', 'ansible', 'python', 'sql', 'agile', 'postgresql', 'scrum', 'jboss', ' sas', 'linux']
+21;developpeur-react-native-1662159;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-react-native-1662159;[' sas']
+22;developpeur-junior-1661949;"
+                    Cherry Pick ";Autre pays;12 mois; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-junior-1661949;[]
+23;developpeur-kafka-java-1661940;"
+                    Cherry Pick ";Autre pays;12 mois; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-kafka-java-1661940;['java', 'jenkins', 'kafka', 'docker', 'ansible', 'maven']
+24;ingenieur-bases-de-donnees-1661578;"
+                    Cherry Pick ";Paris;10 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-bases-de-donnees-1661578;['aws', 'azure', 'ansible', 'sql', 'gcp', 'terraform', 'anglais', 'postgresql', 'mysql', 'linux']
+25;ingenieur-bases-de-donnees-1661580;"
+                    Cherry Pick ";Paris;10 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-bases-de-donnees-1661580;['aws', 'azure', 'ansible', 'sql', 'gcp', 'terraform', 'anglais', 'postgresql', 'mysql', 'linux']
+26;netops-engineer-1661108;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/netops-engineer-1661108;[' git ', 'aws', 'azure', 'ansible', 'terraform', 'itil', 'firewalls', 'vpn']
+27;directeur-informatique-groupe-it-digital-it-1663203;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/directeur-informatique-groupe-it-digital-it-1663203;['tableau', 'agile', 'anglais', 'tableaux de bord']
+28;cloud-expert-1660969;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/cloud-expert-1660969;['github', 'gitlab', 'aws', 'azure', 'python', 'gcp', 'ci/cd', 'terraform', 'scala', 'linux']
+29;cloud-expert-1660970;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/cloud-expert-1660970;['github', 'gitlab', 'aws', 'azure', 'python', 'gcp', 'ci/cd', 'terraform', 'scala', 'linux']
+30;ingenieur-systeme-linux-cloud-f-h-1660958;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-cloud-f-h-1660958;['gitlab', 'aws', 'azure', 'puppet', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'terraform', 'apache', 'tomcat', 'mongodb', 'scala', 'linux']
+31;ingenieur-systeme-linux-cloud-f-h-1660962;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-cloud-f-h-1660962;['gitlab', 'aws', 'azure', 'puppet', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'terraform', 'apache', 'tomcat', 'mongodb', 'scala', 'linux']
+32;ingenieur-systeme-linux-cloud-f-h-1660955;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-cloud-f-h-1660955;['gitlab', 'aws', 'azure', 'puppet', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'terraform', 'apache', 'tomcat', 'mongodb', 'scala', 'linux']
+33;data-engineer-azure-1662736;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/data-engineer-azure-1662736;['github', 'power bi', 'azure', 'spark', 'data lake', 'sql', 'databricks', 'ci/cd', 'datawarehouse', 'jira', 'agile', 'modélisation', 'cartographie', 'scala']
+34;ingenieur-systeme-devops-1662714;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-devops-1662714;['aws', 'azure', 'ansible', 'terraform', 'apache', 'tomcat', 'scala', 'linux']
+35;developpeur-fullstack-1660646;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-1660646;['java', 'jenkins', 'agile', 'scrum', 'linux']
+36;chef-de-projet-mobile-1660649;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-mobile-1660649;['anglais']
+37;site-reliability-engineer-1660653;"
+                    Cherry Pick ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/site-reliability-engineer-1660653;['java', ' git ', 'gitlab', 'aws', 'puppet', 'docker', 'python', 'ci/cd', 'terraform', 'scala', 'linux']
+38;product-owner-iam-1660656;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/product-owner-iam-1660656;['agile']
+39;developpeur-java-junior-1661988;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-java-junior-1661988;[]
+40;developper-backend-nodejs-1661942;"
+                    Cherry Pick ";Paris;12 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/developper-backend-nodejs-1661942;['gitlab', 'agile', 'scala', ' sas', 'microservice']
+41;lead-developpeur-ios-1659901;"
+                    Cherry Pick ";Paris;12 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-ios-1659901;[]
+42;developpeur-back-end-c-1659789;"
+                    Cherry Pick ";Paris;36 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-c-1659789;['sql', 'scrum']
+43;senior-java-developper-1659790;"
+                    Cherry Pick ";Paris;36 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/senior-java-developper-1659790;['java', ' git ', 'puppet', 'docker', 'ansible', 'python', 'sql', 'agile', 'postgresql', 'scrum', 'jboss', 'linux']
+44;ingenieur-bases-de-donnees-1661583;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-bases-de-donnees-1661583;['aws', 'azure', 'ansible', 'sql', 'gcp', 'terraform', 'anglais', 'postgresql', 'mysql', 'linux']
+45;ingenieur-bases-de-donnees-1661581;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-bases-de-donnees-1661581;['aws', 'azure', 'ansible', 'sql', 'gcp', 'terraform', 'anglais', 'postgresql', 'mysql', 'linux']
+46;expert-kafka-1661157;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/expert-kafka-1661157;['java', 'kafka', 'docker', 'ansible', 'grafana', 'linux']
+47;ingenieur-systeme-1659129;"
+                    Cherry Pick ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-1659129;['ansible', 'terraform', 'apache', 'tomcat', 'scala', 'linux']
+48;full-stack-engineer-1659117;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/full-stack-engineer-1659117;['java', 'aws', 'docker', 'python', 'sql', 'postgresql', 'salesforce']
+49;devops-iam-1658790;"
+                    Cherry Pick ";Paris;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/devops-iam-1658790;['java', 'agile']

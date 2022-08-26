@@ -1,0 +1,261 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;senior-vmware-engineer-1666720;"
+                    Phaidon International (UK) Ltd ";England;86 400 années; 400-600 €;10/02/2022;https://www.freelance-info.fr/mission/senior-vmware-engineer-1666720;['gitlab', 'terraform', 'anglais', ' sas', 'powershell']
+1;senior-vmware-engineer-1666783;"
+                    Phaidon International (UK) Ltd ";England;86 400 années; 400-600 €;10/02/2022;https://www.freelance-info.fr/mission/senior-vmware-engineer-1666783;['gitlab', 'terraform', 'anglais', 'powershell']
+2;analyste-soc-n-1666681;"
+                    Phaidon International (UK) Ltd ";England;12 mois; 500-620 €;10/02/2022;https://www.freelance-info.fr/mission/analyste-soc-n-1666681;[]
+3;security-manager-1666430;"
+                    Phaidon International (UK) Ltd ";England;12 mois; 500-620 €;10/02/2022;https://www.freelance-info.fr/mission/security-manager-1666430;['tableau', 'tableaux de bord']
+4;expert-cybersecurite-1666429;"
+                    Phaidon International (UK) Ltd ";England;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-cybersecurite-1666429;['java', 'docker', 'python', 'modélisation', 'splunk']
+5;charge-de-securite-1666422;"
+                    Phaidon International (UK) Ltd ";England;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/charge-de-securite-1666422;['jira', 'confluence', 'firewalls']
+6;java-developer-cloud-data-remote-1666240;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 500-650 €;09/02/2022;https://www.freelance-info.fr/mission/java-developer-cloud-data-remote-1666240;['java', 'jenkins', 'azure', 'ansible', 'python', 'gcp', 'grafana', 'telegraf', ' sas']
+7;developpeur-java-avec-bigdata-1666405;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 500-650 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-java-avec-bigdata-1666405;['java', 'jenkins', 'azure', 'ansible', 'python', 'gcp', 'grafana', 'telegraf']
+8;java-developer-big-data-experience-1666238;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 500-650 €;09/02/2022;https://www.freelance-info.fr/mission/java-developer-big-data-experience-1666238;['java', 'jenkins', 'azure', 'ansible', 'python', 'gcp', 'grafana', 'telegraf']
+9;architecte-iam-1664082;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 500-650 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-iam-1664082;['python', 'sql', 'oracle', 'postgresql', 'vpn', 'ldap', 'mysql']
+10;architecte-gcp-1664084;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-gcp-1664084;['gcp', 'terraform']
+11;talend-expert-freelance-1666070;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 500-600 €;09/02/2022;https://www.freelance-info.fr/mission/talend-expert-freelance-1666070;['talend', 'tableau']
+12;aws-sysops-engineer-1666063;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 550-800 €;09/02/2022;https://www.freelance-info.fr/mission/aws-sysops-engineer-1666063;['gitlab', 'aws', 'azure', 'ansible', 'gcp', 'ci/cd', 'terraform', 'linux']
+13;network-and-security-engineer-1666061;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 550-800 €;09/02/2022;https://www.freelance-info.fr/mission/network-and-security-engineer-1666061;[]
+14;ingenieur-avant-vente-1665866;"
+                    Phaidon International (UK) Ltd ";Télétravail;12 mois; 600-800 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-avant-vente-1665866;[' sas']
+15;ingenieur-avant-vente-1666048;"
+                    Phaidon International (UK) Ltd ";Télétravail;12 mois; 600-800 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-avant-vente-1666048;[]
+16;architecte-power-bi-1665857;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 800 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-power-bi-1665857;[]
+17;ingenieur-microsoft-ad-1663736;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 800 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-microsoft-ad-1663736;['azure', 'powershell']
+18;ingenieur-ad-ms-windows-azure-ad-1663618;"
+                    Phaidon International (UK) Ltd ";Télétravail;2 années; 500-550 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-ad-ms-windows-azure-ad-1663618;['azure', 'powershell']
+19;developer-back-end-java-1665709;"
+                    Phaidon International (UK) Ltd ";Télétravail;2 années; 500-550 €;09/02/2022;https://www.freelance-info.fr/mission/developer-back-end-java-1665709;['java', 'azure', 'docker', 'sql', 'anglais', 'microservice']
+20;ingenieur-systeme-active-directory-1665700;"
+                    Phaidon International (UK) Ltd ";Lille;12 mois; 650-750 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-active-directory-1665700;['azure', 'powershell']
+21;responsable-reseaux-1665695;"
+                    Phaidon International (UK) Ltd ";Lille;12 mois; 650-750 €;09/02/2022;https://www.freelance-info.fr/mission/responsable-reseaux-1665695;[]
+22;developer-net-1665692;"
+                    Phaidon International (UK) Ltd ";France;696 840 mois; 999 €;08/02/2022;https://www.freelance-info.fr/mission/developer-net-1665692;['anglais']
+23;ms-systems-security-engineer-1665607;"
+                    Phaidon International (UK) Ltd ";France;696 840 mois; 999 €;08/02/2022;https://www.freelance-info.fr/mission/ms-systems-security-engineer-1665607;['azure']
+24;ingenieur-securite-mco-1665602;"
+                    Phaidon International (UK) Ltd ";Vélizy-Villacoublay;86 400 années; 600 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-mco-1665602;['splunk']
+25;cloud-engineer-1665583;"
+                    Phaidon International (UK) Ltd ";Vélizy-Villacoublay;86 400 années; 600 €;08/02/2022;https://www.freelance-info.fr/mission/cloud-engineer-1665583;['jenkins', 'kafka', 'docker', 'ci/cd', 'agile', 'apache']
+26;android-developer-1665562;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 650 €;08/02/2022;https://www.freelance-info.fr/mission/android-developer-1665562;['java']
+27;net-developer-1665502;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 650 €;08/02/2022;https://www.freelance-info.fr/mission/net-developer-1665502;[]
+28;urgent-salesforce-commerce-cloud-developer-1665205;"
+                    Phaidon International (UK) Ltd ";Paris;521 160 mois; 400-650 €;08/02/2022;https://www.freelance-info.fr/mission/urgent-salesforce-commerce-cloud-developer-1665205;['agile']
+29;software-developer-backend-java-and-azure-1664920;"
+                    Phaidon International (UK) Ltd ";Paris;521 160 mois; 400-650 €;08/02/2022;https://www.freelance-info.fr/mission/software-developer-backend-java-and-azure-1664920;['java', 'azure', 'docker', 'sql', 'ci/cd', 'agile', 'kanban', 'scrum', 'microservice']
+30;sharepoint-online-admin-engineer-1662928;"
+                    Phaidon International (UK) Ltd ";Paris;6 mois; 450-650 €;08/02/2022;https://www.freelance-info.fr/mission/sharepoint-online-admin-engineer-1662928;[]
+31;charge-de-securite-1664835;"
+                    Phaidon International (UK) Ltd ";Paris;6 mois; 450-650 €;08/02/2022;https://www.freelance-info.fr/mission/charge-de-securite-1664835;['jira', 'confluence', 'firewalls']
+32;expert-cybersecurite-1664834;"
+                    Phaidon International (UK) Ltd ";Paris;3 mois; 651 €;08/02/2022;https://www.freelance-info.fr/mission/expert-cybersecurite-1664834;['java', 'docker', 'python', 'modélisation', 'splunk']
+33;security-manager-1664833;"
+                    Phaidon International (UK) Ltd ";Paris;3 mois; 651 €;08/02/2022;https://www.freelance-info.fr/mission/security-manager-1664833;['tableau', 'tableaux de bord']
+34;ingenieur-d-exploitation-securite-1664544;"
+                    Phaidon International (UK) Ltd ";Annecy;2 années; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-exploitation-securite-1664544;['splunk', ' sas']
+35;chef-de-projet-reseaux-et-devops-1662505;"
+                    Phaidon International (UK) Ltd ";Annecy;2 années; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-reseaux-et-devops-1662505;['ansible', 'python', 'terraform', 'itil']
+36;ingenieur-cloud-devops-1662508;"
+                    Phaidon International (UK) Ltd ";Annecy;12 mois; 450-600 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-devops-1662508;['aws', 'azure', 'ansible', 'python', 'terraform']
+37;ingenieur-netdevops-1662429;"
+                    Phaidon International (UK) Ltd ";Annecy;12 mois; 450-600 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-netdevops-1662429;['ansible', 'python', 'terraform', 'firewalls', ' sas']
+38;ingenieur-cloud-devops-1662432;"
+                    Phaidon International (UK) Ltd ";Télétravail;2 années; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-devops-1662432;['aws', 'azure', 'ansible', 'python', 'terraform', ' sas']
+39;cloud-devops-engineer-1662420;"
+                    Phaidon International (UK) Ltd ";Télétravail;2 années; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/cloud-devops-engineer-1662420;['aws', 'azure', 'ansible', 'python', 'terraform']
+40;ingenieur-reseaux-datacenter-nsx-et-cisco-aci-1662425;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-datacenter-nsx-et-cisco-aci-1662425;[' sas']
+41;chef-de-projet-connectivity-service-delivery-manager-1662418;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);2 années; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-connectivity-service-delivery-manager-1662418;['itil', 'firewalls', ' sas']
+42;architecte-reseaux-1662206;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 900 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-reseaux-1662206;['anglais']
+43;sfcc-front-end-developer-1664072;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 900 €;08/02/2022;https://www.freelance-info.fr/mission/sfcc-front-end-developer-1664072;[]
+44;freelance-net-developer-1664056;"
+                    Phaidon International (UK) Ltd ";Paris;1 année; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/freelance-net-developer-1664056;[]
+45;release-manager-1664049;"
+                    Phaidon International (UK) Ltd ";Paris;1 année; 400-500 €;08/02/2022;https://www.freelance-info.fr/mission/release-manager-1664049;['salesforce']
+46;network-architect-1663887;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 700 €;07/02/2022;https://www.freelance-info.fr/mission/network-architect-1663887;['python']
+47;network-architect-fortinet-1663854;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 700 €;07/02/2022;https://www.freelance-info.fr/mission/network-architect-fortinet-1663854;[]
+48;ingenieur-securite-f-firewalls-1661829;"
+                    Phaidon International (UK) Ltd ";Toulouse;12 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-f-firewalls-1661829;[]
+49;software-developer-backend-1663477;"
+                    Phaidon International (UK) Ltd ";Toulouse;12 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/software-developer-backend-1663477;['java', 'azure', 'docker', 'sql', 'microservice']
+50;consultant-securite-senior-1663463;"
+                    Phaidon International (UK) Ltd ";Sweden;86 400 années; 501 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-securite-senior-1663463;[]
+51;automation-tester-1663052;"
+                    Phaidon International (UK) Ltd ";Sweden;86 400 années; 501 €;07/02/2022;https://www.freelance-info.fr/mission/automation-tester-1663052;['sql']
+52;ansible-expert-1663042;"
+                    Phaidon International (UK) Ltd ";Sweden;86 400 années; 701 €;07/02/2022;https://www.freelance-info.fr/mission/ansible-expert-1663042;['azure', 'ansible', 'ci/cd', 'agile', 'scrum', 'powershell']
+53;kubernetes-expert-1663040;"
+                    Phaidon International (UK) Ltd ";Sweden;86 400 années; 701 €;07/02/2022;https://www.freelance-info.fr/mission/kubernetes-expert-1663040;['azure']
+54;ingenieur-f-waf-1661029;"
+                    Phaidon International (UK) Ltd ";Paris;3 années; 451 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-f-waf-1661029;[]
+55;ingenieur-reseaux-secu-run-cisco-aci-1660879;"
+                    Phaidon International (UK) Ltd ";Paris;3 années; 451 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-secu-run-cisco-aci-1660879;[]
+56;ingenieur-reseaux-securite-n-run-aci-1660840;"
+                    Phaidon International (UK) Ltd ";France;345 480 mois; 999 €;06/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-securite-n-run-aci-1660840;[' sas']
+57;ingenieur-systemes-vmware-et-linux-1660802;"
+                    Phaidon International (UK) Ltd ";France;345 480 mois; 999 €;06/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-vmware-et-linux-1660802;[]
+58;pmo-1662941;"
+                    Phaidon International (UK) Ltd ";France;86 400 années; 451 €;04/02/2022;https://www.freelance-info.fr/mission/pmo-1662941;['tableau', 'powerbi']
+59;freelance-salesforce-marketing-cloud-architect-remote-1660720;"
+                    Phaidon International (UK) Ltd ";France;86 400 années; 451 €;04/02/2022;https://www.freelance-info.fr/mission/freelance-salesforce-marketing-cloud-architect-remote-1660720;['salesforce']
+60;ingenieur-visio-n-1660565;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);1 année; 500-650 €;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-visio-n-1660565;['anglais']
+61;talend-developer-vacancy-1662656;"
+                    Phaidon International (UK) Ltd ";FRANCE (Pays);1 année; 500-650 €;04/02/2022;https://www.freelance-info.fr/mission/talend-developer-vacancy-1662656;['talend', 'aws', 'agile']
+62;datacenter-network-engineer-nsx-and-cisco-aci-1662442;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;03/02/2022;https://www.freelance-info.fr/mission/datacenter-network-engineer-nsx-and-cisco-aci-1662442;['ansible', 'python', 'terraform', 'firewalls']
+63;datacenter-network-engineer-nsx-and-cisco-aci-1662625;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;03/02/2022;https://www.freelance-info.fr/mission/datacenter-network-engineer-nsx-and-cisco-aci-1662625;['ansible', 'python', 'terraform', 'firewalls']
+64;project-manager-1662434;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 550-700 €;03/02/2022;https://www.freelance-info.fr/mission/project-manager-1662434;['ansible', 'python', 'terraform', 'itil', 'firewalls', ' sas']
+65;network-manager-1662387;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 550-700 €;03/02/2022;https://www.freelance-info.fr/mission/network-manager-1662387;['anglais', ' sas']
+66;network-manager-1662399;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;03/02/2022;https://www.freelance-info.fr/mission/network-manager-1662399;['anglais']
+67;freelance-web-developer-remote-months-extension-1660413;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;03/02/2022;https://www.freelance-info.fr/mission/freelance-web-developer-remote-months-extension-1660413;['java', 'salesforce']
+68;lead-front-end-developer-1660403;"
+                    Phaidon International (UK) Ltd ";Toulouse;10 mois; 400-650 €;03/02/2022;https://www.freelance-info.fr/mission/lead-front-end-developer-1660403;['java', 'agile', 'kanban', 'scrum']
+69;lead-technique-net-azure-1660404;"
+                    Phaidon International (UK) Ltd ";Toulouse;10 mois; 400-650 €;03/02/2022;https://www.freelance-info.fr/mission/lead-technique-net-azure-1660404;['azure', 'sql', 'ci/cd', 'agile', 'anglais']
+70;freelance-salesforce-commerce-cloud-project-manager-remote-month-contract-1660048;"
+                    Phaidon International (UK) Ltd ";Paris;24 mois; 100-600 €;03/02/2022;https://www.freelance-info.fr/mission/freelance-salesforce-commerce-cloud-project-manager-remote-month-contract-1660048;['salesforce']
+71;change-manager-1662274;"
+                    Phaidon International (UK) Ltd ";Paris;24 mois; 100-600 €;03/02/2022;https://www.freelance-info.fr/mission/change-manager-1662274;['salesforce']
+72;azure-devops-1662250;"
+                    Phaidon International (UK) Ltd ";Paris;24 mois; 100-630 €;03/02/2022;https://www.freelance-info.fr/mission/azure-devops-1662250;['aws', 'azure']
+73;ingenieur-data-et-automation-1659950;"
+                    Phaidon International (UK) Ltd ";Paris;24 mois; 100-630 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-data-et-automation-1659950;['python', 'powershell']
+74;architect-cloud-google-cloud-platform-1659951;"
+                    Phaidon International (UK) Ltd ";Paris;2 années; 450-600 €;03/02/2022;https://www.freelance-info.fr/mission/architect-cloud-google-cloud-platform-1659951;[' sas']
+75;chef-de-projet-1659938;"
+                    Phaidon International (UK) Ltd ";Paris;2 années; 450-600 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-1659938;['anglais', 'itil']
+76;ingenieur-systemes-linux-et-aix-1659945;"
+                    Phaidon International (UK) Ltd ";Paris;2 années; 450-600 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-linux-et-aix-1659945;['linux']
+77;chef-de-projet-infrastructure-1659947;"
+                    Phaidon International (UK) Ltd ";Paris;2 années; 450-600 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-1659947;['anglais', 'itil', ' sas']
+78;chef-de-projet-infrastructure-1659920;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 400-700 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-1659920;[]
+79;sharepoint-online-1661812;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 400-700 €;03/02/2022;https://www.freelance-info.fr/mission/sharepoint-online-1661812;[]
+80;data-project-manager-1661797;"
+                    Phaidon International (UK) Ltd ";Paris;1 année; 450-600 €;03/02/2022;https://www.freelance-info.fr/mission/data-project-manager-1661797;[]
+81;senior-scrum-master-ai-research-development-project-1661442;"
+                    Phaidon International (UK) Ltd ";Paris;1 année; 450-600 €;03/02/2022;https://www.freelance-info.fr/mission/senior-scrum-master-ai-research-development-project-1661442;['jira', 'agile', 'confluence', 'scrum']
+82;salesforce-commerce-cloud-project-manager-1661431;"
+                    Phaidon International (UK) Ltd ";Paris;1 année; 500-600 €;03/02/2022;https://www.freelance-info.fr/mission/salesforce-commerce-cloud-project-manager-1661431;[]
+83;ingenieur-securite-1659196;"
+                    Phaidon International (UK) Ltd ";Paris;1 année; 500-600 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-securite-1659196;[]
+84;data-engineer-1658881;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 100-660 €;02/02/2022;https://www.freelance-info.fr/mission/data-engineer-1658881;['python', 'powershell']
+85;network-and-security-engineer-1660866;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 100-660 €;02/02/2022;https://www.freelance-info.fr/mission/network-and-security-engineer-1660866;['firewalls', ' sas']
+86;network-and-security-engineer-1660806;"
+                    Phaidon International (UK) Ltd ";England;521 160 mois; 999 €;01/02/2022;https://www.freelance-info.fr/mission/network-and-security-engineer-1660806;['firewalls', ' sas']
+87;azure-engineer-1660714;"
+                    Phaidon International (UK) Ltd ";England;521 160 mois; 999 €;01/02/2022;https://www.freelance-info.fr/mission/azure-engineer-1660714;['gitlab', 'azure', 'python', 'terraform', 'powershell']
+88;visio-engineer-n-1660707;"
+                    Phaidon International (UK) Ltd ";France;12 mois; 501 €;01/02/2022;https://www.freelance-info.fr/mission/visio-engineer-n-1660707;[]
+89;visio-engineer-n-1660559;"
+                    Phaidon International (UK) Ltd ";France;12 mois; 501 €;01/02/2022;https://www.freelance-info.fr/mission/visio-engineer-n-1660559;[]
+90;salesforce-developer-1660405;"
+                    Phaidon International (UK) Ltd ";Germany;521 160 mois; 601 €;01/02/2022;https://www.freelance-info.fr/mission/salesforce-developer-1660405;['salesforce']
+91;architecte-gcp-1658147;"
+                    Phaidon International (UK) Ltd ";Germany;521 160 mois; 601 €;01/02/2022;https://www.freelance-info.fr/mission/architecte-gcp-1658147;['gcp', 'terraform']
+92;freelance-salesforce-business-analyst-consultant-position-months-extension-remote-1658167;"
+                    Phaidon International (UK) Ltd ";England;86 400 années; 648 €;01/02/2022;https://www.freelance-info.fr/mission/freelance-salesforce-business-analyst-consultant-position-months-extension-remote-1658167;['salesforce']
+93;freelance-data-engineer-months-contract-remote-1657833;"
+                    Phaidon International (UK) Ltd ";England;86 400 années; 648 €;01/02/2022;https://www.freelance-info.fr/mission/freelance-data-engineer-months-contract-remote-1657833;['aws', 'python', 'snowflake']
+94;architecte-cloud-gco-1658144;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 700 €;01/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-gco-1658144;['gcp', 'terraform']
+95;ingenieur-devops-1658170;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 700 €;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1658170;['gitlab', 'jenkins', 'docker', 'ansible', ' sas']
+96;network-security-engineer-1660046;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;01/02/2022;https://www.freelance-info.fr/mission/network-security-engineer-1660046;[]
+97;urgent-python-developer-vacancy-1659978;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;01/02/2022;https://www.freelance-info.fr/mission/urgent-python-developer-vacancy-1659978;['python', 'sql']
+98;net-developer-1659775;"
+                    Phaidon International (UK) Ltd ";France;86 400 années; 351 €;31/01/2022;https://www.freelance-info.fr/mission/net-developer-1659775;['azure', 'sql', 'ci/cd', 'agile']
+99;front-end-lead-developer-1659726;"
+                    Phaidon International (UK) Ltd ";France;86 400 années; 351 €;31/01/2022;https://www.freelance-info.fr/mission/front-end-lead-developer-1659726;['java']
+100;urgent-salesforce-commerce-cloud-backend-developer-1659590;"
+                    Phaidon International (UK) Ltd ";Paris;2 années; 651 €;31/01/2022;https://www.freelance-info.fr/mission/urgent-salesforce-commerce-cloud-backend-developer-1659590;[]
+101;urgent-salesforce-commerce-cloud-solution-architect-1659589;"
+                    Phaidon International (UK) Ltd ";Paris;2 années; 651 €;31/01/2022;https://www.freelance-info.fr/mission/urgent-salesforce-commerce-cloud-solution-architect-1659589;['salesforce']
+102;azure-devops-architect-remote-1657555;"
+                    Phaidon International (UK) Ltd ";Spain;86 400 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/azure-devops-architect-remote-1657555;['gitlab', 'azure', 'databricks', ' sas']
+103;security-engineer-1659197;"
+                    Phaidon International (UK) Ltd ";Spain;86 400 années; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/security-engineer-1659197;[]
+104;senior-oracle-atg-consultant-developer-1659115;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 550 €;28/01/2022;https://www.freelance-info.fr/mission/senior-oracle-atg-consultant-developer-1659115;['oracle', 'agile']
+105;salesforce-technical-architect-1659083;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 550 €;28/01/2022;https://www.freelance-info.fr/mission/salesforce-technical-architect-1659083;['salesforce']
+106;new-freelance-opportunity-data-project-manager-remote-1657081;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 520 €;28/01/2022;https://www.freelance-info.fr/mission/new-freelance-opportunity-data-project-manager-remote-1657081;['agile', 'scrum']
+107;expert-datacenter-dcim-netbox-1657064;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 520 €;28/01/2022;https://www.freelance-info.fr/mission/expert-datacenter-dcim-netbox-1657064;[]
+108;wordpress-ui-designer-1658879;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;28/01/2022;https://www.freelance-info.fr/mission/wordpress-ui-designer-1658879;[]
+109;systems-architect-1658691;"
+                    Phaidon International (UK) Ltd ";Aix-en-Provence;2 années; 500-650 €;28/01/2022;https://www.freelance-info.fr/mission/systems-architect-1658691;['ldap', 'powershell']
+110;freelance-salesforce-business-analyst-service-cloud-paris-months-extension-1656779;"
+                    Phaidon International (UK) Ltd ";Paris;36 mois; 100-650 €;28/01/2022;https://www.freelance-info.fr/mission/freelance-salesforce-business-analyst-service-cloud-paris-months-extension-1656779;['salesforce']
+111;ingenieur-wan-expert-1656759;"
+                    Phaidon International (UK) Ltd ";Paris;36 mois; 100-650 €;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-wan-expert-1656759;[]
+112;junior-lan-wifi-engineer-1656761;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 400-650 €;28/01/2022;https://www.freelance-info.fr/mission/junior-lan-wifi-engineer-1656761;[]
+113;datacenter-expert-netbox-1656717;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 400-650 €;28/01/2022;https://www.freelance-info.fr/mission/datacenter-expert-netbox-1656717;[]
+114;architecte-reseaux-telecoms-1656631;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/architecte-reseaux-telecoms-1656631;[]
+115;architecte-reseaux-telecoms-1656628;"
+                    Phaidon International (UK) Ltd ";Paris;12 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/architecte-reseaux-telecoms-1656628;[]
+116;expert-wan-1656494;"
+                    Phaidon International (UK) Ltd ";England;86 400 années; 501 €;27/01/2022;https://www.freelance-info.fr/mission/expert-wan-1656494;[' sas']
+117;ms-azure-architect-1657897;"
+                    Phaidon International (UK) Ltd ";England;86 400 années; 501 €;27/01/2022;https://www.freelance-info.fr/mission/ms-azure-architect-1657897;['gitlab', 'azure', 'python']
+118;salesforce-commerce-cloud-business-analyst-vacancy-1657808;"
+                    Phaidon International (UK) Ltd ";France;6 mois; 400-770 €;27/01/2022;https://www.freelance-info.fr/mission/salesforce-commerce-cloud-business-analyst-vacancy-1657808;['salesforce']
+119;urgent-salesforce-commerce-cloud-technical-lead-vacancy-1657807;"
+                    Phaidon International (UK) Ltd ";France;6 mois; 400-770 €;27/01/2022;https://www.freelance-info.fr/mission/urgent-salesforce-commerce-cloud-technical-lead-vacancy-1657807;[]
+120;active-directory-architect-technical-lead-1657522;"
+                    Phaidon International (UK) Ltd ";Montreuil;12 mois; 300-450 €;27/01/2022;https://www.freelance-info.fr/mission/active-directory-architect-technical-lead-1657522;['azure', 'powershell']
+121;azure-ad-engineer-1657509;"
+                    Phaidon International (UK) Ltd ";Montreuil;12 mois; 300-450 €;27/01/2022;https://www.freelance-info.fr/mission/azure-ad-engineer-1657509;['azure', 'powershell']
+122;active-directory-engineer-1657442;"
+                    Phaidon International (UK) Ltd ";England;521 160 mois; 999 €;26/01/2022;https://www.freelance-info.fr/mission/active-directory-engineer-1657442;['azure', 'powershell']
+123;aws-cloud-builder-1657401;"
+                    Phaidon International (UK) Ltd ";England;521 160 mois; 999 €;26/01/2022;https://www.freelance-info.fr/mission/aws-cloud-builder-1657401;['aws', 'ansible', 'agile', 'terraform']
+124;salesforce-marketing-cloud-technical-consultant-1657381;"
+                    Phaidon International (UK) Ltd ";Île-de-France;86 400 années; 650 €;26/01/2022;https://www.freelance-info.fr/mission/salesforce-marketing-cloud-technical-consultant-1657381;['sql', 'salesforce']
+125;datacenter-expert-1657380;"
+                    Phaidon International (UK) Ltd ";Île-de-France;86 400 années; 650 €;26/01/2022;https://www.freelance-info.fr/mission/datacenter-expert-1657380;[]
+126;data-project-manager-1657074;"
+                    Phaidon International (UK) Ltd ";Île-de-France;12 mois; 550-660 €;26/01/2022;https://www.freelance-info.fr/mission/data-project-manager-1657074;['agile']
+127;salesforce-project-manager-1656786;"
+                    Phaidon International (UK) Ltd ";Île-de-France;12 mois; 550-660 €;26/01/2022;https://www.freelance-info.fr/mission/salesforce-project-manager-1656786;['salesforce']
+128;cloud-builder-senior-ou-expert-1656660;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/cloud-builder-senior-ou-expert-1656660;['java', 'gitlab', 'jenkins', 'aws', 'elk', 'docker', 'ansible', 'python', 'ci/cd', 'jira', 'agile', 'terraform', 'grafana', 'linux']
+129;junior-lan-wifi-engineer-1656501;"
+                    Phaidon International (UK) Ltd ";Paris;86 400 années; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/junior-lan-wifi-engineer-1656501;[]

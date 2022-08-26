@@ -4,23 +4,25 @@ def indeed_scraper(keyword,location,start,end):
     from bs4 import BeautifulSoup
     import requests
     from datetime import date
+    from skillextract import skillextract
+    import re
     #import random
     #from time import sleep
     pagestart=(10*start)-10
     pageend= (10*end)
     run_date=date.today()
-    result=pd.DataFrame(columns=['title','wage','companyname','location','date', 'companynote'])
+    result=pd.DataFrame(columns=['title','wage','companyname','location','date', 'companynote','joblink','jobskills'])
     for page in range(pagestart,pageend,10):
         #sleep(random.randint(10,100))
-        url=f'https://fr.indeed.com/jobs?q={keyword}&l={location}&start={page}'
-        
+        url=f'https://fr.indeed.com/jobs?q={keyword}&l={location}&fromage=60&start={page}'
+        prefix='https://fr.indeed.com'
+                
         print(f'Scraping in progress for the page number: {page}')
         print(url)
         headers= {'User_Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'}
         request= requests.get(url, headers)
         soup= BeautifulSoup(request.content, 'html.parser')
-        #soupprety=soup.prettify()
-        #print(request.status_code)        
+          
         html= list(soup.children)
         try:
             body=html[2]
@@ -30,8 +32,11 @@ def indeed_scraper(keyword,location,start,end):
         content=list(body.children)
         tags=content[3]
         
-        jobhtml=tags.find_all('div',class_='job_seen_beacon')
+        jobhtml=tags.find_all('a', class_=re.compile("tapItem"))
+      
+        
         joblist=[]
+        joblinklist=[]
         
         for item in jobhtml:
             
@@ -40,6 +45,10 @@ def indeed_scraper(keyword,location,start,end):
                 
             else:
                 title=item.find_all('span')[0].text
+            
+            
+            joblink=prefix + item['href']
+            
             
             span=list(item.find_all('span'))
             wage=''
@@ -60,16 +69,19 @@ def indeed_scraper(keyword,location,start,end):
             companyname=item.find('span', class_='companyName').text
             location=item.find('div',class_='companyLocation').text
             date=item.find('span', class_='date').text
+            jobskill=[]
             
-            job={'title': title,'wage': wage,'companyname': companyname,'location': location, 'date': date, 'companynote': companynote}
+            job={'title': title,'wage': wage,'companyname': companyname,'location': location, 'date': date, 'companynote': companynote,'joblink':joblink}
             joblist.append(job)
             
-        scraped=pd.DataFrame(joblist,columns=['title','wage','companyname','location','date','companynote'])
-        result=result.append(scraped)
-    page=page/10    
-    try:
-        result.to_csv(f'jobs_ile_de_france_{keyword}_{start}_{page}_{run_date}.csv', sep=';')
-    except:
-        print('issue happened during file generation')
-        return 1
+        scraped=pd.DataFrame(joblist,columns=['title','wage','companyname','location','date','companynote','joblink','jobskills'])
+        #result=result.append(scraped)
+        
+        page=int(page/10)
+        df=skillextract(scraped)
+        try:
+            df.to_csv(f'jobs_ile_de_france_{keyword}_{page}_{run_date}.csv', sep=';')
+        except:
+            print('issue happened during file generation')
+            return 1
         

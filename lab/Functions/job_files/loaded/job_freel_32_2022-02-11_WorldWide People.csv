@@ -1,0 +1,641 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;administrateur-ansible-1666804;"
+                    WorldWide People ";Chapelle-Saint-Mesmin (La);9 mois; 300-330 €;10/02/2022;https://www.freelance-info.fr/mission/administrateur-ansible-1666804;['tableau', 'sql', 'db2', 'oracle', 'tableaux de bord', 'apache', 'ldap', 'mysql', 'mongodb', 'scala', 'linux']
+1;ingenierie-reseau-1666803;"
+                    WorldWide People ";Chapelle-Saint-Mesmin (La);9 mois; 300-330 €;10/02/2022;https://www.freelance-info.fr/mission/ingenierie-reseau-1666803;['sql', 'jira']
+2;testeur-api-web-services-testing-functional-testing-test-automation-test-consulting-1666802;"
+                    WorldWide People ";Paris;12 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/testeur-api-web-services-testing-functional-testing-test-automation-test-consulting-1666802;[]
+3;concepteur-developpeur-senior-mainframe-1666801;"
+                    WorldWide People ";Paris;12 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-senior-mainframe-1666801;['talend', 'java']
+4;concepteur-developpeur-api-j-ee-1666800;"
+                    WorldWide People ";Paris;10 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-api-j-ee-1666800;[]
+5;scrum-master-nantes-1666799;"
+                    WorldWide People ";Paris;10 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/scrum-master-nantes-1666799;['java', 'agile', 'scrum']
+6;expert-administration-o-1666798;"
+                    WorldWide People ";Massy;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-administration-o-1666798;['powerbi', 'azure', 'anglais', 'powershell']
+7;developpeur-c-sql-mariadb-kafka-shell-linux-nodejs-et-ou-c-apprecie-1666797;"
+                    WorldWide People ";Massy;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-c-sql-mariadb-kafka-shell-linux-nodejs-et-ou-c-apprecie-1666797;['java', ' git ', 'gitlab', 'kafka', 'docker', 'ansible', 'python', 'sql', 'agile', 'anglais', 'apache', 'cartographie', 'jboss', 'mariadb', 'mongodb', 'vba', 'linux']
+8;ingenieur-systemes-reseaux-et-securite-1666796;"
+                    WorldWide People ";Massy;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-reseaux-et-securite-1666796;['anglais']
+9;directeur-de-projet-experimente-avec-un-minimum-de-ans-d-experience-en-conduite-de-projet-1666781;"
+                    WorldWide People ";Massy;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-experimente-avec-un-minimum-de-ans-d-experience-en-conduite-de-projet-1666781;[]
+10;operation-applicationsmanagement-1666563;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/operation-applicationsmanagement-1666563;['puppet', 'ansible', 'oracle', 'apache', 'tomcat', 'jboss', 'linux']
+11;consultant-crm-dynamics-1666561;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-crm-dynamics-1666561;[]
+12;operations-applicationsmanagement-1666560;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/operations-applicationsmanagement-1666560;['puppet', 'ansible', 'oracle', 'apache', 'tomcat', 'jboss', 'linux']
+13;ingenieur-devops-azure-devops-et-les-pipeline-yaml-o-docker-et-docker-compose-o-artifacts-feed-1666559;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-azure-devops-et-les-pipeline-yaml-o-docker-et-docker-compose-o-artifacts-feed-1666559;['azure', 'docker', 'agile', 'linux']
+14;product-owner-bi-data-1666550;"
+                    WorldWide People ";Issy-les-Moulineaux;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/product-owner-bi-data-1666550;['tableau', 'agile', 'confluence']
+15;it-factory-operations-site-leader-1664461;"
+                    WorldWide People ";Issy-les-Moulineaux;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/it-factory-operations-site-leader-1664461;['agile', 'itil', 'scrum']
+16;integrateur-jahia-nantes-1664454;"
+                    WorldWide People ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/integrateur-jahia-nantes-1664454;['java', 'jenkins', 'docker', 'maven', 'oracle', 'apache', 'ldap', 'linux']
+17;project-manager-nantes-1664455;"
+                    WorldWide People ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/project-manager-nantes-1664455;['java']
+18;concepteur-developpeur-agir-en-cooperation-facilitation-docker-java-methodes-agiles-1664456;"
+                    WorldWide People ";Massy;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-agir-en-cooperation-facilitation-docker-java-methodes-agiles-1664456;['java', 'docker', 'agile', 'tomcat', 'linux']
+19;expert-technique-angular-automatisation-des-deploiements-concourse-pivotal-docker-nantes-1664457;"
+                    WorldWide People ";Massy;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-technique-angular-automatisation-des-deploiements-concourse-pivotal-docker-nantes-1664457;['docker']
+20;product-owner-kanban-methodes-agiles-rtc-gestion-de-projet-safe-scrum-nantes-1664458;"
+                    WorldWide People ";Bezons;9 mois; 380 €;10/02/2022;https://www.freelance-info.fr/mission/product-owner-kanban-methodes-agiles-rtc-gestion-de-projet-safe-scrum-nantes-1664458;['agile', 'kanban', 'scrum']
+21;consultant-moa-sirh-1664459;"
+                    WorldWide People ";Bezons;9 mois; 380 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-moa-sirh-1664459;['agile']
+22;lead-technique-java-angular-nantes-teletravail-jours-par-semaine-max-1664448;"
+                    WorldWide People ";Paris;9 mois; 400-420 €;10/02/2022;https://www.freelance-info.fr/mission/lead-technique-java-angular-nantes-teletravail-jours-par-semaine-max-1664448;['java', 'docker', 'springboot']
+23;profil-fonctionnel-business-analyst-1664431;"
+                    WorldWide People ";Paris;9 mois; 400-420 €;10/02/2022;https://www.freelance-info.fr/mission/profil-fonctionnel-business-analyst-1664431;[' sas']
+24;ingenierie-test-qa-recette-ans-qa-shell-cms-analyse-de-log-1664251;"
+                    WorldWide People ";Bezons;9 mois; 300 €;10/02/2022;https://www.freelance-info.fr/mission/ingenierie-test-qa-recette-ans-qa-shell-cms-analyse-de-log-1664251;['anglais', ' sas']
+25;ingenierie-test-qa-recette-ans-cms-api-graphql-automatisation-1664253;"
+                    WorldWide People ";Bezons;9 mois; 300 €;10/02/2022;https://www.freelance-info.fr/mission/ingenierie-test-qa-recette-ans-cms-api-graphql-automatisation-1664253;['java', 'anglais']
+26;scrum-master-atlassian-1664254;"
+                    WorldWide People ";Paris;10 mois; 400-480 €;10/02/2022;https://www.freelance-info.fr/mission/scrum-master-atlassian-1664254;['agile', 'scrum']
+27;testeur-automaticien-jira-xray-postman-1664255;"
+                    WorldWide People ";Paris;10 mois; 400-480 €;10/02/2022;https://www.freelance-info.fr/mission/testeur-automaticien-jira-xray-postman-1664255;['jira', 'xray', 'scrum']
+28;developpeur-frontend-experimente-angular-typescript-anglais-obligatoire-lieu-la-defens-j-tt-j-1664256;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-experimente-angular-typescript-anglais-obligatoire-lieu-la-defens-j-tt-j-1664256;['gitlab', 'agile', 'terraform', 'grafana', 'kanban', 'scrum']
+29;lead-developpeur-fullstack-experimente-typescript-javascript-nodejs-graphql-1664257;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-fullstack-experimente-typescript-javascript-nodejs-graphql-1664257;['java', 'aws', 'sql', 'agile', 'terraform', 'sonar', 'grafana', 'kanban', 'scrum', 'splunk', 'sonarqube']
+30;stormshield-firewall-network-and-security-expert-1664248;"
+                    WorldWide People ";Culoz;6 mois; 460-540 €;10/02/2022;https://www.freelance-info.fr/mission/stormshield-firewall-network-and-security-expert-1664248;['firewalls']
+31;ux-designer-lyon-1664223;"
+                    WorldWide People ";Culoz;6 mois; 460-540 €;10/02/2022;https://www.freelance-info.fr/mission/ux-designer-lyon-1664223;[]
+32;expert-technique-devops-docker-java-ee-j-ee-kubernetes-1664113;"
+                    WorldWide People ";Nantes;12 mois; 340 €;10/02/2022;https://www.freelance-info.fr/mission/expert-technique-devops-docker-java-ee-j-ee-kubernetes-1664113;['java', 'docker']
+33;consultant-deploiement-argenteuil-1664114;"
+                    WorldWide People ";Nantes;12 mois; 340 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-deploiement-argenteuil-1664114;[' sas']
+34;ingenieur-support-exploitation-1666448;"
+                    WorldWide People ";Nantes;12 mois; 400-430 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-exploitation-1666448;['python', 'sql', 'ldap']
+35;chapter-lead-developpement-1666447;"
+                    WorldWide People ";Nantes;12 mois; 400-430 €;10/02/2022;https://www.freelance-info.fr/mission/chapter-lead-developpement-1666447;['java', 'kafka', 'docker', 'sql', 'agile', 'mysql', 'mongodb']
+36;lead-devops-build-1666446;"
+                    WorldWide People ";Nantes;12 mois; 350 €;10/02/2022;https://www.freelance-info.fr/mission/lead-devops-build-1666446;['java', 'gitlab', 'jenkins', 'kafka', 'docker', 'ansible', 'sql', 'jira', 'confluence', 'sonar', 'apache', 'logstash', 'ldap', 'mysql', 'mongodb', 'linux']
+37;architecture-cloud-confirme-toulouse-1666445;"
+                    WorldWide People ";Nantes;12 mois; 350 €;10/02/2022;https://www.freelance-info.fr/mission/architecture-cloud-confirme-toulouse-1666445;['java', 'docker', 'agile', 'anglais', 'linux']
+38;developpeur-power-center-shell-et-ou-talend-bordeaux-1666443;"
+                    WorldWide People ";Nantes;12 mois; 320 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-power-center-shell-et-ou-talend-bordeaux-1666443;['talend', ' sas']
+39;ingenierie-d-exploitation-lyon-1666442;"
+                    WorldWide People ";Nantes;12 mois; 320 €;10/02/2022;https://www.freelance-info.fr/mission/ingenierie-d-exploitation-lyon-1666442;['sql']
+40;it-infrastructure-manager-lyon-1666441;"
+                    WorldWide People ";Nantes;12 mois; 350-360 €;10/02/2022;https://www.freelance-info.fr/mission/it-infrastructure-manager-lyon-1666441;[]
+41;data-analyste-entre-et-ans-1666440;"
+                    WorldWide People ";Nantes;12 mois; 350-360 €;10/02/2022;https://www.freelance-info.fr/mission/data-analyste-entre-et-ans-1666440;['powerbi', 'sql', 'jira', 'oracle', 'agile', 'confluence']
+42;data-analyste-entre-et-ans-sas-sql-power-bi-et-alteryx-1666439;"
+                    WorldWide People ";Noisiel;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/data-analyste-entre-et-ans-sas-sql-power-bi-et-alteryx-1666439;['power bi', 'sql', ' sas']
+43;conseil-fonctionnel-cyber-1666438;"
+                    WorldWide People ";Noisiel;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/conseil-fonctionnel-cyber-1666438;['anglais']
+44;conseil-fonctionnel-competences-rssi-1666437;"
+                    WorldWide People ";Nantes;12 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/conseil-fonctionnel-competences-rssi-1666437;[]
+45;conseil-fonctionnel-competences-rssi-1666435;"
+                    WorldWide People ";Nantes;12 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/conseil-fonctionnel-competences-rssi-1666435;[]
+46;expert-hadoop-1666434;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;10/02/2022;https://www.freelance-info.fr/mission/expert-hadoop-1666434;['java', 'jenkins', 'spark', 'hive', 'maven', 'sql', 'hadoop', 'scala']
+47;tech-lead-java-jee-angular-dev-ops-xl-deploy-git-jenkins-etc-1666433;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;10/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-jee-angular-dev-ops-xl-deploy-git-jenkins-etc-1666433;['java', 'jenkins', 'sql', 'oracle', 'anglais']
+48;ingenieur-system-windows-d-kofax-axway-mailjet-1666432;"
+                    WorldWide People ";Ile de France;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-system-windows-d-kofax-axway-mailjet-1666432;[]
+49;devops-engineer-azure-devops-docker-pipeline-yaml-artifact-1664083;"
+                    WorldWide People ";Ile de France;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/devops-engineer-azure-devops-docker-pipeline-yaml-artifact-1664083;['azure', 'docker', ' sas', 'linux']
+50;ingenierie-cloud-sysops-unix-linux-bordeaux-1664043;"
+                    WorldWide People ";Ile de France;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/ingenierie-cloud-sysops-unix-linux-bordeaux-1664043;['linux']
+51;developpement-fullstack-js-nodejs-reactjs-avec-des-competences-ci-cd-nantes-1664028;"
+                    WorldWide People ";Ile de France;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/developpement-fullstack-js-nodejs-reactjs-avec-des-competences-ci-cd-nantes-1664028;['jenkins', 'python', 'sql', 'agile', 'mysql', 'scrum']
+52;designer-ux-1663905;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;10/02/2022;https://www.freelance-info.fr/mission/designer-ux-1663905;['agile', 'scrum']
+53;integrateur-decisionnel-sas-maitrise-des-outils-sas-1663901;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;10/02/2022;https://www.freelance-info.fr/mission/integrateur-decisionnel-sas-maitrise-des-outils-sas-1663901;['qlik', 'sql', 'jira', 'agile', ' sas', 'linux']
+54;administrateur-base-de-donnees-1663902;"
+                    WorldWide People ";Ile de France;6 mois; 350 €;10/02/2022;https://www.freelance-info.fr/mission/administrateur-base-de-donnees-1663902;['modélisation']
+55;developpeurs-back-end-confirmes-expetimentes-api-java-springboot-et-microservices-1663860;"
+                    WorldWide People ";Ile de France;6 mois; 350 €;10/02/2022;https://www.freelance-info.fr/mission/developpeurs-back-end-confirmes-expetimentes-api-java-springboot-et-microservices-1663860;['java', 'jenkins', 'kafka', 'docker', 'sql', 'jira', 'agile', 'sonar', 'modélisation', 'springboot', 'mysql', 'scrum', 'sonarqube', 'linux', 'microservice']
+56;developpeur-java-back-end-java-spring-batch-postgresql-orleans-1666060;"
+                    WorldWide People ";Ile de France;6 mois; 380 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-java-back-end-java-spring-batch-postgresql-orleans-1666060;['java', 'sql', 'postgresql']
+57;pmo-agile-banque-1666059;"
+                    WorldWide People ";Ile de France;6 mois; 380 €;10/02/2022;https://www.freelance-info.fr/mission/pmo-agile-banque-1666059;['tableau', 'agile']
+58;system-management-qualifications-ms-windows-server-linux-red-hat-ms-windows-server-ms-exc-1666055;"
+                    WorldWide People ";Ile de France;6 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/system-management-qualifications-ms-windows-server-linux-red-hat-ms-windows-server-ms-exc-1666055;['apache', 'linux']
+59;chef-de-projet-migration-ged-1666054;"
+                    WorldWide People ";Ile de France;6 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-migration-ged-1666054;['agile', 'anglais']
+60;developpeur-front-end-angular-experimente-1663603;"
+                    WorldWide People ";Ile de France;10 mois; 500-600 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-angular-experimente-1663603;['jenkins', 'api rest', 'agile', 'sonar', 'sonarqube']
+61;developpeur-mainframe-cobol-pacbase-confirme-1663545;"
+                    WorldWide People ";Ile de France;10 mois; 500-600 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-mainframe-cobol-pacbase-confirme-1663545;['java']
+62;business-analyst-projet-green-it-1663548;"
+                    WorldWide People ";Lyon;10 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-analyst-projet-green-it-1663548;[]
+63;design-development-chiffrer-et-realiser-une-etude-java-ee-senior-expertise-ejb-1663556;"
+                    WorldWide People ";Lyon;10 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/design-development-chiffrer-et-realiser-une-etude-java-ee-senior-expertise-ejb-1663556;['java', 'tomcat', 'scrum', 'jboss']
+64;servicenow-consultant-1663537;"
+                    WorldWide People ";Ile de France;6 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/servicenow-consultant-1663537;['agile']
+65;dba-etude-confirme-support-dba-sur-les-sgbd-relationnels-mysql-db-luw-1663544;"
+                    WorldWide People ";Ile de France;6 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/dba-etude-confirme-support-dba-sur-les-sgbd-relationnels-mysql-db-luw-1663544;['sql', 'db2', 'mysql', 'linux']
+66;developpeur-kpsa-rennes-1663521;"
+                    WorldWide People ";Argenteuil;11 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-kpsa-rennes-1663521;['java', 'sql', 'oracle', 'ldap', 'linux']
+67;integrateur-technique-et-applicative-nantes-1663375;"
+                    WorldWide People ";Argenteuil;11 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/integrateur-technique-et-applicative-nantes-1663375;['java', 'python', 'sql', 'oracle', 'tomcat', 'mysql', 'vba', 'linux']
+68;infrastructures-architect-systems-redhat-vmware-veaam-debian-proxy-apache-network-1663376;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/infrastructures-architect-systems-redhat-vmware-veaam-debian-proxy-apache-network-1663376;['apache', 'vpn']
+69;technicien-exploitation-olivet-1663377;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/technicien-exploitation-olivet-1663377;['scala']
+70;developpeur-embarque-c-sous-linux-aix-1663378;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-embarque-c-sous-linux-aix-1663378;[' sas', 'linux']
+71;administrateur-systemes-linux-windows-server-apache-tomcat-postgre-oracle-cloudops-aws-azure-1663380;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-linux-windows-server-apache-tomcat-postgre-oracle-cloudops-aws-azure-1663380;['aws', 'azure', 'ci/cd', 'oracle', 'apache', 'tomcat', 'linux']
+72;test-lead-nantes-deplacements-a-prevoir-a-paimboeuf-1663381;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/test-lead-nantes-deplacements-a-prevoir-a-paimboeuf-1663381;[]
+73;developpeur-fullstack-js-nantes-node-js-reactjs-1663382;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-js-nantes-node-js-reactjs-1663382;[' git ', 'jenkins', 'python', 'sql', 'ci/cd', 'agile', 'mysql', 'scrum']
+74;developpeur-nodejs-nantes-1663369;"
+                    WorldWide People ";Toulouse;6 mois; 500-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-nodejs-nantes-1663369;[' git ', 'jenkins', 'sql', 'apache', 'mysql']
+75;directeur-de-projet-industriel-ged-ou-meridian-1663370;"
+                    WorldWide People ";Toulouse;6 mois; 500-550 €;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-industriel-ged-ou-meridian-1663370;['anglais', ' sas']
+76;ingenierie-systeme-windows-systeme-administrator-pour-support-run-et-projets-1663371;"
+                    WorldWide People ";Bordeaux;7 mois; 390 €;09/02/2022;https://www.freelance-info.fr/mission/ingenierie-systeme-windows-systeme-administrator-pour-support-run-et-projets-1663371;[]
+77;expert-outils-collaboratifs-office-1663372;"
+                    WorldWide People ";Bordeaux;7 mois; 390 €;09/02/2022;https://www.freelance-info.fr/mission/expert-outils-collaboratifs-office-1663372;[]
+78;concepteur-developpeur-confirme-nantes-java-shell-script-bigdata-1665668;"
+                    WorldWide People ";Lyon;4 mois; 350 €;09/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-confirme-nantes-java-shell-script-bigdata-1665668;['java', 'hortonworks', 'ci/cd', 'agile', 'cloudera', 'linux']
+79;service-delivery-support-1665666;"
+                    WorldWide People ";Lyon;4 mois; 350 €;09/02/2022;https://www.freelance-info.fr/mission/service-delivery-support-1665666;['anglais', 'itil']
+80;ingenieur-devops-junior-nantes-1665664;"
+                    WorldWide People ";Lyon;10 mois; 380 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-junior-nantes-1665664;['jenkins', 'aws', 'docker']
+81;service-delivery-support-1665663;"
+                    WorldWide People ";Lyon;10 mois; 380 €;09/02/2022;https://www.freelance-info.fr/mission/service-delivery-support-1665663;[' sas']
+82;developpeur-php-lyon-1665662;"
+                    WorldWide People ";Paris;6 mois; 330-340 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-php-lyon-1665662;['docker', 'api rest', 'jira', 'agile', 'mariadb', 'microservice']
+83;integrateur-os-redhat-openshift-api-rest-gravitee-api-mgt-java-spring-boot-postgres-kafka-1665659;"
+                    WorldWide People ";Paris;6 mois; 330-340 €;09/02/2022;https://www.freelance-info.fr/mission/integrateur-os-redhat-openshift-api-rest-gravitee-api-mgt-java-spring-boot-postgres-kafka-1665659;['java', 'gitlab', 'jenkins', 'kafka', 'sql', 'api rest', 'mysql']
+84;oracle-sql-oracle-pl-sql-1665658;"
+                    WorldWide People ";Paris;6 mois; 400 €;09/02/2022;https://www.freelance-info.fr/mission/oracle-sql-oracle-pl-sql-1665658;['java', 'sql', 'api rest', 'oracle', 'agile', 'mysql', 'scrum']
+85;analyse-et-realisation-de-developpement-web-java-j-ee-angular-postgres-git-maven-1665657;"
+                    WorldWide People ";Paris;6 mois; 400 €;09/02/2022;https://www.freelance-info.fr/mission/analyse-et-realisation-de-developpement-web-java-j-ee-angular-postgres-git-maven-1665657;['java', ' git ', 'maven', 'sql', 'agile', 'postgresql', 'scrum']
+86;integration-jahia-cms-jahia-nantes-1665656;"
+                    WorldWide People ";Bezons;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/integration-jahia-cms-jahia-nantes-1665656;['java', 'jenkins', 'docker', 'maven', 'oracle', 'apache', 'ldap', 'linux']
+87;project-office-manager-lyon-scaled-agile-framework-safe-devops-software-development-agile-safe-p-1665655;"
+                    WorldWide People ";Bezons;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/project-office-manager-lyon-scaled-agile-framework-safe-devops-software-development-agile-safe-p-1665655;['tableau', 'agile', 'tableaux de bord']
+88;concepteur-developpeur-flux-d-alimentations-temps-reels-esb-et-api-de-software-ag-1665633;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-flux-d-alimentations-temps-reels-esb-et-api-de-software-ag-1665633;['sql', 'oracle']
+89;consultant-cp-infra-experimente-culoz-1665632;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-cp-infra-experimente-culoz-1665632;['aws', 'azure', 'sql', 'oracle', 'anglais', 'scala', ' sas']
+90;responsable-systeme-informatique-culoz-1665630;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/responsable-systeme-informatique-culoz-1665630;['agile', 'itil', 'scrum']
+91;consultant-microsoft-sophia-antipolis-1665629;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-microsoft-sophia-antipolis-1665629;[' sas']
+92;integrateur-d-exploitation-applicative-nantes-1663357;"
+                    WorldWide People ";Paris;6 mois; 400 €;09/02/2022;https://www.freelance-info.fr/mission/integrateur-d-exploitation-applicative-nantes-1663357;['jboss']
+93;pilotage-de-projets-de-deploiement-ou-de-migration-reseau-telephonie-securite-anglais-niveau-1663358;"
+                    WorldWide People ";Paris;6 mois; 400 €;09/02/2022;https://www.freelance-info.fr/mission/pilotage-de-projets-de-deploiement-ou-de-migration-reseau-telephonie-securite-anglais-niveau-1663358;['anglais', 'itil', 'firewalls', 'scala']
+94;audit-de-risque-pca-1663356;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;09/02/2022;https://www.freelance-info.fr/mission/audit-de-risque-pca-1663356;[' sas']
+95;ingenieur-d-etudes-unix-shell-sql-1665204;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-etudes-unix-shell-sql-1665204;['sql', 'jira', 'cartographie']
+96;developpeur-jee-gwt-aix-en-provence-1663275;"
+                    WorldWide People ";Malakoff;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-jee-gwt-aix-en-provence-1663275;['java', 'maven', 'sql', 'oracle', 'apache', 'jboss']
+97;consultants-servicenow-project-manager-functionnal-technical-consultant-business-analyst-paris-1663088;"
+                    WorldWide People ";Malakoff;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultants-servicenow-project-manager-functionnal-technical-consultant-business-analyst-paris-1663088;[' sas']
+98;consultants-servicenow-project-manager-functionnal-technical-consultant-business-analyst-lyon-1663089;"
+                    WorldWide People ";Paris;6 mois; 400-480 €;09/02/2022;https://www.freelance-info.fr/mission/consultants-servicenow-project-manager-functionnal-technical-consultant-business-analyst-lyon-1663089;[' sas']
+99;consultants-servicenow-project-manager-functionnal-technical-consultant-business-analyst-nante-1663090;"
+                    WorldWide People ";Paris;6 mois; 400-480 €;09/02/2022;https://www.freelance-info.fr/mission/consultants-servicenow-project-manager-functionnal-technical-consultant-business-analyst-nante-1663090;[' sas']
+100;ingenieur-devops-nantes-cloud-public-aws-ovh-docker-git-jenkins-kubernetes-1664953;"
+                    WorldWide People ";Bordeaux;9 mois; 400-430 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-nantes-cloud-public-aws-ovh-docker-git-jenkins-kubernetes-1664953;[' git ', 'jenkins', 'aws', 'docker']
+101;pmo-nantes-charge-de-pilotage-si-moe-longue-duree-an-et-a-temps-partiel-1664952;"
+                    WorldWide People ";Bordeaux;9 mois; 400-430 €;09/02/2022;https://www.freelance-info.fr/mission/pmo-nantes-charge-de-pilotage-si-moe-longue-duree-an-et-a-temps-partiel-1664952;['tableau']
+102;pmo-pilotage-tests-nantes-1664950;"
+                    WorldWide People ";Nantes;9 mois; 310-340 €;09/02/2022;https://www.freelance-info.fr/mission/pmo-pilotage-tests-nantes-1664950;['tableau', 'tableaux de bord']
+103;architecture-technique-infrastructure-landscape-architecte-1662963;"
+                    WorldWide People ";Nantes;9 mois; 310-340 €;09/02/2022;https://www.freelance-info.fr/mission/architecture-technique-infrastructure-landscape-architecte-1662963;['anglais']
+104;developper-java-jee-angular-1662966;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developper-java-jee-angular-1662966;['java', 'gitlab', 'sql', 'jira', 'oracle', 'sonar', 'apache', 'tomcat', 'mysql', 'jboss', 'mongodb', 'scala', 'linux']
+105;administration-unix-aix-dc-cable-management-1662853;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/administration-unix-aix-dc-cable-management-1662853;[]
+106;ingenieur-atm-systemes-toulouse-1662666;"
+                    WorldWide People ";Ivry-sur-Seine;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-atm-systemes-toulouse-1662666;['agile', 'firewalls', 'scrum', 'linux']
+107;vue-js-ans-d-experiences-minimum-1664839;"
+                    WorldWide People ";Ivry-sur-Seine;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/vue-js-ans-d-experiences-minimum-1664839;['gitlab', 'agile', ' sas']
+108;expert-sgbd-sgbd-db-sgbd-oracle-sgbd-post-gre-sgbd-couchbase-sgbd-sql-1664838;"
+                    WorldWide People ";Ivry-sur-Seine;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-sgbd-sgbd-db-sgbd-oracle-sgbd-post-gre-sgbd-couchbase-sgbd-sql-1664838;['sql', 'db2', 'oracle']
+109;tech-lead-php-symfony-teletravail-a-j-semaine-1664837;"
+                    WorldWide People ";Ivry-sur-Seine;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/tech-lead-php-symfony-teletravail-a-j-semaine-1664837;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'jira', 'agile', 'confluence', 'grafana', 'mysql', 'scrum', 'linux']
+110;it-manager-secteur-gestion-d-actifs-1664836;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/it-manager-secteur-gestion-d-actifs-1664836;[]
+111;ingenieur-solution-scrum-master-technique-sophia-antipolis-1664832;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-solution-scrum-master-technique-sophia-antipolis-1664832;[' git ', 'gitlab', 'jenkins', 'docker', 'ansible', 'python', 'sql', 'ci/cd', 'jira', 'agile', 'confluence', 'terraform', 'apache', 'tomcat', 'grafana', 'postgresql', 'ldap', 'scrum']
+112;ingenieur-systeme-linux-postgresql-sophia-antipolis-1664831;"
+                    WorldWide People ";Orléans;4 mois; 400-430 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-postgresql-sophia-antipolis-1664831;['gitlab', 'sql', 'apache', 'tomcat', 'postgresql', 'linux']
+113;business-analyst-moe-moa-sqlapi-sophia-antipolis-1664830;"
+                    WorldWide People ";Orléans;4 mois; 400-430 €;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-moe-moa-sqlapi-sophia-antipolis-1664830;['sql']
+114;application-developer-lyon-c-c-c-linux-embarque-temps-reel-ni-teststand-windows-bit-1664829;"
+                    WorldWide People ";Ivry-sur-Seine;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/application-developer-lyon-c-c-c-linux-embarque-temps-reel-ni-teststand-windows-bit-1664829;['modélisation', 'linux']
+115;chef-de-projet-infrastructures-agile-experimente-lyon-1664826;"
+                    WorldWide People ";Ivry-sur-Seine;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructures-agile-experimente-lyon-1664826;['tableau', 'agile', 'tableaux de bord']
+116;infrastructures-architect-systems-redhat-vmware-veaam-debian-proxy-apache-network-1664811;"
+                    WorldWide People ";Olivet;10 mois; 330 €;08/02/2022;https://www.freelance-info.fr/mission/infrastructures-architect-systems-redhat-vmware-veaam-debian-proxy-apache-network-1664811;[' sas']
+117;chef-de-projet-itsm-servicenow-1664688;"
+                    WorldWide People ";Olivet;10 mois; 330 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-itsm-servicenow-1664688;[]
+118;business-analyst-confirme-banque-1664680;"
+                    WorldWide People ";Paris;10 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-confirme-banque-1664680;['jira', 'modélisation']
+119;agile-delivery-manager-1664628;"
+                    WorldWide People ";Paris;10 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/agile-delivery-manager-1664628;['gcp', 'scrum']
+120;developpeur-java-et-c-d-environ-ans-d-experiences-1664565;"
+                    WorldWide People ";Paris;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-et-c-d-environ-ans-d-experiences-1664565;['java', 'sql', 'agile']
+121;integrateur-poste-de-travail-windows-et-tablettes-android-os-pdt-w-et-w-chrome-nantes-1662639;"
+                    WorldWide People ";Paris;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-poste-de-travail-windows-et-tablettes-android-os-pdt-w-et-w-chrome-nantes-1662639;[]
+122;pilote-d-integration-sophia-tt-1662641;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/pilote-d-integration-sophia-tt-1662641;['gitlab', 'docker']
+123;poste-de-qualification-moe-testeur-technique-sophia-antipolis-1662642;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/poste-de-qualification-moe-testeur-technique-sophia-antipolis-1662642;['java', 'sql']
+124;amoa-analyse-et-outillage-comptable-1662643;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;08/02/2022;https://www.freelance-info.fr/mission/amoa-analyse-et-outillage-comptable-1662643;['sql', 'powerpoint']
+125;consultant-infrastructure-culoz-1662644;"
+                    WorldWide People ";Paris;6 mois; 400-440 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-infrastructure-culoz-1662644;['aws', 'azure', 'sql', 'oracle', 'anglais', 'scala', ' sas']
+126;developpeur-java-1662645;"
+                    WorldWide People ";Bezons;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-1662645;['java', 'sql', 'postgresql']
+127;analyste-exploitation-hp-ux-linux-windows-xp-windows-et-cft-1662646;"
+                    WorldWide People ";Bezons;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/analyste-exploitation-hp-ux-linux-windows-xp-windows-et-cft-1662646;[' sas', 'linux']
+128;developpeur-c-net-core-net-javascript-reactjs-olivet-1662502;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-c-net-core-net-javascript-reactjs-olivet-1662502;['java', ' git ', 'azure', 'sql']
+129;expert-devsecops-bezons-1662430;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-devsecops-bezons-1662430;['java', 'python', ' sas']
+130;integrateur-applicatif-production-unix-tws-nantes-1662423;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-applicatif-production-unix-tws-nantes-1662423;['jboss']
+131;expert-eidas-1662427;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-eidas-1662427;['java', 'python', ' sas']
+132;integrateur-applicatif-dynamics-pour-la-mise-en-place-d-un-crm-1662409;"
+                    WorldWide People ";Rennes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-applicatif-dynamics-pour-la-mise-en-place-d-un-crm-1662409;['azure', 'agile']
+133;expert-linux-unix-lyon-redhat-centos-ubuntu-debian-suse-aix-solaris-scripting-lille-1662413;"
+                    WorldWide People ";Rennes;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-linux-unix-lyon-redhat-centos-ubuntu-debian-suse-aix-solaris-scripting-lille-1662413;['python', 'ci/cd', 'linux']
+134;administrateur-systemes-middleware-linux-windows-apache-tomcat-postgre-oracle-cloudops-aws-1662414;"
+                    WorldWide People ";Nantes;9 mois; 360-380 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-middleware-linux-windows-apache-tomcat-postgre-oracle-cloudops-aws-1662414;['aws', 'azure', 'ci/cd', 'oracle', 'apache', 'tomcat', 'linux']
+135;ingenieur-devops-nodejs-iac-lyon-ou-lille-1662415;"
+                    WorldWide People ";Nantes;9 mois; 360-380 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-nodejs-iac-lyon-ou-lille-1662415;['jenkins', 'aws', 'azure', 'ansible', 'terraform']
+136;ingenieur-devops-nodejs-iac-lyon-ou-lille-1662416;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-nodejs-iac-lyon-ou-lille-1662416;['jenkins', 'aws', 'azure', 'ansible', 'terraform']
+137;automatisation-squash-autom-tm-1662417;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/automatisation-squash-autom-tm-1662417;['jenkins', 'sql', ' sas']
+138;data-engineer-ms-bi-and-azure-data-1662262;"
+                    WorldWide People ";Olivet;5 mois; 350 €;08/02/2022;https://www.freelance-info.fr/mission/data-engineer-ms-bi-and-azure-data-1662262;[]
+139;integrateur-applicatif-dynamics-1662263;"
+                    WorldWide People ";Olivet;5 mois; 350 €;08/02/2022;https://www.freelance-info.fr/mission/integrateur-applicatif-dynamics-1662263;['azure', 'agile']
+140;developpeur-nodejs-node-js-nest-mysql-apache-git-jenkins-nantes-1662245;"
+                    WorldWide People ";Aix-en-Provence;10 mois; 400-480 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-nodejs-node-js-nest-mysql-apache-git-jenkins-nantes-1662245;[' git ', 'jenkins', 'sql', 'ci/cd', 'apache', 'mysql']
+141;ingenieur-systeme-electroniqueembarquee-aix-en-provence-1661836;"
+                    WorldWide People ";Aix-en-Provence;10 mois; 400-480 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-electroniqueembarquee-aix-en-provence-1661836;[]
+142;pilotage-de-projet-telecoms-wan-toulouse-1661832;"
+                    WorldWide People ";Lyon;10 mois; 350 €;08/02/2022;https://www.freelance-info.fr/mission/pilotage-de-projet-telecoms-wan-toulouse-1661832;[]
+143;data-analyst-pilotage-des-donnees-et-sirh-1661833;"
+                    WorldWide People ";Lyon;10 mois; 350 €;08/02/2022;https://www.freelance-info.fr/mission/data-analyst-pilotage-des-donnees-et-sirh-1661833;['cartographie']
+144;chef-de-projet-moa-projet-topp-chantier-delegation-de-gestion-1661834;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-projet-topp-chantier-delegation-de-gestion-1661834;[]
+145;chef-de-projet-technique-1661835;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-1661835;[]
+146;systems-and-networks-engineers-redhat-vmware-veaam-debian-proxy-apache-hpe-hp-procurve-cisco-1661711;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/systems-and-networks-engineers-redhat-vmware-veaam-debian-proxy-apache-hpe-hp-procurve-cisco-1661711;['apache', 'vpn']
+147;infrastructures-architect-systems-redhat-vmware-veaam-debian-proxy-apache-network-1661710;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/infrastructures-architect-systems-redhat-vmware-veaam-debian-proxy-apache-network-1661710;['apache', 'vpn']
+148;expertise-fonctionnelle-accruent-meridian-1661676;"
+                    WorldWide People ";Nantes;6 mois; 330 €;08/02/2022;https://www.freelance-info.fr/mission/expertise-fonctionnelle-accruent-meridian-1661676;[' sas']
+149;architecte-applicatif-senior-java-rest-api-kubernetes-kafka-spring-core-et-boot-micro-services-1661577;"
+                    WorldWide People ";Nantes;6 mois; 330 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-applicatif-senior-java-rest-api-kubernetes-kafka-spring-core-et-boot-micro-services-1661577;['java', 'kafka', 'sql']
+150;ingenieur-test-sophia-antipolis-1650083;"
+                    WorldWide People ";Paris;11 mois; 400-460 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-sophia-antipolis-1650083;['tableau', 'jira']
+151;developpeur-react-experimente-sophia-ou-montpellier-1626782;"
+                    WorldWide People ";Paris;11 mois; 400-460 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-react-experimente-sophia-ou-montpellier-1626782;[' git ', 'agile']
+152;proxy-product-owner-sophia-antipolis-1633361;"
+                    WorldWide People ";Bezons;10 mois; 480-510 €;08/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-sophia-antipolis-1633361;['agile', 'scrum']
+153;developpement-java-angular-full-stack-sophia-antipolis-1613968;"
+                    WorldWide People ";Bezons;10 mois; 480-510 €;08/02/2022;https://www.freelance-info.fr/mission/developpement-java-angular-full-stack-sophia-antipolis-1613968;['java', 'anglais']
+154;developpement-front-end-senior-sophia-antipolis-1613306;"
+                    WorldWide People ";Paris;11 mois; 400-420 €;08/02/2022;https://www.freelance-info.fr/mission/developpement-front-end-senior-sophia-antipolis-1613306;['java', 'sql']
+155;developpeur-java-back-end-sophia-antipolis-1618790;"
+                    WorldWide People ";Paris;11 mois; 400-420 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-back-end-sophia-antipolis-1618790;['java', 'jenkins', 'docker', 'python', 'maven', 'sql', 'oracle', 'agile', 'anglais', 'apache', 'tomcat', 'springboot', 'mysql', 'scrum', 'linux']
+156;developpeur-c-anglais-courant-sophia-antipolis-1613959;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-c-anglais-courant-sophia-antipolis-1613959;['java', 'python', 'sql', 'mongodb', 'linux']
+157;ingenierie-ssi-securite-des-systemes-protocoles-de-communication-vulnerabilites-et-pki-1661426;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenierie-ssi-securite-des-systemes-protocoles-de-communication-vulnerabilites-et-pki-1661426;['firewalls', 'vpn', 'linux']
+158;concepteur-developpeur-abap-toulouse-1661427;"
+                    WorldWide People ";Montreuil;10 mois; 330-350 €;08/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-abap-toulouse-1661427;['anglais']
+159;lead-developpeur-java-avec-plus-de-ans-d-experience-vannes-1661428;"
+                    WorldWide People ";Montreuil;10 mois; 330-350 €;08/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-java-avec-plus-de-ans-d-experience-vannes-1661428;['java', ' sas']
+160;developpeurs-cobol-avec-plus-de-ans-d-experience-notamment-sur-les-plateformes-type-eclipse-1661429;"
+                    WorldWide People ";Nantes;10 mois; 330-340 €;08/02/2022;https://www.freelance-info.fr/mission/developpeurs-cobol-avec-plus-de-ans-d-experience-notamment-sur-les-plateformes-type-eclipse-1661429;[' sas']
+161;business-analyst-vannes-1661430;"
+                    WorldWide People ";Nantes;10 mois; 330-340 €;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-vannes-1661430;[' sas']
+162;pmo-certifie-itil-et-prince-1661213;"
+                    WorldWide People ";Montreuil;10 mois; 300-310 €;08/02/2022;https://www.freelance-info.fr/mission/pmo-certifie-itil-et-prince-1661213;['itil']
+163;developpeur-securite-etude-et-de-developpement-de-securisation-d-un-smartphone-android-1661160;"
+                    WorldWide People ";Montreuil;10 mois; 300-310 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-securite-etude-et-de-developpement-de-securisation-d-un-smartphone-android-1661160;['vpn', 'linux']
+164;developpeur-c-rennes-1661083;"
+                    WorldWide People ";Lyon;10 mois; 310 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-c-rennes-1661083;[' sas']
+165;expert-linux-unix-lyon-redhat-centos-ubuntu-debian-suse-aix-solaris-scripting-1661064;"
+                    WorldWide People ";Lyon;10 mois; 310 €;08/02/2022;https://www.freelance-info.fr/mission/expert-linux-unix-lyon-redhat-centos-ubuntu-debian-suse-aix-solaris-scripting-1661064;['python', 'ci/cd', 'linux']
+166;administrateur-systemes-middleware-linux-windows-apache-tomcat-postgre-oracle-cloudops-aws-1661065;"
+                    WorldWide People ";Nantes;10 mois; 400-450 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-middleware-linux-windows-apache-tomcat-postgre-oracle-cloudops-aws-1661065;['aws', 'azure', 'ci/cd', 'oracle', 'apache', 'tomcat', 'linux']
+167;ingenieur-devops-nodejs-groovy-devops-iac-terraform-ansible-jenkins-cloudops-azure-aws-kub-1661066;"
+                    WorldWide People ";Nantes;10 mois; 400-450 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-nodejs-groovy-devops-iac-terraform-ansible-jenkins-cloudops-azure-aws-kub-1661066;['jenkins', 'aws', 'azure', 'ansible', 'terraform']
+168;chef-de-projet-confirme-iam-nantes-1661049;"
+                    WorldWide People ";Nantes;10 mois; 340-350 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-confirme-iam-nantes-1661049;['scrum']
+169;data-scientist-statisticien-ile-de-france-et-remote-1661035;"
+                    WorldWide People ";Nantes;10 mois; 340-350 €;08/02/2022;https://www.freelance-info.fr/mission/data-scientist-statisticien-ile-de-france-et-remote-1661035;[' r ', 'python', 'sql', 'modélisation']
+170;support-fonctionnel-niveau-nantes-1661044;"
+                    WorldWide People ";Olivet;10 mois; 400 €;08/02/2022;https://www.freelance-info.fr/mission/support-fonctionnel-niveau-nantes-1661044;['salesforce']
+171;architecte-data-jours-en-homeworking-jours-sur-site-client-1661034;"
+                    WorldWide People ";Olivet;10 mois; 400 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-data-jours-en-homeworking-jours-sur-site-client-1661034;[' git ', 'jenkins', 'ansible', 'data lake', 'maven', 'hortonworks', 'sql', 'anglais']
+172;test-lead-sophia-antipolis-1660698;"
+                    WorldWide People ";Nantes;10 mois; 330 €;08/02/2022;https://www.freelance-info.fr/mission/test-lead-sophia-antipolis-1660698;['python', 'oracle', 'agile']
+173;ppo-sophia-antipolis-1660701;"
+                    WorldWide People ";Nantes;10 mois; 330 €;08/02/2022;https://www.freelance-info.fr/mission/ppo-sophia-antipolis-1660701;['agile', 'anglais', 'scrum']
+174;chef-de-projet-sophia-antipolis-1660696;"
+                    WorldWide People ";Lyon;10 mois; 400 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sophia-antipolis-1660696;['java', 'sql', 'agile', 'tomcat', 'postgresql']
+175;service-delivery-support-english-itil-v-it-infrastructure-library-1660545;"
+                    WorldWide People ";Lyon;10 mois; 400 €;08/02/2022;https://www.freelance-info.fr/mission/service-delivery-support-english-itil-v-it-infrastructure-library-1660545;['anglais', 'itil']
+176;poste-de-qualification-moe-testeur-technique-sophia-antipolis-1660516;"
+                    WorldWide People ";Lyon;6 mois; 330-340 €;07/02/2022;https://www.freelance-info.fr/mission/poste-de-qualification-moe-testeur-technique-sophia-antipolis-1660516;['java', 'sql']
+177;directeur-de-projet-telecoms-transformation-si-paris-1660180;"
+                    WorldWide People ";Lyon;6 mois; 330-340 €;07/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-telecoms-transformation-si-paris-1660180;['talend', 'java', 'jenkins', 'jira', 'agile', 'sonar', 'anglais', 'salesforce']
+178;mission-d-expertise-fonctionnelle-sap-fi-co-1660187;"
+                    WorldWide People ";Culoz;6 mois; 400-440 €;07/02/2022;https://www.freelance-info.fr/mission/mission-d-expertise-fonctionnelle-sap-fi-co-1660187;[]
+179;developpeur-senior-php-teletravail-j-semaine-1659713;"
+                    WorldWide People ";Culoz;6 mois; 400-440 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-php-teletravail-j-semaine-1659713;[' git ', 'docker', 'sql', 'api rest', 'mysql', 'linux']
+180;chef-de-projet-scrum-master-teletravail-j-semaine-technos-java-ee-spring-nodejs-experiences-av-1659715;"
+                    WorldWide People ";Culoz;6 mois; 400-500 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-scrum-master-teletravail-j-semaine-technos-java-ee-spring-nodejs-experiences-av-1659715;['java', 'gitlab', 'jenkins', 'jira', 'agile', 'confluence', 'scrum']
+181;developpeur-c-net-oracle-sql-pl-sql-rennes-1646546;"
+                    WorldWide People ";Culoz;6 mois; 400-500 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-c-net-oracle-sql-pl-sql-rennes-1646546;['sql', 'oracle', ' sas']
+182;chef-de-projet-animation-nantes-1659199;"
+                    WorldWide People ";Sophia-Antipolis;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-animation-nantes-1659199;[]
+183;gestion-des-incidents-changements-itil-itsm-nantes-1659201;"
+                    WorldWide People ";Sophia-Antipolis;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/gestion-des-incidents-changements-itil-itsm-nantes-1659201;['agile', 'powerpoint', 'itil']
+184;coordination-de-l-integration-sur-le-programme-operateur-de-comptage-1659204;"
+                    WorldWide People ";Nantes;10 mois; 310-320 €;07/02/2022;https://www.freelance-info.fr/mission/coordination-de-l-integration-sur-le-programme-operateur-de-comptage-1659204;['oracle', 'apache', 'tomcat', 'jboss', 'linux']
+185;chef-de-projet-moe-moa-qualifications-ms-dynamics-crm-1659205;"
+                    WorldWide People ";Nantes;10 mois; 310-320 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-moa-qualifications-ms-dynamics-crm-1659205;[]
+186;developpeur-nodejs-aix-en-provence-1659207;"
+                    WorldWide People ";Saint-Ouen;11 mois; 400-440 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-nodejs-aix-en-provence-1659207;['api rest', ' sas']
+187;tech-lead-maximo-1659208;"
+                    WorldWide People ";Saint-Ouen;11 mois; 400-440 €;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-maximo-1659208;['java', 'sql']
+188;architecte-data-senior-lieu-guyancourt-1659188;"
+                    WorldWide People ";Paris;6 mois; 400-530 €;07/02/2022;https://www.freelance-info.fr/mission/architecte-data-senior-lieu-guyancourt-1659188;[' git ', 'jenkins', 'kafka', 'ansible', 'spark', 'data lake', 'hive', 'maven', 'hortonworks', 'sql', 'anglais', 'logstash', 'mongodb']
+189;pmo-outillage-et-support-senior-lieu-guyancourt-1659190;"
+                    WorldWide People ";Paris;6 mois; 400-530 €;07/02/2022;https://www.freelance-info.fr/mission/pmo-outillage-et-support-senior-lieu-guyancourt-1659190;['powerbi']
+190;consultant-data-gouvernance-data-management-1659193;"
+                    WorldWide People ";Ivry-sur-Seine;12 mois; Tarif non renseigné;06/02/2022;https://www.freelance-info.fr/mission/consultant-data-gouvernance-data-management-1659193;[]
+191;architecte-fonctionnel-technique-api-nantes-1659198;"
+                    WorldWide People ";Ivry-sur-Seine;12 mois; Tarif non renseigné;06/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-technique-api-nantes-1659198;['gitlab', 'jenkins', 'oracle']
+192;business-analyst-senior-rythme-connaissances-l-assurance-sante-db-dl-cobol-vba-xray-j-bureau-1659168;"
+                    WorldWide People ";Aix-en-Provence;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/business-analyst-senior-rythme-connaissances-l-assurance-sante-db-dl-cobol-vba-xray-j-bureau-1659168;['jira', 'db2', 'agile', 'confluence', 'vba']
+193;developpeur-frontend-experimente-angular-typescript-anglais-obligatoire-lieu-la-defens-j-tt-j-1659169;"
+                    WorldWide People ";Aix-en-Provence;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-experimente-angular-typescript-anglais-obligatoire-lieu-la-defens-j-tt-j-1659169;['anglais', ' sas']
+194;architecte-vmware-1659171;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/architecte-vmware-1659171;[]
+195;tech-lead-php-symfony-teletravail-a-j-semaine-1659174;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/tech-lead-php-symfony-teletravail-a-j-semaine-1659174;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'jira', 'agile', 'confluence', 'apache', 'grafana', 'mysql', 'scrum', 'linux']
+196;architecte-entreprise-connaissances-si-banque-entreprises-et-banque-de-financement-et-d-investissem-1659176;"
+                    WorldWide People ";Lyon;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/architecte-entreprise-connaissances-si-banque-entreprises-et-banque-de-financement-et-d-investissem-1659176;[]
+197;chef-de-projet-infra-1659179;"
+                    WorldWide People ";Lyon;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infra-1659179;[]
+198;developpeurs-full-stack-java-jee-angular-spring-boot-batch-data-hibernate-ci-cd-docker-kuberne-1659184;"
+                    WorldWide People ";Nantes;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeurs-full-stack-java-jee-angular-spring-boot-batch-data-hibernate-ci-cd-docker-kuberne-1659184;[]
+199;scrum-master-et-chef-de-projet-run-projet-teletravail-jours-par-semaine-1659166;"
+                    WorldWide People ";Nantes;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/scrum-master-et-chef-de-projet-run-projet-teletravail-jours-par-semaine-1659166;['jira', 'agile', 'confluence', 'xray', 'anglais', 'scrum']
+200;developpeurs-back-java-sap-commerce-cloud-hybris-issy-les-moulineaux-teletravail-j-semaine-1659052;"
+                    WorldWide People ";Nantes;12 mois; 300-340 €;04/02/2022;https://www.freelance-info.fr/mission/developpeurs-back-java-sap-commerce-cloud-hybris-issy-les-moulineaux-teletravail-j-semaine-1659052;['java', ' git ', 'jenkins', 'sql', 'oracle', 'agile', 'sonar', 'tomcat', 'mysql', 'scrum', ' sas']
+201;data-science-senior-specialiste-des-statistiques-sud-jours-sur-site-a-distance-1659044;"
+                    WorldWide People ";Nantes;12 mois; 300-340 €;04/02/2022;https://www.freelance-info.fr/mission/data-science-senior-specialiste-des-statistiques-sud-jours-sur-site-a-distance-1659044;[' r ', 'python', 'sql', 'modélisation']
+202;developpeur-vuejs-issy-les-moulineaux-teletravail-j-semaine-1659049;"
+                    WorldWide People ";Nantes;12 mois; 300-330 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-vuejs-issy-les-moulineaux-teletravail-j-semaine-1659049;['gitlab', 'agile', ' sas']
+203;data-scientist-infrastructure-ingenierie-r-et-python-sud-jours-sur-site-a-distance-1659041;"
+                    WorldWide People ";Nantes;12 mois; 300-330 €;04/02/2022;https://www.freelance-info.fr/mission/data-scientist-infrastructure-ingenierie-r-et-python-sud-jours-sur-site-a-distance-1659041;[' r ', 'python', 'sql', ' sas']
+204;integration-applicatif-et-technique-aix-oracle-websphere-jboss-docker-oracle-linux-nantes-1658699;"
+                    WorldWide People ";Nantes;12 mois; 320-330 €;04/02/2022;https://www.freelance-info.fr/mission/integration-applicatif-et-technique-aix-oracle-websphere-jboss-docker-oracle-linux-nantes-1658699;['docker', 'sql', 'oracle', 'apache', 'mysql', 'jboss', 'linux']
+205;testeurs-istqb-alm-remote-possible-mais-preference-sophia-antipolis-1658645;"
+                    WorldWide People ";Nantes;12 mois; 320-330 €;04/02/2022;https://www.freelance-info.fr/mission/testeurs-istqb-alm-remote-possible-mais-preference-sophia-antipolis-1658645;[]
+206;data-engineer-msbi-ms-azure-sql-data-warehouse-python-informatica-powercenter-etl-dev-ms-sql-server-1658635;"
+                    WorldWide People ";Malakoff;12 mois; 510-640 €;04/02/2022;https://www.freelance-info.fr/mission/data-engineer-msbi-ms-azure-sql-data-warehouse-python-informatica-powercenter-etl-dev-ms-sql-server-1658635;['power bi', 'azure', 'python', 'sql', 'ssrs', 'ssas']
+207;consultant-bo-business-objects-confirme-nantes-1658602;"
+                    WorldWide People ";Malakoff;12 mois; 510-640 €;04/02/2022;https://www.freelance-info.fr/mission/consultant-bo-business-objects-confirme-nantes-1658602;[]
+208;developpement-front-end-angular-javascript-typescript-html-css-sql-angular-sophia-antipolis-1621655;"
+                    WorldWide People ";Paris;6 mois; 400 €;04/02/2022;https://www.freelance-info.fr/mission/developpement-front-end-angular-javascript-typescript-html-css-sql-angular-sophia-antipolis-1621655;['java', 'sql', ' sas']
+209;developpeur-c-anglais-courant-sophia-antipolis-1621660;"
+                    WorldWide People ";Paris;6 mois; 400 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-c-anglais-courant-sophia-antipolis-1621660;['java', 'python', 'sql', 'mongodb', 'linux']
+210;developpement-java-back-end-confirme-sophia-antipolis-1613969;"
+                    WorldWide People ";Nantes;12 mois; 400-500 €;04/02/2022;https://www.freelance-info.fr/mission/developpement-java-back-end-confirme-sophia-antipolis-1613969;['java', 'docker', 'maven', 'jira', 'oracle', 'confluence', 'anglais']
+211;developpeur-react-js-sophia-antipolis-1626794;"
+                    WorldWide People ";Nantes;12 mois; 400-500 €;04/02/2022;https://www.freelance-info.fr/mission/developpeur-react-js-sophia-antipolis-1626794;['agile']
+212;mission-d-architecture-cloud-confirme-toulouse-1652879;"
+                    WorldWide People ";Toulouse;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/mission-d-architecture-cloud-confirme-toulouse-1652879;['java', 'docker', 'agile', 'anglais', 'linux']
+213;developpeur-node-js-maitrise-angular-maitrise-1658177;"
+                    WorldWide People ";Toulouse;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-node-js-maitrise-angular-maitrise-1658177;['agile']
+214;administrateur-sccm-confirme-marseille-1658178;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/administrateur-sccm-confirme-marseille-1658178;['azure', 'python', 'itil', 'powershell']
+215;chef-de-projet-moe-nantes-experience-pilotage-projet-cout-delais-qualite-1657661;"
+                    WorldWide People ";Issy-les-Moulineaux;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-nantes-experience-pilotage-projet-cout-delais-qualite-1657661;['tableau', 'jira', 'kanban']
+216;application-developer-lyon-c-c-c-linux-embarque-temps-reel-ni-teststand-windows-bit-1657583;"
+                    WorldWide People ";Ivry-sur-Seine;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/application-developer-lyon-c-c-c-linux-embarque-temps-reel-ni-teststand-windows-bit-1657583;['modélisation', 'linux']
+217;developpeur-talend-lyon-1657585;"
+                    WorldWide People ";Ivry-sur-Seine;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-talend-lyon-1657585;['talend', ' sas']
+218;responsabilite-de-test-logiciel-lyon-1657587;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/responsabilite-de-test-logiciel-lyon-1657587;[' sas']
+219;developpeur-sap-abap-lyon-1657589;"
+                    WorldWide People ";Saint-Quentin;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-sap-abap-lyon-1657589;['jira', 'confluence', 'anglais', 'scrum']
+220;chef-de-projet-angers-java-ee-j-ee-application-management-1657576;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-angers-java-ee-j-ee-application-management-1657576;['java', 'oracle']
+221;scrum-master-leading-safe-nantes-1657579;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/scrum-master-leading-safe-nantes-1657579;['agile', 'kanban', 'scrum']
+222;ingenieur-de-production-olivet-linux-redhat-cent-os-ubuntu-si-possible-ad-windows-dns-1657571;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-olivet-linux-redhat-cent-os-ubuntu-si-possible-ad-windows-dns-1657571;['apache', 'scala', 'linux']
+223;developpeur-appian-1657376;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-appian-1657376;['java', 'github', 'jenkins', 'docker', 'sql', 'oracle', 'agile', 'modélisation', 'apache', 'tomcat', 'ldap', 'mysql', 'scrum', 'jboss', 'linux']
+224;administrateur-d-applications-hadoop-1657377;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/administrateur-d-applications-hadoop-1657377;['spark', 'hive', 'hadoop', 'agile', 'cloudera', 'cartographie', 'scrum', 'linux']
+225;ingenieur-test-qa-test-api-ans-1657368;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-qa-test-api-ans-1657368;['java', 'anglais']
+226;ingenieur-test-ans-1657369;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-ans-1657369;['anglais']
+227;technical-architect-profile-network-and-system-skills-firewall-management-security-ad-1657370;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/technical-architect-profile-network-and-system-skills-firewall-management-security-ad-1657370;[' sas']
+228;proxy-product-owner-finance-methodes-de-gestion-de-projet-cycle-v-agile-et-agilite-a-l-echelle-1657371;"
+                    WorldWide People ";Lyon;12 mois; 320-340 €;03/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-finance-methodes-de-gestion-de-projet-cycle-v-agile-et-agilite-a-l-echelle-1657371;['oracle', 'agile', 'scrum', 'scala']
+229;developpeurs-java-javascript-oriente-securite-nantes-1657372;"
+                    WorldWide People ";Lyon;12 mois; 320-340 €;03/02/2022;https://www.freelance-info.fr/mission/developpeurs-java-javascript-oriente-securite-nantes-1657372;['java', 'xray', 'sonar', 'sonarqube']
+230;developpeur-concepteur-confirme-java-script-shell-outils-d-integration-continue-gitlab-jenkins-1657373;"
+                    WorldWide People ";Lyon;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-concepteur-confirme-java-script-shell-outils-d-integration-continue-gitlab-jenkins-1657373;['java', 'gitlab', 'jenkins', 'maven', 'jira', 'agile', 'xray']
+231;expert-admin-oracle-cloud-infrastructure-nantes-possibilite-full-remote-1657374;"
+                    WorldWide People ";Lyon;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-admin-oracle-cloud-infrastructure-nantes-possibilite-full-remote-1657374;['oracle', 'anglais']
+232;business-analyst-agile-postman-bordeaux-1657077;"
+                    WorldWide People ";Paris;12 mois; 520-660 €;03/02/2022;https://www.freelance-info.fr/mission/business-analyst-agile-postman-bordeaux-1657077;['agile', ' sas']
+233;prestation-devops-developpement-type-back-java-spring-ops-ci-cd-jenkins-1657078;"
+                    WorldWide People ";Paris;12 mois; 520-660 €;03/02/2022;https://www.freelance-info.fr/mission/prestation-devops-developpement-type-back-java-spring-ops-ci-cd-jenkins-1657078;['java', 'jenkins', ' sas']
+234;developpeur-java-ee-j-ee-toulouse-1657067;"
+                    WorldWide People ";Clichy;10 mois; 400-530 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-ee-j-ee-toulouse-1657067;['talend', 'java', 'sql']
+235;developpeur-java-ee-j-ee-toulouse-1657069;"
+                    WorldWide People ";Clichy;10 mois; 400-530 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-ee-j-ee-toulouse-1657069;['java', 'ansible', 'sql', 'tomcat']
+236;technical-integrator-openstack-ansible-tower-linux-nantes-1657070;"
+                    WorldWide People ";Paris;6 mois; 370 €;03/02/2022;https://www.freelance-info.fr/mission/technical-integrator-openstack-ansible-tower-linux-nantes-1657070;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', 'linux']
+237;application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-1657072;"
+                    WorldWide People ";Paris;6 mois; 370 €;03/02/2022;https://www.freelance-info.fr/mission/application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-1657072;['java', 'sql', 'oracle', 'agile', 'scrum']
+238;application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-1657073;"
+                    WorldWide People ";Levallois-Perret;5 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-1657073;['java', 'sql', 'oracle', 'agile', 'scrum']
+239;technical-expert-oracle-cloud-machine-oracle-database-exadata-cloud-machine-lyon-ou-teletravail-1657075;"
+                    WorldWide People ";Levallois-Perret;5 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/technical-expert-oracle-cloud-machine-oracle-database-exadata-cloud-machine-lyon-ou-teletravail-1657075;['oracle']
+240;developpeur-java-ee-j-ee-toulouse-1657056;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-ee-j-ee-toulouse-1657056;['talend', 'java', 'sql', 'linux']
+241;responsable-qualite-toulouse-1657066;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/responsable-qualite-toulouse-1657066;[]
+242;application-developer-back-end-java-front-angular-un-contexte-full-agile-nantes-1656962;"
+                    WorldWide People ";Nantes;11 mois; 310-320 €;03/02/2022;https://www.freelance-info.fr/mission/application-developer-back-end-java-front-angular-un-contexte-full-agile-nantes-1656962;['java', 'aws', 'sql', 'gcp', 'api rest', 'agile', 'mysql', 'scrum']
+243;tech-lead-symfony-php-mysql-linux-teletravail-a-j-semaine-1656903;"
+                    WorldWide People ";Nantes;11 mois; 310-320 €;03/02/2022;https://www.freelance-info.fr/mission/tech-lead-symfony-php-mysql-linux-teletravail-a-j-semaine-1656903;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'jira', 'agile', 'confluence', 'apache', 'grafana', 'mysql', 'scrum', 'linux']
+244;chef-de-projet-senior-iam-vannes-1656905;"
+                    WorldWide People ";Sophia-Antipolis;12 mois; 350 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-senior-iam-vannes-1656905;['scrum']
+245;designer-senior-db-dl-vba-sante-j-sur-site-j-tt-1656900;"
+                    WorldWide People ";Sophia-Antipolis;12 mois; 350 €;03/02/2022;https://www.freelance-info.fr/mission/designer-senior-db-dl-vba-sante-j-sur-site-j-tt-1656900;['jira', 'db2', 'agile', 'confluence', 'vba', ' sas']
+246;designer-junior-xray-db-dl-cobol-vba-j-sur-site-j-tt-test-recette-design-recet-1656901;"
+                    WorldWide People ";Sophia-Antipolis;12 mois; 300-320 €;03/02/2022;https://www.freelance-info.fr/mission/designer-junior-xray-db-dl-cobol-vba-j-sur-site-j-tt-test-recette-design-recet-1656901;['jira', 'db2', 'agile', 'confluence', 'vba']
+247;developpeur-python-1656902;"
+                    WorldWide People ";Sophia-Antipolis;12 mois; 300-320 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1656902;['java', 'python', 'agile', 'modélisation']
+248;developpeur-java-jee-postgresql-jee-jpa-spring-mvc-nantes-1656781;"
+                    WorldWide People ";Ile de France;12 mois; 350 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-jee-postgresql-jee-jpa-spring-mvc-nantes-1656781;['java', 'sql', 'agile', 'postgresql']
+249;application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-1656782;"
+                    WorldWide People ";Ile de France;12 mois; 350 €;03/02/2022;https://www.freelance-info.fr/mission/application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-1656782;['java', 'sql', 'oracle', 'agile', 'scrum']
+250;chef-de-projet-c-php-logistique-1656783;"
+                    WorldWide People ";Culoz;10 mois; 400-430 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-c-php-logistique-1656783;[' sas']
+251;developpeur-full-stack-backend-orientedpython-aws-amazon-lambda-aws-amazon-s-aws-amazon-data-pipeli-1656784;"
+                    WorldWide People ";Culoz;10 mois; 400-430 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-backend-orientedpython-aws-amazon-lambda-aws-amazon-s-aws-amazon-data-pipeli-1656784;['java', 'aws', 'azure', 'python', 'sql', 'ci/cd', 'glue']
+252;chef-de-projet-senior-1656772;"
+                    WorldWide People ";Ile de France;5 mois; 350 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-senior-1656772;[]
+253;proxy-po-crm-1656773;"
+                    WorldWide People ";Ile de France;5 mois; 350 €;03/02/2022;https://www.freelance-info.fr/mission/proxy-po-crm-1656773;[]
+254;developpeur-php-zend-1656774;"
+                    WorldWide People ";Poitiers;5 mois; 300-320 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-php-zend-1656774;[' sas']
+255;developpeur-java-jsf-1656775;"
+                    WorldWide People ";Poitiers;5 mois; 300-320 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-java-jsf-1656775;['java', 'sql', 'jboss']
+256;developpeur-python-odoo-1656776;"
+                    WorldWide People ";Olivet;10 mois; 320 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-python-odoo-1656776;['python']
+257;tech-lead-java-jee-spring-struts-webservice-soap-rest-jsp-toulouse-1656777;"
+                    WorldWide People ";Olivet;10 mois; 320 €;03/02/2022;https://www.freelance-info.fr/mission/tech-lead-java-jee-spring-struts-webservice-soap-rest-jsp-toulouse-1656777;['java', 'jenkins', 'ansible', 'sql', 'oracle', 'linux']
+258;integrateur-css-sophia-antipolis-1656764;"
+                    WorldWide People ";Bezons;11 mois; 500-520 €;03/02/2022;https://www.freelance-info.fr/mission/integrateur-css-sophia-antipolis-1656764;['azure', 'anglais']
+259;integrateur-testeur-agile-testing-unix-tomcat-postgresql-sql-java-perl-scripting-sophia-a-1656765;"
+                    WorldWide People ";Bezons;11 mois; 500-520 €;03/02/2022;https://www.freelance-info.fr/mission/integrateur-testeur-agile-testing-unix-tomcat-postgresql-sql-java-perl-scripting-sophia-a-1656765;['java', 'sql', 'agile', 'tomcat', 'postgresql']
+260;developpement-java-back-end-sophia-antipolis-1656766;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpement-java-back-end-sophia-antipolis-1656766;['java', 'docker', 'maven', 'jira', 'oracle', 'confluence', 'anglais']
+261;developpement-front-end-angular-confirme-sophia-antipolis-1656767;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpement-front-end-angular-confirme-sophia-antipolis-1656767;['java', 'sql']
+262;developpeur-junior-c-anglais-courant-sophia-antipolis-1656768;"
+                    WorldWide People ";Bezons;5 mois; 480-520 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-junior-c-anglais-courant-sophia-antipolis-1656768;['java', 'python', 'sql', 'mongodb', 'linux']
+263;ingenieur-testeursql-linux-http-rest-xml-json-sophia-antipolis-1656769;"
+                    WorldWide People ";Bezons;5 mois; 480-520 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-testeursql-linux-http-rest-xml-json-sophia-antipolis-1656769;['sql', 'linux']
+264;data-engineer-ms-bi-azur-data-1656770;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/data-engineer-ms-bi-azur-data-1656770;['modélisation']
+265;application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-ou-teletravail-1656762;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/application-developer-php-oracle-sql-javascript-jquery-html-css-nantes-ou-teletravail-1656762;['java', 'sql', 'oracle', 'agile', 'scrum']
+266;chef-de-projet-elastic-search-elk-teletravail-j-semaine-1656363;"
+                    WorldWide People ";Lille;6 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-elastic-search-elk-teletravail-j-semaine-1656363;['elk', ' excel ']
+267;chef-de-projet-technique-support-itsm-itil-1656364;"
+                    WorldWide People ";Lille;6 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-support-itsm-itil-1656364;['itil', ' sas']
+268;developpeur-lead-front-node-react-1656365;"
+                    WorldWide People ";Lille;6 mois; 340-350 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-lead-front-node-react-1656365;['gitlab', 'jira', 'agile']
+269;data-scientist-infrastructure-r-et-python-1656366;"
+                    WorldWide People ";Lille;6 mois; 340-350 €;03/02/2022;https://www.freelance-info.fr/mission/data-scientist-infrastructure-r-et-python-1656366;[' r ', 'python', 'sql']
+270;data-scientist-statisticien-r-et-python-1656367;"
+                    WorldWide People ";Lille;6 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/data-scientist-statisticien-r-et-python-1656367;[' r ', 'python', 'sql', 'modélisation']
+271;expert-oracle-oci-confirme-ou-dba-avec-exadata-teletravail-1638271;"
+                    WorldWide People ";Lille;6 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/expert-oracle-oci-confirme-ou-dba-avec-exadata-teletravail-1638271;['oracle', 'anglais', ' sas']
+272;architecte-ref-technique-sql-oracle-postgresql-redmine-sciforma-1656276;"
+                    WorldWide People ";Lyon;6 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/architecte-ref-technique-sql-oracle-postgresql-redmine-sciforma-1656276;['java', 'sql', 'oracle', 'postgresql']
+273;lead-tech-java-sophia-antipolis-1656280;"
+                    WorldWide People ";Lyon;6 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/lead-tech-java-sophia-antipolis-1656280;['java', 'jenkins', 'kafka', 'maven', 'agile', 'modélisation', 'tomcat', 'scrum']
+274;release-manager-git-gitlab-jenkins-maven-nexus-sonarqube-sophia-antipolis-1656284;"
+                    WorldWide People ";Saint-Jean-de-Braye;12 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/release-manager-git-gitlab-jenkins-maven-nexus-sonarqube-sophia-antipolis-1656284;['gitlab', 'jenkins', 'docker', 'maven', 'jira', 'agile', 'sonar', 'sonarqube']
+275;testeur-homologateur-paiements-unitaires-gros-montants-systemes-organises-target-et-abe-1656263;"
+                    WorldWide People ";Saint-Jean-de-Braye;12 mois; 400-450 €;03/02/2022;https://www.freelance-info.fr/mission/testeur-homologateur-paiements-unitaires-gros-montants-systemes-organises-target-et-abe-1656263;['jira', 'xray']
+276;business-analyst-credit-bail-solution-cassiopae-1656264;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/business-analyst-credit-bail-solution-cassiopae-1656264;[]
+277;dev-big-data-pyspark-teletravail-1656270;"
+                    WorldWide People ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/dev-big-data-pyspark-teletravail-1656270;['java', 'github', 'jenkins', 'python', 'spark', 'hive', 'sql', 'hadoop', 'agile', 'scala']
+278;integrateur-testeur-agile-testing-notions-unix-tomcat-postgresql-sql-notions-java-perl-scri-1656271;"
+                    WorldWide People ";Paris;11 mois; 400-420 €;02/02/2022;https://www.freelance-info.fr/mission/integrateur-testeur-agile-testing-notions-unix-tomcat-postgresql-sql-notions-java-perl-scri-1656271;['java', 'sql', 'agile', 'tomcat', 'postgresql', ' sas']
+279;dev-devops-java-sophia-antipolis-1656273;"
+                    WorldWide People ";Paris;11 mois; 400-420 €;02/02/2022;https://www.freelance-info.fr/mission/dev-devops-java-sophia-antipolis-1656273;['java', 'gitlab', 'docker', 'maven', 'agile', 'sonar', 'scrum', 'sonarqube']
+280;chef-de-projet-monetique-1656261;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-monetique-1656261;['jira', ' bo ', 'agile']
+281;ingenieur-support-consultant-metier-business-analyst-1656262;"
+                    WorldWide People ";Nantes;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-consultant-metier-business-analyst-1656262;['powerbi', 'anglais', 'itil']
+282;scrum-master-sur-la-solution-web-nantes-1656003;"
+                    WorldWide People ";Aix-en-Provence;6 mois; 380-390 €;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-sur-la-solution-web-nantes-1656003;['agile', 'scrum']
+283;chef-de-projet-pilotage-du-run-nantes-1656004;"
+                    WorldWide People ";Aix-en-Provence;6 mois; 380-390 €;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-pilotage-du-run-nantes-1656004;[]
+284;developpement-java-back-end-nantes-1656005;"
+                    WorldWide People ";Toulouse;6 mois; 380 €;01/02/2022;https://www.freelance-info.fr/mission/developpement-java-back-end-nantes-1656005;['java', 'sql', 'agile', 'tomcat', 'mysql']
+285;developpement-angular-nantes-1656006;"
+                    WorldWide People ";Toulouse;6 mois; 380 €;01/02/2022;https://www.freelance-info.fr/mission/developpement-angular-nantes-1656006;['java', 'sql', 'agile', 'tomcat', 'mysql']
+286;chef-de-projet-po-nantes-1656007;"
+                    WorldWide People ";Paris;6 mois; 440-460 €;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-po-nantes-1656007;['agile', 'scrum']
+287;developpement-angular-nantes-1656008;"
+                    WorldWide People ";Paris;6 mois; 440-460 €;01/02/2022;https://www.freelance-info.fr/mission/developpement-angular-nantes-1656008;['java', 'sql', 'tomcat', 'mysql']
+288;integration-technique-nantes-1656009;"
+                    WorldWide People ";Paris;6 mois; 370-390 €;01/02/2022;https://www.freelance-info.fr/mission/integration-technique-nantes-1656009;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', 'linux']
+289;testeur-fonctionnel-en-environnement-agile-nantes-1656010;"
+                    WorldWide People ";Paris;6 mois; 370-390 €;01/02/2022;https://www.freelance-info.fr/mission/testeur-fonctionnel-en-environnement-agile-nantes-1656010;[]
+290;developpeur-rpa-python-nantes-1655992;"
+                    WorldWide People ";Paris;6 mois; 450 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-rpa-python-nantes-1655992;['jenkins', 'docker', 'python', 'agile']
+291;developpeur-java-angular-nantes-1655993;"
+                    WorldWide People ";Paris;6 mois; 450 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-nantes-1655993;['java', 'gitlab', 'docker', 'sql', 'oracle', 'postgresql', 'scrum', 'linux']
+292;developpeur-c-net-nantes-1655994;"
+                    WorldWide People ";Paris;6 mois; 400 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-c-net-nantes-1655994;['agile']
+293;administrateur-poste-de-travail-o-nantes-1655995;"
+                    WorldWide People ";Paris;6 mois; 400 €;01/02/2022;https://www.freelance-info.fr/mission/administrateur-poste-de-travail-o-nantes-1655995;[]
+294;lead-technique-java-angular-nantes-1655996;"
+                    WorldWide People ";Paris;6 mois; 580-660 €;01/02/2022;https://www.freelance-info.fr/mission/lead-technique-java-angular-nantes-1655996;['java', 'docker', 'springboot']
+295;pilotage-de-projet-modernisation-communications-sortantes-nantes-1655997;"
+                    WorldWide People ";Paris;6 mois; 580-660 €;01/02/2022;https://www.freelance-info.fr/mission/pilotage-de-projet-modernisation-communications-sortantes-nantes-1655997;[]
+296;product-owner-gestion-des-messages-sortants-au-sein-d-une-equipe-agile-nantes-1655998;"
+                    WorldWide People ";Courbevoie;11 mois; 400-420 €;01/02/2022;https://www.freelance-info.fr/mission/product-owner-gestion-des-messages-sortants-au-sein-d-une-equipe-agile-nantes-1655998;['java']
+297;pilotage-tests-nantes-1655999;"
+                    WorldWide People ";Courbevoie;11 mois; 400-420 €;01/02/2022;https://www.freelance-info.fr/mission/pilotage-tests-nantes-1655999;['tableau', 'tableaux de bord']
+298;developpement-fullstack-angular-nodejs-1656000;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpement-fullstack-angular-nodejs-1656000;['java', 'sql', 'oracle', 'tomcat', 'mysql']
+299;ingenierie-de-production-linux-redhat-cent-os-ubuntu-si-possible-ad-windows-dns-olivet-1656001;"
+                    WorldWide People ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenierie-de-production-linux-redhat-cent-os-ubuntu-si-possible-ad-windows-dns-olivet-1656001;['apache', 'scala', 'linux']
+300;technical-integrator-systeme-linux-unix-bdd-postgresql-mysql-nantes-1656002;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/technical-integrator-systeme-linux-unix-bdd-postgresql-mysql-nantes-1656002;['java', 'jenkins', 'aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'ci/cd', 'apache', 'tomcat', 'postgresql', 'mysql', 'linux']
+301;expertise-windows-build-et-mco-nantes-1655990;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/expertise-windows-build-et-mco-nantes-1655990;['agile']
+302;pilotage-technique-windows-build-et-mco-nantes-1655991;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; 300-330 €;31/01/2022;https://www.freelance-info.fr/mission/pilotage-technique-windows-build-et-mco-nantes-1655991;['agile']
+303;data-engineer-azure-devops-1655956;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; 300-330 €;31/01/2022;https://www.freelance-info.fr/mission/data-engineer-azure-devops-1655956;['azure']
+304;testeur-technique-mois-nantes-outils-selenium-web-driver-jenkins-docker-java-jee-sql-eclipse-1655888;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/testeur-technique-mois-nantes-outils-selenium-web-driver-jenkins-docker-java-jee-sql-eclipse-1655888;['java', 'jenkins', 'docker', 'sql', 'oracle', 'ldap', 'linux']
+305;developpeur-python-django-javascript-de-ans-1651047;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/developpeur-python-django-javascript-de-ans-1651047;[' sas']
+306;developpeur-java-back-end-toulouse-1655699;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/developpeur-java-back-end-toulouse-1655699;['talend', 'java', 'sql']
+307;developpeur-experimente-python-et-framework-django-sql-sous-postgresql-1633041;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/developpeur-experimente-python-et-framework-django-sql-sous-postgresql-1633041;['python', 'sql', ' sas']
+308;administrateur-oci-sysops-administrator-1636046;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/administrateur-oci-sysops-administrator-1636046;['oracle', 'anglais', ' sas']
+309;expert-oracle-oci-confirme-ou-dba-avec-exadata-teletravail-1643212;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/expert-oracle-oci-confirme-ou-dba-avec-exadata-teletravail-1643212;['oracle', 'anglais']
+310;testeur-fonctionnel-nantes-1655174;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; 330 €;31/01/2022;https://www.freelance-info.fr/mission/testeur-fonctionnel-nantes-1655174;['agile']
+311;concepteur-developpeur-java-angular-senior-nantes-1655175;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; 330 €;31/01/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-java-angular-senior-nantes-1655175;['java', 'gitlab', 'docker', 'sql', 'oracle', 'postgresql', 'scrum', 'linux']
+312;product-owner-communications-sortantes-senior-po-protocole-de-securisation-des-donnees-sensibles-1655166;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/product-owner-communications-sortantes-senior-po-protocole-de-securisation-des-donnees-sensibles-1655166;['java', 'api rest', 'agile']
+313;chef-de-projet-communications-sortantes-nantes-1655167;"
+                    WorldWide People ";Sophia-Antipolis;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-communications-sortantes-nantes-1655167;[]
+314;admin-integrateur-poste-de-travail-nantes-1655168;"
+                    WorldWide People ";Cergy;6 mois; 400-500 €;31/01/2022;https://www.freelance-info.fr/mission/admin-integrateur-poste-de-travail-nantes-1655168;[]
+315;tech-lead-java-angular-nantes-1655169;"
+                    WorldWide People ";Cergy;6 mois; 400-500 €;31/01/2022;https://www.freelance-info.fr/mission/tech-lead-java-angular-nantes-1655169;['java', 'docker', 'springboot']
+316;developpeur-fullstack-angular-nodejs-1655170;"
+                    WorldWide People ";Toulouse;6 mois; 330-350 €;31/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-angular-nodejs-1655170;['java', 'sql', 'oracle', 'tomcat', 'mysql']
+317;scrum-master-confirme-senior-nantes-1655171;"
+                    WorldWide People ";Toulouse;6 mois; 330-350 €;31/01/2022;https://www.freelance-info.fr/mission/scrum-master-confirme-senior-nantes-1655171;['java', 'agile', 'scrum']
+318;pilotage-de-tests-nantes-1655163;"
+                    WorldWide People ";Vannes;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/pilotage-de-tests-nantes-1655163;['tableau', 'tableaux de bord']
+319;chef-de-projet-confirme-connaissance-fonctionnelle-m-1655165;"
+                    WorldWide People ";Vannes;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-confirme-connaissance-fonctionnelle-m-1655165;[]

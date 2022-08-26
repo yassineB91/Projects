@@ -1,0 +1,501 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;des-architectes-chefs-de-projets-as-rpg-sur-lyon-1666733;"
+                    Almatek ";Lyon;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/des-architectes-chefs-de-projets-as-rpg-sur-lyon-1666733;[]
+1;des-developpeurs-as-rpg-sur-lille-1666730;"
+                    Almatek ";Lyon;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-as-rpg-sur-lille-1666730;[]
+2;un-expert-administration-o-sur-saint-quentin-en-yvelines-1666665;"
+                    Almatek ";Lyon;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-expert-administration-o-sur-saint-quentin-en-yvelines-1666665;['powerbi', 'azure', 'anglais', 'powershell']
+3;un-lead-dev-python-ayant-des-connaissances-sur-java-jee-en-teletravail-1666662;"
+                    Almatek ";Lyon;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-lead-dev-python-ayant-des-connaissances-sur-java-jee-en-teletravail-1666662;['java', 'gitlab', 'python', 'ci/cd', 'sonar']
+4;un-developpeur-senior-mainframe-sur-massy-1666659;"
+                    Almatek ";Saint-Quentin;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-senior-mainframe-sur-massy-1666659;['talend', 'java']
+5;un-developpeur-as-adelia-iseries-sur-strasbourg-1666656;"
+                    Almatek ";Saint-Quentin;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-as-adelia-iseries-sur-strasbourg-1666656;[]
+6;des-developpeur-embarque-c-c-sur-moselle-1666652;"
+                    Almatek ";Plessis-Robinson (Le);3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/des-developpeur-embarque-c-c-sur-moselle-1666652;[]
+7;un-developpeur-experimente-apriso-sur-paris-1666634;"
+                    Almatek ";Plessis-Robinson (Le);3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-experimente-apriso-sur-paris-1666634;[]
+8;un-developpeur-confirme-sinequa-sur-nanterre-1666623;"
+                    Almatek ";Massy;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-confirme-sinequa-sur-nanterre-1666623;['java', 'github', 'jenkins', 'api rest', 'jira', 'agile', 'confluence']
+9;un-scrum-master-sur-saint-quentin-en-yvelines-1666622;"
+                    Almatek ";Massy;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-scrum-master-sur-saint-quentin-en-yvelines-1666622;['java', 'agile', 'scrum']
+10;un-developpeur-python-sur-toulouse-1666619;"
+                    Almatek ";Strasbourg;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-python-sur-toulouse-1666619;['aws', 'python', 'sql', 'api rest', 'agile', 'anglais', 'mysql']
+11;architecte-vmware-senior-sur-paris-1666610;"
+                    Almatek ";Strasbourg;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-vmware-senior-sur-paris-1666610;['gitlab', 'terraform', 'powershell']
+12;un-ingenieur-reseau-securite-f-apm-palo-alto-sur-paris-1666529;"
+                    Almatek ";Moselle;18 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-reseau-securite-f-apm-palo-alto-sur-paris-1666529;[]
+13;un-administrateur-bases-de-donnees-sybase-sur-paris-1666518;"
+                    Almatek ";Moselle;18 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-administrateur-bases-de-donnees-sybase-sur-paris-1666518;['sql', 'oracle', 'postgresql', 'cartographie', 'scala', ' sas']
+14;un-ingenieur-active-directory-sur-saint-ouen-1666517;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-active-directory-sur-saint-ouen-1666517;['anglais']
+15;un-power-bi-data-sur-issy-les-moulineaux-1666497;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-power-bi-data-sur-issy-les-moulineaux-1666497;['tableau', 'agile', 'confluence']
+16;un-business-analyst-projet-green-it-sur-paris-1664162;"
+                    Almatek ";Nanterre;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-business-analyst-projet-green-it-sur-paris-1664162;[]
+17;un-admin-base-de-donnees-sur-ivry-1664165;"
+                    Almatek ";Nanterre;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-admin-base-de-donnees-sur-ivry-1664165;['modélisation']
+18;un-dba-etude-confirme-sur-paris-1664172;"
+                    Almatek ";Saint-Quentin;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-dba-etude-confirme-sur-paris-1664172;['sql', 'db2', 'mysql', 'linux']
+19;un-directeur-de-projet-po-sur-guyancourt-1664144;"
+                    Almatek ";Saint-Quentin;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-directeur-de-projet-po-sur-guyancourt-1664144;['agile']
+20;un-chef-de-projet-sirh-sur-paris-1664116;"
+                    Almatek ";Toulouse;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-sirh-sur-paris-1664116;[]
+21;un-consultant-ux-ui-designer-1664111;"
+                    Almatek ";Toulouse;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-consultant-ux-ui-designer-1664111;[]
+22;un-po-ba-confirme-sur-rennes-1666312;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-po-ba-confirme-sur-rennes-1666312;['java', 'sql', 'jira', 'oracle', 'agile', 'xray', 'anglais', 'postgresql', 'mysql', 'scrum']
+23;un-product-owner-sur-issy-les-moulineaux-1666273;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-product-owner-sur-issy-les-moulineaux-1666273;['anglais']
+24;un-chef-de-projet-technico-fonctionnel-sur-guyancourt-1666271;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-technico-fonctionnel-sur-guyancourt-1666271;['anglais']
+25;un-architecte-solution-microsoft-m-azure-sur-la-defense-1666268;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-architecte-solution-microsoft-m-azure-sur-la-defense-1666268;['anglais']
+26;un-ingenieur-de-production-vmware-sur-paris-1666258;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-de-production-vmware-sur-paris-1666258;[]
+27;un-chapter-lead-developpement-sur-issy-les-moulineaux-1666256;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-chapter-lead-developpement-sur-issy-les-moulineaux-1666256;['java', 'kafka', 'docker', 'sql', 'agile', 'mysql', 'mongodb']
+28;un-architect-logiciel-applicatif-sur-paris-e-1666247;"
+                    Almatek ";Saint-Ouen;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-architect-logiciel-applicatif-sur-paris-e-1666247;['tableau', 'kafka', 'sql', 'mongodb', 'salesforce']
+29;un-lead-devops-build-sur-issy-les-moulineaux-1666246;"
+                    Almatek ";Saint-Ouen;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-lead-devops-build-sur-issy-les-moulineaux-1666246;['java', 'gitlab', 'jenkins', 'kafka', 'docker', 'ansible', 'sql', 'jira', 'confluence', 'sonar', 'apache', 'logstash', 'ldap', 'mysql', 'mongodb', 'linux']
+30;un-ingenieur-support-exploitation-sur-issy-les-moulineaux-1666244;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-support-exploitation-sur-issy-les-moulineaux-1666244;['python', 'sql', 'ldap']
+31;un-consultant-qlikview-sur-paris-1666239;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-consultant-qlikview-sur-paris-1666239;['qlik', 'talend', 'modélisation']
+32;un-developpeur-c-c-sur-sophia-antipolis-1664026;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-c-c-sur-sophia-antipolis-1664026;[]
+33;un-developpeur-sharepoint-en-remote-1663983;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-sharepoint-en-remote-1663983;[]
+34;des-developpeur-java-backend-sur-paris-1663995;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/des-developpeur-java-backend-sur-paris-1663995;['java']
+35;un-chef-de-projet-business-analyst-sur-saint-quentin-en-yveline-1663979;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-business-analyst-sur-saint-quentin-en-yveline-1663979;['agile']
+36;un-integrateur-java-sur-toulouse-1663908;"
+                    Almatek ";Paris;1 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-integrateur-java-sur-toulouse-1663908;['java', 'tomcat', 'jboss', 'linux']
+37;un-product-owner-ayant-un-anglais-courant-sur-issy-les-moulineaux-1663781;"
+                    Almatek ";Paris;1 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-product-owner-ayant-un-anglais-courant-sur-issy-les-moulineaux-1663781;[' sas']
+38;un-business-analyste-technique-api-sur-la-defense-1665983;"
+                    Almatek ";Guyancourt;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-business-analyste-technique-api-sur-la-defense-1665983;[]
+39;un-chef-de-projet-migration-ged-sur-la-defense-1665964;"
+                    Almatek ";Guyancourt;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-migration-ged-sur-la-defense-1665964;['agile', 'anglais']
+40;un-developpeur-c-sur-paris-1665911;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-developpeur-c-sur-paris-1665911;[]
+41;un-coordinateur-chef-de-projet-sirh-sur-noisiel-1665854;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-coordinateur-chef-de-projet-sirh-sur-noisiel-1665854;[]
+42;un-program-manager-bilingue-sur-rueil-malmaison-1665850;"
+                    Almatek ";Télétravail;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-program-manager-bilingue-sur-rueil-malmaison-1665850;['azure', 'jira', 'terraform', 'powershell']
+43;un-pmo-sur-ivry-1665827;"
+                    Almatek ";Télétravail;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-pmo-sur-ivry-1665827;['tableau', 'agile']
+44;un-ingenieur-de-production-control-m-sur-paris-1663601;"
+                    Almatek ";Rennes;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-de-production-control-m-sur-paris-1663601;[]
+45;un-developpeur-cobol-sur-lille-1663514;"
+                    Almatek ";Rennes;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-developpeur-cobol-sur-lille-1663514;['agile']
+46;un-developpeur-mainframe-cobol-confirme-sur-paris-1663486;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-developpeur-mainframe-cobol-confirme-sur-paris-1663486;['java']
+47;un-expert-sccm-sur-guyancourt-1663461;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-expert-sccm-sur-guyancourt-1663461;['anglais', 'scala', 'powershell']
+48;un-developpeur-salesforce-sur-paris-1665721;"
+                    Almatek ";Guyancourt;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-developpeur-salesforce-sur-paris-1665721;[]
+49;un-developpeur-drupal-sur-lille-1665714;"
+                    Almatek ";Guyancourt;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-developpeur-drupal-sur-lille-1665714;[]
+50;un-testeur-technique-sur-la-region-parisienne-1665710;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-testeur-technique-sur-la-region-parisienne-1665710;['sql', 'linux']
+51;un-analyste-technique-sur-la-region-parisienne-1665708;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-analyste-technique-sur-la-region-parisienne-1665708;['sql', 'linux']
+52;un-architecte-reseau-sur-la-region-parisienne-1665706;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-architecte-reseau-sur-la-region-parisienne-1665706;['gitlab', 'tableau', 'python', 'linux']
+53;un-chef-de-projet-bi-sur-montpellier-1665503;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-bi-sur-montpellier-1665503;['sql', 'scrum']
+54;un-ingenieur-reseaux-securite-sur-paris-1665413;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-reseaux-securite-sur-paris-1665413;['itil', 'linux']
+55;des-developpeurs-j-e-react-sur-la-region-parisienne-1665412;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-j-e-react-sur-la-region-parisienne-1665412;['java']
+56;un-integrateur-java-linux-sur-lyon-1665390;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-integrateur-java-linux-sur-lyon-1665390;['java', 'jenkins', 'oracle', 'tomcat']
+57;des-developpeurs-python-sur-la-region-parisienne-1665387;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-python-sur-la-region-parisienne-1665387;['python', 'linux']
+58;un-chef-de-projet-virtualisation-sur-paris-1665385;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-virtualisation-sur-paris-1665385;['agile', 'terraform', ' sas']
+59;un-ingenieur-reseaux-securite-sur-paris-1643562;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-reseaux-securite-sur-paris-1643562;['itil', 'linux']
+60;un-developpeur-j-e-front-sur-toulouse-1665384;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-developpeur-j-e-front-sur-toulouse-1665384;['java', ' git ']
+61;un-developpeur-pl-sql-sur-noisy-le-grand-1665379;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-developpeur-pl-sql-sur-noisy-le-grand-1665379;['sql']
+62;un-administrateur-systeme-devops-sur-gennevilliers-1665376;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-administrateur-systeme-devops-sur-gennevilliers-1665376;['jenkins', 'ansible', 'jira', 'agile', 'terraform', 'sonar', 'itil', 'sonarqube', 'linux']
+63;un-ingenieur-middleware-sur-annecy-1665375;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-middleware-sur-annecy-1665375;['ansible', 'sql', 'apache', 'tomcat', 'mysql']
+64;un-ingenieur-devops-sur-noisy-le-grand-1665371;"
+                    Almatek ";Sophia-Antipolis;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-devops-sur-noisy-le-grand-1665371;['gitlab', 'docker', 'python', 'ci/cd', 'linux']
+65;un-expert-java-scala-sur-noisy-le-grand-1665310;"
+                    Almatek ";Sophia-Antipolis;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-expert-java-scala-sur-noisy-le-grand-1665310;['java', 'scala']
+66;un-chef-de-projet-service-management-reseau-sur-paris-1665308;"
+                    Almatek ";Molsheim;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-service-management-reseau-sur-paris-1665308;['itil']
+67;un-testeur-integrateur-sur-nantes-1665264;"
+                    Almatek ";Molsheim;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-testeur-integrateur-sur-nantes-1665264;['sql']
+68;un-chef-de-projet-gcp-data-analyst-sur-la-region-parisienne-1665229;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-gcp-data-analyst-sur-la-region-parisienne-1665229;['powerbi', 'data lake', 'sql', 'gcp', 'agile', 'modélisation']
+69;un-ingenieur-d-etude-unix-shell-sql-sur-ivry-1665228;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-d-etude-unix-shell-sql-sur-ivry-1665228;['sql', 'jira', 'cartographie']
+70;un-architecte-cloud-certifies-gcp-sur-plessis-robinson-1665226;"
+                    Almatek ";Yvelines;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-architecte-cloud-certifies-gcp-sur-plessis-robinson-1665226;['gcp', ' sas']
+71;un-data-analyst-gcp-developpeur-sql-sur-aubervilliers-1665224;"
+                    Almatek ";Yvelines;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-data-analyst-gcp-developpeur-sql-sur-aubervilliers-1665224;['powerbi', 'data lake', 'sql', 'gcp', 'agile', 'modélisation', ' sas']
+72;un-chef-de-projet-moe-confirme-sur-saint-etienne-1663229;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-moe-confirme-sur-saint-etienne-1663229;['api rest', 'jira', 'confluence']
+73;un-ingenieur-de-production-vmware-sur-paris-1665059;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-de-production-vmware-sur-paris-1665059;[]
+74;un-testeur-qa-automaticien-agile-senior-sur-issy-les-moulineaux-1665026;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-testeur-qa-automaticien-agile-senior-sur-issy-les-moulineaux-1665026;['azure', 'ci/cd', 'jira', 'agile', 'anglais', ' sas']
+75;un-business-analyste-appui-aux-ppo-po-sur-paris-1665025;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-business-analyste-appui-aux-ppo-po-sur-paris-1665025;['sql', 'agile', 'scrum']
+76;un-developpeur-mainframe-cobol-confirme-sur-villejuif-1664980;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-mainframe-cobol-confirme-sur-villejuif-1664980;['db2']
+77;un-consultant-primavera-sur-issy-les-moulineaux-saint-ouen-1664932;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-consultant-primavera-sur-issy-les-moulineaux-saint-ouen-1664932;[]
+78;un-developpeur-bi-sql-sur-paris-1662816;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-bi-sql-sur-paris-1662816;[' ssis']
+79;un-developpeur-php-symfony-sur-macon-1662817;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-php-symfony-sur-macon-1662817;[]
+80;un-directeur-de-projet-pour-gerer-l-obsolescence-oracle-sur-saint-quentin-en-yvelines-1662705;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-directeur-de-projet-pour-gerer-l-obsolescence-oracle-sur-saint-quentin-en-yvelines-1662705;['anglais', ' sas']
+81;un-chef-de-projet-senior-demenagement-sur-montrouge-1662706;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-senior-demenagement-sur-montrouge-1662706;[' sas']
+82;un-consultant-sas-qlik-sense-sur-ivry-sur-seine-1662684;"
+                    Almatek ";Noisiel;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-consultant-sas-qlik-sense-sur-ivry-sur-seine-1662684;['qlik', 'jira', 'agile', ' sas', 'linux']
+83;un-expert-couchbase-sur-montpellier-1662674;"
+                    Almatek ";Noisiel;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-expert-couchbase-sur-montpellier-1662674;[' sas']
+84;un-chef-de-projet-cybersecurite-sur-guyancourt-1662675;"
+                    Almatek ";Rueil-Malmaison;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-cybersecurite-sur-guyancourt-1662675;['anglais']
+85;un-developpeur-front-vue-js-sur-issy-les-moulineaux-1664757;"
+                    Almatek ";Rueil-Malmaison;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-front-vue-js-sur-issy-les-moulineaux-1664757;['gitlab', 'agile', ' sas']
+86;un-developpeur-php-symfony-sur-saint-quentin-en-yvelines-1664752;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-php-symfony-sur-saint-quentin-en-yvelines-1664752;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'jira', 'agile', 'confluence', 'apache', 'grafana', 'mysql', 'scrum', ' sas', 'linux']
+87;un-tech-lead-php-symfony-sur-saint-quentin-en-yvelines-1664747;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-tech-lead-php-symfony-sur-saint-quentin-en-yvelines-1664747;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'jira', 'agile', 'confluence', 'grafana', 'mysql', 'scrum', 'linux']
+88;un-manager-it-sur-paris-1664732;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-manager-it-sur-paris-1664732;[]
+89;un-agiliste-scrum-master-sur-issy-les-moulineaux-1664725;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-agiliste-scrum-master-sur-issy-les-moulineaux-1664725;['agile', 'kanban', 'scrum']
+90;un-technicien-support-sur-hambach-1664721;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-technicien-support-sur-hambach-1664721;['python', 'powershell']
+91;un-expert-technique-production-sur-ivry-1664719;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-expert-technique-production-sur-ivry-1664719;['sql', 'db2', 'oracle']
+92;deux-consultans-salesforce-sur-la-defense-1664533;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/deux-consultans-salesforce-sur-la-defense-1664533;['anglais', 'salesforce']
+93;un-business-analyst-confirme-banque-sur-paris-1664527;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-business-analyst-confirme-banque-sur-paris-1664527;['jira', 'modélisation']
+94;un-consultant-data-senior-specialise-ssis-sur-nantes-1662537;"
+                    Almatek ";Guyancourt;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-consultant-data-senior-specialise-ssis-sur-nantes-1662537;['sql', 'datawarehouse', 'jira', ' ssis']
+95;des-developpeurs-java-typescript-vue-js-sur-la-region-parisienne-1662353;"
+                    Almatek ";Guyancourt;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-java-typescript-vue-js-sur-la-region-parisienne-1662353;['java', 'gitlab', 'docker', 'sql', 'ci/cd', 'agile', 'springboot', 'scrum']
+96;un-developpeur-j-e-sur-bordeaux-1662331;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-j-e-sur-bordeaux-1662331;['java', 'sql', 'springboot']
+97;un-developpeur-j-e-front-sur-toulouse-1664217;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-j-e-front-sur-toulouse-1664217;['java', ' git ']
+98;un-developpeur-expert-front-end-angular-sur-paris-1664177;"
+                    Almatek ";Lille;6 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-expert-front-end-angular-sur-paris-1664177;['java', ' git ', 'jenkins', 'kafka', 'docker', 'sql', 'api rest', 'jira', 'agile', 'sonar', 'modélisation', 'springboot', 'mysql', 'scrum', 'sonarqube', 'linux']
+99;un-designer-ux-sur-saint-quentin-en-yvelines-1664171;"
+                    Almatek ";Lille;6 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/un-designer-ux-sur-saint-quentin-en-yvelines-1664171;['agile', 'scrum']
+100;un-developpeur-drupal-sur-lille-1662058;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-developpeur-drupal-sur-lille-1662058;[]
+101;un-integrateur-apim-sur-la-region-parisienne-1662061;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-integrateur-apim-sur-la-region-parisienne-1662061;[' git ', 'jenkins', 'ansible', 'ci/cd', 'linux']
+102;des-developpeurs-python-sur-la-region-parisienne-1662062;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-python-sur-la-region-parisienne-1662062;['jenkins', 'python']
+103;un-qlik-data-integrator-full-teletravail-1661979;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-qlik-data-integrator-full-teletravail-1661979;['qlik', 'snowflake', 'scrum']
+104;deux-data-engineer-senior-sur-paris-1661944;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/deux-data-engineer-senior-sur-paris-1661944;['powerbi', 'azure', 'sql']
+105;un-integrateur-dynamics-senior-sur-paris-1661946;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/un-integrateur-dynamics-senior-sur-paris-1661946;['azure', 'agile']
+106;un-po-run-cloud-publique-sur-le-1661878;"
+                    Almatek ";Montpellier;2 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-po-run-cloud-publique-sur-le-1661878;['aws', 'azure', 'gcp', ' sas']
+107;un-technicien-ordonnanceur-horaires-x-sur-saint-nazaire-1661757;"
+                    Almatek ";Montpellier;2 années; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-technicien-ordonnanceur-horaires-x-sur-saint-nazaire-1661757;[]
+108;un-leader-technique-chef-de-projet-technique-php-sur-la-region-parisienne-1661749;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-leader-technique-chef-de-projet-technique-php-sur-la-region-parisienne-1661749;[' sas']
+109;un-technicien-ou-ingenieur-ordonnanceur-horaires-journee-sur-saint-nazaire-1661754;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-technicien-ou-ingenieur-ordonnanceur-horaires-journee-sur-saint-nazaire-1661754;[' sas']
+110;un-ingenieur-devops-azure-bilingue-sur-rueil-malmaison-1661725;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-devops-azure-bilingue-sur-rueil-malmaison-1661725;['azure', 'ci/cd', 'terraform', 'powershell']
+111;un-developpeur-cloud-confirme-sur-le-1661726;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-cloud-confirme-sur-le-1661726;['azure', 'datawarehouse', ' sas']
+112;un-consultant-talend-sur-paris-1661715;"
+                    Almatek ";Lyon;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-consultant-talend-sur-paris-1661715;['talend', ' git ', 'azure', 'anglais', 'salesforce']
+113;un-lead-tech-big-data-scala-en-remote-1661687;"
+                    Almatek ";Lyon;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-lead-tech-big-data-scala-en-remote-1661687;['spark', 'hive', 'sql', 'hadoop', 'cloudera', 'scala', ' sas']
+114;un-pmo-certifie-itil-et-prince-sur-issy-les-moulineaux-1661454;"
+                    Almatek ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-pmo-certifie-itil-et-prince-sur-issy-les-moulineaux-1661454;['itil']
+115;un-analystes-test-fonctionnel-moa-sur-lille-1663552;"
+                    Almatek ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-analystes-test-fonctionnel-moa-sur-lille-1663552;['java', ' sas']
+116;un-scrum-master-safe-sur-lille-teletravail-possible-1663551;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-scrum-master-safe-sur-lille-teletravail-possible-1663551;[' sas']
+117;un-business-analyst-sur-lille-1663550;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-business-analyst-sur-lille-1663550;[]
+118;un-developpeur-java-sur-lille-1663547;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-java-sur-lille-1663547;['agile', ' sas']
+119;un-consultant-support-n-sur-toulouse-1663520;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-consultant-support-n-sur-toulouse-1663520;['sql', 'scala']
+120;un-data-engineer-senior-sur-paris-1662887;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-data-engineer-senior-sur-paris-1662887;['sql', 'modélisation', 'mariadb', ' sas']
+121;un-ingenieur-de-production-control-m-sur-paris-1660548;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-de-production-control-m-sur-paris-1660548;[' sas']
+122;un-developpeur-net-angular-react-sur-neuilly-marne-1660527;"
+                    Almatek ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-net-angular-react-sur-neuilly-marne-1660527;['sql', 'api rest', 'oracle', 'agile']
+123;un-chef-de-projet-fonctionnel-metier-sur-le-1660473;"
+                    Almatek ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-fonctionnel-metier-sur-le-1660473;[]
+124;un-po-ott-sur-issy-les-moulineaux-1660294;"
+                    Almatek ";Gennevilliers;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-po-ott-sur-issy-les-moulineaux-1660294;['jira']
+125;un-consultant-workday-junior-sur-boulogne-billancourt-1659892;"
+                    Almatek ";Gennevilliers;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-consultant-workday-junior-sur-boulogne-billancourt-1659892;['jira', ' sas']
+126;un-developpeur-sharepoint-en-remote-1659767;"
+                    Almatek ";Annecy;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-sharepoint-en-remote-1659767;[]
+127;un-responsable-projet-bilingue-sur-saint-etienne-1661544;"
+                    Almatek ";Annecy;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-responsable-projet-bilingue-sur-saint-etienne-1661544;[]
+128;un-technicien-support-poste-de-travail-sur-noisy-le-grand-1661541;"
+                    Almatek ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-technicien-support-poste-de-travail-sur-noisy-le-grand-1661541;['vpn']
+129;un-tech-lead-mobile-font-end-bilingue-sur-issy-les-moulineaux-1659584;"
+                    Almatek ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-tech-lead-mobile-font-end-bilingue-sur-issy-les-moulineaux-1659584;['anglais']
+130;un-business-analyst-senior-sur-la-defense-1659464;"
+                    Almatek ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-business-analyst-senior-sur-la-defense-1659464;['jira', 'db2', 'agile', 'confluence', 'vba']
+131;un-developpeur-websphere-sur-pantin-1659433;"
+                    Almatek ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-websphere-sur-pantin-1659433;['sql', 'oracle', 'modélisation', 'anglais', 'linux']
+132;un-developpeur-drupal-sur-paris-1659422;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-drupal-sur-paris-1659422;[]
+133;des-developpeurs-front-end-senior-sur-paris-1659423;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-front-end-senior-sur-paris-1659423;['java']
+134;un-administrateur-systeme-sur-nantes-1659407;"
+                    Almatek ";Nantes;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-administrateur-systeme-sur-nantes-1659407;['jenkins', 'puppet', 'apache', 'itil', 'ldap', 'scrum', 'powershell']
+135;leader-fonctionnel-salesforce-sur-paris-1660981;"
+                    Almatek ";Nantes;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/leader-fonctionnel-salesforce-sur-paris-1660981;['agile']
+136;chef-de-projet-sdd-securite-de-la-data-sur-ivry-sur-seine-ou-bordeaux-1660976;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sdd-securite-de-la-data-sur-ivry-sur-seine-ou-bordeaux-1660976;[' sas']
+137;un-ingenieur-exploitation-vtom-sur-roanne-ou-versailles-1660973;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-exploitation-vtom-sur-roanne-ou-versailles-1660973;['sql', 'oracle', 'linux']
+138;un-technicien-cao-sur-merignac-1658755;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-technicien-cao-sur-merignac-1658755;[]
+139;un-lead-tech-fullstack-sur-issy-les-moulineaux-1658726;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-lead-tech-fullstack-sur-issy-les-moulineaux-1658726;[]
+140;un-developpeur-itx-wtx-sur-paris-1658636;"
+                    Almatek ";Plessis-Robinson (Le);3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-itx-wtx-sur-paris-1658636;['sql', 'anglais']
+141;un-consultant-sap-mm-sur-boulogne-billancourt-1660651;"
+                    Almatek ";Plessis-Robinson (Le);3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-consultant-sap-mm-sur-boulogne-billancourt-1660651;[]
+142;un-chef-de-projet-po-sap-fi-sur-boulogne-billancourt-1660650;"
+                    Almatek ";Aubervilliers;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-po-sap-fi-sur-boulogne-billancourt-1660650;[' sas']
+143;un-ingenieur-monitoring-connaissant-dynatrace-sur-paris-1660633;"
+                    Almatek ";Aubervilliers;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-monitoring-connaissant-dynatrace-sur-paris-1660633;['tableau', 'elk', 'anglais', 'tableaux de bord', ' sas', 'linux']
+144;un-po-ayant-une-experience-en-iam-1660590;"
+                    Almatek ";Saint-Étienne;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/un-po-ayant-une-experience-en-iam-1660590;['agile']
+145;des-developpeurs-stambia-en-remote-1660575;"
+                    Almatek ";Saint-Étienne;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-stambia-en-remote-1660575;[]
+146;un-scrum-master-sur-issy-les-moulineaux-1660574;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-scrum-master-sur-issy-les-moulineaux-1660574;[' sas']
+147;un-support-aws-sysops-sur-lille-ou-paris-1660536;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-support-aws-sysops-sur-lille-ou-paris-1660536;['talend', ' git ', 'github', 'jenkins', 'aws', 'kafka', 'docker', 'ansible', ' r ', 'python', 'spark', 'hive', 'sql', 'gcp', 'airflow', 'hadoop', 'bigquery', 'redshift', 'terraform', 'anglais', 'linux']
+148;un-ingenieur-mlops-sur-le-1658449;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-mlops-sur-le-1658449;['github', 'gitlab', 'jenkins', 'docker', 'ci/cd', 'modélisation', 'anglais', 'linux']
+149;des-administrateurs-systemes-windows-linux-sur-le-1658457;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/des-administrateurs-systemes-windows-linux-sur-le-1658457;['apache', 'tomcat', ' sas', 'linux']
+150;un-developpeur-net-junior-sur-la-region-parisienne-1658459;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-developpeur-net-junior-sur-la-region-parisienne-1658459;['agile', 'scrum', ' sas']
+151;un-scrum-master-coach-agile-sur-paris-1658447;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-scrum-master-coach-agile-sur-paris-1658447;[' sas']
+152;un-developpeur-talend-sur-colombes-1658426;"
+                    Almatek ";Villejuif;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-developpeur-talend-sur-colombes-1658426;['talend', 'tableau']
+153;un-product-owner-ayant-un-anglais-courant-sur-issy-les-moulineaux-1658325;"
+                    Almatek ";Villejuif;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-product-owner-ayant-un-anglais-courant-sur-issy-les-moulineaux-1658325;['anglais']
+154;un-developpeur-php-vue-js-a-lyon-1658298;"
+                    Almatek ";Saint-Ouen;11 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-developpeur-php-vue-js-a-lyon-1658298;[]
+155;un-consultant-confirme-qualite-sur-roissy-1658291;"
+                    Almatek ";Saint-Ouen;11 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-consultant-confirme-qualite-sur-roissy-1658291;[]
+156;un-consultant-confirme-extranet-sur-paris-1658292;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-consultant-confirme-extranet-sur-paris-1658292;[]
+157;un-developpeur-react-js-sur-opera-saint-lazare-1658295;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-developpeur-react-js-sur-opera-saint-lazare-1658295;['java']
+158;un-ingenierie-de-production-sur-paris-1658238;"
+                    Almatek ";Mâcon;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-ingenierie-de-production-sur-paris-1658238;[]
+159;des-developpeurs-node-js-angular-a-bagneux-1658203;"
+                    Almatek ";Mâcon;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-node-js-angular-a-bagneux-1658203;['agile']
+160;un-consultant-qliksense-sur-la-region-parisienne-1658209;"
+                    Almatek ";Yvelines;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-consultant-qliksense-sur-la-region-parisienne-1658209;['qlik', 'sql', 'qliksense']
+161;des-developpeurs-java-et-tech-lead-java-sur-la-defense-1658188;"
+                    Almatek ";Yvelines;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-java-et-tech-lead-java-sur-la-defense-1658188;['java']
+162;un-pmo-chef-de-projet-et-servicenow-sur-la-region-parisienne-1660113;"
+                    Almatek ";Montrouge;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-pmo-chef-de-projet-et-servicenow-sur-la-region-parisienne-1660113;[]
+163;un-developpeur-salesforce-sur-paris-1657883;"
+                    Almatek ";Montrouge;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-developpeur-salesforce-sur-paris-1657883;[' sas']
+164;des-developpeurs-bigdata-sur-toulouse-et-montpellier-1660010;"
+                    Almatek ";Ivry-sur-Seine;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/des-developpeurs-bigdata-sur-toulouse-et-montpellier-1660010;[]
+165;un-chef-de-projet-mobile-sur-paris-1660009;"
+                    Almatek ";Ivry-sur-Seine;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-mobile-sur-paris-1660009;['anglais']
+166;un-proxy-product-owner-sur-la-region-parisienne-1660008;"
+                    Almatek ";Montpellier;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-proxy-product-owner-sur-la-region-parisienne-1660008;['anglais']
+167;un-business-owner-sur-la-region-parisienne-1660002;"
+                    Almatek ";Montpellier;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-business-owner-sur-la-region-parisienne-1660002;['anglais']
+168;un-chef-de-projet-sfcc-sur-la-region-parisienne-1660001;"
+                    Almatek ";Guyancourt;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-sfcc-sur-la-region-parisienne-1660001;['anglais']
+169;un-developpeur-java-sur-paris-1659893;"
+                    Almatek ";Guyancourt;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-developpeur-java-sur-paris-1659893;[]
+170;un-developpeur-senior-php-sur-issy-les-moulineaux-1659722;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-developpeur-senior-php-sur-issy-les-moulineaux-1659722;[' git ', 'docker', 'sql', 'api rest', 'mysql', 'linux']
+171;un-testeur-php-angular-sur-paris-1659721;"
+                    Almatek ";Issy-les-Moulineaux;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-testeur-php-angular-sur-paris-1659721;[]
+172;un-developpeur-php-angular-sur-paris-1659719;"
+                    Almatek ";Yvelines;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-developpeur-php-angular-sur-paris-1659719;[]
+173;un-developpeur-devops-php-angular-sur-paris-1659718;"
+                    Almatek ";Yvelines;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-developpeur-devops-php-angular-sur-paris-1659718;[]
+174;un-tech-lead-php-angular-sur-paris-1659717;"
+                    Almatek ";Saint-Quentin;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-tech-lead-php-angular-sur-paris-1659717;[]
+175;un-scrum-master-sur-paris-1659694;"
+                    Almatek ";Saint-Quentin;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-scrum-master-sur-paris-1659694;['scrum']
+176;un-chef-de-projet-scrum-master-sur-issy-les-moulineaux-1659692;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-scrum-master-sur-issy-les-moulineaux-1659692;['java', 'gitlab', 'jenkins', 'jira', 'agile', 'confluence', 'scrum']
+177;un-consultant-test-systemes-sur-plaisir-1659662;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-consultant-test-systemes-sur-plaisir-1659662;['java', 'jenkins', 'sql', 'agile', 'scrum']
+178;un-ingenieur-centreon-1659657;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-centreon-1659657;['api rest']
+179;un-ingenieur-cybersecurite-sur-sophia-remote-1659656;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-cybersecurite-sur-sophia-remote-1659656;['azure', 'gcp', 'splunk']
+180;un-chef-de-projet-pki-sur-paris-1659617;"
+                    Almatek ";Hambach;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-pki-sur-paris-1659617;[]
+181;un-chef-de-projet-pki-venafi-sur-paris-1659615;"
+                    Almatek ";Hambach;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-pki-venafi-sur-paris-1659615;[' sas']
+182;un-developpeur-talend-en-remote-1657611;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-developpeur-talend-en-remote-1657611;['talend']
+183;un-consultant-vmware-vro-vra-sur-nantes-1659524;"
+                    Almatek ";Ivry-sur-Seine;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-consultant-vmware-vro-vra-sur-nantes-1659524;[' git ', 'jenkins', 'ci/cd']
+184;un-developpeur-c-c-sur-sophia-antipolis-1659510;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-developpeur-c-c-sur-sophia-antipolis-1659510;[]
+185;un-consultant-supervision-sur-limoges-1659475;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-consultant-supervision-sur-limoges-1659475;['jenkins', 'ansible', 'python', 'powershell']
+186;un-ingenieur-cloud-devops-sur-toulouse-1659397;"
+                    Almatek ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-cloud-devops-sur-toulouse-1659397;['gitlab', 'jenkins', 'ansible', 'ci/cd', 'agile', 'apache', 'tomcat', 'jboss']
+187;un-chef-de-projet-sur-toulouse-1659339;"
+                    Almatek ";Paris;3 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-sur-toulouse-1659339;['power bi', 'agile', 'apache', 'tomcat', 'itil', 'ldap', 'scrum', 'jboss', 'splunk', 'scala']
+188;un-expert-windows-cloud-sur-saint-quentin-en-yvelines-1659334;"
+                    Almatek ";Nantes;4 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-expert-windows-cloud-sur-saint-quentin-en-yvelines-1659334;['gitlab', 'anglais']
+189;un-po-crm-salesforce-sur-boulogne-1659271;"
+                    Almatek ";Nantes;4 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-po-crm-salesforce-sur-boulogne-1659271;['agile', ' sas', 'salesforce']
+190;un-architecte-java-devops-sur-le-1659268;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-architecte-java-devops-sur-le-1659268;['java', ' git ', 'jenkins', 'azure', 'ansible', 'maven']
+191;un-manager-de-transition-datalake-sur-la-region-parisienne-1659263;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-manager-de-transition-datalake-sur-la-region-parisienne-1659263;[]
+192;un-tech-lead-data-platform-sur-la-region-parisienne-1659262;"
+                    Almatek ";Bordeaux;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-tech-lead-data-platform-sur-la-region-parisienne-1659262;[]
+193;un-integrateur-systeme-sur-la-region-parisienne-1659261;"
+                    Almatek ";Bordeaux;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-integrateur-systeme-sur-la-region-parisienne-1659261;['puppet']
+194;un-chef-de-projet-digital-workplace-sur-saint-quentin-en-yvelines-1659133;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-digital-workplace-sur-saint-quentin-en-yvelines-1659133;['anglais', 'itil', 'scala']
+195;un-administrateur-systeme-devops-siur-gennevilliers-1659070;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-administrateur-systeme-devops-siur-gennevilliers-1659070;['jenkins', 'ansible', 'jira', 'agile', 'terraform', 'sonar', 'itil', 'sonarqube', 'linux']
+196;un-developpeur-android-sur-le-1659023;"
+                    Almatek ";Paris;2 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-developpeur-android-sur-le-1659023;[' sas']
+197;un-technicien-correspondant-informatique-support-sharepoint-sur-saint-denis-1659022;"
+                    Almatek ";Paris;2 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-technicien-correspondant-informatique-support-sharepoint-sur-saint-denis-1659022;['tableau', 'tableaux de bord']
+198;un-chef-de-projet-integration-sur-la-region-parisienne-1659007;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-integration-sur-la-region-parisienne-1659007;['tableau', 'jira', 'confluence', 'tableaux de bord', 'ldap']
+199;un-developpeur-front-vue-js-sur-issy-les-moulineaux-1659006;"
+                    Almatek ";Paris;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-developpeur-front-vue-js-sur-issy-les-moulineaux-1659006;['gitlab', 'agile', ' sas']
+200;un-developpeur-back-sur-issy-les-moulineaux-1659005;"
+                    Almatek ";Lille;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-developpeur-back-sur-issy-les-moulineaux-1659005;['java', ' git ', 'jenkins', 'sql', 'oracle', 'agile', 'sonar', 'tomcat', 'mysql', 'scrum', ' sas']
+201;un-developpeur-php-symfony-sur-saint-quentin-en-yvelines-1658978;"
+                    Almatek ";Lille;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-developpeur-php-symfony-sur-saint-quentin-en-yvelines-1658978;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'jira', 'agile', 'confluence', 'apache', 'grafana', 'mysql', 'scrum', 'linux']
+202;un-architecte-d-entreprise-sur-ivry-sur-seine-1658977;"
+                    Almatek ";Noisy-le-Grand;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-architecte-d-entreprise-sur-ivry-sur-seine-1658977;[]
+203;un-developpeur-confirme-java-react-c-sur-paris-1658923;"
+                    Almatek ";Noisy-le-Grand;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-developpeur-confirme-java-react-c-sur-paris-1658923;['java', 'python', 'sql', 'anglais']
+204;un-ingenieur-reseaux-securite-sur-guyancourt-1658922;"
+                    Almatek ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-reseaux-securite-sur-guyancourt-1658922;['python', 'vpn', 'scala']
+205;un-technicien-ou-ingenieur-essais-support-technique-procedes-horaires-journee-sur-saint-nazaire-1658921;"
+                    Almatek ";Paris;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-technicien-ou-ingenieur-essais-support-technique-procedes-horaires-journee-sur-saint-nazaire-1658921;['anglais', ' sas']
+206;un-developpeur-cliksense-sur-paris-1657009;"
+                    Almatek ";Télétravail;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-developpeur-cliksense-sur-paris-1657009;[]
+207;un-technicien-ou-ingenieur-ordonnanceur-horaires-journee-sur-saint-nazaire-1658898;"
+                    Almatek ";Télétravail;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-technicien-ou-ingenieur-ordonnanceur-horaires-journee-sur-saint-nazaire-1658898;[]
+208;un-technicien-ordonnanceur-horaires-x-sur-saint-nazaire-1658896;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-technicien-ordonnanceur-horaires-x-sur-saint-nazaire-1658896;[]
+209;un-ux-designer-oriente-bigdata-sur-noisy-le-grand-1658894;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-ux-designer-oriente-bigdata-sur-noisy-le-grand-1658894;[]
+210;un-consultant-dell-omivv-bilingue-en-full-remote-1658789;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-consultant-dell-omivv-bilingue-en-full-remote-1658789;[]
+211;un-consultant-veritas-cluster-en-full-remote-1658786;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-consultant-veritas-cluster-en-full-remote-1658786;['linux']
+212;un-consultant-hci-dpm-bilingue-en-full-remote-1658778;"
+                    Almatek ";Guyancourt;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-consultant-hci-dpm-bilingue-en-full-remote-1658778;[' sas']
+213;un-consultant-storage-ibm-tsm-sur-toulouse-1658756;"
+                    Almatek ";Guyancourt;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-consultant-storage-ibm-tsm-sur-toulouse-1658756;[' sas']
+214;un-tech-lead-sur-saint-quentin-en-yvelines-1656534;"
+                    Almatek ";Saint-Nazaire;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-tech-lead-sur-saint-quentin-en-yvelines-1656534;['java', 'jenkins', 'kafka', 'ansible', 'sql', 'jira', 'agile', 'confluence', 'apache', 'grafana', 'mysql', 'scrum', 'linux']
+215;un-data-scientist-infrastructure-sur-issy-les-moulineaux-1656406;"
+                    Almatek ";Saint-Nazaire;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-data-scientist-infrastructure-sur-issy-les-moulineaux-1656406;[' r ', 'python', 'sql']
+216;un-data-scientist-statisticien-sur-issy-les-moulineaux-1656408;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-data-scientist-statisticien-sur-issy-les-moulineaux-1656408;[' r ', 'python', 'sql', 'modélisation']
+217;un-chef-de-projet-technique-support-sur-issy-les-moulineaux-1656387;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-technique-support-sur-issy-les-moulineaux-1656387;['itil']
+218;un-chef-de-projet-elastic-search-sur-issy-les-moulineaux-1656388;"
+                    Almatek ";Saint-Nazaire;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-elastic-search-sur-issy-les-moulineaux-1656388;['elk', ' excel ']
+219;un-developpeur-lead-front-node-react-sur-issy-les-moulineaux-1656389;"
+                    Almatek ";Saint-Nazaire;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-developpeur-lead-front-node-react-sur-issy-les-moulineaux-1656389;['gitlab', 'jira', 'agile']
+220;un-developpeur-wordpress-sur-la-region-parisienne-1656372;"
+                    Almatek ";Rueil-Malmaison;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-developpeur-wordpress-sur-la-region-parisienne-1656372;[]
+221;un-concepteur-liferay-sur-paris-1658445;"
+                    Almatek ";Rueil-Malmaison;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-concepteur-liferay-sur-paris-1658445;[' sas']
+222;un-consultant-sap-mm-sd-pp-sur-bordeaux-1656180;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-consultant-sap-mm-sd-pp-sur-bordeaux-1656180;[]
+223;un-developpeur-android-sur-le-1656181;"
+                    Almatek ";La Défense (92);6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-developpeur-android-sur-le-1656181;[]
+224;un-testeur-homologateur-sur-charenton-le-pont-1656186;"
+                    Almatek ";Paris;2 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-testeur-homologateur-sur-charenton-le-pont-1656186;['jira', 'xray']
+225;un-expert-jenkins-sur-issy-les-moulineaux-1656179;"
+                    Almatek ";Paris;2 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-expert-jenkins-sur-issy-les-moulineaux-1656179;['jenkins']
+226;un-po-ott-sur-issy-les-moulineaux-1656012;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-po-ott-sur-issy-les-moulineaux-1656012;['jira']
+227;un-chef-de-projet-technique-open-sur-guyancourt-1656013;"
+                    Almatek ";Toulouse;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-technique-open-sur-guyancourt-1656013;['sql', 'mongodb']
+228;un-amoa-fonctionnelle-anaplan-sur-paris-1657525;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-amoa-fonctionnelle-anaplan-sur-paris-1657525;['anglais']
+229;un-technicien-de-maintenance-mecanique-sur-strasbourg-1657439;"
+                    Almatek ";Issy-les-Moulineaux;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-technicien-de-maintenance-mecanique-sur-strasbourg-1657439;[]
+230;un-redacteur-technique-sur-colmar-1657426;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-redacteur-technique-sur-colmar-1657426;['anglais']
+231;un-ingenieur-support-planisware-en-teletravail-1657310;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-ingenieur-support-planisware-en-teletravail-1657310;[' sas']
+232;un-consultant-technico-fonctionnel-sap-pp-mrp-sur-bordeaux-1657217;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-consultant-technico-fonctionnel-sap-pp-mrp-sur-bordeaux-1657217;[]
+233;un-technicien-correspondant-informatique-sur-saint-denis-1657181;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-technicien-correspondant-informatique-sur-saint-denis-1657181;['tableau', 'tableaux de bord', ' sas']
+234;un-ingenieur-mlops-sur-le-1657011;"
+                    Almatek ";Lille;6 mois; 400-550 €;31/01/2022;https://www.freelance-info.fr/mission/un-ingenieur-mlops-sur-le-1657011;['github', 'gitlab', 'jenkins', 'docker', 'ci/cd', 'modélisation', 'anglais', ' sas', 'linux']
+235;un-referent-technique-expert-jcl-sur-montreuil-1656965;"
+                    Almatek ";Lille;6 mois; 400-550 €;31/01/2022;https://www.freelance-info.fr/mission/un-referent-technique-expert-jcl-sur-montreuil-1656965;[]
+236;un-chef-de-projet-sd-wan-ayant-un-anglais-courant-saint-denis-1656922;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-sd-wan-ayant-un-anglais-courant-saint-denis-1656922;['tableau', 'anglais', 'tableaux de bord']
+237;un-ingenieur-logiciel-embarque-sur-rennes-1656916;"
+                    Almatek ";Lille;3 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-ingenieur-logiciel-embarque-sur-rennes-1656916;[]
+238;un-developpeur-python-sur-paris-1656915;"
+                    Almatek ";Toulouse;4 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-developpeur-python-sur-paris-1656915;['java', 'python', 'agile']
+239;un-developpeur-dot-net-angular-sur-toulouse-1656880;"
+                    Almatek ";Toulouse;4 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/un-developpeur-dot-net-angular-sur-toulouse-1656880;['anglais']
+240;un-administration-linux-configuration-leadership-sur-toulouse-1656870;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-administration-linux-configuration-leadership-sur-toulouse-1656870;['ansible', 'linux']
+241;un-dba-oracle-et-postgresql-sur-toulouse-1656849;"
+                    Almatek ";Paris;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-dba-oracle-et-postgresql-sur-toulouse-1656849;['sql', 'oracle', 'postgresql', 'mysql', 'mariadb']
+242;un-consultant-cyber-sur-active-directory-sur-saint-ouen-1656847;"
+                    Almatek ";Paris;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-consultant-cyber-sur-active-directory-sur-saint-ouen-1656847;['azure', 'powershell']
+243;un-administrateur-power-plateforme-sur-nantes-remote-1656839;"
+                    Almatek ";Paris;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-administrateur-power-plateforme-sur-nantes-remote-1656839;['power bi', 'azure', 'powershell']
+244;un-administrateur-applicatif-sur-la-defense-1656836;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-administrateur-applicatif-sur-la-defense-1656836;['kafka', 'spark', 'itil']
+245;un-sales-operations-support-sur-toulouse-1656701;"
+                    Almatek ";Paris;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-sales-operations-support-sur-toulouse-1656701;[]
+246;un-developpeur-salesforce-sur-paris-1656697;"
+                    Almatek ";Noisy-le-Grand;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-developpeur-salesforce-sur-paris-1656697;[' sas', 'salesforce']
+247;un-developpeur-tibco-bw-senior-sur-nantes-1656642;"
+                    Almatek ";Noisy-le-Grand;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/un-developpeur-tibco-bw-senior-sur-nantes-1656642;['agile']
+248;un-chef-de-projet-portefeuille-projets-applicatifs-sur-guyancourt-1656599;"
+                    Almatek ";Moulineaux;6 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-portefeuille-projets-applicatifs-sur-guyancourt-1656599;['kafka', 'sql', 'jira', 'agile', 'confluence', 'cloudera', 'anglais', 'scrum', 'mongodb']
+249;un-developpeur-windev-sur-paris-ou-nantes-1656583;"
+                    Almatek ";Moulineaux;6 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/un-developpeur-windev-sur-paris-ou-nantes-1656583;['java', 'anglais', 'kanban', 'scrum', ' sas']

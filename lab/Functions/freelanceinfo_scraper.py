@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import date
 import math
+from skillextract import skillextract
+
 rooturl='https://www.freelance-info.fr/missions-entreprise?'
 headers= {'User_Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'}
 request= requests.get(rooturl, headers)
@@ -58,7 +60,9 @@ for ref in scraped['job_href']:
     salarylist=[]
     datelist=[]
     companyname=[]
-    df=pd.DataFrame(columns=['title','companyname','location','duration','salary','date'])
+    joblinklist=[]
+    jobskillslist=[]
+    df=pd.DataFrame(columns=['title','companyname','location','duration','salary','date','joblink','jobskills'])
     for pagenumber in range(1,int(scraped['num_job'][i])):
         url=ref
         url=url %str(pagenumber)
@@ -72,6 +76,7 @@ for ref in scraped['job_href']:
         locationhtml= tags2.find_all('span',class_='textvert9')
         dur_tarhtm= tags2.find_all('span')
         datehtml=tags2.find_all('span',class_='textgrisfonce9')
+        #joblinkhtml= tags2.find_all('a',class_='text-underline')
         
         #titlehref=jobhtml.find('a',class_='rtitr filter-link')
         for item in titlehtml:
@@ -81,6 +86,10 @@ for ref in scraped['job_href']:
         for item in locationhtml:
             location=item.text
             locationlist.append(location)
+            
+        for item in titlehtml:
+            joblink=prefix + item['href']
+            joblinklist.append(joblink)
             
         for item in dur_tarhtm:
             if '€' in item.text or 'Tarif' in item.text:
@@ -106,9 +115,11 @@ for ref in scraped['job_href']:
     df['salary']=pd.Series(salarylist)
     df['date']=pd.Series(datelist)
     df['companyname']=pd.Series(companyname)
+    df['joblink']=pd.Series(joblinklist)
     com=str(df['companyname'][0]).strip().split('http')[0]
+    dff=skillextract(df)
     try:
-        df.to_csv(f'job_freel_{pagenumber}_{run_date}_{com}.csv', sep=';')
+        dff.to_csv(f'job_freel_{pagenumber}_{run_date}_{com}.csv', sep=';')
     except:
         pass
     i=i+1

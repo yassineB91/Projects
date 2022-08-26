@@ -1,0 +1,261 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;expert-o-h-f-1666719;"
+                    Club Freelance ";PACA;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-o-h-f-1666719;[]
+1;product-owner-h-f-remote-1666707;"
+                    Club Freelance ";PACA;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/product-owner-h-f-remote-1666707;['agile', ' sas']
+2;consultant-technico-fonctionnel-crm-dynamics-h-f-1666701;"
+                    Club Freelance ";Bordeaux;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-crm-dynamics-h-f-1666701;['sql', ' ssis']
+3;infrastructure-cloud-architect-1666624;"
+                    Club Freelance ";Bordeaux;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/infrastructure-cloud-architect-1666624;['azure', 'itil', 'firewalls', 'scala', 'powershell']
+4;ingenieur-cloud-senior-aws-1666620;"
+                    Club Freelance ";Télétravail;18 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-senior-aws-1666620;['gitlab', 'aws', 'docker', 'python', 'ci/cd', 'agile', 'terraform', 'grafana', 'linux']
+5;developpeur-fullstack-ruby-on-rails-vue-js-h-f-roubaix-1664427;"
+                    Club Freelance ";Télétravail;18 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-ruby-on-rails-vue-js-h-f-roubaix-1664427;['ci/cd', 'jira', 'confluence']
+6;technical-it-project-manager-business-ana-1664406;"
+                    Club Freelance ";Télétravail;12 mois; 500-700 €;10/02/2022;https://www.freelance-info.fr/mission/technical-it-project-manager-business-ana-1664406;['powerbi', 'power bi', 'aws', 'redshift', 'datawarehouse', 'glue', 'modélisation', 'anglais', 'cartographie', ' sas']
+7;architecte-securite-azure-f-h-1664204;"
+                    Club Freelance ";Télétravail;12 mois; 500-700 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-securite-azure-f-h-1664204;['azure', 'ci/cd', 'anglais', 'linux']
+8;product-owner-chef-de-projet-digitale-h-f-1664213;"
+                    Club Freelance ";Courbevoie;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/product-owner-chef-de-projet-digitale-h-f-1664213;['jira', 'confluence', 'kanban', 'scrum', ' sas']
+9;product-owner-mobile-web-mobile-h-f-paris-1664191;"
+                    Club Freelance ";Courbevoie;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/product-owner-mobile-web-mobile-h-f-paris-1664191;['agile', 'anglais', ' sas']
+10;consultant-mes-h-f-1666475;"
+                    Club Freelance ";Roubaix;235 jours; 350-450 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-mes-h-f-1666475;[' sas']
+11;proxy-product-owner-h-f-1666378;"
+                    Club Freelance ";Roubaix;235 jours; 350-450 €;10/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-h-f-1666378;['sql', 'modélisation', ' sas']
+12;edm-delivery-manager-h-f-1666363;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/edm-delivery-manager-h-f-1666363;['sql', 'modélisation', 'anglais', 'itil', 'scala']
+13;business-analyst-reprise-de-donnees-data-remote-1666350;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-analyst-reprise-de-donnees-data-remote-1666350;['sql']
+14;developpeur-scrum-master-h-f-1666178;"
+                    Club Freelance ";Paris;24 mois; 600-800 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-scrum-master-h-f-1666178;['java', 'sql', 'agile', 'anglais', 'scrum', ' sas']
+15;ingenieur-support-applicatif-h-f-1666177;"
+                    Club Freelance ";Paris;24 mois; 600-800 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-applicatif-h-f-1666177;['talend', 'kafka', 'oracle', 'anglais', 'grafana', 'scala', ' sas', 'linux']
+16;administrateur-systeme-windows-f-h-1666150;"
+                    Club Freelance ";Hauts-de-France;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-windows-f-h-1666150;['puppet', 'ansible', 'agile', 'terraform', 'kanban', 'powershell']
+17;process-manager-itsm-h-f-1664018;"
+                    Club Freelance ";Hauts-de-France;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/process-manager-itsm-h-f-1664018;['powerpoint', ' sas']
+18;servicenow-junior-developer-h-f-1663986;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/servicenow-junior-developer-h-f-1663986;['anglais', 'itil', 'scrum', ' sas']
+19;architecte-opensource-h-f-1663937;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-opensource-h-f-1663937;[' sas']
+20;servicenow-functional-analyst-proxy-product-owner-h-f-1663836;"
+                    Club Freelance ";Courbevoie;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/servicenow-functional-analyst-proxy-product-owner-h-f-1663836;['agile', 'anglais', 'itil', 'scrum']
+21;chef-de-projet-infor-m-h-f-1663783;"
+                    Club Freelance ";Courbevoie;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infor-m-h-f-1663783;['anglais', ' sas']
+22;master-data-tm-h-f-1663768;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/master-data-tm-h-f-1663768;[]
+23;developpeur-talend-h-f-remote-1666024;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-talend-h-f-remote-1666024;['qlik', 'talend', 'power bi', 'anglais', ' sas']
+24;chef-de-projet-it-digital-senior-h-f-1665977;"
+                    Club Freelance ";Gonesse;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-digital-senior-h-f-1665977;['agile', 'anglais', 'salesforce']
+25;project-manager-infrastructure-h-f-1665914;"
+                    Club Freelance ";Gonesse;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/project-manager-infrastructure-h-f-1665914;['power bi', 'agile', 'anglais', 'powerpoint', 'scala', ' sas']
+26;developpeur-azure-senior-h-f-full-remote-1665876;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-azure-senior-h-f-full-remote-1665876;['azure', ' sas']
+27;technical-squad-lead-hf-remote-1665843;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/technical-squad-lead-hf-remote-1665843;['agile']
+28;developpeur-front-end-senior-react-js-h-f-1665757;"
+                    Club Freelance ";Paris;6 mois; 400-480 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-senior-react-js-h-f-1665757;['java', ' git ', 'azure', 'scrum', ' sas']
+29;developpeur-back-end-node-js-rust-h-f-1663587;"
+                    Club Freelance ";Paris;6 mois; 400-480 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-node-js-rust-h-f-1663587;['java', 'sql', 'postgresql', ' sas']
+30;chef-de-projet-sap-sd-mm-h-f-paris-1663454;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sap-sd-mm-h-f-paris-1663454;[' sas']
+31;senior-fullstack-developer-h-f-remote-1665547;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/senior-fullstack-developer-h-f-remote-1665547;[' git ', 'azure', 'agile', ' sas']
+32;developpeur-abap-1665511;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-abap-1665511;['anglais', ' sas']
+33;product-owner-mobile-web-mobile-h-f-paris-1665417;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/product-owner-mobile-web-mobile-h-f-paris-1665417;['agile', 'anglais', ' sas']
+34;ingenieur-production-reseaux-f-h-1665329;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-production-reseaux-f-h-1665329;['azure', 'anglais', 'itil', 'zscaler', 'vpn']
+35;consultant-office-h-f-1665318;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-office-h-f-1665318;['azure', ' sas']
+36;developpeur-frontend-drupal-h-f-1665292;"
+                    Club Freelance ";Autre pays;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-drupal-h-f-1665292;['java', ' sas']
+37;developpeur-frontend-drupal-h-f-1665293;"
+                    Club Freelance ";Autre pays;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-frontend-drupal-h-f-1665293;['java', ' sas']
+38;consultant-technico-fonctionnel-crm-dynamics-h-f-1663246;"
+                    Club Freelance ";Paris;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-crm-dynamics-h-f-1663246;['sql', ' ssis']
+39;chef-de-projet-sap-technical-h-f-1662761;"
+                    Club Freelance ";Paris;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sap-technical-h-f-1662761;[' sas']
+40;developpeur-fullstack-golang-python-h-f-remote-1662712;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-golang-python-h-f-remote-1662712;['python', 'sql', 'agile', 'mysql', 'scala', 'linux']
+41;developpeur-full-stack-node-react-h-f-paris-nantes-1662696;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-node-react-h-f-paris-nantes-1662696;['sql', 'agile', 'anglais', 'scrum', 'mongodb', ' sas']
+42;consultant-fonctionnel-sap-fico-1664791;"
+                    Club Freelance ";Nice;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-fonctionnel-sap-fico-1664791;[]
+43;consultant-sap-sd-otc-h-f-1664724;"
+                    Club Freelance ";Nice;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-sap-sd-otc-h-f-1664724;[' sas']
+44;business-analyst-salesforce-h-f-remote-1662597;"
+                    Club Freelance ";Télétravail;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-salesforce-h-f-remote-1662597;['anglais', ' sas', 'salesforce']
+45;consultant-talend-h-f-remote-1662525;"
+                    Club Freelance ";Télétravail;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-talend-h-f-remote-1662525;['talend', 'sql', 'anglais']
+46;technicien-support-informatique-h-f-1662471;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/technicien-support-informatique-h-f-1662471;['scala', ' sas']
+47;ux-researcher-senior-h-f-1662364;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ux-researcher-senior-h-f-1662364;[' sas']
+48;chef-de-projet-et-directeur-de-projet-securisation-de-si-1664483;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-et-directeur-de-projet-securisation-de-si-1664483;['tableau', 'tableaux de bord']
+49;expert-skype-h-f-1662202;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-skype-h-f-1662202;[]
+50;chef-de-projet-sap-sd-mm-h-f-1662151;"
+                    Club Freelance ";Courbevoie;12 mois; 450-550 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sap-sd-mm-h-f-1662151;['tableau', ' excel ', 'anglais', ' sas']
+51;ingenieur-poste-de-travail-h-f-1662138;"
+                    Club Freelance ";Courbevoie;12 mois; 450-550 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-poste-de-travail-h-f-1662138;['azure', ' sas', 'powershell']
+52;developpeur-sap-abap-1661915;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-sap-abap-1661915;['anglais', ' sas']
+53;integrateur-solutions-industrielles-support-it-h-f-1663959;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/integrateur-solutions-industrielles-support-it-h-f-1663959;['sql', 'oracle', ' sas', 'powershell']
+54;chef-de-projet-it-finance-h-f-1663941;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-finance-h-f-1663941;[' sas']
+55;technicien-exploitation-h-f-remote-1663785;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/technicien-exploitation-h-f-remote-1663785;[' sas', 'linux']
+56;consultant-sap-fico-h-f-1661601;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/consultant-sap-fico-h-f-1661601;['anglais', ' sas']
+57;developpeur-talend-h-f-1661657;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-talend-h-f-1661657;['talend', 'sql', 'gcp', 'oracle', 'cloudera']
+58;developpeur-qlikview-h-f-idf-1661658;"
+                    Club Freelance ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-qlikview-h-f-idf-1661658;['qlik', 'agile', ' sas']
+59;technicien-help-desk-h-f-1661540;"
+                    Club Freelance ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/technicien-help-desk-h-f-1661540;['anglais', 'linux']
+60;architecte-si-application-h-f-1661485;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-si-application-h-f-1661485;['jenkins', 'azure', 'ci/cd', 'terraform', 'anglais', 'linux']
+61;po-itsm-h-f-remote-1661460;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/po-itsm-h-f-remote-1661460;['agile', ' sas']
+62;coach-agile-h-f-1661463;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/coach-agile-h-f-1661463;['jira', 'agile', 'anglais', 'scrum', ' sas']
+63;consultant-sap-qm-h-f-remote-1661468;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-sap-qm-h-f-remote-1661468;[' sas']
+64;consultant-autorisations-securite-sap-h-f-1661284;"
+                    Club Freelance ";Montélimar;2 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-autorisations-securite-sap-h-f-1661284;[' sas']
+65;expert-solution-demat-1661217;"
+                    Club Freelance ";Montélimar;2 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-solution-demat-1661217;['oracle', ' sas']
+66;acheteur-it-h-f-full-remote-1663214;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/acheteur-it-h-f-full-remote-1663214;[' sas']
+67;consultant-test-recette-h-f-1660990;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-test-recette-h-f-1660990;['tableau', 'tableaux de bord', ' sas']
+68;developpeur-go-python-1660977;"
+                    Club Freelance ";Clermont-Ferrand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-go-python-1660977;['elk', 'python', ' sas']
+69;expert-active-directory-1660945;"
+                    Club Freelance ";Clermont-Ferrand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-1660945;['azure', 'anglais']
+70;devops-h-f-remote-1662791;"
+                    Club Freelance ";Aubervilliers;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/devops-h-f-remote-1662791;['puppet', 'docker', 'ansible', 'ci/cd', 'scrum', ' sas', 'linux']
+71;scrum-master-h-f-1660604;"
+                    Club Freelance ";Aubervilliers;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1660604;['jira', 'agile', 'anglais', 'scrum']
+72;developpeur-fullstack-vuejs-springboot-h-f-1660566;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-vuejs-springboot-h-f-1660566;['java', 'anglais', 'springboot', ' sas']
+73;chef-de-projet-reseau-et-securite-f-h-1660518;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-reseau-et-securite-f-h-1660518;['anglais', ' sas']
+74;consultant-sap-pp-qm-h-f-1660503;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-sap-pp-qm-h-f-1660503;[' sas']
+75;sap-pm-consultant-w-m-italy-remote-1660476;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/sap-pm-consultant-w-m-italy-remote-1660476;[' sas']
+76;developpeur-java-h-f-1660461;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1660461;['java', 'tomcat']
+77;consultant-technico-fonctionnel-crm-dynamics-h-f-1662359;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-crm-dynamics-h-f-1662359;['sql', ' ssis']
+78;chef-de-projet-itsm-h-f-1660362;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-itsm-h-f-1660362;['agile', 'anglais', 'itil', ' sas']
+79;consultant-crm-salesforce-et-ou-dynamics-h-f-1660318;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-crm-salesforce-et-ou-dynamics-h-f-1660318;['powerbi', 'power bi', 'anglais', 'salesforce']
+80;consultant-e-technique-salesforce-f-h-1660197;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-e-technique-salesforce-f-h-1660197;['agile', 'anglais', 'scrum', ' sas', 'salesforce']
+81;developpeur-back-end-node-js-devops-h-f-remote-1662283;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-node-js-devops-h-f-remote-1662283;['gitlab', 'aws', 'terraform', 'mariadb', ' sas']
+82;test-manager-piloter-chantier-de-test-programme-h-f-1659982;"
+                    Club Freelance ";Paris;24 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/test-manager-piloter-chantier-de-test-programme-h-f-1659982;[' sas']
+83;administrateur-sap-bc-confirme-h-f-1659781;"
+                    Club Freelance ";Paris;24 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-sap-bc-confirme-h-f-1659781;['oracle', 'anglais', ' sas']
+84;ingenieur-de-production-h-f-1661837;"
+                    Club Freelance ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-h-f-1661837;['sql', 'jira', 'oracle', 'confluence', 'apache', 'tomcat', 'mysql', 'scala', 'powershell', 'linux']
+85;help-desk-vip-1659545;"
+                    Club Freelance ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/help-desk-vip-1659545;['anglais', ' sas']
+86;developpeur-net-h-f-1659501;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-net-h-f-1659501;['java', 'sql', ' sas']
+87;consultant-qliksense-h-f-1659318;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-qliksense-h-f-1659318;['qlik', 'sql', 'qliksense']
+88;ingenieur-exploitation-h-f-1660963;"
+                    Club Freelance ";Télétravail;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-exploitation-h-f-1660963;['azure', ' sas', 'linux']
+89;chef-de-projet-it-digital-h-f-1660937;"
+                    Club Freelance ";Télétravail;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-digital-h-f-1660937;['agile', 'anglais', 'salesforce']
+90;analyste-developpeur-rpg-ile-h-f-full-remote-1658634;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-rpg-ile-h-f-full-remote-1658634;['sql', 'anglais', ' sas']
+91;consultant-active-directory-h-f-1658310;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-active-directory-h-f-1658310;['anglais']
+92;expert-intune-autopilot-1658284;"
+                    Club Freelance ";Rennes;9 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/expert-intune-autopilot-1658284;['azure', 'anglais', ' sas']
+93;program-manager-sap-h-f-1658197;"
+                    Club Freelance ";Rennes;9 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/program-manager-sap-h-f-1658197;['jira', 'anglais', ' sas']
+94;architecte-poste-de-travail-h-f-1658022;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-poste-de-travail-h-f-1658022;['azure', ' sas']
+95;ingenieur-devsecops-h-f-1657828;"
+                    Club Freelance ";Roubaix;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-devsecops-h-f-1657828;['ansible', 'python', 'terraform', 'apache', 'tomcat', ' sas', 'powershell']
+96;developpeur-python-h-f-1657668;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-python-h-f-1657668;[' git ', 'python', 'agile', 'anglais', ' sas', 'linux']
+97;product-owner-product-manager-entreprise-service-management-servicenow-1657582;"
+                    Club Freelance ";Paris;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/product-owner-product-manager-entreprise-service-management-servicenow-1657582;['agile', 'itil', 'scrum']
+98;ingenieur-systeme-linux-senior-h-f-1657415;"
+                    Club Freelance ";Essonne;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-senior-h-f-1657415;['sql', 'apache', 'mysql', 'mariadb', ' sas', 'linux']
+99;data-analyst-expert-tableau-h-f-1657389;"
+                    Club Freelance ";Essonne;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/data-analyst-expert-tableau-h-f-1657389;['tableau', 'python', 'sql', 'airflow', 'tableaux de bord']
+100;developpeur-full-stack-react-nodejs-h-f-1657349;"
+                    Club Freelance ";Agen;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-react-nodejs-h-f-1657349;['python', 'anglais']
+101;developpeur-golang-python-senior-h-f-1657301;"
+                    Club Freelance ";Agen;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-golang-python-senior-h-f-1657301;['python', 'ci/cd', 'anglais', ' sas', 'linux']
+102;test-lead-h-f-1657111;"
+                    Club Freelance ";Issy-les-Moulineaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/test-lead-h-f-1657111;['jira', 'agile', 'confluence', 'anglais', ' sas']
+103;chef-de-projet-infrastructure-h-f-1658912;"
+                    Club Freelance ";Issy-les-Moulineaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1658912;[]
+104;consultant-sap-co-ps-h-f-remote-1657043;"
+                    Club Freelance ";Drôme;2 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/consultant-sap-co-ps-h-f-remote-1657043;['anglais', ' sas']
+105;analyste-soc-h-f-1657053;"
+                    Club Freelance ";Drôme;2 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/analyste-soc-h-f-1657053;['tableau', 'anglais', 'tableaux de bord', ' sas']
+106;consultant-azure-devops-reactjs-h-f-1657037;"
+                    Club Freelance ";Carros;5 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-azure-devops-reactjs-h-f-1657037;['azure', 'api rest']
+107;consultant-integration-reseau-et-securite-1657038;"
+                    Club Freelance ";Carros;5 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-integration-reseau-et-securite-1657038;['itil', 'firewalls', ' sas']
+108;product-owner-senior-h-f-1658902;"
+                    Club Freelance ";Marseille;12 mois; 400-750 €;01/02/2022;https://www.freelance-info.fr/mission/product-owner-senior-h-f-1658902;['api rest']
+109;ingenieur-systeme-linux-opensource-h-f-remote-1658825;"
+                    Club Freelance ";Marseille;12 mois; 400-750 €;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-opensource-h-f-remote-1658825;['kafka', 'ansible', 'sql', 'grafana', 'logstash', 'ldap', ' sas', 'linux']
+110;consultant-sap-ppds-h-f-paris-remote-1658823;"
+                    Club Freelance ";Fontainebleau;2 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-sap-ppds-h-f-paris-remote-1658823;[' sas']
+111;developpeur-full-stack-angular-net-h-f-1656771;"
+                    Club Freelance ";Fontainebleau;2 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-angular-net-h-f-1656771;['azure', 'sql', 'anglais', ' sas']
+112;scrum-master-h-f-1656664;"
+                    Club Freelance ";Reims;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1656664;['jira', 'agile', 'anglais', 'scrum']
+113;chef-de-projet-scrum-master-1656665;"
+                    Club Freelance ";Reims;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-scrum-master-1656665;['kafka', 'puppet', 'sql', 'hadoop', 'jira', 'agile', 'terraform', 'apache', 'postgresql', 'vpn', 'scrum', 'mariadb', 'linux']
+114;scrum-master-h-f-1656669;"
+                    Club Freelance ";Nantes;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1656669;['jira', 'scrum']
+115;chef-de-projet-integration-sap-h-f-1656651;"
+                    Club Freelance ";Nantes;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-integration-sap-h-f-1656651;['anglais', ' sas']
+116;architecte-systeme-kubernetes-f-h-1656653;"
+                    Club Freelance ";Paris;1 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/architecte-systeme-kubernetes-f-h-1656653;['kafka', 'ansible', 'sql', 'grafana', 'logstash']
+117;consultant-sap-co-ps-h-f-remote-1656659;"
+                    Club Freelance ";Paris;1 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-sap-co-ps-h-f-remote-1656659;['anglais', ' sas']
+118;developpeur-angular-h-f-1656645;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-angular-h-f-1656645;[' git ', 'anglais']
+119;program-manager-h-f-1656646;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/program-manager-h-f-1656646;['scala', ' sas']
+120;ingenieur-poste-de-travail-h-f-1656086;"
+                    Club Freelance ";Annecy;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-poste-de-travail-h-f-1656086;['oracle', 'vpn', ' sas', 'powershell']
+121;expert-wso-1656026;"
+                    Club Freelance ";Annecy;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/expert-wso-1656026;['api rest', 'splunk', ' sas', 'linux']
+122;responsable-du-domaine-fonctionnel-sap-fi-s-hana-h-f-1655963;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/responsable-du-domaine-fonctionnel-sap-fi-s-hana-h-f-1655963;['anglais', 'cartographie']
+123;chef-de-projet-it-navision-h-f-remote-1655899;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-navision-h-f-remote-1655899;['anglais']
+124;ingenieur-systeme-linux-opensource-h-f-remote-1656716;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-opensource-h-f-remote-1656716;['kafka', 'ansible', 'sql', 'grafana', 'logstash', 'ldap', ' sas', 'linux']
+125;consultant-sap-tm-tpe-ewm-h-f-1655690;"
+                    Club Freelance ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-sap-tm-tpe-ewm-h-f-1655690;['anglais', ' sas']
+126;responsable-applicatif-technique-h-f-1655649;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/responsable-applicatif-technique-h-f-1655649;['sonar', ' sas']
+127;expert-en-test-et-qualite-des-logiciels-h-f-1655598;"
+                    Club Freelance ";Télétravail;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/expert-en-test-et-qualite-des-logiciels-h-f-1655598;[' sas']
+128;consultant-sap-ppds-h-f-paris-remote-1655962;"
+                    Club Freelance ";Laval;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/consultant-sap-ppds-h-f-paris-remote-1655962;[' sas']
+129;hr-core-manager-h-f-1654896;"
+                    Club Freelance ";Laval;3 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/hr-core-manager-h-f-1654896;['anglais']

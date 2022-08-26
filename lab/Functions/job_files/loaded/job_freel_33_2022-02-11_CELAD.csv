@@ -1,0 +1,661 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;consultant-drupal-1666788;"
+                    CELAD ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-drupal-1666788;['java', 'docker', 'linux']
+1;administrateur-technique-f-h-1666775;"
+                    CELAD ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/administrateur-technique-f-h-1666775;['elk', 'sql', 'oracle', 'apache', 'tomcat', 'postgresql', 'mongodb', 'linux']
+2;analyste-concepteur-data-f-h-1666771;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/analyste-concepteur-data-f-h-1666771;[' odi ', 'sql', 'anglais', 'linux']
+3;data-analyst-f-h-1666769;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/data-analyst-f-h-1666769;['azure', 'python', 'spark', 'hive', 'gcp', 'hadoop', 'oracle', 'agile', 'cloudera', 'anglais']
+4;ingenieur-etude-et-developpement-front-end-f-h-1666768;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-etude-et-developpement-front-end-f-h-1666768;['java', 'agile']
+5;developpeur-power-platform-1666753;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-power-platform-1666753;['java', 'power bi', ' sas', 'powershell']
+6;business-analyst-technico-fonctionnel-expertise-salesforce-1666557;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/business-analyst-technico-fonctionnel-expertise-salesforce-1666557;['anglais', ' sas', 'salesforce']
+7;data-analyst-loan-iq-datanet-finlake-1666549;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/data-analyst-loan-iq-datanet-finlake-1666549;['powerbi', ' sas']
+8;developpeur-it-quant-finance-c-spark-fire-1666541;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-it-quant-finance-c-spark-fire-1666541;['spark', 'agile', 'scrum', ' sas']
+9;support-technique-developpeur-dataflow-t-sql-ctrlm-1666533;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/support-technique-developpeur-dataflow-t-sql-ctrlm-1666533;['sql', 'hadoop', ' bo ', 'agile', 'anglais', 'kanban', ' sas', 'ssas']
+10;expertise-coach-agile-spotify-safe-1664382;"
+                    CELAD ";Charenton-le-Pont;12 mois; 440 €;10/02/2022;https://www.freelance-info.fr/mission/expertise-coach-agile-spotify-safe-1664382;['agile', ' sas']
+11;ingenieur-qa-h-f-1664348;"
+                    CELAD ";Charenton-le-Pont;12 mois; 440 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-qa-h-f-1664348;['jira', 'agile', 'grafana']
+12;ingenieur-developpeur-cloud-full-stack-python-angular-1664164;"
+                    CELAD ";Paris;12 mois; 550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-cloud-full-stack-python-angular-1664164;['azure', 'docker', 'python', 'data lake', 'sql', 'gcp', 'agile', 'anglais', 'scrum', 'microservice']
+13;ingenieur-developpeur-software-c-linux-embarque-1664154;"
+                    CELAD ";Paris;12 mois; 550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-software-c-linux-embarque-1664154;['linux']
+14;ingenieur-developpeur-back-end-python-cloud-azure-oriente-devops-1664155;"
+                    CELAD ";Paris;12 mois; 550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-back-end-python-cloud-azure-oriente-devops-1664155;['java', 'gitlab', 'azure', 'docker', 'python', 'anglais']
+15;ingenieur-developpeur-java-j-ee-fullstack-1664159;"
+                    CELAD ";Paris;12 mois; 550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-java-j-ee-fullstack-1664159;['java', 'sql', 'oracle', 'agile', 'scrum']
+16;developpeur-c-c-temps-reel-embarque-domaine-defense-1664145;"
+                    CELAD ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-c-c-temps-reel-embarque-domaine-defense-1664145;[' git ', 'python', 'sql', 'jira', 'agile', 'anglais', 'scrum', 'linux']
+17;ingenieur-developpeur-software-c-c-linux-embarque-domaine-aeronautique-1664148;"
+                    CELAD ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-software-c-c-linux-embarque-domaine-aeronautique-1664148;[' git ', 'gitlab', 'docker', 'python', 'sonar', 'anglais', 'sonarqube', 'linux']
+18;ingenieur-test-postman-soapui-1664150;"
+                    CELAD ";Paris;12 mois; 500 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-postman-soapui-1664150;['java', 'jenkins', 'scrum']
+19;ingenieur-developpeur-web-c-asp-net-angular-fullstack-1664151;"
+                    CELAD ";Paris;12 mois; 500 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-web-c-asp-net-angular-fullstack-1664151;['java', 'azure', 'sql', 'agile', 'anglais', 'scrum', 'linux']
+20;ingenieur-developpement-c-net-core-ou-asp-net-fullstack-ou-back-end-1664135;"
+                    CELAD ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-c-net-core-ou-asp-net-fullstack-ou-back-end-1664135;['java', 'azure', 'sql', 'modélisation']
+21;ingenieur-developpeur-fullstack-nodejs-reactjs-voire-angular-ou-vuejs-a-fort-background-devops-1664138;"
+                    CELAD ";Paris;12 mois; 400-550 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-fullstack-nodejs-reactjs-voire-angular-ou-vuejs-a-fort-background-devops-1664138;['java', 'azure', 'docker', 'sql', 'ci/cd', 'sonar', 'anglais', 'postgresql', 'sonarqube', ' sas']
+22;ingenieur-developpeur-api-python-selenium-automatisation-de-test-1664141;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-api-python-selenium-automatisation-de-test-1664141;['python']
+23;chef-de-projet-it-plm-h-f-1666426;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-plm-h-f-1666426;['jira', 'anglais', 'scala']
+24;product-lead-h-f-1664017;"
+                    CELAD ";Montpellier;12 mois; 380-450 €;10/02/2022;https://www.freelance-info.fr/mission/product-lead-h-f-1664017;['jira', 'agile', 'confluence', 'anglais', 'scrum']
+25;moe-power-b-i-architecte-b-i-ms-sql-serveur-1666103;"
+                    CELAD ";Montpellier;12 mois; 380-450 €;10/02/2022;https://www.freelance-info.fr/mission/moe-power-b-i-architecte-b-i-ms-sql-serveur-1666103;['power bi', 'sql', ' sas']
+26;ingenieur-data-gouvernance-architecture-h-f-1665978;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-420 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-data-gouvernance-architecture-h-f-1665978;['gitlab', 'sql', 'gcp', 'jira', 'confluence', 'cartographie']
+27;product-lead-h-f-1665963;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-420 €;10/02/2022;https://www.freelance-info.fr/mission/product-lead-h-f-1665963;['jira', 'agile', 'confluence', 'anglais', 'scrum']
+28;product-owner-paiement-h-f-1665956;"
+                    CELAD ";Montpellier;12 mois; 380-430 €;10/02/2022;https://www.freelance-info.fr/mission/product-owner-paiement-h-f-1665956;['anglais']
+29;chef-de-projet-monetique-h-f-1665948;"
+                    CELAD ";Montpellier;12 mois; 380-430 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-monetique-h-f-1665948;['java', 'docker', 'sql', 'anglais', 'mysql']
+30;ingenieur-developpeur-java-industriel-client-lourd-swing-ou-fx-ou-osgi-1665860;"
+                    CELAD ";Aix-en-Provence;12 mois; 300-380 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-java-industriel-client-lourd-swing-ou-fx-ou-osgi-1665860;['java', 'sql']
+31;consultant-devops-ci-cd-expert-integration-continue-1665859;"
+                    CELAD ";Aix-en-Provence;12 mois; 300-380 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-devops-ci-cd-expert-integration-continue-1665859;[' git ', 'jenkins', 'docker', 'ci/cd', 'sonar']
+32;ingenieur-developpeur-front-end-angular-1665826;"
+                    CELAD ";Saint-Tropez;12 mois; 380-400 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-front-end-angular-1665826;['agile', 'scrum']
+33;ingenieur-developpeur-software-embarque-temps-reel-rtos-linux-1665825;"
+                    CELAD ";Saint-Tropez;12 mois; 380-400 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-software-embarque-temps-reel-rtos-linux-1665825;[' git ', 'jira', 'anglais', 'linux']
+34;developpeur-web-full-stack-java-j-ee-spring-angular-freelance-ou-cdi-1665824;"
+                    CELAD ";Marignane;12 mois; 330-400 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-web-full-stack-java-j-ee-spring-angular-freelance-ou-cdi-1665824;['java', ' git ', 'jenkins', 'sql', 'agile', 'sonar', 'postgresql', 'cartographie', 'scrum', 'sonarqube', 'microservice']
+35;ingenieur-developpeur-asp-net-core-full-stack-voire-back-end-1665821;"
+                    CELAD ";Marignane;12 mois; 330-400 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-asp-net-core-full-stack-voire-back-end-1665821;['java', 'sql', 'modélisation']
+36;ingenieur-developpeur-c-net-applicatif-web-ou-client-lourd-freelance-ou-cdi-1665817;"
+                    CELAD ";Aix-en-Provence;12 mois; 330-380 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-c-net-applicatif-web-ou-client-lourd-freelance-ou-cdi-1665817;['sql', 'agile']
+37;developpeur-c-wpf-client-lourd-domaine-defense-1665816;"
+                    CELAD ";Aix-en-Provence;12 mois; 330-380 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-c-wpf-client-lourd-domaine-defense-1665816;[]
+38;ingenieur-developpeur-algorithmes-applications-scientifiques-c-qt-1665813;"
+                    CELAD ";Montpellier;12 mois; 350-420 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-algorithmes-applications-scientifiques-c-qt-1665813;['azure', 'python', 'sql', 'modélisation', 'anglais']
+39;ingenieur-qualification-logicielle-test-applicatif-java-1665811;"
+                    CELAD ";Montpellier;12 mois; 350-420 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-qualification-logicielle-test-applicatif-java-1665811;['java', 'python', 'sql']
+40;ingenieur-developpeur-c-qt-middleware-ihm-sous-windows-1665804;"
+                    CELAD ";Avignon;12 mois; 350-400 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-c-qt-middleware-ihm-sous-windows-1665804;['python', 'sql', 'agile', 'anglais', 'postgresql', 'scrum']
+41;ingenieur-developpement-ihm-c-qt-moderne-1665800;"
+                    CELAD ";Avignon;12 mois; 350-400 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-ihm-c-qt-moderne-1665800;['azure', 'python', 'sql', 'modélisation', 'anglais']
+42;ingenieur-developpement-ihm-c-qt-moderne-1665798;"
+                    CELAD ";Montpellier;12 mois; 350-420 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-ihm-c-qt-moderne-1665798;['azure', 'python', 'sql', 'modélisation', 'anglais']
+43;ingenieur-developpeur-web-net-angular-full-stack-notions-asp-net-core-1665797;"
+                    CELAD ";Montpellier;12 mois; 350-420 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-web-net-angular-full-stack-notions-asp-net-core-1665797;['java', 'sql', 'modélisation']
+44;developpeur-back-end-sql-perl-voire-python-ou-php-1665794;"
+                    CELAD ";Aix-en-Provence;12 mois; 330-390 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-sql-perl-voire-python-ou-php-1665794;[' git ', 'python', 'sql', 'agile', 'postgresql', 'scrum', 'linux']
+45;developpeur-php-symfony-back-end-competences-sql-1665793;"
+                    CELAD ";Aix-en-Provence;12 mois; 330-390 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-back-end-competences-sql-1665793;['java', 'sql', 'jira', 'linux']
+46;ingenieur-developpeur-typescript-javascript-full-stack-a-gros-background-devops-sur-site-client-1665791;"
+                    CELAD ";Lyon;1 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-typescript-javascript-full-stack-a-gros-background-devops-sur-site-client-1665791;['java', 'azure', 'docker', 'data lake', 'sql', 'ci/cd', 'agile', 'sonar', 'anglais', 'postgresql', 'scrum', 'sonarqube', ' sas']
+47;amoa-banque-risques-de-contrepartie-1665735;"
+                    CELAD ";Lyon;1 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/amoa-banque-risques-de-contrepartie-1665735;[' sas']
+48;ingenieur-systeme-et-reseau-experimente-e-h-f-1665643;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-et-reseau-experimente-e-h-f-1665643;['ansible', 'python']
+49;developpeur-euse-python-ai-solutions-benchmarking-h-f-1665642;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-ai-solutions-benchmarking-h-f-1665642;['tableau', 'python', 'api rest', 'linux']
+50;technicien-ne-d-exploitation-h-f-1665641;"
+                    CELAD ";Paris;12 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/technicien-ne-d-exploitation-h-f-1665641;['linux']
+51;developpeur-euse-c-net-experimente-e-h-f-1665640;"
+                    CELAD ";Paris;12 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-net-experimente-e-h-f-1665640;['sql', 'oracle']
+52;developpeur-euse-full-stack-java-angular-h-f-1665639;"
+                    CELAD ";Plessis-Robinson (Le);24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-java-angular-h-f-1665639;['java', 'sql', 'postgresql', 'jboss', 'linux']
+53;chef-de-projet-scrum-master-h-f-1665638;"
+                    CELAD ";Plessis-Robinson (Le);24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-scrum-master-h-f-1665638;['agile', 'scrum']
+54;developpeur-euse-c-devops-h-f-1665637;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-devops-h-f-1665637;['jenkins', 'docker', 'jira', 'anglais']
+55;developpeur-euse-sw-algorithme-c-c-h-f-1665636;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-sw-algorithme-c-c-h-f-1665636;['anglais']
+56;administrateur-trice-gitlab-devops-h-f-1665635;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/administrateur-trice-gitlab-devops-h-f-1665635;['gitlab']
+57;support-analyst-itil-h-f-1665634;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/support-analyst-itil-h-f-1665634;['anglais', 'itil']
+58;testeur-euse-integrateur-trice-applicatif-h-f-1665631;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/testeur-euse-integrateur-trice-applicatif-h-f-1665631;['java', 'python', 'sql', 'oracle', 'linux']
+59;ingenieur-instrumentation-h-f-1665628;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-instrumentation-h-f-1665628;[]
+60;analyste-fonctionnel-servicenow-h-f-1665627;"
+                    CELAD ";Aix-en-Provence;12 mois; 310-390 €;08/02/2022;https://www.freelance-info.fr/mission/analyste-fonctionnel-servicenow-h-f-1665627;['agile', 'anglais', 'itil']
+61;ingenieur-devops-h-f-1665520;"
+                    CELAD ";Aix-en-Provence;12 mois; 310-390 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1665520;['jenkins', 'docker', 'maven', 'agile', 'sonar', 'sonarqube']
+62;developpeur-java-microservices-h-f-1665495;"
+                    CELAD ";Aix-en-Provence;12 mois; 360-400 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-java-microservices-h-f-1665495;['java', 'jenkins', 'azure', 'kafka', 'elk', 'docker', 'ansible', 'sql', 'gcp', 'ci/cd', 'api rest', 'jira', 'agile', 'confluence', 'sonar', 'springboot', 'grafana', 'scrum', ' sas', 'microservice']
+63;administrateur-systeme-linux-confirme-e-h-f-1665448;"
+                    CELAD ";Aix-en-Provence;12 mois; 360-400 €;08/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-linux-confirme-e-h-f-1665448;['ansible', 'python', 'sql', 'oracle', 'postgresql', 'itil', 'ldap', 'linux']
+64;mco-senior-h-f-1665440;"
+                    CELAD ";Aix-en-Provence;12 mois; 340-380 €;08/02/2022;https://www.freelance-info.fr/mission/mco-senior-h-f-1665440;['sql', 'linux']
+65;product-owner-bi-h-f-1665436;"
+                    CELAD ";Aix-en-Provence;12 mois; 340-380 €;08/02/2022;https://www.freelance-info.fr/mission/product-owner-bi-h-f-1665436;['qlik', 'aws', 'sql', 'datawarehouse', 'glue', 'qliksense', 'agile', 'modélisation', 'cartographie']
+66;expert-hadoop-spark-rdd-1665303;"
+                    CELAD ";Aubagne;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/expert-hadoop-spark-rdd-1665303;['java', 'jenkins', 'spark', 'hive', 'maven', 'sql', 'hadoop', 'scala', ' sas']
+67;informaticien-ne-systemes-reseaux-h-f-1665195;"
+                    CELAD ";Aubagne;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/informaticien-ne-systemes-reseaux-h-f-1665195;['linux']
+68;developpeur-euse-java-h-f-1665194;"
+                    CELAD ";Aix-en-Provence;12 mois; 300-380 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-h-f-1665194;['java', 'gitlab', 'jenkins', 'sql', 'agile']
+69;lead-developpeur-euse-java-h-f-1665193;"
+                    CELAD ";Aix-en-Provence;12 mois; 300-380 €;08/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-euse-java-h-f-1665193;['java', 'gitlab', 'jenkins', 'maven', 'sql', 'tomcat', 'mysql']
+70;concepteur-trice-developpeur-euse-java-angular-h-f-1665192;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/concepteur-trice-developpeur-euse-java-angular-h-f-1665192;['java', 'gitlab', 'jenkins', 'maven', 'api rest', 'jira', 'oracle', 'confluence', 'sonar', 'kanban', 'scrum', 'linux']
+71;developpeur-euse-linux-embarque-h-f-1665191;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-linux-embarque-h-f-1665191;[' git ', 'jenkins', 'python', 'jira', 'confluence', 'linux']
+72;developpeur-euse-web-angular-c-h-f-1665190;"
+                    CELAD ";Marseille;12 mois; 310-380 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-web-angular-c-h-f-1665190;[]
+73;developpeur-euse-testeur-euse-cobol-sql-h-f-1665189;"
+                    CELAD ";Marseille;12 mois; 310-380 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-testeur-euse-cobol-sql-h-f-1665189;['sql', 'anglais', 'linux']
+74;analyste-developpeur-euse-cobol-h-f-1665188;"
+                    CELAD ";Aix-en-Provence;12 mois; 340-380 €;08/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-euse-cobol-h-f-1665188;['anglais']
+75;developpeur-euse-visual-studio-c-azure-h-f-1665187;"
+                    CELAD ";Aix-en-Provence;12 mois; 340-380 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-visual-studio-c-azure-h-f-1665187;['java', 'azure', 'sql', 'api rest', 'agile']
+76;developpeur-euse-full-stack-java-angular-h-f-1665186;"
+                    CELAD ";Montpellier;12 mois; 380-400 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-java-angular-h-f-1665186;['java', 'maven', 'sql', 'jira', 'agile', 'confluence', 'tomcat', 'springboot', 'mysql']
+77;scrum-master-h-f-1665185;"
+                    CELAD ";Montpellier;12 mois; 380-400 €;08/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1665185;['jira', 'agile', 'confluence', 'kanban', 'scrum']
+78;referent-e-produit-validation-h-f-1665184;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/referent-e-produit-validation-h-f-1665184;['jira', 'agile', 'xray']
+79;developpeur-euse-java-api-web-services-h-f-1665183;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-api-web-services-h-f-1665183;['java', 'agile', 'sonar']
+80;developpeur-euse-java-j-ee-h-f-1665182;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-380 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-j-ee-h-f-1665182;['java', 'gitlab', 'jenkins', 'docker', 'sql', 'ci/cd', 'anglais', 'itil', 'mysql', 'mongodb']
+81;lead-dev-java-web-service-api-h-f-1665181;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-380 €;08/02/2022;https://www.freelance-info.fr/mission/lead-dev-java-web-service-api-h-f-1665181;['java', 'gitlab', 'docker', 'anglais']
+82;developpeur-euse-java-web-service-api-h-f-1665180;"
+                    CELAD ";Montpellier;12 mois; 380-420 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-web-service-api-h-f-1665180;['java', 'gitlab', 'docker', 'anglais']
+83;ingenieur-devops-h-f-1665179;"
+                    CELAD ";Montpellier;12 mois; 380-420 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1665179;['agile', 'itil']
+84;architecte-technique-java-web-service-api-h-f-1665178;"
+                    CELAD ";Montpellier;12 mois; 380-400 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-technique-java-web-service-api-h-f-1665178;['java', 'gitlab', 'docker', 'anglais']
+85;developpeur-euse-full-stack-j-ee-angular-h-f-1665177;"
+                    CELAD ";Montpellier;12 mois; 380-400 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-j-ee-angular-h-f-1665177;['java']
+86;developpeur-euse-full-stack-j-ee-vue-js-h-f-1665176;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-380 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-j-ee-vue-js-h-f-1665176;['java', 'agile', 'scrum']
+87;tech-lead-full-stack-java-vue-js-h-f-1665175;"
+                    CELAD ";Aix-en-Provence;12 mois; 350-380 €;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-full-stack-java-vue-js-h-f-1665175;['java', 'scrum']
+88;consultant-e-support-surete-informatique-h-f-1665174;"
+                    CELAD ";Marseille;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-e-support-surete-informatique-h-f-1665174;[]
+89;devops-h-f-1665173;"
+                    CELAD ";Marseille;12 mois; 350-400 €;08/02/2022;https://www.freelance-info.fr/mission/devops-h-f-1665173;['java', 'gitlab', 'jenkins', 'sql', 'sonar', 'anglais', 'splunk', 'linux']
+90;business-analyst-supply-chain-h-f-1665172;"
+                    CELAD ";Marseille;12 mois; 340-380 €;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-supply-chain-h-f-1665172;['anglais']
+91;ingenieur-pilote-etudes-thermo-plastiques-h-f-1665171;"
+                    CELAD ";Marseille;12 mois; 340-380 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-pilote-etudes-thermo-plastiques-h-f-1665171;['anglais']
+92;developpeur-euse-perl-php-h-f-1665170;"
+                    CELAD ";Montpellier;12 mois; 350-420 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-perl-php-h-f-1665170;['java', 'sql', 'apache', 'mysql', 'linux']
+93;tech-lead-outils-digitaux-h-f-1665169;"
+                    CELAD ";Montpellier;12 mois; 350-420 €;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-outils-digitaux-h-f-1665169;['anglais']
+94;developpeur-euse-net-mvc-c-h-f-1665168;"
+                    CELAD ";Charenton-le-Pont;12 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-net-mvc-c-h-f-1665168;['jenkins', 'elk', 'docker', 'sql', 'scrum']
+95;analyste-fonctionnel-mco-epargne-h-f-1665167;"
+                    CELAD ";Charenton-le-Pont;12 mois; 500 €;08/02/2022;https://www.freelance-info.fr/mission/analyste-fonctionnel-mco-epargne-h-f-1665167;['sql']
+96;developpeur-euse-kotlin-logiciel-embarque-h-f-1665166;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-kotlin-logiciel-embarque-h-f-1665166;['linux']
+97;developpeur-euse-java-vue-js-h-f-1665165;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-vue-js-h-f-1665165;['java', 'sql', 'api rest', 'anglais']
+98;chef-projet-programme-android-h-f-1665164;"
+                    CELAD ";Cesson-Sévigné;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-projet-programme-android-h-f-1665164;[]
+99;developpeur-euse-android-linux-embarque-h-f-1665163;"
+                    CELAD ";Cesson-Sévigné;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-android-linux-embarque-h-f-1665163;['java', 'jenkins', 'jira', 'linux']
+100;business-analyst-h-f-1665162;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-analyst-h-f-1665162;['sql', 'db2']
+101;developpeur-euse-net-xamarin-h-f-1665161;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-net-xamarin-h-f-1665161;['java', 'sql']
+102;referent-e-materiel-logiciel-embarque-h-f-1665160;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/referent-e-materiel-logiciel-embarque-h-f-1665160;['anglais']
+103;lead-dev-angular-v-h-f-1665159;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/lead-dev-angular-v-h-f-1665159;['java', ' git ', 'gitlab', 'sql', 'api rest', 'postgresql', 'linux']
+104;chef-de-projets-migration-h-f-1665158;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projets-migration-h-f-1665158;[]
+105;process-engineer-facturation-h-f-1665157;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/process-engineer-facturation-h-f-1665157;['oracle', 'anglais']
+106;business-test-leader-h-f-1665156;"
+                    CELAD ";Saint-Jacques-de-la-Lande;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-test-leader-h-f-1665156;['anglais']
+107;analyste-de-securite-linux-h-f-1665155;"
+                    CELAD ";Saint-Jacques-de-la-Lande;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-de-securite-linux-h-f-1665155;['ansible', 'python', 'linux']
+108;team-lead-kubernetes-docker-h-f-1665154;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/team-lead-kubernetes-docker-h-f-1665154;['docker', 'ci/cd', 'agile', 'anglais', 'linux']
+109;business-analyst-mdm-h-f-1665153;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-analyst-mdm-h-f-1665153;['anglais']
+110;administrateur-trice-data-lake-splunk-h-f-1665152;"
+                    CELAD ";Cesson-Sévigné;1 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-trice-data-lake-splunk-h-f-1665152;['gitlab', 'tableau', 'azure', 'ansible', 'python', 'data lake', 'agile', 'anglais', 'tableaux de bord', 'scrum', 'splunk', 'linux']
+111;analyste-securite-h-f-1665151;"
+                    CELAD ";Cesson-Sévigné;1 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-securite-h-f-1665151;['anglais', 'itil', 'firewalls']
+112;architecte-de-donnees-aws-h-f-1665150;"
+                    CELAD ";Cesson-Sévigné;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/architecte-de-donnees-aws-h-f-1665150;['aws', 'itil']
+113;mdm-business-analyst-h-f-1665149;"
+                    CELAD ";Cesson-Sévigné;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/mdm-business-analyst-h-f-1665149;['anglais']
+114;coach-lean-agile-h-f-1665148;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/coach-lean-agile-h-f-1665148;['agile', 'anglais']
+115;business-analyst-s-op-h-f-1665147;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-analyst-s-op-h-f-1665147;['agile', 'anglais']
+116;chef-de-projets-flux-de-facturation-h-f-1665146;"
+                    CELAD ";Lannion;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projets-flux-de-facturation-h-f-1665146;['anglais']
+117;product-ownership-pim-h-f-1665145;"
+                    CELAD ";Lannion;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/product-ownership-pim-h-f-1665145;['agile', 'anglais']
+118;business-analyst-order-to-cash-h-f-1665144;"
+                    CELAD ";Bruz;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-analyst-order-to-cash-h-f-1665144;[]
+119;product-owner-e-commerce-oms-1663324;"
+                    CELAD ";Bruz;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/product-owner-e-commerce-oms-1663324;['jira', 'agile', 'confluence']
+120;lead-validation-integration-amoa-h-f-1665119;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/lead-validation-integration-amoa-h-f-1665119;[]
+121;developpeur-euse-expert-e-sql-server-h-f-1665118;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-expert-e-sql-server-h-f-1665118;['sql', 'linux']
+122;developpeur-euse-python-experimente-e-h-f-1665117;"
+                    CELAD ";Bezons;1 mois; 500-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-experimente-e-h-f-1665117;['python']
+123;developpeur-euse-fullstack-java-h-f-1665116;"
+                    CELAD ";Bezons;1 mois; 500-550 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-fullstack-java-h-f-1665116;['java', 'sql']
+124;lead-developpeur-euse-angular-h-f-1665115;"
+                    CELAD ";Massy;24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-euse-angular-h-f-1665115;['java', 'jenkins', 'agile']
+125;expert-e-sharepoint-h-f-1665114;"
+                    CELAD ";Massy;24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-e-sharepoint-h-f-1665114;['powershell']
+126;developpeur-euse-java-keycloak-h-f-1665113;"
+                    CELAD ";La Défense (92);24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-keycloak-h-f-1665113;['java', 'gitlab', 'docker', 'agile', 'terraform']
+127;technicien-ne-support-h-f-1665112;"
+                    CELAD ";La Défense (92);24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/technicien-ne-support-h-f-1665112;[]
+128;pmo-data-science-et-intelligence-de-la-donnee-1662743;"
+                    CELAD ";Montreuil;24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/pmo-data-science-et-intelligence-de-la-donnee-1662743;[' sas']
+129;ingenieur-etudes-et-developpement-fullstack-php-angular-1664827;"
+                    CELAD ";Montreuil;24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-etudes-et-developpement-fullstack-php-angular-1664827;['java', 'docker', 'sql', 'ci/cd', 'oracle', 'tomcat', 'mysql', 'linux']
+130;urbaniste-si-1664805;"
+                    CELAD ";Montrouge;24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/urbaniste-si-1664805;['cartographie']
+131;administrateur-active-directory-h-f-1664704;"
+                    CELAD ";Montrouge;24 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-active-directory-h-f-1664704;[]
+132;technicien-ne-helpdesk-h-f-1664670;"
+                    CELAD ";Paris;12 mois; 550 €;07/02/2022;https://www.freelance-info.fr/mission/technicien-ne-helpdesk-h-f-1664670;['linux']
+133;technicien-ne-support-applicatif-h-f-1664667;"
+                    CELAD ";Paris;12 mois; 550 €;07/02/2022;https://www.freelance-info.fr/mission/technicien-ne-support-applicatif-h-f-1664667;['sql', 'itil']
+134;developpeur-euse-javascript-nodejs-vuejs-h-f-1664664;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-javascript-nodejs-vuejs-h-f-1664664;['java']
+135;business-analyst-ios-android-1662295;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/business-analyst-ios-android-1662295;['sql', 'jira', 'oracle', 'confluence', 'anglais', ' sas']
+136;developpeur-euse-java-angular-h-f-1653650;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-angular-h-f-1653650;['java', 'gitlab', 'jira']
+137;developpeur-euse-android-java-kotlin-h-f-1653467;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-android-java-kotlin-h-f-1653467;['java', ' git ', 'jenkins', 'jira']
+138;ingenieur-developpement-embarque-h-f-1653403;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-embarque-h-f-1653403;['anglais']
+139;consultant-e-amoa-maintenance-digitale-h-f-1653428;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/consultant-e-amoa-maintenance-digitale-h-f-1653428;['sql']
+140;expert-e-developpeur-euse-net-core-tech-lead-h-f-1653429;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/expert-e-developpeur-euse-net-core-tech-lead-h-f-1653429;['azure', 'sql']
+141;expert-e-developpeur-euse-angular-h-f-1653433;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/expert-e-developpeur-euse-angular-h-f-1653433;['azure', 'sql']
+142;developpeur-euse-net-exploitation-de-flux-h-f-1653439;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-net-exploitation-de-flux-h-f-1653439;['vpn']
+143;expert-e-tests-h-f-1653447;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/expert-e-tests-h-f-1653447;[]
+144;developpeur-euse-sw-android-h-f-1653453;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-sw-android-h-f-1653453;['java', ' git ']
+145;lead-tech-full-stack-react-net-core-h-f-1653455;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/lead-tech-full-stack-react-net-core-h-f-1653455;['kafka', 'api rest', 'mongodb', 'microservice']
+146;developpeur-euse-net-core-h-f-1653400;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-net-core-h-f-1653400;[' git ', 'kafka', 'api rest', 'jira', 'agile', 'confluence', 'sonar', 'grafana', 'scrum', 'mongodb']
+147;ingenieur-systeme-devops-h-f-1653458;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-devops-h-f-1653458;['azure', 'ansible', 'python', 'api rest', 'terraform', 'linux']
+148;product-owner-h-f-1653460;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1653460;['agile', 'anglais', 'kanban', 'scrum']
+149;developpeur-euse-full-stack-php-javascript-symfony-h-f-1653465;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-php-javascript-symfony-h-f-1653465;['java', 'mongodb']
+150;administrateur-trice-systemes-reseaux-h-f-1653466;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/administrateur-trice-systemes-reseaux-h-f-1653466;['sql', 'apache', 'mysql', 'linux']
+151;ingenieur-test-logiciel-h-f-1653472;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-logiciel-h-f-1653472;['agile']
+152;developpeur-euse-java-jee-h-f-1653470;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-jee-h-f-1653470;['java', 'jenkins', 'maven', 'sonar']
+153;scrum-master-banque-assurance-1662161;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/scrum-master-banque-assurance-1662161;['agile', 'scrum', ' sas']
+154;developpeur-java-aem-h-f-1662162;"
+                    CELAD ";Lyon;1 année; 470-480 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-java-aem-h-f-1662162;['java', 'aws', 'docker', 'sql', 'agile', 'anglais']
+155;analyste-developpeur-h-f-1664136;"
+                    CELAD ";Lyon;1 année; 470-480 €;05/02/2022;https://www.freelance-info.fr/mission/analyste-developpeur-h-f-1664136;['java', 'sql', ' sas']
+156;architecte-fonctionnel-h-f-1663822;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-h-f-1663822;['power bi', 'sql', 'modélisation', 'postgresql', 'cartographie', 'linux']
+157;service-delivery-manager-h-f-1663806;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/service-delivery-manager-h-f-1663806;['aws', 'azure', 'anglais', 'itil']
+158;ingenieur-e-developpement-systemes-embarques-h-f-1661467;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-e-developpement-systemes-embarques-h-f-1661467;['agile', 'anglais']
+159;consultant-editique-f-h-1661387;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/consultant-editique-f-h-1661387;['java', 'sql']
+160;operation-manager-f-h-1661389;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/operation-manager-f-h-1661389;['tableau', 'python', 'sql', 'gcp', 'hadoop', 'linux']
+161;consultant-technico-fonctionnel-f-h-1661393;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/consultant-technico-fonctionnel-f-h-1661393;['java', 'sql', 'anglais']
+162;ingenieur-developpement-expert-java-applicatif-domaine-iot-plm-1661197;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-expert-java-applicatif-domaine-iot-plm-1661197;['java', 'agile', 'anglais', 'scrum']
+163;data-analyst-banque-sirh-1661040;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/data-analyst-banque-sirh-1661040;['cartographie', ' sas']
+164;ingenieur-reseaux-et-securite-1661022;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-et-securite-1661022;[]
+165;developpeur-euse-fullstack-java-spring-h-f-1662937;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-fullstack-java-spring-h-f-1662937;['java', 'maven', 'api rest']
+166;testeur-euse-fonctionnel-le-h-f-1662931;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/testeur-euse-fonctionnel-le-h-f-1662931;['sql', 'jira', 'oracle', 'mysql']
+167;ingenieur-admin-systeme-reseau-h-f-1662906;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-admin-systeme-reseau-h-f-1662906;['sql', 'oracle', 'linux']
+168;developpeur-euse-c-c-python-h-f-1662898;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-c-python-h-f-1662898;[' r ', 'python', 'agile', 'linux']
+169;developpeur-euse-android-ios-h-f-1662874;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-android-ios-h-f-1662874;['java', ' git ', 'agile']
+170;ingenieur-validation-confirme-e-h-f-1662868;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-validation-confirme-e-h-f-1662868;['python', 'linux']
+171;ingenieur-sw-embarque-stm-h-f-1662863;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-sw-embarque-stm-h-f-1662863;[]
+172;developpeur-rpa-blue-prism-1662806;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-rpa-blue-prism-1662806;['agile', 'blueprism', ' sas']
+173;moa-summit-1662801;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/moa-summit-1662801;['sql']
+174;ingenieur-hardware-h-f-1660610;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-hardware-h-f-1660610;[]
+175;scrum-master-1660505;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/scrum-master-1660505;['jira', 'agile', 'confluence', 'scrum', ' sas']
+176;developpeur-euse-sql-h-f-1653408;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-sql-h-f-1653408;['hive', 'sql', 'mysql']
+177;consultant-cobol-h-f-1662673;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/consultant-cobol-h-f-1662673;['sql', 'db2', 'postgresql']
+178;ingenieur-en-electronique-de-puissance-fpga-h-f-1655985;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-en-electronique-de-puissance-fpga-h-f-1655985;['anglais']
+179;developpeur-euse-fullstack-python-javascript-h-f-1655984;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-fullstack-python-javascript-h-f-1655984;['java', 'docker', 'python', 'api rest', 'agile', 'scrum']
+180;developpeur-euse-java-angular-h-f-1655982;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-java-angular-h-f-1655982;['java', 'github', 'jenkins', 'linux']
+181;devops-cloud-h-f-1655981;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/devops-cloud-h-f-1655981;['aws', 'docker', 'ansible', 'python', 'sql', 'gcp', 'terraform', 'mongodb', 'linux']
+182;ingenieur-en-developpement-python-h-f-1655980;"
+                    CELAD ";Saint-Désirat;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-en-developpement-python-h-f-1655980;['python', 'ci/cd', 'api rest']
+183;ingenieur-devops-ansible-h-f-1655979;"
+                    CELAD ";Saint-Désirat;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-ansible-h-f-1655979;['ansible', 'ci/cd']
+184;moe-systeme-de-virtualisation-h-f-1655199;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/moe-systeme-de-virtualisation-h-f-1655199;['java', 'gitlab', 'jira', 'confluence', 'linux']
+185;ingenieur-de-test-sw-embarque-h-f-1655196;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-test-sw-embarque-h-f-1655196;['python']
+186;ingenieur-automatisation-test-h-f-1655194;"
+                    CELAD ";Saint-Quentin-Fallavier;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-automatisation-test-h-f-1655194;['jira', 'confluence', 'linux']
+187;ingenieur-systeme-h-f-1655190;"
+                    CELAD ";Saint-Quentin-Fallavier;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-h-f-1655190;['linux']
+188;ingenieur-sw-embarque-h-f-1655186;"
+                    CELAD ";Grenoble;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-sw-embarque-h-f-1655186;['python', 'linux']
+189;developpeur-euse-c-c-h-f-1655180;"
+                    CELAD ";Grenoble;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-c-h-f-1655180;['python', 'scrum', 'linux']
+190;developpeur-euse-python-h-f-1655042;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-h-f-1655042;['python', 'linux']
+191;ingenieur-r-d-full-stack-javascript-react-nodejs-typescript-h-f-1655035;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-r-d-full-stack-javascript-react-nodejs-typescript-h-f-1655035;['java', 'agile', 'anglais']
+192;ingenieur-test-et-qualite-logiciels-python-c-c-h-f-1654890;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-et-qualite-logiciels-python-c-c-h-f-1654890;['gitlab', 'docker', 'python']
+193;developpeur-euse-micro-services-c-c-python-h-f-1654882;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-micro-services-c-c-python-h-f-1654882;['python', 'agile', 'kanban', 'linux']
+194;ingenieur-qa-tests-automatiques-robot-framework-python-h-f-1654877;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-qa-tests-automatiques-robot-framework-python-h-f-1654877;['gitlab', 'jenkins', 'docker', 'python']
+195;ingenieur-systemes-de-communications-traitement-du-signal-h-f-1654875;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-de-communications-traitement-du-signal-h-f-1654875;['modélisation', 'anglais']
+196;ingenieur-test-et-validation-python-h-f-1654778;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-test-et-validation-python-h-f-1654778;['jenkins', 'python', 'agile']
+197;integrateur-rice-logiciel-habilite-e-cd-h-f-1654783;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/integrateur-rice-logiciel-habilite-e-cd-h-f-1654783;['anglais']
+198;ingenieur-r-d-en-developpement-python-scrum-master-h-f-1654855;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-r-d-en-developpement-python-scrum-master-h-f-1654855;['docker', 'python', 'agile', 'scrum', 'linux']
+199;ingenieur-devops-validation-h-f-1654015;"
+                    CELAD ";Valence;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-validation-h-f-1654015;['azure', 'anglais']
+200;architecte-integrateur-rice-service-iptv-h-f-1654775;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/architecte-integrateur-rice-service-iptv-h-f-1654775;['linux']
+201;developpeur-euse-micro-service-go-c-h-f-1653459;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-micro-service-go-c-h-f-1653459;['python', 'api rest', 'agile', 'anglais', 'scrum']
+202;developpeur-euse-c-c-multithread-h-f-1653451;"
+                    CELAD ";Dijon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-c-multithread-h-f-1653451;['python', 'agile', 'scrum']
+203;ingenieur-qa-logiciel-h-f-1653443;"
+                    CELAD ";Dijon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-qa-logiciel-h-f-1653443;['anglais', 'linux']
+204;developpeur-euse-c-python-h-f-1653039;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-python-h-f-1653039;['gitlab', 'python', 'anglais']
+205;developpeur-euse-full-stack-java-angular-h-f-1653034;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-java-angular-h-f-1653034;['java', 'agile', 'kanban', 'scrum']
+206;ingenieur-rf-h-f-1653018;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-rf-h-f-1653018;[]
+207;ingenieur-hardware-h-f-1653007;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-hardware-h-f-1653007;[' git ']
+208;developpeur-euse-logiciel-embarque-bas-niveau-c-c-h-f-1653663;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-logiciel-embarque-bas-niveau-c-c-h-f-1653663;['agile', 'anglais', 'scrum']
+209;developpeur-euse-c-h-f-1653669;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-h-f-1653669;['agile']
+210;developpeur-euse-c-python-h-f-1653676;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-python-h-f-1653676;['gitlab', 'python', 'anglais']
+211;developpeur-euse-python-h-f-1653791;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-h-f-1653791;['java', 'docker', 'python', 'ci/cd']
+212;developpeur-euse-c-embarque-stm-h-f-1653601;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-embarque-stm-h-f-1653601;['anglais']
+213;developpeur-euse-iot-h-f-1653490;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-iot-h-f-1653490;['jira', 'anglais']
+214;ingenieur-qa-automatisation-de-test-h-f-1653462;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-qa-automatisation-de-test-h-f-1653462;['python', 'scrum']
+215;developpeur-euse-full-stack-c-java-h-f-1653468;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-c-java-h-f-1653468;['java', 'jenkins', 'docker', 'python', 'jira', 'agile', 'anglais', 'linux']
+216;ingenieur-devops-h-f-1652686;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1652686;['gitlab', 'docker', 'ansible', 'python']
+217;lead-developpeur-euse-net-c-h-f-1652688;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-euse-net-c-h-f-1652688;['java', 'gitlab', 'sql', 'api rest', 'postgresql']
+218;developpeur-euse-experimente-e-net-c-h-f-1652692;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-experimente-e-net-c-h-f-1652692;['java', 'gitlab', 'sql', 'api rest', 'postgresql']
+219;technicien-ne-systeme-reseau-h-f-1652700;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/technicien-ne-systeme-reseau-h-f-1652700;['scala', 'linux']
+220;developpeur-euse-python-javascript-h-f-1652706;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-javascript-h-f-1652706;['java', ' git ', 'jenkins', 'docker', 'python', 'api rest', 'anglais', 'linux', 'microservice']
+221;developpeur-euse-python-c-h-f-1652708;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-c-h-f-1652708;['java', 'docker', 'python', 'api rest', 'agile', 'anglais', 'linux']
+222;developpeur-euse-react-node-js-h-f-1662323;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-react-node-js-h-f-1662323;['sql', 'agile', 'linux']
+223;developpeur-euse-back-end-elasticsearch-kibana-h-f-1662281;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-back-end-elasticsearch-kibana-h-f-1662281;['docker', 'agile', 'linux']
+224;ingenieur-support-production-h-f-1662279;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-production-h-f-1662279;['anglais']
+225;chef-de-projet-moe-ingenieur-d-etudes-h-f-1661777;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-ingenieur-d-etudes-h-f-1661777;['java', 'tableau', 'maven', 'sql', 'agile', 'tableaux de bord', 'kanban', ' sas']
+226;ingenieur-systeme-linux-h-f-1661741;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-h-f-1661741;['ansible', 'itil', ' sas', 'linux']
+227;ingenieur-electronique-hardware-h-f-1661531;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-electronique-hardware-h-f-1661531;['agile']
+228;ingenieur-developpement-logiciel-c-linux-embarque-qt-h-f-1661529;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-logiciel-c-linux-embarque-qt-h-f-1661529;['agile', 'modélisation', 'anglais', 'linux']
+229;ingenieur-de-developpement-c-java-et-python-f-h-1661527;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-developpement-c-java-et-python-f-h-1661527;['java', 'docker', 'python', 'agile']
+230;ingenieur-devops-h-f-1661524;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1661524;['github', 'docker', 'sql', 'ci/cd', 'agile', 'linux']
+231;developpeur-net-c-h-f-1661522;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-net-c-h-f-1661522;['azure', 'microservice']
+232;ingenieur-etudes-et-developpement-net-c-h-f-1661518;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-etudes-et-developpement-net-c-h-f-1661518;['sql', 'agile']
+233;product-owner-h-f-1661514;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1661514;['agile', 'scrum']
+234;developpeur-senior-java-jee-h-f-1661512;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-java-jee-h-f-1661512;['java', 'jenkins', 'sql', 'ci/cd', 'jira', 'agile', 'confluence', 'sonar', 'tomcat', 'postgresql', 'sonarqube', ' ssis']
+235;ingenieur-devops-h-f-1661510;"
+                    CELAD ";Lyon;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1661510;['java', 'gitlab', 'docker', 'maven', 'ci/cd', 'agile']
+236;developpeur-full-stack-java-jee-h-f-1661500;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-jee-h-f-1661500;['java', 'agile']
+237;ingenieur-e-developpement-systemes-embarques-langage-c-c-h-f-1661498;"
+                    CELAD ";Clermont-Ferrand;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/ingenieur-e-developpement-systemes-embarques-langage-c-c-h-f-1661498;['java', 'python', 'agile', 'anglais']
+238;lead-dev-full-stack-angular-d-h-f-1661494;"
+                    CELAD ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/lead-dev-full-stack-angular-d-h-f-1661494;['agile']
+239;scrum-master-h-f-1661491;"
+                    CELAD ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1661491;['jira', 'agile', 'scrum']
+240;administrateur-systemes-et-reseaux-h-f-1661490;"
+                    CELAD ";Bruz;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-et-reseaux-h-f-1661490;['docker', 'agile', 'linux']
+241;proxy-product-owner-h-f-1661486;"
+                    CELAD ";Bruz;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-h-f-1661486;['agile', 'scrum']
+242;developpeur-banc-de-test-python-h-f-1661484;"
+                    CELAD ";Lannion;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-banc-de-test-python-h-f-1661484;['java', 'gitlab', 'agile', 'mongodb', 'linux']
+243;ingenieur-big-data-senior-f-h-1661480;"
+                    CELAD ";Lannion;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-big-data-senior-f-h-1661480;['java', 'powerbi', 'python', 'sql', 'airflow', 'jira', 'agile', 'confluence', 'scrum']
+244;developpeur-c-vb-f-h-1661479;"
+                    CELAD ";Lannion;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-c-vb-f-h-1661479;['sql', 'agile']
+245;lead-tech-full-stack-h-f-1661478;"
+                    CELAD ";Lannion;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/lead-tech-full-stack-h-f-1661478;['java', 'kafka', 'api rest', 'agile', 'scala']
+246;tech-lead-logiciel-embarque-h-f-1661477;"
+                    CELAD ";Mordelles;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/tech-lead-logiciel-embarque-h-f-1661477;['python', 'agile', 'anglais']
+247;lead-developer-symfony-h-f-1661475;"
+                    CELAD ";Mordelles;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/lead-developer-symfony-h-f-1661475;['agile', 'linux']
+248;ingenieur-electronique-hardware-h-f-1661471;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-electronique-hardware-h-f-1661471;['agile']
+249;ingenieur-developpement-noyau-linux-embarque-h-f-1661470;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-developpement-noyau-linux-embarque-h-f-1661470;['agile', 'linux']
+250;developpeur-c-c-h-f-1659521;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-c-c-h-f-1659521;['anglais', ' sas']
+251;developpeur-net-ou-web-angular-stp-flux-oms-1659260;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-net-ou-web-angular-stp-flux-oms-1659260;['jira', 'confluence', 'anglais', ' sas']
+252;developpeur-java-var-marche-risques-de-marche-1659243;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-var-marche-risques-de-marche-1659243;['java', 'jenkins', 'jira', 'agile', 'kanban', 'scrum', ' sas', 'linux']
+253;business-analyst-calypso-1659248;"
+                    CELAD ";Rennes;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/business-analyst-calypso-1659248;['anglais', ' sas']
+254;ingenieur-devops-1659132;"
+                    CELAD ";Cesson-Sévigné;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-1659132;['jenkins', 'maven', ' sas']
+255;business-analyst-progiciel-back-office-trade-finance-fbti-1659098;"
+                    CELAD ";Cesson-Sévigné;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/business-analyst-progiciel-back-office-trade-finance-fbti-1659098;['anglais', ' sas']
+256;support-utilisateur-n-poste-de-travail-windows-1658885;"
+                    CELAD ";Paris;12 mois; 480 €;04/02/2022;https://www.freelance-info.fr/mission/support-utilisateur-n-poste-de-travail-windows-1658885;[' sas']
+257;devops-infra-cloud-1661062;"
+                    CELAD ";Paris;12 mois; 480 €;04/02/2022;https://www.freelance-info.fr/mission/devops-infra-cloud-1661062;['ansible', 'terraform', 'linux']
+258;chef-de-projet-devops-cloud-1661061;"
+                    CELAD ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-devops-cloud-1661061;['puppet', 'ansible', 'terraform', 'itil']
+259;architecte-si-active-directory-1661059;"
+                    CELAD ";Paris;12 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-si-active-directory-1661059;[' sas']
+260;ingenieur-monitoring-supervision-1661057;"
+                    CELAD ";Paris;12 mois; 550-600 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-monitoring-supervision-1661057;['elk', 'anglais', 'grafana', 'itil', ' sas']
+261;gestionnaire-d-application-paie-et-gestion-administrative-sirh-1658834;"
+                    CELAD ";Paris;12 mois; 550-600 €;03/02/2022;https://www.freelance-info.fr/mission/gestionnaire-d-application-paie-et-gestion-administrative-sirh-1658834;[' sas']
+262;business-analyst-web-pricer-finance-trading-electronique-1658827;"
+                    CELAD ";Montreuil;24 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/business-analyst-web-pricer-finance-trading-electronique-1658827;['sql', 'jira', 'agile', 'confluence', 'anglais', ' sas']
+263;qa-manager-coordinateur-test-banque-et-finance-1658539;"
+                    CELAD ";Montreuil;24 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/qa-manager-coordinateur-test-banque-et-finance-1658539;[' sas']
+264;chef-de-projet-technique-integration-devops-1658491;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-integration-devops-1658491;[' sas']
+265;amoa-epargne-1659965;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/amoa-epargne-1659965;[' sas']
+266;consultant-servicenow-1659962;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-servicenow-1659962;[' sas']
+267;data-ingenieur-1659958;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/data-ingenieur-1659958;['java', 'gitlab', 'kafka', 'spark', 'hive', 'oracle', 'mongodb', 'scala', ' sas']
+268;developpeur-mobile-ionic-angular-1659954;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-ionic-angular-1659954;['sql', 'jira', 'oracle', 'agile', 'mysql', ' sas']
+269;technicien-de-deploiement-solution-voix-sur-ip-h-f-1659902;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/technicien-de-deploiement-solution-voix-sur-ip-h-f-1659902;[]
+270;developpeur-euse-logiciel-embarque-c-c-h-f-1659898;"
+                    CELAD ";Paris;12 mois; 450 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-logiciel-embarque-c-c-h-f-1659898;['java']
+271;chef-de-projet-integrateur-de-solutions-h-f-1659861;"
+                    CELAD ";Paris;12 mois; 450 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-integrateur-de-solutions-h-f-1659861;['agile', 'anglais', 'scrum']
+272;developpeur-euse-perl-eperimente-e-senior-h-f-1659853;"
+                    CELAD ";Bordeaux;1 année; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-perl-eperimente-e-senior-h-f-1659853;[' git ', 'docker', 'ansible', 'python', 'sql', 'agile', 'postgresql', 'mysql', 'linux']
+273;developpeur-euse-vuejs-h-f-1659837;"
+                    CELAD ";Bordeaux;1 année; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-vuejs-h-f-1659837;['gitlab', 'docker', 'api rest', 'agile']
+274;chef-de-projet-moe-etude-senior-h-f-1659832;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-etude-senior-h-f-1659832;['agile']
+275;ingenieur-systeme-h-f-1659824;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-h-f-1659824;['tableau', 'tableaux de bord', 'linux']
+276;developpeur-euse-full-stack-java-h-f-1659813;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-full-stack-java-h-f-1659813;['java', 'github', 'jenkins', 'anglais', 'linux']
+277;chef-de-projet-salesforce-commerce-cloud-h-f-1659806;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-salesforce-commerce-cloud-h-f-1659806;['tableau', 'jira', ' bo ', 'anglais', 'tableaux de bord', 'scala', 'salesforce']
+278;ingenieur-en-developpement-c-c-experimente-e-h-f-1659788;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-en-developpement-c-c-experimente-e-h-f-1659788;['docker', 'python', 'agile', 'anglais']
+279;ingenieur-en-developpement-c-experimente-e-h-f-1659778;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-en-developpement-c-experimente-e-h-f-1659778;['gitlab', 'ci/cd']
+280;developpeur-euse-backend-python-go-h-f-1659771;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-backend-python-go-h-f-1659771;['docker', 'python', 'ci/cd', 'anglais']
+281;developpeur-euse-python-go-h-f-1659766;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-go-h-f-1659766;[' git ', 'docker', 'python', 'sql', 'ci/cd', 'anglais']
+282;ingenieur-devops-systeme-reseau-linux-h-f-1659759;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-systeme-reseau-linux-h-f-1659759;['aws', 'elk', 'docker', 'gcp', 'anglais', 'linux']
+283;ingenieur-deploiement-data-1659587;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-deploiement-data-1659587;[' sas']
+284;ingenieur-deploiement-solution-telecom-1659586;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-deploiement-solution-telecom-1659586;[' sas']
+285;product-owner-en-banque-1657625;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/product-owner-en-banque-1657625;['agile', ' sas']
+286;developpeur-java-jee-f-h-1657614;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-java-jee-f-h-1657614;['java', 'aws', 'gcp', 'api rest', 'agile']
+287;business-analyst-f-h-1657615;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/business-analyst-f-h-1657615;['java', 'sql', 'agile', 'scrum']
+288;testeur-technico-fonctionnel-f-h-1657618;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/testeur-technico-fonctionnel-f-h-1657618;['sql', 'jira', 'agile', 'xray']
+289;data-analyst-banque-1657599;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/data-analyst-banque-1657599;['tableau', 'tableaux de bord', ' sas']
+290;developpeur-banque-et-finance-c-sql-python-1657519;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-banque-et-finance-c-sql-python-1657519;['azure', 'python', 'sql', 'anglais', ' sas']
+291;technicien-ne-systeme-et-reseau-h-f-1659569;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/technicien-ne-systeme-et-reseau-h-f-1659569;['vpn', 'linux']
+292;analyste-integrateur-rice-windows-h-f-1659567;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/analyste-integrateur-rice-windows-h-f-1659567;['sql', 'apache', 'tomcat']
+293;developpeur-net-c-h-f-1659471;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-net-c-h-f-1659471;['azure', 'microservice']
+294;lead-dev-full-stack-angular-d-h-f-1659457;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/lead-dev-full-stack-angular-d-h-f-1659457;['agile']
+295;chef-de-projet-metier-1659273;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-metier-1659273;[]
+296;ingenieur-systeme-linux-1659256;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1659256;['ansible', 'itil', ' sas', 'linux']
+297;maitrise-d-ouvrage-front-office-murex-1657341;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/maitrise-d-ouvrage-front-office-murex-1657341;[' sas']
+298;developpeur-en-typescript-sur-angular-1657300;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-en-typescript-sur-angular-1657300;['java', 'agile', ' sas']
+299;expert-developpement-bo-reporting-rh-pole-assurances-et-paiements-1657063;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/expert-developpement-bo-reporting-rh-pole-assurances-et-paiements-1657063;['tableau', 'powerbi', 'power bi', ' bo ', 'tableaux de bord', ' sas']
+300;developpeur-itx-ibm-transformation-extender-wtx-websphere-transformation-externder-1657008;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-itx-ibm-transformation-extender-wtx-websphere-transformation-externder-1657008;['java', 'sql', 'anglais', ' sas']
+301;data-analyst-confirme-power-bi-et-bo-1656854;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/data-analyst-confirme-power-bi-et-bo-1656854;['power bi', 'sql', ' bo ', 'agile', 'modélisation', 'anglais', ' sas']
+302;concepteur-developpeur-c-java-h-f-1658806;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-c-java-h-f-1658806;['java', 'sql', 'oracle', 'tomcat', 'cartographie', 'linux']
+303;data-quality-analyst-1658724;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/data-quality-analyst-1658724;[' sas']
+304;release-train-engineer-1658582;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/release-train-engineer-1658582;['jira', 'agile', 'scrum', 'scala', ' sas']
+305;business-analyst-singular-hypercare-1656668;"
+                    CELAD ";Bordeaux;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/business-analyst-singular-hypercare-1656668;[' sas']
+306;developpeur-c-wpf-net-sqlserver-1656661;"
+                    CELAD ";Paris;12 mois; 550 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-c-wpf-net-sqlserver-1656661;['sql', ' sas']
+307;developpeur-vba-access-excel-1656635;"
+                    CELAD ";Paris;12 mois; 550 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-vba-access-excel-1656635;['azure', ' excel ', 'anglais', 'vba', ' sas']
+308;developpeur-euse-c-c-h-f-1656403;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-c-c-h-f-1656403;['linux']
+309;product-lead-h-f-1658282;"
+                    CELAD ";Boulogne-Billancourt;24 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/product-lead-h-f-1658282;['jira', 'agile', 'confluence', 'anglais']
+310;chef-de-projet-it-h-f-1658277;"
+                    CELAD ";Cergy;12 mois; 400-480 €;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-h-f-1658277;['jira', 'agile', 'confluence', 'anglais', 'scrum']
+311;developpeur-developpeur-c-wpf-h-f-1658259;"
+                    CELAD ";Cergy;12 mois; 400-480 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-developpeur-c-wpf-h-f-1658259;['modélisation', 'scrum']
+312;chef-de-projet-moe-1656251;"
+                    CELAD ";Montreuil;24 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moe-1656251;['agile']
+313;scrum-master-data-1656248;"
+                    CELAD ";Montreuil;24 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-data-1656248;['agile', 'scrum']
+314;developpeur-java-jee-f-h-1655935;"
+                    CELAD ";Montrouge;24 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-jee-f-h-1655935;['java', 'python', 'oracle', 'agile', ' sas']
+315;scrum-master-coach-agile-1657203;"
+                    CELAD ";Montrouge;24 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-coach-agile-1657203;['agile', 'kanban', 'scrum', ' sas']
+316;developpeur-dot-net-f-h-1655879;"
+                    CELAD ";Mans (Le);6 mois; 330-450 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-dot-net-f-h-1655879;['api rest']
+317;gestionnaire-de-parc-informatique-f-h-1655882;"
+                    CELAD ";Mans (Le);6 mois; 330-450 €;01/02/2022;https://www.freelance-info.fr/mission/gestionnaire-de-parc-informatique-f-h-1655882;[' excel ', ' sas']
+318;devops-1656879;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/devops-1656879;['datastage', 'java', 'docker', 'sql', 'jira', 'confluence', 'postgresql', 'jboss', 'scala']
+319;chef-de-projet-technico-fonctionnel-senior-1656877;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-technico-fonctionnel-senior-1656877;[]
+320;ingenieur-windows-server-f-h-1655800;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-windows-server-f-h-1655800;['anglais', 'powershell']
+321;ingenieur-developpeur-net-core-angular-voire-react-fullstack-notions-cloud-azure-1656524;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-developpeur-net-core-angular-voire-react-fullstack-notions-cloud-azure-1656524;['java', 'azure', 'sql', 'agile', 'anglais', 'scrum', ' sas', 'linux']
+322;tech-lead-c-1656415;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/tech-lead-c-1656415;['kafka', 'docker', 'sql', 'jira', 'mysql']
+323;developpeur-euse-media-processing-c-c-h-f-1656385;"
+                    CELAD ";Lille;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/developpeur-euse-media-processing-c-c-h-f-1656385;['python', 'anglais', 'linux']
+324;business-analyst-assurance-epargne-1656077;"
+                    CELAD ";Aix-en-Provence;12 mois; 400 €;29/01/2022;https://www.freelance-info.fr/mission/business-analyst-assurance-epargne-1656077;['sql', 'agile', 'confluence']
+325;ingenieur-monitoring-supervision-1656065;"
+                    CELAD ";Aix-en-Provence;12 mois; 400 €;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-monitoring-supervision-1656065;['elk', 'anglais', 'grafana', 'itil']
+326;architecte-devops-environnement-z-1655032;"
+                    CELAD ";Paris;12 mois; 550 €;28/01/2022;https://www.freelance-info.fr/mission/architecte-devops-environnement-z-1655032;['jira', ' sas']
+327;amoa-assurance-vie-et-prevoyance-1654924;"
+                    CELAD ";Paris;12 mois; 550 €;28/01/2022;https://www.freelance-info.fr/mission/amoa-assurance-vie-et-prevoyance-1654924;['agile', ' sas']
+328;ingenieur-de-developpement-c-java-et-python-f-h-1654738;"
+                    CELAD ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-developpement-c-java-et-python-f-h-1654738;['java', 'docker', 'python', 'agile']
+329;administrateur-rice-reseau-h-f-1655814;"
+                    CELAD ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/administrateur-rice-reseau-h-f-1655814;[]

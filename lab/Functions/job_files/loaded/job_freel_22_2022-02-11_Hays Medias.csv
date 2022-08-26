@@ -1,0 +1,441 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;testeur-salesforce-vlocity-h-f-1666748;"
+                    Hays Medias ";Ile de France;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/testeur-salesforce-vlocity-h-f-1666748;['tableau', ' excel ', 'jira', 'confluence', 'xray', 'scrum', 'salesforce']
+1;chef-de-projet-legal-risks-facilities-management-h-f-1666667;"
+                    Hays Medias ";Ile de France;3 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-legal-risks-facilities-management-h-f-1666667;['anglais']
+2;developpeur-salesforce-vlocity-h-f-1666666;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-salesforce-vlocity-h-f-1666666;['gitlab', 'agile', 'scrum', 'scala', 'salesforce']
+3;proxy-product-owner-1666501;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/proxy-product-owner-1666501;['sql', 'agile']
+4;administrateur-systeme-et-reseaux-1666493;"
+                    Hays Medias ";Ile de France;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-et-reseaux-1666493;[' sas']
+5;product-owner-solution-signature-electronique-h-f-1666490;"
+                    Hays Medias ";Ile de France;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/product-owner-solution-signature-electronique-h-f-1666490;[' sas']
+6;architecte-d-entreprise-1664286;"
+                    Hays Medias ";Massy;1 année; 250-440 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-1664286;['anglais', 'cartographie', ' sas']
+7;technical-manager-magento-h-f-1664280;"
+                    Hays Medias ";Massy;1 année; 250-440 €;10/02/2022;https://www.freelance-info.fr/mission/technical-manager-magento-h-f-1664280;['anglais']
+8;responsable-d-application-workday-f-h-1666388;"
+                    Hays Medias ";Antony;12 mois; 300-450 €;10/02/2022;https://www.freelance-info.fr/mission/responsable-d-application-workday-f-h-1666388;[' sas']
+9;roadmap-manager-h-f-1666304;"
+                    Hays Medias ";Antony;12 mois; 300-450 €;10/02/2022;https://www.freelance-info.fr/mission/roadmap-manager-h-f-1666304;['jira', 'agile', 'confluence', 'anglais', 'kanban', ' sas']
+10;portfolio-manager-h-f-1666299;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/portfolio-manager-h-f-1666299;['jira', 'agile', 'confluence', 'anglais', 'kanban']
+11;controleur-de-gestion-h-f-1666252;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/controleur-de-gestion-h-f-1666252;[]
+12;developpeur-fullstack-h-f-1666248;"
+                    Hays Medias ";Paris;8 mois; 600-800 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1666248;[' sas']
+13;gestionnaire-d-application-h-f-1666192;"
+                    Hays Medias ";Paris;8 mois; 600-800 €;10/02/2022;https://www.freelance-info.fr/mission/gestionnaire-d-application-h-f-1666192;[' sas']
+14;architecte-technique-h-f-1666190;"
+                    Hays Medias ";Paris;1 année; 600-700 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-technique-h-f-1666190;['azure', 'sql', 'gcp', 'oracle', 'anglais', 'postgresql', ' sas', 'powershell', 'linux']
+15;prestataire-conformite-technique-h-f-1666187;"
+                    Hays Medias ";Paris;1 année; 600-700 €;10/02/2022;https://www.freelance-info.fr/mission/prestataire-conformite-technique-h-f-1666187;['azure', 'hive', 'gcp', 'anglais', 'ldap', ' sas', 'linux']
+16;devops-cloud-h-f-1666174;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/devops-cloud-h-f-1666174;['java', ' git ', 'azure', 'docker', 'ansible', 'maven', 'gcp', 'grafana', 'telegraf', 'linux', 'microservice']
+17;ingenieur-d-exploitation-h-f-1666158;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-exploitation-h-f-1666158;['gcp']
+18;directeur-de-programme-it-ariba-h-f-1666154;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-programme-it-ariba-h-f-1666154;[]
+19;developpeur-fullstack-php-symfony-javascript-react-h-f-1666143;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-php-symfony-javascript-react-h-f-1666143;['java', ' git ', 'github', 'sql', 'mysql']
+20;architecte-urbaniste-si-h-f-1666126;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-urbaniste-si-h-f-1666126;['cartographie', ' sas']
+21;developpeur-php-symfony-junior-h-f-1664038;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-junior-h-f-1664038;['gitlab', 'anglais', 'scrum', ' sas']
+22;developpeur-php-drupal-junior-h-f-1664039;"
+                    Hays Medias ";Télétravail;4 mois; 250-1000 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-php-drupal-junior-h-f-1664039;['gitlab', 'anglais', 'scrum']
+23;po-data-h-f-1666114;"
+                    Hays Medias ";Télétravail;4 mois; 250-1000 €;09/02/2022;https://www.freelance-info.fr/mission/po-data-h-f-1666114;['gcp', 'bigquery', 'agile', 'anglais', ' sas']
+24;developpeur-web-front-end-h-f-1663970;"
+                    Hays Medias ";Paris;12 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-web-front-end-h-f-1663970;['gitlab', 'agile']
+25;tech-manager-h-f-1663956;"
+                    Hays Medias ";Paris;12 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/tech-manager-h-f-1663956;['anglais']
+26;business-analyst-h-f-1663940;"
+                    Hays Medias ";Massy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-h-f-1663940;['anglais']
+27;pmo-1663928;"
+                    Hays Medias ";Massy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/pmo-1663928;[]
+28;developpeur-senior-back-office-h-f-1666102;"
+                    Hays Medias ";Massy;1 année; 250-380 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-back-office-h-f-1666102;['java', 'sql', 'gcp', 'agile', 'mongodb']
+29;business-analyst-identite-de-marque-h-f-1666100;"
+                    Hays Medias ";Massy;1 année; 250-380 €;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-identite-de-marque-h-f-1666100;['java', 'anglais']
+30;product-owner-back-office-h-f-1666095;"
+                    Hays Medias ";Massy;5 mois; 400-470 €;09/02/2022;https://www.freelance-info.fr/mission/product-owner-back-office-h-f-1666095;['scala']
+31;developpeur-front-office-js-h-f-1666093;"
+                    Hays Medias ";Massy;5 mois; 400-470 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-front-office-js-h-f-1666093;['gcp', 'agile']
+32;developpeur-front-end-senior-h-f-1665772;"
+                    Hays Medias ";Massy;1 année; 270-500 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-senior-h-f-1665772;['java', 'agile', ' sas']
+33;chef-de-projet-sage-1665747;"
+                    Hays Medias ";Massy;1 année; 270-500 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sage-1665747;[' sas']
+34;developpeur-back-end-h-f-1665744;"
+                    Hays Medias ";Évry;1 année; 270-370 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-h-f-1665744;['jenkins', 'docker', 'sql', 'api rest', 'jira', 'agile', 'confluence', 'anglais', 'mysql', 'mongodb']
+35;developpeur-salesforce-vlocity-h-f-1663688;"
+                    Hays Medias ";Évry;1 année; 270-370 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-salesforce-vlocity-h-f-1663688;['gitlab', 'agile', 'scrum', 'scala', 'salesforce']
+36;freelance-architecte-d-entreprise-urbaniste-si-h-f-1663636;"
+                    Hays Medias ";Massy;1 année; 250-550 €;09/02/2022;https://www.freelance-info.fr/mission/freelance-architecte-d-entreprise-urbaniste-si-h-f-1663636;['cartographie']
+37;ingenieur-d-exploitation-h-f-1663604;"
+                    Hays Medias ";Massy;1 année; 250-550 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-exploitation-h-f-1663604;['tableau', 'anglais', 'tableaux de bord']
+38;technical-lead-magento-h-f-1665465;"
+                    Hays Medias ";Montigny-le-Bretonneux;1 année; 400-750 €;09/02/2022;https://www.freelance-info.fr/mission/technical-lead-magento-h-f-1665465;['anglais']
+39;developpeur-fullstack-h-f-1665455;"
+                    Hays Medias ";Montigny-le-Bretonneux;1 année; 400-750 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1665455;['java']
+40;developpeur-back-end-h-f-1665445;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-h-f-1665445;[' git ', 'github', 'sql', 'mysql', ' sas']
+41;developpeur-front-end-1665378;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-1665378;['java', ' git ', 'github', 'sql', 'mysql', ' sas']
+42;consultant-devops-h-f-1665307;"
+                    Hays Medias ";Paris;1 année; 250-320 €;09/02/2022;https://www.freelance-info.fr/mission/consultant-devops-h-f-1665307;['azure', 'docker', 'agile', 'anglais', 'kanban', 'scrum', 'scala', 'linux']
+43;devops-orchestration-avec-ansible-developpement-en-python-h-f-1663346;"
+                    Hays Medias ";Paris;1 année; 250-320 €;09/02/2022;https://www.freelance-info.fr/mission/devops-orchestration-avec-ansible-developpement-en-python-h-f-1663346;['gitlab', 'ansible', 'python', 'itil', 'firewalls', ' sas']
+44;architecte-technique-mecm-intune-1663342;"
+                    Hays Medias ";Paris;1 année; 250-350 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-technique-mecm-intune-1663342;['azure', 'sql', 'itil', 'scrum', ' sas', 'powershell']
+45;chef-de-projet-sirh-h-f-1665013;"
+                    Hays Medias ";Paris;1 année; 250-350 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sirh-h-f-1665013;['jira', 'anglais']
+46;ingenieur-d-exploitation-h-f-1664879;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-exploitation-h-f-1664879;['azure', 'docker', 'agile', 'anglais', 'kanban', 'scrum', 'scala', 'linux']
+47;scrum-master-h-f-1664877;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1664877;['github', 'jira', 'agile', 'confluence', 'anglais', 'kanban', 'scrum']
+48;architecte-data-h-f-1662740;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-data-h-f-1662740;['modélisation', 'anglais', ' sas']
+49;consultant-gouvernance-et-conformite-h-f-1662745;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-gouvernance-et-conformite-h-f-1662745;['anglais', 'ssas']
+50;product-owner-coda-h-f-1662678;"
+                    Hays Medias ";Paris;1 année; 500-650 €;09/02/2022;https://www.freelance-info.fr/mission/product-owner-coda-h-f-1662678;['power bi', 'sql', 'jira', 'agile', 'confluence', 'modélisation', 'anglais', 'salesforce']
+51;administrateur-systemes-1664682;"
+                    Hays Medias ";Paris;1 année; 500-650 €;09/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-1664682;[' sas']
+52;business-analyst-h-f-1664620;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-h-f-1664620;['anglais']
+53;data-engineer-mlops-f-h-1664566;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/data-engineer-mlops-f-h-1664566;[' sas']
+54;developpeur-full-stack-java-vuejs-h-f-1662583;"
+                    Hays Medias ";Ile de France;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-java-vuejs-h-f-1662583;['java', 'agile', ' sas']
+55;freelance-developpeur-php-symfony-h-f-1664476;"
+                    Hays Medias ";Ile de France;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/freelance-developpeur-php-symfony-h-f-1664476;['gitlab', 'anglais', 'scrum']
+56;freelance-consultant-sap-isu-crm-secteur-energie-h-f-1664474;"
+                    Hays Medias ";Clichy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/freelance-consultant-sap-isu-crm-secteur-energie-h-f-1664474;[]
+57;ingenieur-d-etude-h-f-1662217;"
+                    Hays Medias ";Clichy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-etude-h-f-1662217;['java', 'sql', 'anglais', 'mysql', ' sas']
+58;lead-developpeur-back-end-h-f-1662174;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-back-end-h-f-1662174;[' git ', 'docker', 'sql', 'agile', 'mongodb']
+59;administrateur-systemes-reseaux-securite-h-f-1661923;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-reseaux-securite-h-f-1661923;[' git ', 'elk', 'ansible', 'python', 'jira', 'confluence', 'anglais', 'grafana', 'vpn', 'linux']
+60;lead-developeur-node-js-h-f-1661909;"
+                    Hays Medias ";Clichy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/lead-developeur-node-js-h-f-1661909;[' git ', 'docker', 'sql', 'agile', 'mongodb']
+61;architecte-solution-h-f-1661883;"
+                    Hays Medias ";Clichy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/architecte-solution-h-f-1661883;['sql']
+62;expert-sant-1661855;"
+                    Hays Medias ";Clichy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-sant-1661855;[' sas']
+63;integrateur-web-h-f-1661740;"
+                    Hays Medias ";Clichy;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/integrateur-web-h-f-1661740;['java', 'jira', 'agile', 'confluence', 'scrum', ' sas']
+64;developpeur-svelte-js-1661723;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-svelte-js-1661723;['api rest', 'agile', 'anglais', 'scrum', ' sas']
+65;data-product-manager-f-h-1661550;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/data-product-manager-f-h-1661550;['agile', ' sas']
+66;technicien-de-support-ultra-vip-dircom-1661404;"
+                    Hays Medias ";Paris;24 mois; 400-620 €;08/02/2022;https://www.freelance-info.fr/mission/technicien-de-support-ultra-vip-dircom-1661404;[' sas']
+67;chef-de-projet-telecom-h-f-a-velizy-1661405;"
+                    Hays Medias ";Paris;24 mois; 400-620 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-telecom-h-f-a-velizy-1661405;[' sas']
+68;architecte-fonctionnel-transverse-h-f-1661383;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-transverse-h-f-1661383;['confluence']
+69;developpeur-web-front-end-h-f-1661326;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-web-front-end-h-f-1661326;['gitlab', 'agile']
+70;lead-developpeur-back-end-nodejs-h-f-1661318;"
+                    Hays Medias ";Ile de France;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-back-end-nodejs-h-f-1661318;[' git ', 'docker', 'sql', 'scrum', 'mongodb']
+71;freelance-chef-de-projet-processus-centre-relation-client-h-f-1661277;"
+                    Hays Medias ";Ile de France;2 années; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/freelance-chef-de-projet-processus-centre-relation-client-h-f-1661277;[]
+72;developpeur-front-end-h-f-1661177;"
+                    Hays Medias ";La Défense (92);3 mois; 100-600 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-h-f-1661177;['java']
+73;expert-sant-1660883;"
+                    Hays Medias ";La Défense (92);3 mois; 100-600 €;08/02/2022;https://www.freelance-info.fr/mission/expert-sant-1660883;[' sas']
+74;product-owner-coda-h-f-1660873;"
+                    Hays Medias ";Ile de France;5 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/product-owner-coda-h-f-1660873;['power bi', 'sql', 'jira', 'agile', 'confluence', 'modélisation', 'anglais', 'salesforce']
+75;chef-de-projet-technique-h-f-1660769;"
+                    Hays Medias ";Ile de France;5 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-h-f-1660769;['agile', 'scrum', ' sas']
+76;expert-sant-1660745;"
+                    Hays Medias ";Paris;1 année; 500-700 €;07/02/2022;https://www.freelance-info.fr/mission/expert-sant-1660745;[' sas']
+77;chef-de-projet-service-consommateur-et-mediation-h-f-1660647;"
+                    Hays Medias ";Paris;1 année; 500-700 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-service-consommateur-et-mediation-h-f-1660647;['agile', 'salesforce']
+78;freelance-manager-de-transition-adv-h-f-1660538;"
+                    Hays Medias ";Paris;12 mois; 350-430 €;07/02/2022;https://www.freelance-info.fr/mission/freelance-manager-de-transition-adv-h-f-1660538;[]
+79;lead-product-owner-h-f-1660517;"
+                    Hays Medias ";Paris;12 mois; 350-430 €;07/02/2022;https://www.freelance-info.fr/mission/lead-product-owner-h-f-1660517;['agile', 'kanban', 'scrum']
+80;administrateur-reseaux-systemes-h-f-1660442;"
+                    Hays Medias ";Montigny-le-Bretonneux;12 mois; 350-760 €;07/02/2022;https://www.freelance-info.fr/mission/administrateur-reseaux-systemes-h-f-1660442;['elk', 'ansible', 'python', 'jira', 'confluence', 'grafana', 'linux']
+81;architecte-infrastructures-systemes-et-datacenter-1660365;"
+                    Hays Medias ";Montigny-le-Bretonneux;12 mois; 350-760 €;07/02/2022;https://www.freelance-info.fr/mission/architecte-infrastructures-systemes-et-datacenter-1660365;['sql', 'oracle', 'cartographie', 'linux']
+82;chef-de-projet-junior-international-h-f-1660369;"
+                    Hays Medias ";Montigny-le-Bretonneux;12 mois; 400-750 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-junior-international-h-f-1660369;['azure', 'hive', ' sas']
+83;chef-de-projet-legal-risk-et-faciliies-managament-1660277;"
+                    Hays Medias ";Montigny-le-Bretonneux;12 mois; 400-750 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-legal-risk-et-faciliies-managament-1660277;['anglais', ' sas']
+84;ux-designer-1660208;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ux-designer-1660208;['anglais']
+85;developpeur-nodejs-h-f-1660153;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-nodejs-h-f-1660153;[' git ', 'gitlab', 'ansible', 'ci/cd', 'sonar', 'mongodb', 'sonarqube', 'microservice']
+86;product-owner-iam-h-f-1660014;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/product-owner-iam-h-f-1660014;['agile']
+87;ingenieur-systeme-linux-h-f-1659960;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-h-f-1659960;[' sas', 'linux']
+88;ingenieur-d-exploitation-h-f-1659743;"
+                    Hays Medias ";Nanterre;6 mois; 400-550 €;06/02/2022;https://www.freelance-info.fr/mission/ingenieur-d-exploitation-h-f-1659743;['azure', 'sql', 'oracle', 'postgresql', 'linux']
+89;stream-lead-h-f-1659750;"
+                    Hays Medias ";Nanterre;6 mois; 400-550 €;06/02/2022;https://www.freelance-info.fr/mission/stream-lead-h-f-1659750;[' sas']
+90;chef-de-projet-iam-h-f-1659740;"
+                    Hays Medias ";Ile de France;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-iam-h-f-1659740;['agile']
+91;administrateur-systemes-et-reseaux-h-f-1659723;"
+                    Hays Medias ";Ile de France;12 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-et-reseaux-h-f-1659723;[' sas', 'linux']
+92;freelance-dba-devops-h-f-1659669;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/freelance-dba-devops-h-f-1659669;['jenkins', 'aws', 'docker', 'ansible', 'sql', 'ci/cd', 'oracle', 'grafana', 'mysql', 'mariadb']
+93;ingenieur-visio-n-1659573;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-visio-n-1659573;[' sas']
+94;architecte-cloud-azure-h-f-1659480;"
+                    Hays Medias ";Ile de France;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-azure-h-f-1659480;['azure', 'terraform']
+95;expert-vmware-h-f-1659482;"
+                    Hays Medias ";Ile de France;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-vmware-h-f-1659482;['scala']
+96;chef-de-projet-infrastructure-h-f-1659484;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1659484;[]
+97;freelance-architecte-entreprise-1659477;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/freelance-architecte-entreprise-1659477;['kafka', 'anglais', ' sas']
+98;chef-de-projet-digital-product-owner-h-f-1659443;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-digital-product-owner-h-f-1659443;['tableau', 'jira', 'tableaux de bord', ' sas']
+99;architecture-fonctionnelle-ingenieur-d-etude-h-f-1659431;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/architecture-fonctionnelle-ingenieur-d-etude-h-f-1659431;[]
+100;ingenieur-exploitation-h-f-1659386;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-exploitation-h-f-1659386;['azure', 'sql', 'oracle', 'postgresql', 'linux']
+101;chef-de-projet-h-f-1659391;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1659391;[]
+102;consultant-securite-iam-h-f-1659316;"
+                    Hays Medias ";Évry;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/consultant-securite-iam-h-f-1659316;['powerbi', 'anglais', ' sas']
+103;chef-de-projet-referentiel-produit-h-f-1659145;"
+                    Hays Medias ";Évry;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-referentiel-produit-h-f-1659145;[]
+104;freelance-chef-de-projet-maitrise-d-ouvrage-reseau-de-froid-h-f-1658919;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/freelance-chef-de-projet-maitrise-d-ouvrage-reseau-de-froid-h-f-1658919;[]
+105;charge-e-de-relation-patrimoine-telecom-h-f-1658744;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/charge-e-de-relation-patrimoine-telecom-h-f-1658744;[]
+106;architecte-cloud-azure-h-f-1658628;"
+                    Hays Medias ";Rueil-Malmaison;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-azure-h-f-1658628;['azure', 'terraform']
+107;architecte-entreprise-h-f-domaine-finance-1658601;"
+                    Hays Medias ";Rueil-Malmaison;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-entreprise-h-f-domaine-finance-1658601;['kafka', 'cartographie', ' sas']
+108;developpeur-net-full-stack-h-f-1658533;"
+                    Hays Medias ";Ile de France;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/developpeur-net-full-stack-h-f-1658533;[' sas']
+109;alm-h-f-structurels-1658470;"
+                    Hays Medias ";Ile de France;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/alm-h-f-structurels-1658470;['modélisation', 'anglais', 'vba']
+110;freelance-architecte-cloud-aws-junior-1658453;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/freelance-architecte-cloud-aws-junior-1658453;['aws', 'anglais', ' sas']
+111;project-management-officer-cloud-h-f-1658433;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/project-management-officer-cloud-h-f-1658433;['aws', 'gcp', 'anglais', ' sas']
+112;chef-de-projet-anaplan-powerbi-1658443;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-anaplan-powerbi-1658443;['powerbi', 'anglais', ' sas']
+113;chef-de-projet-si-rh-iam-h-f-1658367;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-si-rh-iam-h-f-1658367;['agile']
+114;expert-vmware-h-f-1658350;"
+                    Hays Medias ";Issy-les-Moulineaux;2 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/expert-vmware-h-f-1658350;['scala']
+115;ingenieur-soc-h-f-1658286;"
+                    Hays Medias ";Issy-les-Moulineaux;2 années; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-soc-h-f-1658286;[' sas']
+116;chef-de-projet-amoa-front-office-h-f-1658232;"
+                    Hays Medias ";Paris;2 années; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-front-office-h-f-1658232;[]
+117;architecte-solution-1658216;"
+                    Hays Medias ";Paris;2 années; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/architecte-solution-1658216;['kafka', 'anglais', ' sas']
+118;architecte-d-entreprise-finance-1658194;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/architecte-d-entreprise-finance-1658194;['kafka', 'anglais', 'cartographie', ' sas']
+119;technico-fonctionnel-sage-1652350;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/technico-fonctionnel-sage-1652350;[' sas']
+120;scrum-master-h-f-1658094;"
+                    Hays Medias ";Paris;6 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1658094;['agile', 'scrum']
+121;chef-de-projet-infrastructure-h-f-1657979;"
+                    Hays Medias ";Paris;6 mois; 500-600 €;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1657979;[]
+122;expert-vmware-1657981;"
+                    Hays Medias ";Pantin;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/expert-vmware-1657981;['scala']
+123;architecte-cloud-azure-h-f-1657994;"
+                    Hays Medias ";Pantin;1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-azure-h-f-1657994;['azure']
+124;freelance-responsable-centre-relation-client-h-f-1657912;"
+                    Hays Medias ";Ile de France;8 mois; 400-580 €;02/02/2022;https://www.freelance-info.fr/mission/freelance-responsable-centre-relation-client-h-f-1657912;['agile', 'salesforce']
+125;developpeur-reactjs-h-f-1657881;"
+                    Hays Medias ";Ile de France;8 mois; 400-580 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-reactjs-h-f-1657881;['api rest', 'agile', 'anglais', 'scrum']
+126;developpeur-symfony-back-h-f-1657893;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-symfony-back-h-f-1657893;['jenkins', 'agile', 'mongodb']
+127;developpeur-symfony-front-h-f-1657861;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-symfony-front-h-f-1657861;['java', 'agile', ' sas']
+128;scrum-master-h-f-1657832;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1657832;['jira', 'agile', 'confluence', 'scrum']
+129;product-owner-business-intelligence-h-f-1657817;"
+                    Hays Medias ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/product-owner-business-intelligence-h-f-1657817;['qlik', 'aws', 'sql', 'datawarehouse', 'glue', 'qliksense', 'agile', 'modélisation', 'cartographie']
+130;architecte-technique-aws-h-f-1657645;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/architecte-technique-aws-h-f-1657645;['jenkins', 'aws', 'ci/cd', 'terraform', 'cartographie']
+131;desktop-technician-service-desk-analyst-bilingue-anglais-h-f-1657538;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/desktop-technician-service-desk-analyst-bilingue-anglais-h-f-1657538;['anglais', ' sas']
+132;asset-liability-manager-alm-en-assurance-1657480;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/asset-liability-manager-alm-en-assurance-1657480;[' sas']
+133;data-engineer-senior-bilinge-anglais-1657448;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-bilinge-anglais-1657448;['azure', 'spark', 'data lake', 'sql', ' sas']
+134;ingenieur-devops-gcp-h-f-1657430;"
+                    Hays Medias ";Vélizy-Villacoublay;6 mois; 400-530 €;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-gcp-h-f-1657430;['java', 'gitlab', 'docker', 'ansible', 'python', 'maven', 'agile', 'terraform', 'anglais']
+135;data-engineer-senior-bilinge-anglais-1657213;"
+                    Hays Medias ";Vélizy-Villacoublay;6 mois; 400-530 €;29/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-bilinge-anglais-1657213;['azure', 'spark', 'data lake', 'sql', ' sas']
+136;referent-technique-expert-jcl-1657169;"
+                    Hays Medias ";Ile de France;3 années; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/referent-technique-expert-jcl-1657169;['anglais', ' sas']
+137;datastage-experimente-h-f-1657171;"
+                    Hays Medias ";Ile de France;3 années; 400-550 €;29/01/2022;https://www.freelance-info.fr/mission/datastage-experimente-h-f-1657171;['datastage', 'sql', 'anglais', ' sas']
+138;expert-websphere-1657165;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/expert-websphere-1657165;['python', 'anglais', ' sas']
+139;data-engineer-senior-bilingue-anglais-1657125;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-bilingue-anglais-1657125;['azure', 'spark', 'data lake', 'sql', ' sas']
+140;ingenieur-reseaux-et-securite-h-f-1657106;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-et-securite-h-f-1657106;[' sas']
+141;project-manager-agile-h-f-1656914;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/project-manager-agile-h-f-1656914;['jira', 'agile', 'confluence', 'itil', 'kanban', 'scrum']
+142;architecte-cloud-gcp-h-f-1656917;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/architecte-cloud-gcp-h-f-1656917;['github', 'jenkins', 'kafka', 'elk', 'sql', 'gcp', 'ci/cd', 'terraform']
+143;chief-operating-officer-h-f-1656827;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/chief-operating-officer-h-f-1656827;['scala']
+144;developpeur-salesforce-h-f-1656817;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/developpeur-salesforce-h-f-1656817;['java', 'aws', 'python', ' sas', 'salesforce']
+145;data-engineer-senior-1656647;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;29/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1656647;['azure', 'spark', 'data lake', 'sql', ' sas']
+146;freelance-business-analyst-junior-h-f-1656604;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/freelance-business-analyst-junior-h-f-1656604;[' excel ', 'sql', 'jira', 'agile', 'salesforce']
+147;chef-de-projets-ouverture-et-transformation-restaurant-1656536;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projets-ouverture-et-transformation-restaurant-1656536;['anglais', ' sas']
+148;architecte-salesforce-core-platform-1656459;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/architecte-salesforce-core-platform-1656459;['anglais', 'salesforce']
+149;technicien-support-n-n-1656376;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/technicien-support-n-n-1656376;['anglais', 'scala', ' sas']
+150;responsable-d-equipe-systemes-it-h-f-1656246;"
+                    Hays Medias ";Paris;4 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/responsable-d-equipe-systemes-it-h-f-1656246;[' sas']
+151;business-analyst-data-1656229;"
+                    Hays Medias ";Paris;4 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/business-analyst-data-1656229;['tableau', 'powerbi', ' excel ', 'tableaux de bord', ' sas', 'salesforce']
+152;data-engineer-senior-1656132;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1656132;['azure', 'spark', 'data lake', 'sql', ' sas']
+153;referent-applicatif-business-analyst-h-f-1656114;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;28/01/2022;https://www.freelance-info.fr/mission/referent-applicatif-business-analyst-h-f-1656114;['jira', 'agile', 'confluence']
+154;expert-conteuneurisation-h-f-1656079;"
+                    Hays Medias ";La Défense (92);6 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/expert-conteuneurisation-h-f-1656079;['gitlab', 'docker', 'ansible', 'ci/cd', 'terraform', 'grafana', 'logstash', ' sas']
+155;sysops-h-f-1656081;"
+                    Hays Medias ";La Défense (92);6 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/sysops-h-f-1656081;['aws', 'anglais', ' sas']
+156;developpeur-python-react-h-f-1656083;"
+                    Hays Medias ";Courneuve (La);6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-python-react-h-f-1656083;['java', 'github', 'jenkins', 'aws', 'ansible', 'python', 'jira', 'agile', 'confluence', 'terraform', ' sas', 'linux']
+157;data-engineer-senior-1656061;"
+                    Hays Medias ";Courneuve (La);6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1656061;['azure', 'spark', 'data lake', 'sql', ' sas']
+158;freelance-expert-aws-h-f-1656063;"
+                    Hays Medias ";Arcueil;6 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/freelance-expert-aws-h-f-1656063;['github', 'jenkins', 'aws', 'glue', 'terraform', 'anglais']
+159;architecte-solutions-h-f-1656057;"
+                    Hays Medias ";Arcueil;6 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/architecte-solutions-h-f-1656057;['agile']
+160;data-engineer-senior-1656015;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1656015;['azure', 'spark', 'data lake', 'sql', ' sas']
+161;data-engineer-senior-1655977;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655977;['azure', 'spark', 'data lake', 'sql', ' sas']
+162;data-engineer-senior-1655953;"
+                    Hays Medias ";Vélizy-Villacoublay;6 mois; 400-650 €;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655953;['azure', 'spark', 'data lake', 'sql', ' sas']
+163;it-delivery-manager-information-security-operations-manager-h-f-1655919;"
+                    Hays Medias ";Vélizy-Villacoublay;6 mois; 400-650 €;26/01/2022;https://www.freelance-info.fr/mission/it-delivery-manager-information-security-operations-manager-h-f-1655919;['powerbi', 'anglais', ' sas']
+164;data-engineer-senior-1655931;"
+                    Hays Medias ";Vélizy-Villacoublay;6 mois; 400-650 €;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655931;['azure', 'spark', 'data lake', 'sql', ' sas']
+165;data-engineer-senior-1655897;"
+                    Hays Medias ";Vélizy-Villacoublay;6 mois; 400-650 €;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655897;['azure', 'spark', 'data lake', 'sql', ' sas']
+166;data-engineer-senior-1655873;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655873;['azure', 'spark', 'data lake', 'sql', ' sas']
+167;developpeur-etl-informatica-1655855;"
+                    Hays Medias ";Paris;6 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/developpeur-etl-informatica-1655855;['oracle', ' sas']
+168;data-engineer-senior-1655832;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655832;['azure', 'spark', 'data lake', 'sql', ' sas']
+169;data-engineer-senior-1655817;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655817;['azure', 'spark', 'data lake', 'sql', ' sas']
+170;chef-de-projet-amoa-front-office-h-f-1655798;"
+                    Hays Medias ";Paris;2 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-front-office-h-f-1655798;[' sas']
+171;data-engineer-1655745;"
+                    Hays Medias ";Paris;2 années; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-1655745;['azure', 'spark', 'data lake', 'sql', ' sas']
+172;data-engineer-senior-1655748;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-senior-1655748;['azure', 'spark', 'data lake', 'sql', ' sas']
+173;data-engineer-1655735;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/data-engineer-1655735;['azure', 'spark', 'data lake', 'sql', ' sas']
+174;devops-cloud-h-f-1655729;"
+                    Hays Medias ";Paris;12 mois; 400-800 €;25/01/2022;https://www.freelance-info.fr/mission/devops-cloud-h-f-1655729;['java', 'azure', 'gcp', 'anglais', ' sas', 'linux']
+175;data-engineer-1655730;"
+                    Hays Medias ";Paris;12 mois; 400-800 €;25/01/2022;https://www.freelance-info.fr/mission/data-engineer-1655730;['azure', 'spark', 'data lake', 'sql', ' sas']
+176;chef-de-projet-it-h-f-1655712;"
+                    Hays Medias ";PACA;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-h-f-1655712;['anglais']
+177;chef-de-projet-technique-linux-1655709;"
+                    Hays Medias ";PACA;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-linux-1655709;[' sas', 'linux']
+178;chef-de-projet-technique-microsoft-1655710;"
+                    Hays Medias ";Paris;1 année; 500-650 €;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-microsoft-1655710;['azure', ' sas']
+179;chef-de-projet-navision-h-f-1655711;"
+                    Hays Medias ";Paris;1 année; 500-650 €;25/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-navision-h-f-1655711;['anglais', ' sas']
+180;consultant-openstack-h-f-1655697;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-openstack-h-f-1655697;['azure', 'puppet', 'ansible', 'python', 'sql', 'oracle', 'postgresql', 'mysql', 'powershell', 'linux']
+181;soc-analyst-h-f-1655689;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/soc-analyst-h-f-1655689;['tableau', 'anglais', 'tableaux de bord', ' sas']
+182;developpeur-python-react-js-h-f-1655691;"
+                    Hays Medias ";Corse;2 années; 400-550 €;25/01/2022;https://www.freelance-info.fr/mission/developpeur-python-react-js-h-f-1655691;['java', 'github', 'jenkins', 'aws', 'ansible', 'python', 'jira', 'agile', 'confluence', 'terraform', ' sas', 'linux']
+183;technicien-support-h-f-1655692;"
+                    Hays Medias ";Corse;2 années; 400-550 €;25/01/2022;https://www.freelance-info.fr/mission/technicien-support-h-f-1655692;[' sas']
+184;ingenieur-sysops-h-f-1655694;"
+                    Hays Medias ";Paris;1 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/ingenieur-sysops-h-f-1655694;['aws', 'anglais', ' sas']
+185;manager-de-transition-chef-de-projet-retail-h-f-1655696;"
+                    Hays Medias ";Paris;1 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/manager-de-transition-chef-de-projet-retail-h-f-1655696;[]
+186;consultant-devops-h-f-1655682;"
+                    Hays Medias ";Montreuil;6 mois; 420-450 €;22/01/2022;https://www.freelance-info.fr/mission/consultant-devops-h-f-1655682;['azure', 'docker', 'ansible', 'python', 'gcp', 'agile', 'terraform', 'anglais']
+187;ingenieur-data-1655662;"
+                    Hays Medias ";Montreuil;6 mois; 420-450 €;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-data-1655662;['azure', 'spark', 'data lake', 'sql', ' sas']
+188;ingenieur-data-1655611;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-data-1655611;['azure', 'spark', 'data lake', 'sql', ' sas']
+189;ingenieur-data-1655621;"
+                    Hays Medias ";Ile de France;6 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-data-1655621;['azure', 'spark', 'data lake', 'sql', ' sas']
+190;data-engineer-1655629;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/data-engineer-1655629;['azure', 'spark', 'data lake', 'sql', ' sas']
+191;senior-ux-ui-designer-h-f-1655601;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/senior-ux-ui-designer-h-f-1655601;[]
+192;ingenieur-reseaux-plateforme-telephonique-h-f-1655610;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-reseaux-plateforme-telephonique-h-f-1655610;['anglais', ' sas']
+193;information-security-program-officer-h-f-1655571;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/information-security-program-officer-h-f-1655571;[' sas']
+194;architecte-ad-azure-ad-et-cybersecurite-1655548;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/architecte-ad-azure-ad-et-cybersecurite-1655548;['azure', ' sas', 'powershell', 'linux']
+195;architecte-ad-iam-et-cybersecurite-h-f-1655544;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/architecte-ad-iam-et-cybersecurite-h-f-1655544;[' sas', 'powershell', 'linux']
+196;architecte-ad-et-aad-senior-1655547;"
+                    Hays Medias ";Saint-Denis;1 année; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/architecte-ad-et-aad-senior-1655547;['azure', 'prince2', ' sas', 'powershell', 'linux']
+197;data-architect-h-f-1655404;"
+                    Hays Medias ";Saint-Denis;1 année; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/data-architect-h-f-1655404;[' sas']
+198;data-project-manager-h-f-1655395;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/data-project-manager-h-f-1655395;[' sas']
+199;it-delivery-manager-information-security-operations-manager-h-f-1655388;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/it-delivery-manager-information-security-operations-manager-h-f-1655388;['powerbi', ' excel ', 'anglais']
+200;data-engineer-1655337;"
+                    Hays Medias ";Nice;1 année; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/data-engineer-1655337;['azure', 'spark', 'data lake', 'sql', ' sas']
+201;data-engineer-1655307;"
+                    Hays Medias ";Nice;1 année; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/data-engineer-1655307;['spark', 'data lake', 'sql', ' sas']
+202;data-engineer-1655301;"
+                    Hays Medias ";Tours;1 année; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/data-engineer-1655301;['spark', 'data lake', 'sql', ' sas']
+203;data-engineer-h-f-1655257;"
+                    Hays Medias ";Tours;1 année; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/data-engineer-h-f-1655257;['tableau', 'aws', 'azure', 'python', 'spark', 'data lake', 'sql', 'databricks', 'anglais', 'tableaux de bord', ' sas']
+204;architecte-plateforme-telephonique-h-f-1655140;"
+                    Hays Medias ";La Défense (92);8 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/architecte-plateforme-telephonique-h-f-1655140;['anglais']
+205;responsable-securite-gouvernance-security-governance-officer-1655098;"
+                    Hays Medias ";La Défense (92);8 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/responsable-securite-gouvernance-security-governance-officer-1655098;[' sas']
+206;it-delivery-manager-information-security-operations-manager-h-f-1655083;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/it-delivery-manager-information-security-operations-manager-h-f-1655083;[]
+207;chef-de-projet-amoa-amoe-sirh-h-f-1655017;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-amoe-sirh-h-f-1655017;['anglais', ' sas']
+208;ingenieur-cloud-devops-gcp-1654908;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-devops-gcp-1654908;['java', 'gitlab', 'docker', 'ansible', 'python', 'maven', 'gcp', 'agile', 'terraform', 'anglais', ' sas']
+209;freelance-chef-de-projet-navision-toutes-versions-h-f-1654867;"
+                    Hays Medias ";Paris;1 année; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/freelance-chef-de-projet-navision-toutes-versions-h-f-1654867;['anglais', ' sas']
+210;freelance-chef-de-projet-it-datawarehouse-h-f-1654835;"
+                    Hays Medias ";Ile de France;4 années; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/freelance-chef-de-projet-it-datawarehouse-h-f-1654835;['datawarehouse', 'anglais', ' sas']
+211;administrateur-microsoft-teams-h-f-1654736;"
+                    Hays Medias ";Ile de France;4 années; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/administrateur-microsoft-teams-h-f-1654736;[' sas']
+212;expert-conteneurisation-deploiement-h-f-1654742;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/expert-conteneurisation-deploiement-h-f-1654742;['azure', 'docker', 'ansible', 'python', 'gcp', 'agile', 'terraform', 'anglais', ' sas']
+213;expert-qliksense-1654579;"
+                    Hays Medias ";Ile de France;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/expert-qliksense-1654579;['qlik', 'tableau', 'qliksense']
+214;consultant-si-1654582;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/consultant-si-1654582;['modélisation']
+215;chef-de-projet-consultant-technico-fonctionnel-crm-microsoft-dynamics-1654584;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-consultant-technico-fonctionnel-crm-microsoft-dynamics-1654584;[]
+216;freelance-architecte-technique-aws-togaf-h-f-1654536;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/freelance-architecte-technique-aws-togaf-h-f-1654536;['jenkins', 'aws', 'ci/cd', 'terraform', 'cartographie', ' sas']
+217;ingenieur-visio-n-1654508;"
+                    Hays Medias ";Paris;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/ingenieur-visio-n-1654508;['anglais', ' sas']
+218;chef-de-projet-deploiement-h-f-1654465;"
+                    Hays Medias ";Poissy;6 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-deploiement-h-f-1654465;[]
+219;freelance-expert-devops-1654423;"
+                    Hays Medias ";Poissy;6 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/freelance-expert-devops-1654423;['azure', 'docker', 'ansible', 'python', 'gcp', 'agile', 'terraform', 'anglais', ' sas']

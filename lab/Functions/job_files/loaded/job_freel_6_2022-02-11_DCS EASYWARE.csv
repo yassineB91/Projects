@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;administrateur-de-base-de-donnees-dba-oracle-plsql-db-h-f-1664938;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-de-base-de-donnees-dba-oracle-plsql-db-h-f-1664938;['sql', 'db2', 'oracle', 'modélisation']
+1;administrateur-systeme-et-securite-h-f-1664818;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-et-securite-h-f-1664818;['modélisation']
+2;chef-de-projet-securite-experimente-h-f-1664817;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-securite-experimente-h-f-1664817;[]
+3;directeur-de-projet-technique-ged-h-f-1664366;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-technique-ged-h-f-1664366;[]
+4;technicien-support-de-proximite-h-f-1664365;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/technicien-support-de-proximite-h-f-1664365;[]
+5;technicien-deploiement-f-h-1664227;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/technicien-deploiement-f-h-1664227;[]
+6;administrateur-systemes-reseaux-h-f-1663976;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-reseaux-h-f-1663976;[]
+7;analyste-n-n-h-f-1663693;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/analyste-n-n-h-f-1663693;['linux']
+8;technicien-support-de-proximite-h-f-1663692;"
+                    DCS EASYWARE ";Chauray;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/technicien-support-de-proximite-h-f-1663692;['scala']
+9;technicien-support-de-proximite-h-f-1663303;"
+                    DCS EASYWARE ";Chauray;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/technicien-support-de-proximite-h-f-1663303;[]
+10;technicien-support-utilisateurs-confirme-h-f-1663151;"
+                    DCS EASYWARE ";Mérignac;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/technicien-support-utilisateurs-confirme-h-f-1663151;['scala', 'linux']
+11;administrateur-systemes-et-reseaux-h-f-1662852;"
+                    DCS EASYWARE ";Mérignac;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/administrateur-systemes-et-reseaux-h-f-1662852;['tableau', 'tableaux de bord']
+12;technicien-support-helpdesk-n-h-f-1662850;"
+                    DCS EASYWARE ";Saint-Clair-du-Rhône;Durée non renseignée; 1067-1467 €;01/02/2022;https://www.freelance-info.fr/mission/technicien-support-helpdesk-n-h-f-1662850;[]
+13;analyste-d-exploitation-h-f-1662670;"
+                    DCS EASYWARE ";Saint-Clair-du-Rhône;Durée non renseignée; 1067-1467 €;01/02/2022;https://www.freelance-info.fr/mission/analyste-d-exploitation-h-f-1662670;['sql', 'linux']
+14;administrateur-systeme-linux-vmware-vsphere-h-f-1662567;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-linux-vmware-vsphere-h-f-1662567;['azure', 'sql', 'anglais', 'itil', 'mysql', 'linux']
+15;expert-poste-de-travail-h-f-1662336;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/expert-poste-de-travail-h-f-1662336;['powershell']
+16;analyste-d-exploitation-zos-h-f-1662335;"
+                    DCS EASYWARE ";La Ménitré;Durée non renseignée; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/analyste-d-exploitation-zos-h-f-1662335;['db2']
+17;administrateur-systeme-linux-vmware-vsphere-h-f-1662334;"
+                    DCS EASYWARE ";La Ménitré;Durée non renseignée; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-linux-vmware-vsphere-h-f-1662334;['azure', 'sql', 'anglais', 'itil', 'mysql', 'linux']
+18;administrateur-systemes-et-reseaux-h-f-1662249;"
+                    DCS EASYWARE ";Oyonnax;Durée non renseignée; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/administrateur-systemes-et-reseaux-h-f-1662249;['azure', 'sql', 'scala', 'powershell', 'linux']
+19;ingenieur-infrastructures-et-reseau-h-f-1661817;"
+                    DCS EASYWARE ";Oyonnax;Durée non renseignée; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-infrastructures-et-reseau-h-f-1661817;['vpn']
+20;techniciens-de-proximite-n-h-f-1661816;"
+                    DCS EASYWARE ";Saint-Clair-du-Rhône;Durée non renseignée; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/techniciens-de-proximite-n-h-f-1661816;[]
+21;administrateur-systeme-aix-h-f-1661815;"
+                    DCS EASYWARE ";Saint-Clair-du-Rhône;Durée non renseignée; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-aix-h-f-1661815;['oracle']
+22;technicien-support-utilisateurs-h-f-1661367;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; 1100-1233 €;27/01/2022;https://www.freelance-info.fr/mission/technicien-support-utilisateurs-h-f-1661367;['anglais', 'vpn']
+23;technicien-d-exploitation-debutant-h-f-1661094;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; 1100-1233 €;27/01/2022;https://www.freelance-info.fr/mission/technicien-d-exploitation-debutant-h-f-1661094;[]
+24;assistant-chef-de-projet-pmo-f-h-1660985;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/assistant-chef-de-projet-pmo-f-h-1660985;['jira', 'agile', 'powerpoint']
+25;bid-manager-responsable-de-projets-h-f-1660984;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/bid-manager-responsable-de-projets-h-f-1660984;['agile', 'anglais']
+26;bid-manager-responsable-de-projets-h-f-1660983;"
+                    DCS EASYWARE ";Bron;Durée non renseignée; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/bid-manager-responsable-de-projets-h-f-1660983;['agile', 'anglais']
+27;technicien-support-experimente-sur-microsoft-teams-room-h-f-1660836;"
+                    DCS EASYWARE ";Bron;Durée non renseignée; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/technicien-support-experimente-sur-microsoft-teams-room-h-f-1660836;[]
+28;administrateur-systeme-poste-de-travail-h-f-1660700;"
+                    DCS EASYWARE ";Toulouse;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-poste-de-travail-h-f-1660700;[]
+29;technicien-support-de-proximite-h-f-1660699;"
+                    DCS EASYWARE ";Toulouse;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/technicien-support-de-proximite-h-f-1660699;['scala']
+30;technicien-support-utilisateurs-h-f-1660580;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/technicien-support-utilisateurs-h-f-1660580;[]
+31;ingenieur-securite-h-f-1660212;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/ingenieur-securite-h-f-1660212;['itil']
+32;administrateur-systeme-h-f-1660211;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-h-f-1660211;['itil']
+33;administrateur-reseaux-h-f-1660004;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/administrateur-reseaux-h-f-1660004;['itil', 'zscaler']
+34;administrateur-systemes-reseaux-h-f-1659574;"
+                    DCS EASYWARE ";Toulouse;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/administrateur-systemes-reseaux-h-f-1659574;['linux']
+35;dba-etudes-h-f-1659556;"
+                    DCS EASYWARE ";Toulouse;Durée non renseignée; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/dba-etudes-h-f-1659556;['sql', 'db2', 'modélisation', 'mysql', 'linux']
+36;technicien-support-service-desk-f-h-1659469;"
+                    DCS EASYWARE ";Écully;Durée non renseignée; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/technicien-support-service-desk-f-h-1659469;['scala']
+37;technicien-d-exploitation-h-f-1659468;"
+                    DCS EASYWARE ";Écully;Durée non renseignée; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/technicien-d-exploitation-h-f-1659468;['anglais', 'scala', 'linux']
+38;technicien-support-helpdesk-h-f-1659467;"
+                    DCS EASYWARE ";Grenoble;Durée non renseignée; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/technicien-support-helpdesk-h-f-1659467;[]
+39;administrateur-systeme-linux-vmware-vsphere-h-f-1659466;"
+                    DCS EASYWARE ";Grenoble;Durée non renseignée; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-linux-vmware-vsphere-h-f-1659466;['azure', 'sql', 'anglais', 'itil', 'mysql', 'linux']
+40;administrateur-windows-citrix-h-f-1659228;"
+                    DCS EASYWARE ";Clermont-Ferrand;Durée non renseignée; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/administrateur-windows-citrix-h-f-1659228;['anglais', 'powershell']
+41;administrateur-securite-confirme-h-f-1659227;"
+                    DCS EASYWARE ";Clermont-Ferrand;Durée non renseignée; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/administrateur-securite-confirme-h-f-1659227;['anglais']
+42;technicien-support-de-proximite-h-f-1659226;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; 1000-1500 €;24/01/2022;https://www.freelance-info.fr/mission/technicien-support-de-proximite-h-f-1659226;[]
+43;ingenieur-systemes-unix-linux-h-f-1659182;"
+                    DCS EASYWARE ";Lyon;Durée non renseignée; 1000-1500 €;24/01/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-unix-linux-h-f-1659182;['anglais', 'linux']
+44;technicien-d-exploitation-supervision-h-f-1659012;"
+                    DCS EASYWARE ";Charenton-le-Pont;Durée non renseignée; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/technicien-d-exploitation-supervision-h-f-1659012;['ansible', 'python', 'sql', 'anglais', 'grafana', 'telegraf', 'postgresql', 'linux']
+45;technicien-d-exploitation-h-f-1659011;"
+                    DCS EASYWARE ";Charenton-le-Pont;Durée non renseignée; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/technicien-d-exploitation-h-f-1659011;['anglais']
+46;technicien-support-logiciel-comptable-h-f-1658787;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/technicien-support-logiciel-comptable-h-f-1658787;[]
+47;responsable-support-manager-de-proximite-h-f-1658706;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;21/01/2022;https://www.freelance-info.fr/mission/responsable-support-manager-de-proximite-h-f-1658706;[]
+48;superviseur-coordinateur-support-utilisateurs-h-f-1658495;"
+                    DCS EASYWARE ";Aix-en-Provence;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/superviseur-coordinateur-support-utilisateurs-h-f-1658495;[]
+49;support-analyste-h-f-1658494;"
+                    DCS EASYWARE ";Aix-en-Provence;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/support-analyste-h-f-1658494;['elk', 'sql', 'anglais', 'grafana', 'itil']
+50;technicien-de-proximite-h-f-1658161;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/technicien-de-proximite-h-f-1658161;[]
+51;administrateur-systemes-reseaux-h-f-1658160;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/administrateur-systemes-reseaux-h-f-1658160;['anglais', 'firewalls']
+52;administrateur-poste-de-travail-h-f-1658159;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/administrateur-poste-de-travail-h-f-1658159;['scala']
+53;architecte-reseau-h-f-1658158;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/architecte-reseau-h-f-1658158;['anglais']
+54;consultant-e-recrutement-charge-e-de-recrutement-it-paris-ivry-sur-seine-1658157;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/consultant-e-recrutement-charge-e-de-recrutement-it-paris-ivry-sur-seine-1658157;[]
+55;service-delivery-manager-h-f-1657985;"
+                    DCS EASYWARE ";Paris;Durée non renseignée; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/service-delivery-manager-h-f-1657985;['tableau', 'tableaux de bord']
+56;technicien-support-n-h-f-1657680;"
+                    DCS EASYWARE ";Saint-Denis;Durée non renseignée; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/technicien-support-n-h-f-1657680;[]
+57;ingenieur-systemes-h-f-1657679;"
+                    DCS EASYWARE ";Saint-Denis;Durée non renseignée; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-h-f-1657679;['powershell', 'linux']
+58;ingenieur-production-reseaux-h-f-1657678;"
+                    DCS EASYWARE ";Saint-Denis;Durée non renseignée; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/ingenieur-production-reseaux-h-f-1657678;['azure', 'anglais', 'itil', 'zscaler', 'vpn']
+59;technicien-support-utilisateurs-n-anglais-h-f-1657677;"
+                    DCS EASYWARE ";Saint-Denis;Durée non renseignée; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/technicien-support-utilisateurs-n-anglais-h-f-1657677;['anglais']

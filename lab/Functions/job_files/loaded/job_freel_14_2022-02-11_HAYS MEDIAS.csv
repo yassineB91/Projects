@@ -1,0 +1,281 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;administrateur-systeme-as-h-f-1664349;"
+                    HAYS MEDIAS ";Gironde;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-as-h-f-1664349;['sql', 'db2', 'mysql', ' sas']
+1;chef-de-projet-infrastructure-h-f-1664222;"
+                    HAYS MEDIAS ";Gironde;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1664222;['azure', 'jira', 'confluence', 'linux']
+2;developpeur-power-bi-senior-h-f-1664190;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-power-bi-senior-h-f-1664190;['power bi', 'azure', ' sas', 'powershell', 'ssrs']
+3;chef-de-projet-amoa-conformite-reglementaire-h-f-1666402;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-conformite-reglementaire-h-f-1666402;['prince2', 'pmp', ' sas']
+4;architecte-cloud-h-f-1666145;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-h-f-1666145;['anglais', 'scala', ' sas']
+5;administrateur-systeme-devops-h-f-1663826;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-devops-h-f-1663826;['docker', 'terraform', ' sas', 'linux']
+6;developpeur-php-h-f-1666097;"
+                    HAYS MEDIAS ";Télétravail;12 mois; 500-700 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-php-h-f-1666097;['github', 'docker', ' sas']
+7;scrum-master-h-f-1663577;"
+                    HAYS MEDIAS ";Télétravail;12 mois; 500-700 €;09/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1663577;['agile', 'scrum', ' sas']
+8;developpeur-full-stack-net-core-angular-h-f-1665411;"
+                    HAYS MEDIAS ";Alpes-Maritimes;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-net-core-angular-h-f-1665411;['sql']
+9;developpeur-c-qt-h-f-1665392;"
+                    HAYS MEDIAS ";Alpes-Maritimes;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-c-qt-h-f-1665392;['anglais', ' sas']
+10;animateur-d-h-f-1665382;"
+                    HAYS MEDIAS ";Bouches-du-Rhône;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/animateur-d-h-f-1665382;[' sas']
+11;animateur-d-h-f-1665381;"
+                    HAYS MEDIAS ";Bouches-du-Rhône;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/animateur-d-h-f-1665381;[' sas']
+12;ingenieur-en-developpement-d-h-f-1665322;"
+                    HAYS MEDIAS ";Marseille;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-en-developpement-d-h-f-1665322;['python', 'modélisation', ' sas']
+13;ingenieur-reseau-h-f-1665258;"
+                    HAYS MEDIAS ";Marseille;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-h-f-1665258;[' sas']
+14;exploitant-reseau-h-f-1665252;"
+                    HAYS MEDIAS ";Loire-Atlantique;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/exploitant-reseau-h-f-1665252;['ansible', 'firewalls', ' sas']
+15;chef-de-projet-h-f-1663213;"
+                    HAYS MEDIAS ";Loire-Atlantique;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1663213;[' sas']
+16;chef-de-projet-technico-fonctionnel-h-f-1663206;"
+                    HAYS MEDIAS ";Lyon;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-technico-fonctionnel-h-f-1663206;[' sas']
+17;scrum-master-h-f-1662936;"
+                    HAYS MEDIAS ";Lyon;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1662936;['agile', 'scrum', ' sas']
+18;developpeur-python-django-h-f-1662876;"
+                    HAYS MEDIAS ";Grenoble;6 mois; 250-450 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-python-django-h-f-1662876;['docker', 'python', 'agile', ' sas']
+19;exploitant-reseaux-h-f-1662730;"
+                    HAYS MEDIAS ";Grenoble;6 mois; 250-450 €;07/02/2022;https://www.freelance-info.fr/mission/exploitant-reseaux-h-f-1662730;['ansible', 'firewalls']
+20;administrateur-reseaux-telecoms-h-f-1662727;"
+                    HAYS MEDIAS ";Grenoble;12 mois; 250-350 €;07/02/2022;https://www.freelance-info.fr/mission/administrateur-reseaux-telecoms-h-f-1662727;[' sas']
+21;technicien-support-n-et-n-h-f-1662665;"
+                    HAYS MEDIAS ";Grenoble;12 mois; 250-350 €;07/02/2022;https://www.freelance-info.fr/mission/technicien-support-n-et-n-h-f-1662665;[' sas']
+22;administrateur-systeme-ibm-i-as-h-f-1664516;"
+                    HAYS MEDIAS ";Grenoble;12 mois; 250-350 €;07/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-ibm-i-as-h-f-1664516;['sql', 'db2', 'mysql']
+23;ingenieur-devops-azure-h-f-1664510;"
+                    HAYS MEDIAS ";Grenoble;12 mois; 250-350 €;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-azure-h-f-1664510;['gitlab', 'azure', 'elk', 'ansible', 'python', 'ci/cd', 'terraform', 'grafana']
+24;chef-de-projet-infrastructure-h-f-1664503;"
+                    HAYS MEDIAS ";Grenoble;6 mois; 250-400 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1664503;['azure', 'jira', 'confluence', 'linux']
+25;developpeur-back-end-python-django-h-f-1662605;"
+                    HAYS MEDIAS ";Grenoble;6 mois; 250-400 €;07/02/2022;https://www.freelance-info.fr/mission/developpeur-back-end-python-django-h-f-1662605;['docker', 'python', ' sas']
+26;chef-de-projet-logiciel-h-f-1664397;"
+                    HAYS MEDIAS ";MONACO (Pays);3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-logiciel-h-f-1664397;['anglais', ' sas']
+27;ingenieur-systemes-windows-h-f-1664358;"
+                    HAYS MEDIAS ";MONACO (Pays);3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-windows-h-f-1664358;['itil', 'powershell', 'linux']
+28;developpeur-senior-angular-h-f-1664320;"
+                    HAYS MEDIAS ";Mandelieu-la-Napoule;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-angular-h-f-1664320;['agile', 'modélisation']
+29;developpeur-senior-power-bi-h-f-1664188;"
+                    HAYS MEDIAS ";Mandelieu-la-Napoule;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-power-bi-h-f-1664188;['power bi', 'azure', 'powershell', 'ssrs']
+30;administrateur-reseaux-et-securite-h-f-1661819;"
+                    HAYS MEDIAS ";Lyon;12 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/administrateur-reseaux-et-securite-h-f-1661819;['anglais', ' sas']
+31;chef-de-projet-amoa-sap-h-f-1661495;"
+                    HAYS MEDIAS ";Lyon;12 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-sap-h-f-1661495;[' excel ', 'anglais', ' sas']
+32;chef-de-projet-h-f-1663678;"
+                    HAYS MEDIAS ";Lyon;12 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1663678;[]
+33;chef-de-projet-h-f-1663662;"
+                    HAYS MEDIAS ";Lyon;12 mois; 400-550 €;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1663662;[]
+34;chef-de-projet-monetique-h-f-1663642;"
+                    HAYS MEDIAS ";Nantes;3 mois; 450-500 €;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-monetique-h-f-1663642;['sql', 'db2', 'oracle', 'agile']
+35;administrateur-systeme-reseaux-h-f-1663565;"
+                    HAYS MEDIAS ";Nantes;3 mois; 450-500 €;04/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-reseaux-h-f-1663565;['ansible', 'sql', 'apache', 'mysql', 'linux']
+36;ingenieur-devops-h-f-1660910;"
+                    HAYS MEDIAS ";Lyon;2 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1660910;['gitlab', 'azure', 'kafka', 'ansible', 'sql', 'agile', 'terraform', 'grafana', 'mongodb', 'scala', ' sas', 'linux', 'microservice']
+37;developpeur-full-stack-nodejs-h-f-1660884;"
+                    HAYS MEDIAS ";Lyon;2 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-nodejs-h-f-1660884;['java', ' git ', 'github', 'gitlab', 'aws', 'azure', 'docker', 'gcp', 'ci/cd', ' sas']
+38;chef-de-projet-infrastructure-junior-pre-emchauche-1662922;"
+                    HAYS MEDIAS ";Alpes-Maritimes;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-junior-pre-emchauche-1662922;['azure', 'hive', ' sas']
+39;developpeur-angular-confirme-h-f-1662875;"
+                    HAYS MEDIAS ";Alpes-Maritimes;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-angular-confirme-h-f-1662875;['agile', 'modélisation']
+40;ingenieur-messaging-microsoft-iam-h-f-1660686;"
+                    HAYS MEDIAS ";Alpes-Maritimes;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-messaging-microsoft-iam-h-f-1660686;['anglais', ' sas']
+41;chef-de-projet-h-f-1660192;"
+                    HAYS MEDIAS ";Alpes-Maritimes;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-h-f-1660192;['jira', 'confluence', 'pmp', ' sas']
+42;chef-de-projet-assurance-h-f-1660029;"
+                    HAYS MEDIAS ";Lyon;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-assurance-h-f-1660029;['jira', 'confluence', 'pmp']
+43;chef-de-projet-assurance-h-f-1660027;"
+                    HAYS MEDIAS ";Lyon;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-assurance-h-f-1660027;['jira', 'confluence', 'pmp']
+44;ingenieur-systeme-et-reseau-h-f-1662148;"
+                    HAYS MEDIAS ";Bordeaux;3 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-et-reseau-h-f-1662148;['vpn', 'linux']
+45;chef-de-projet-amoa-sap-sd-mm-h-f-1661998;"
+                    HAYS MEDIAS ";Bordeaux;3 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-amoa-sap-sd-mm-h-f-1661998;[' excel ', 'anglais']
+46;coordinateur-de-projet-h-f-1659940;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/coordinateur-de-projet-h-f-1659940;[' sas']
+47;developpeur-windev-sql-h-f-1659624;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-windev-sql-h-f-1659624;['sql', 'anglais', ' sas']
+48;ingenieur-systemes-reseaux-h-f-1661734;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-reseaux-h-f-1661734;['java', 'gitlab', 'docker', 'ansible', 'python', 'sql', 'jira', 'confluence', 'terraform', 'apache', 'tomcat', 'mysql', 'mariadb', ' sas', 'linux']
+49;ingenieur-systemes-reseaux-h-f-1661709;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 400 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systemes-reseaux-h-f-1661709;['java', 'gitlab', 'docker', 'ansible', 'python', 'sql', 'jira', 'confluence', 'terraform', 'apache', 'tomcat', 'mysql', 'mariadb', ' sas', 'linux']
+50;chef-de-projet-industrie-h-f-1659575;"
+                    HAYS MEDIAS ";Lyon;2 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-industrie-h-f-1659575;[' sas']
+51;chef-de-projet-produit-industriel-h-f-1659571;"
+                    HAYS MEDIAS ";Lyon;2 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-produit-industriel-h-f-1659571;[' sas']
+52;responsable-equipe-support-h-f-1659495;"
+                    HAYS MEDIAS ";Grenoble;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/responsable-equipe-support-h-f-1659495;[' sas']
+53;developpeur-angular-h-f-1659442;"
+                    HAYS MEDIAS ";Grenoble;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-angular-h-f-1659442;['azure', 'sql', 'api rest', 'agile', 'postgresql', 'scrum', 'microservice']
+54;developpeur-net-core-h-f-1659435;"
+                    HAYS MEDIAS ";Avignon;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-net-core-h-f-1659435;['azure', 'sql', 'api rest', 'agile', 'postgresql', 'scrum', ' sas', 'microservice']
+55;product-owner-crm-h-f-1659419;"
+                    HAYS MEDIAS ";Avignon;Durée non renseignée; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/product-owner-crm-h-f-1659419;['agile', 'scrum']
+56;product-owner-infrastructure-h-f-1659420;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 450 €;02/02/2022;https://www.freelance-info.fr/mission/product-owner-infrastructure-h-f-1659420;[]
+57;developpeur-net-core-h-f-1659390;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 450 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-net-core-h-f-1659390;['azure', 'sql', 'api rest', 'agile', 'postgresql', 'scrum', ' sas', 'microservice']
+58;developpeur-angular-h-f-1659320;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 400 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-angular-h-f-1659320;['azure', 'sql', 'api rest', 'agile', 'postgresql', 'scrum', ' sas', 'microservice']
+59;technicien-support-informatique-h-f-1659282;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 400 €;02/02/2022;https://www.freelance-info.fr/mission/technicien-support-informatique-h-f-1659282;['sql', 'oracle', 'postgresql', 'mysql', ' sas', 'linux']
+60;ingenieur-devops-h-f-1661176;"
+                    HAYS MEDIAS ";Lyon;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1661176;['gitlab', 'azure', 'kafka', 'ansible', 'sql', 'agile', 'terraform', 'grafana', 'mongodb', 'scala', 'linux', 'microservice']
+61;developpeur-full-stack-nodejs-h-f-1660929;"
+                    HAYS MEDIAS ";Lyon;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-nodejs-h-f-1660929;['java', ' git ', 'github', 'gitlab', 'aws', 'azure', 'docker', 'gcp', 'ci/cd']
+62;ingenieur-devops-azure-confirme-h-f-1658821;"
+                    HAYS MEDIAS ";Agen;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-devops-azure-confirme-h-f-1658821;['java', ' git ', 'azure', 'docker', 'ansible', 'terraform', 'grafana', 'scala', 'linux']
+63;ingenieur-production-h-f-1658722;"
+                    HAYS MEDIAS ";Agen;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-production-h-f-1658722;['tableau', 'tableaux de bord', ' sas']
+64;developpeur-windev-sql-h-f-1660502;"
+                    HAYS MEDIAS ";Lyon;12 mois; 500 €;31/01/2022;https://www.freelance-info.fr/mission/developpeur-windev-sql-h-f-1660502;['sql', 'anglais']
+65;technicien-support-linux-mac-os-h-f-1658474;"
+                    HAYS MEDIAS ";Lyon;12 mois; 500 €;31/01/2022;https://www.freelance-info.fr/mission/technicien-support-linux-mac-os-h-f-1658474;['linux']
+66;ingenieur-devops-azure-h-f-1658431;"
+                    HAYS MEDIAS ";Lyon;12 mois; 500 €;31/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-azure-h-f-1658431;['azure', ' sas']
+67;ingenieur-devops-h-f-1658434;"
+                    HAYS MEDIAS ";Lyon;12 mois; 500 €;31/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1658434;['java', 'docker', 'ansible', 'terraform', 'grafana', 'scala', 'linux']
+68;developpeur-senior-cicd-python-h-f-1658429;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 500 €;31/01/2022;https://www.freelance-info.fr/mission/developpeur-senior-cicd-python-h-f-1658429;['azure', 'docker', 'python', 'ci/cd', 'scrum', ' sas', 'linux']
+69;expert-microsoft-h-f-1658411;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 500 €;31/01/2022;https://www.freelance-info.fr/mission/expert-microsoft-h-f-1658411;['anglais', 'linux']
+70;expert-microsoft-h-f-1658406;"
+                    HAYS MEDIAS ";Toulouse;6 mois; 450 €;31/01/2022;https://www.freelance-info.fr/mission/expert-microsoft-h-f-1658406;['anglais', 'linux']
+71;leader-technique-java-kotlin-h-f-1658395;"
+                    HAYS MEDIAS ";Toulouse;6 mois; 450 €;31/01/2022;https://www.freelance-info.fr/mission/leader-technique-java-kotlin-h-f-1658395;['java', 'agile', ' sas']
+72;ingenieur-etudes-developpement-cloud-h-f-1658260;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-etudes-developpement-cloud-h-f-1658260;[' git ', 'gitlab', 'ansible', 'terraform', 'grafana', ' sas', 'linux']
+73;ingenieur-integration-validation-cloud-h-f-1658235;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-integration-validation-cloud-h-f-1658235;['gitlab', 'docker', 'ansible', 'terraform', 'grafana', ' sas', 'linux']
+74;developpeur-c-h-f-1658195;"
+                    HAYS MEDIAS ";Marseille;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-c-h-f-1658195;['anglais']
+75;administrateur-base-de-donnees-h-f-1660162;"
+                    HAYS MEDIAS ";Marseille;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/administrateur-base-de-donnees-h-f-1660162;['sql', 'oracle', 'mysql', 'mongodb', 'linux']
+76;ingenieur-sccm-et-systeme-windows-h-f-1660161;"
+                    HAYS MEDIAS ";Paris;12 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-sccm-et-systeme-windows-h-f-1660161;[]
+77;ingenieur-de-developpement-siebel-h-f-1660160;"
+                    HAYS MEDIAS ";Paris;12 mois; 400-550 €;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-developpement-siebel-h-f-1660160;['java']
+78;developpeur-windev-sql-h-f-1660088;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/developpeur-windev-sql-h-f-1660088;['sql', 'anglais', ' sas']
+79;chef-de-projet-infrastructure-h-f-1657891;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1657891;['anglais', ' sas']
+80;expert-cloud-h-f-1658044;"
+                    HAYS MEDIAS ";Lyon;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/expert-cloud-h-f-1658044;['gitlab', 'aws', 'puppet', 'docker', 'ansible', 'python', 'anglais', 'linux']
+81;ingenieur-kubernetes-openshift-h-f-1658046;"
+                    HAYS MEDIAS ";Lyon;6 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-kubernetes-openshift-h-f-1658046;['gitlab', 'aws', 'docker', 'ansible', 'kubernates', 'python', 'terraform', 'anglais', 'linux']
+82;expert-linux-h-f-1658041;"
+                    HAYS MEDIAS ";"Provence-Alpes-Côte d&#39;Azur";12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/expert-linux-h-f-1658041;['gitlab', 'aws', 'puppet', 'docker', 'ansible', 'python', 'anglais', 'linux']
+83;scrum-master-h-f-1659616;"
+                    HAYS MEDIAS ";"Provence-Alpes-Côte d&#39;Azur";12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/scrum-master-h-f-1659616;['agile', 'scrum']
+84;lead-developpeur-php-symfony-h-f-1657596;"
+                    HAYS MEDIAS ";Aix-en-Provence;12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/lead-developpeur-php-symfony-h-f-1657596;['gitlab', 'jenkins', 'sql', 'gcp', 'ci/cd', 'mysql', ' sas']
+85;developpeur-fullstack-h-f-1657491;"
+                    HAYS MEDIAS ";Aix-en-Provence;12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-h-f-1657491;['aws', 'docker', 'mongodb', ' sas']
+86;ingenieur-messaging-iam-h-f-1659533;"
+                    HAYS MEDIAS ";Toulon;12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/ingenieur-messaging-iam-h-f-1659533;['anglais', 'powerpoint', ' sas', 'powershell']
+87;knowledge-manager-help-desk-h-f-1659476;"
+                    HAYS MEDIAS ";Toulon;12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/knowledge-manager-help-desk-h-f-1659476;[]
+88;testeur-integrateur-h-f-1659451;"
+                    HAYS MEDIAS ";Nouvelle Aquitaine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/testeur-integrateur-h-f-1659451;['java', 'gitlab', 'jenkins', 'python', 'sql', 'jira', 'agile', 'anglais', 'scrum', 'linux']
+89;leader-technique-java-kotlin-h-f-1659447;"
+                    HAYS MEDIAS ";Nouvelle Aquitaine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/leader-technique-java-kotlin-h-f-1659447;['java', 'agile']
+90;assistant-chef-de-projet-deploiement-technique-h-f-1659437;"
+                    HAYS MEDIAS ";Agen;6 mois; 650 €;25/01/2022;https://www.freelance-info.fr/mission/assistant-chef-de-projet-deploiement-technique-h-f-1659437;[]
+91;testeur-integrateur-h-f-1659434;"
+                    HAYS MEDIAS ";Agen;6 mois; 650 €;25/01/2022;https://www.freelance-info.fr/mission/testeur-integrateur-h-f-1659434;['java', 'gitlab', 'jenkins', 'python', 'sql', 'jira', 'agile', 'anglais', 'scrum', 'linux']
+92;knowledge-manager-help-desk-h-f-1659430;"
+                    HAYS MEDIAS ";Lyon;36 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/knowledge-manager-help-desk-h-f-1659430;[' sas']
+93;developpeur-java-h-f-1657355;"
+                    HAYS MEDIAS ";Lyon;36 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1657355;['java', 'sql', ' sas']
+94;product-owner-h-f-1657351;"
+                    HAYS MEDIAS ";Haute-Savoie;12 mois; 250-450 €;25/01/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1657351;['agile']
+95;product-manager-h-f-1657352;"
+                    HAYS MEDIAS ";Haute-Savoie;12 mois; 250-450 €;25/01/2022;https://www.freelance-info.fr/mission/product-manager-h-f-1657352;['kanban', 'scrum']
+96;administrateur-securite-h-f-1657231;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 450 €;24/01/2022;https://www.freelance-info.fr/mission/administrateur-securite-h-f-1657231;[' sas']
+97;administrateur-securite-1657222;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; 450 €;24/01/2022;https://www.freelance-info.fr/mission/administrateur-securite-1657222;[]
+98;technicien-support-informatique-linux-apple-h-f-1659247;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/technicien-support-informatique-linux-apple-h-f-1659247;['linux']
+99;product-owner-crm-h-f-1659181;"
+                    HAYS MEDIAS ";Bordeaux;6 mois; Tarif non renseigné;24/01/2022;https://www.freelance-info.fr/mission/product-owner-crm-h-f-1659181;['agile', 'anglais', 'kanban', 'scrum']
+100;leader-technique-java-kotlin-h-f-1659180;"
+                    HAYS MEDIAS ";Lyon;12 mois; 400-550 €;23/01/2022;https://www.freelance-info.fr/mission/leader-technique-java-kotlin-h-f-1659180;['java', 'agile']
+101;developpeur-senior-net-h-f-1659170;"
+                    HAYS MEDIAS ";Lyon;12 mois; 400-550 €;23/01/2022;https://www.freelance-info.fr/mission/developpeur-senior-net-h-f-1659170;['java', ' git ', 'gitlab', 'azure', 'elk', 'docker', 'sql', 'ci/cd', 'agile', 'grafana', 'mysql', 'scrum', 'mongodb', ' sas']
+102;ingenieur-devops-azure-confirme-h-f-1659084;"
+                    HAYS MEDIAS ";Lyon;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-azure-confirme-h-f-1659084;['azure']
+103;ingenieur-etudes-developpement-cloud-h-f-1658940;"
+                    HAYS MEDIAS ";Lyon;6 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-etudes-developpement-cloud-h-f-1658940;[' git ', 'gitlab', 'ansible', 'terraform', 'grafana', 'linux']
+104;ingenieur-integration-validation-cloud-h-f-1658937;"
+                    HAYS MEDIAS ";Grenoble;6 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-integration-validation-cloud-h-f-1658937;['gitlab', 'docker', 'ansible', 'terraform', 'grafana', 'linux']
+105;consultant-business-object-h-f-1656822;"
+                    HAYS MEDIAS ";Grenoble;6 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/consultant-business-object-h-f-1656822;['datastage', 'talend', 'sql', 'oracle', ' sas']
+106;responsable-technique-infrastructure-h-f-1656799;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/responsable-technique-infrastructure-h-f-1656799;['anglais', 'linux']
+107;expert-microsoft-h-f-1654373;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/expert-microsoft-h-f-1654373;['anglais', ' sas', 'linux']
+108;developpeur-senior-python-ci-cd-h-f-1658781;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/developpeur-senior-python-ci-cd-h-f-1658781;[' git ', 'azure', 'docker', 'python', 'ci/cd', 'scrum', 'linux']
+109;ingenieur-devops-h-f-1658780;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-devops-h-f-1658780;['java', ' git ', 'docker', 'ansible', 'terraform', 'grafana', 'scala', 'linux']
+110;ingenieur-de-production-it-h-f-1658670;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-it-h-f-1658670;['tableau', 'tableaux de bord']
+111;developpeur-net-h-f-1656485;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/developpeur-net-h-f-1656485;[]
+112;consultant-business-object-h-f-1656430;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/consultant-business-object-h-f-1656430;['datastage', 'talend', 'sql', 'oracle', ' sas']
+113;developpeur-java-h-f-1658225;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; 400-550 €;22/01/2022;https://www.freelance-info.fr/mission/developpeur-java-h-f-1658225;['java', 'sql']
+114;developpeur-c-h-f-1658224;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/developpeur-c-h-f-1658224;['anglais', ' sas']
+115;developpeur-java-full-stack-h-f-1656126;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/developpeur-java-full-stack-h-f-1656126;['java', 'aws', 'azure', 'docker', 'python', 'sql', 'ci/cd', 'agile', 'anglais', 'postgresql']
+116;concepteur-realisateur-java-en-full-remote-h-f-1656120;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/concepteur-realisateur-java-en-full-remote-h-f-1656120;['java', ' git ', 'jenkins', 'maven', 'sql', 'api rest', 'apache', 'postgresql', 'jboss']
+117;developpeur-java-back-end-h-f-1656093;"
+                    HAYS MEDIAS ";Avignon;12 mois; Tarif non renseigné;22/01/2022;https://www.freelance-info.fr/mission/developpeur-java-back-end-h-f-1656093;['java', 'aws', 'docker', 'sql', 'api rest', 'agile', 'modélisation', 'anglais', 'postgresql', 'mongodb', 'scala', ' sas', 'linux']
+118;developpeur-java-jee-full-stack-h-f-1656073;"
+                    HAYS MEDIAS ";Loire-Atlantique;6 mois; 250-280 €;22/01/2022;https://www.freelance-info.fr/mission/developpeur-java-jee-full-stack-h-f-1656073;['java', 'jenkins', 'docker', 'maven', 'sql', 'agile', 'anglais', 'mysql', 'mongodb', ' sas']
+119;developpeur-java-jee-back-end-h-f-1656071;"
+                    HAYS MEDIAS ";Loire-Atlantique;6 mois; 250-280 €;22/01/2022;https://www.freelance-info.fr/mission/developpeur-java-jee-back-end-h-f-1656071;['java', 'jenkins', 'docker', 'maven', 'sql', 'agile', 'anglais', 'mysql', 'mongodb']
+120;expert-kubernetes-openshift-h-f-1658101;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; 550 €;21/01/2022;https://www.freelance-info.fr/mission/expert-kubernetes-openshift-h-f-1658101;['gitlab', 'aws', 'docker', 'ansible', 'kubernates', 'python', 'terraform', 'anglais', 'linux']
+121;expert-linux-automatisation-h-f-1657971;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; 550 €;21/01/2022;https://www.freelance-info.fr/mission/expert-linux-automatisation-h-f-1657971;['linux']
+122;expert-cloud-h-f-1657938;"
+                    HAYS MEDIAS ";Marseille;12 mois; 475 €;20/01/2022;https://www.freelance-info.fr/mission/expert-cloud-h-f-1657938;['gitlab', 'aws', 'docker', 'ansible', 'python', 'terraform', 'anglais']
+123;developpeur-web-h-f-1657598;"
+                    HAYS MEDIAS ";Marseille;12 mois; 475 €;20/01/2022;https://www.freelance-info.fr/mission/developpeur-web-h-f-1657598;['java', 'tableau', 'sql', 'tableaux de bord', 'mysql', 'mariadb']
+124;product-manager-it-logisitque-h-f-1657594;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/product-manager-it-logisitque-h-f-1657594;['kanban', 'scrum']
+125;technicien-support-h-f-1657093;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/technicien-support-h-f-1657093;['anglais']
+126;consultant-decisionnel-bo-h-f-1656933;"
+                    HAYS MEDIAS ";Toulon;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/consultant-decisionnel-bo-h-f-1656933;['datastage', 'talend', 'sql', 'oracle']
+127;expert-sgbd-microsoft-sql-server-h-f-1656911;"
+                    HAYS MEDIAS ";Toulon;6 mois; Tarif non renseigné;20/01/2022;https://www.freelance-info.fr/mission/expert-sgbd-microsoft-sql-server-h-f-1656911;['sql']
+128;developpeur-php-symfony-h-f-1656909;"
+                    HAYS MEDIAS ";Annecy;12 mois; 450 €;19/01/2022;https://www.freelance-info.fr/mission/developpeur-php-symfony-h-f-1656909;['java', 'sql', 'mysql', 'scrum']
+129;developpeur-mobile-xamarin-h-f-1656908;"
+                    HAYS MEDIAS ";Annecy;12 mois; 450 €;19/01/2022;https://www.freelance-info.fr/mission/developpeur-mobile-xamarin-h-f-1656908;['java', ' git ', 'jira', 'agile', 'scrum']
+130;consultant-devops-nifi-1655742;"
+                    HAYS MEDIAS ";Bordeaux;3 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/consultant-devops-nifi-1655742;['java', 'gitlab', 'jenkins', 'aws', 'kafka', 'ansible', 'python', 'data lake', 'sql', 'gcp', 'terraform', 'sonar', 'anglais', 'itil', 'scrum', 'mongodb', 'sonarqube', 'scala', ' sas', 'linux']
+131;administrateur-systeme-linux-senior-h-f-1655702;"
+                    HAYS MEDIAS ";Bordeaux;3 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-linux-senior-h-f-1655702;[' sas']
+132;administrateur-systeme-windows-h-f-1655703;"
+                    HAYS MEDIAS ";Bordeaux;3 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/administrateur-systeme-windows-h-f-1655703;['anglais', ' sas']
+133;chef-de-projet-infrastructure-h-f-1655704;"
+                    HAYS MEDIAS ";Bordeaux;3 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-h-f-1655704;[' sas']
+134;responsable-technique-infrastructure-h-f-1655705;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/responsable-technique-infrastructure-h-f-1655705;['anglais', ' sas', 'linux']
+135;developpeur-java-fullstack-h-f-1656381;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/developpeur-java-fullstack-h-f-1656381;['java', 'aws', 'azure', 'docker', 'python', 'sql', 'ci/cd', 'agile', 'anglais', 'postgresql']
+136;developpeur-java-back-end-h-f-1656378;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/developpeur-java-back-end-h-f-1656378;['java', 'aws', 'docker', 'sql', 'api rest', 'agile', 'modélisation', 'anglais', 'postgresql', 'mongodb', 'scala', 'linux']
+137;concepteur-realisateur-java-h-f-1656375;"
+                    HAYS MEDIAS ";Bordeaux;12 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/concepteur-realisateur-java-h-f-1656375;['java', ' git ', 'jenkins', 'maven', 'sql', 'api rest', 'apache', 'postgresql', 'jboss']
+138;analyste-concepteur-h-f-1655253;"
+                    HAYS MEDIAS ";Valence;5 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/analyste-concepteur-h-f-1655253;['java', 'sql']
+139;dev-java-angular-js-h-f-1655221;"
+                    HAYS MEDIAS ";Valence;5 mois; Tarif non renseigné;19/01/2022;https://www.freelance-info.fr/mission/dev-java-angular-js-h-f-1655221;['java', ' sas']

@@ -1,0 +1,141 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;ingenieur-aws-sur-paris-1664383;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-aws-sur-paris-1664383;['gitlab', 'aws', 'ansible', 'python', 'maven', 'agile', 'terraform', 'sonar', 'grafana']
+1;un-administrateur-servicenow-le-mans-1666144;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/un-administrateur-servicenow-le-mans-1666144;[' excel ', ' sas']
+2;leader-technique-j-ee-1665703;"
+                    TECHNODYM ";Mans (Le);6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/leader-technique-j-ee-1665703;['aws', 'azure', 'ci/cd']
+3;un-consultant-devops-1665377;"
+                    TECHNODYM ";Mans (Le);6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/un-consultant-devops-1665377;['gitlab', 'docker', 'python', 'ci/cd', ' sas', 'linux']
+4;architecte-reseau-cloud-nubo-1665373;"
+                    TECHNODYM ";Lille;8 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-cloud-nubo-1665373;['gitlab', 'tableau', 'python', ' sas', 'linux']
+5;web-developper-1665369;"
+                    TECHNODYM ";Lille;8 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/web-developper-1665369;[' sas']
+6;un-integrateur-systeme-1665367;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-integrateur-systeme-1665367;['puppet', ' sas']
+7;developpeur-python-experimente-1665360;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-python-experimente-1665360;[' sas']
+8;un-expert-java-scala-1665358;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-expert-java-scala-1665358;['java', 'scala', ' sas']
+9;un-developpeur-java-react-1665355;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-java-react-1665355;['java', 'api rest', ' sas']
+10;manager-de-transition-datalake-1665354;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/manager-de-transition-datalake-1665354;[]
+11;tech-lead-data-platform-1665348;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/tech-lead-data-platform-1665348;[' sas']
+12;un-testeur-technique-1665345;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-testeur-technique-1665345;['sql', ' sas', 'linux']
+13;analyste-technico-fonctionnel-1665340;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-technico-fonctionnel-1665340;['sql', ' sas', 'linux']
+14;administrateur-elk-sur-idf-1665301;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-elk-sur-idf-1665301;['logstash', ' sas']
+15;responsable-d-application-sur-idf-1665294;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/responsable-d-application-sur-idf-1665294;['sql', 'salesforce']
+16;administrateur-systeme-middleware-sur-grenoble-1665286;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/administrateur-systeme-middleware-sur-grenoble-1665286;[]
+17;developpeur-java-scripting-shell-sur-grenoble-1665279;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-java-scripting-shell-sur-grenoble-1665279;['java']
+18;product-owner-sur-idf-1665275;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/product-owner-sur-idf-1665275;['sql', 'jira']
+19;developpeur-big-data-1665268;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-big-data-1665268;['kafka', 'spark', 'scala', ' sas']
+20;un-consultant-elk-sur-montpellier-1663031;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-consultant-elk-sur-montpellier-1663031;['elk', ' sas']
+21;un-consultant-technique-microsoft-crm-dynamics-lille-1662680;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-consultant-technique-microsoft-crm-dynamics-lille-1662680;[]
+22;un-product-owner-safe-sur-nantes-1662376;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-product-owner-safe-sur-nantes-1662376;['jira', 'agile', 'kanban', 'scrum', ' sas']
+23;ingenieur-poste-de-travail-a-nantes-1662370;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/ingenieur-poste-de-travail-a-nantes-1662370;[' sas']
+24;technicien-support-de-proximite-sur-angers-1662355;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/technicien-support-de-proximite-sur-angers-1662355;[]
+25;technicien-support-n-n-sur-angers-1662360;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/technicien-support-n-n-sur-angers-1662360;[]
+26;un-analyste-technico-fonctionnel-sur-orleans-1664481;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-analyste-technico-fonctionnel-sur-orleans-1664481;['sql', 'modélisation', ' sas']
+27;un-developpeur-drupal-sur-lille-1662038;"
+                    TECHNODYM ";Noisy-le-Grand;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-drupal-sur-lille-1662038;[' sas']
+28;un-integrateur-linux-shell-1662039;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-integrateur-linux-shell-1662039;[' git ', 'jenkins', 'ansible', 'ci/cd', ' sas', 'linux']
+29;responsable-technique-python-1662041;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/responsable-technique-python-1662041;['jenkins', 'python', ' sas']
+30;developpeur-senior-python-1662043;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-senior-python-1662043;['jenkins', 'python']
+31;expert-python-1662044;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-python-1662044;['python', ' sas', 'linux']
+32;un-consultant-amoa-sur-tours-1661759;"
+                    TECHNODYM ";Grenoble;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-consultant-amoa-sur-tours-1661759;[' sas']
+33;analyste-d-exploitation-linux-sur-tours-1661767;"
+                    TECHNODYM ";Grenoble;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-d-exploitation-linux-sur-tours-1661767;[' sas', 'linux']
+34;un-developpeur-java-j-ee-angular-sur-orleans-1661755;"
+                    TECHNODYM ";Grenoble;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-developpeur-java-j-ee-angular-sur-orleans-1661755;['java', ' sas']
+35;un-architecte-cloud-oracle-peoplesoft-1661688;"
+                    TECHNODYM ";Grenoble;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-architecte-cloud-oracle-peoplesoft-1661688;['oracle', 'apache', ' sas', 'linux']
+36;expert-alfresco-a-lille-1661673;"
+                    TECHNODYM ";Paris;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/expert-alfresco-a-lille-1661673;['java', 'jenkins', 'docker', 'maven', 'sql', 'oracle', 'sonar', 'tomcat', 'mysql', 'jboss', ' sas', 'linux']
+37;chef-de-projet-recette-sur-tours-1661309;"
+                    TECHNODYM ";Paris;6 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-recette-sur-tours-1661309;['sql', ' sas']
+38;recetteur-sur-tours-1661304;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/recetteur-sur-tours-1661304;[' sas']
+39;un-integrateur-sur-tours-1661293;"
+                    TECHNODYM ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/un-integrateur-sur-tours-1661293;['sql']
+40;chef-de-projet-production-sur-tours-ou-blois-1661295;"
+                    TECHNODYM ";Montpellier;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-production-sur-tours-ou-blois-1661295;[' sas']
+41;un-responsable-securite-projet-a-cholet-1661201;"
+                    TECHNODYM ";Montpellier;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/un-responsable-securite-projet-a-cholet-1661201;[' sas']
+42;un-technicien-support-n-a-nantes-1661198;"
+                    TECHNODYM ";Lille;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-technicien-support-n-a-nantes-1661198;[' sas']
+43;un-architecte-gcp-1661158;"
+                    TECHNODYM ";Lille;6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/un-architecte-gcp-1661158;['gcp', ' sas']
+44;un-architecte-metiers-sur-nantes-1660961;"
+                    TECHNODYM ";Nantes;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-architecte-metiers-sur-nantes-1660961;[' sas']
+45;un-concepteur-realisateur-a-pessac-1660078;"
+                    TECHNODYM ";Nantes;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-concepteur-realisateur-a-pessac-1660078;['java', 'ci/cd', 'agile', 'scrum', ' sas']
+46;technicien-support-informatique-de-niveau-en-region-centre-1660024;"
+                    TECHNODYM ";Nantes;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/technicien-support-informatique-de-niveau-en-region-centre-1660024;[' sas']
+47;un-scrum-master-sur-dijon-remote-1659839;"
+                    TECHNODYM ";Nantes;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-scrum-master-sur-dijon-remote-1659839;['scrum', ' sas']
+48;un-developpeur-fullstack-java-vue-js-react-ou-angular-sur-toulouse-1659513;"
+                    TECHNODYM ";Angers;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-developpeur-fullstack-java-vue-js-react-ou-angular-sur-toulouse-1659513;['java', ' sas']
+49;un-developpeur-java-fullstack-en-pre-embauche-sur-toulouse-1659512;"
+                    TECHNODYM ";Angers;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/un-developpeur-java-fullstack-en-pre-embauche-sur-toulouse-1659512;['java', ' sas']
+50;homologateur-testeur-sur-lille-1658331;"
+                    TECHNODYM ";Angers;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/homologateur-testeur-sur-lille-1658331;[]
+51;des-analystes-java-j-ee-sur-lille-1658323;"
+                    TECHNODYM ";Angers;3 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/des-analystes-java-j-ee-sur-lille-1658323;['java', ' sas']
+52;analyste-test-sur-lille-1658324;"
+                    TECHNODYM ";Orléans;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/analyste-test-sur-lille-1658324;[]
+53;concepteur-technique-java-j-ee-sur-lille-1658327;"
+                    TECHNODYM ";Orléans;6 mois; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/concepteur-technique-java-j-ee-sur-lille-1658327;['java', 'agile', 'scrum', ' sas']
+54;analyste-java-angular-sur-lille-1658321;"
+                    TECHNODYM ";Lille;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/analyste-java-angular-sur-lille-1658321;['java', ' sas']
+55;un-chef-de-projet-sur-paris-rennes-ayant-un-anglais-courant-1657460;"
+                    TECHNODYM ";Lille;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-chef-de-projet-sur-paris-rennes-ayant-un-anglais-courant-1657460;['tableau', 'anglais', 'itil', 'prince2', ' sas', 'linux']
+56;un-architecte-infrastructure-1657466;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-architecte-infrastructure-1657466;[' sas']
+57;un-expert-devops-anglais-courant-1657454;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-expert-devops-anglais-courant-1657454;['aws', 'azure', 'elk', 'docker', 'python', 'gcp', 'apache', 'tomcat', ' sas', 'linux']
+58;un-coach-agile-a-temps-partiel-sur-dijon-1657316;"
+                    TECHNODYM ";Montreuil;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-coach-agile-a-temps-partiel-sur-dijon-1657316;['agile', ' sas']
+59;dba-oracle-postgresql-sur-orleans-1657215;"
+                    TECHNODYM ";Montreuil;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/dba-oracle-postgresql-sur-orleans-1657215;[' sas']
+60;un-administrateur-poste-de-travail-sccm-sur-tours-1657127;"
+                    TECHNODYM ";Montreuil;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/un-administrateur-poste-de-travail-sccm-sur-tours-1657127;[' sas']
+61;referent-technique-expert-jcl-sur-idf-1656961;"
+                    TECHNODYM ";Montreuil;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/referent-technique-expert-jcl-sur-idf-1656961;[' sas']
+62;developpeur-j-e-sur-bordeaux-1656968;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/developpeur-j-e-sur-bordeaux-1656968;['java', 'sql', 'springboot']
+63;analyste-test-sur-lille-1656957;"
+                    TECHNODYM ";Noisy-le-Grand;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/analyste-test-sur-lille-1656957;[]
+64;integrateur-java-sur-lyon-1656960;"
+                    TECHNODYM ";Tours;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/integrateur-java-sur-lyon-1656960;['java', 'jenkins', 'oracle', 'tomcat', 'vpn']
+65;un-ingenieur-de-production-sur-grenoble-ou-paris-1656575;"
+                    TECHNODYM ";Tours;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-de-production-sur-grenoble-ou-paris-1656575;['apache', 'tomcat', ' sas']
+66;un-ingenieur-reseau-sur-nantes-1656091;"
+                    TECHNODYM ";Tours;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-ingenieur-reseau-sur-nantes-1656091;['ansible', 'vpn', 'scrum', ' sas']
+67;un-developpeur-wordpress-1655966;"
+                    TECHNODYM ";Tours;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-developpeur-wordpress-1655966;[]
+68;un-administrateur-systemes-devops-sur-montpellier-1655863;"
+                    TECHNODYM ";Orléans;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/un-administrateur-systemes-devops-sur-montpellier-1655863;['java', 'jenkins', 'sql', 'jira', 'confluence', 'sonar', 'apache', 'tomcat', 'vpn', 'ldap', 'mysql', ' sas']
+69;expert-technique-sap-bi-1655867;"
+                    TECHNODYM ";Orléans;6 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/expert-technique-sap-bi-1655867;['java', 'sql', 'datawarehouse', ' bo ', 'modélisation', 'powershell']

@@ -1,0 +1,521 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;dba-urgent-1666805;"
+                    ALLEGIS GROUP ";Paris;1 année; 380-420 €;10/02/2022;https://www.freelance-info.fr/mission/dba-urgent-1666805;['sql', 'oracle', 'postgresql', 'cartographie', 'scala', ' sas']
+1;developpeur-as-et-architecte-chef-de-projet-as-1666770;"
+                    ALLEGIS GROUP ";Paris;1 année; 380-420 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-as-et-architecte-chef-de-projet-as-1666770;[' sas']
+2;developpeur-mobile-ios-h-f-1666756;"
+                    ALLEGIS GROUP ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-mobile-ios-h-f-1666756;['gitlab', 'jenkins', 'jira', 'agile', 'confluence', 'sonar', 'scrum']
+3;formateur-accompagnant-itbm-service-now-1666644;"
+                    ALLEGIS GROUP ";Lyon;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/formateur-accompagnant-itbm-service-now-1666644;[]
+4;developpeur-full-stack-1666562;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-full-stack-1666562;['java', 'tableau', 'sql', 'tableaux de bord', 'springboot']
+5;technical-lead-azure-1666516;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/technical-lead-azure-1666516;['azure', 'terraform', 'anglais', ' sas']
+6;consultant-risk-et-controle-permanent-1666513;"
+                    ALLEGIS GROUP ";Levallois-Perret;36 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-risk-et-controle-permanent-1666513;[]
+7;consultant-sap-bw-1666502;"
+                    ALLEGIS GROUP ";Levallois-Perret;36 mois; 400 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-sap-bw-1666502;[]
+8;tres-urgent-consultant-sap-co-ps-mois-reconductibles-paris-1666496;"
+                    ALLEGIS GROUP ";Bordeaux;3 mois; 250-400 €;10/02/2022;https://www.freelance-info.fr/mission/tres-urgent-consultant-sap-co-ps-mois-reconductibles-paris-1666496;[]
+9;urgent-developpeur-salesforce-senior-1666484;"
+                    ALLEGIS GROUP ";Bordeaux;3 mois; 250-400 €;10/02/2022;https://www.freelance-info.fr/mission/urgent-developpeur-salesforce-senior-1666484;[' sas']
+10;ingenieur-citrix-1664389;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-citrix-1664389;['powershell']
+11;web-analyst-1664339;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/web-analyst-1664339;[' sas']
+12;technicien-systeme-et-reseau-1664235;"
+                    ALLEGIS GROUP ";Paris;2 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/technicien-systeme-et-reseau-1664235;[' sas']
+13;architecte-cloud-1666477;"
+                    ALLEGIS GROUP ";Paris;2 années; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-1666477;[' sas']
+14;chef-de-projet-sinistres-1666400;"
+                    ALLEGIS GROUP ";Paris;3 mois; 310-500 €;10/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-sinistres-1666400;['agile', ' sas']
+15;consultant-communication-1666399;"
+                    ALLEGIS GROUP ";Paris;3 mois; 310-500 €;10/02/2022;https://www.freelance-info.fr/mission/consultant-communication-1666399;[]
+16;tres-urgent-teksystems-developpeur-jbpm-paris-1666382;"
+                    ALLEGIS GROUP ";Paris;3 mois; 400-750 €;10/02/2022;https://www.freelance-info.fr/mission/tres-urgent-teksystems-developpeur-jbpm-paris-1666382;['java', 'gitlab', 'jenkins', 'python', 'maven', 'sql', 'jira', 'oracle', 'agile', 'confluence', 'sonar', 'jboss']
+17;developpeur-python-1666331;"
+                    ALLEGIS GROUP ";Paris;3 mois; 400-750 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-python-1666331;['kafka', 'docker', 'python', 'sql', 'ci/cd', 'api rest', 'agile', 'scala', ' sas']
+18;product-owner-finance-1666328;"
+                    ALLEGIS GROUP ";Nanterre;7 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/product-owner-finance-1666328;['powerbi', 'modélisation', 'anglais']
+19;developpeur-front-end-1666295;"
+                    ALLEGIS GROUP ";Nanterre;7 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-1666295;['anglais', ' sas']
+20;urgent-administrateur-linux-1666285;"
+                    ALLEGIS GROUP ";Paris;1 année; 470-600 €;10/02/2022;https://www.freelance-info.fr/mission/urgent-administrateur-linux-1666285;['gitlab', 'docker', 'ansible', 'python', 'linux']
+21;ingenieur-systeme-linux-1666223;"
+                    ALLEGIS GROUP ";Paris;1 année; 470-600 €;10/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-1666223;['aws', 'ansible', 'python', 'sql', 'gcp', 'apache', 'postgresql', 'mysql', 'mongodb', 'linux']
+22;developpeur-vb-h-f-1666197;"
+                    ALLEGIS GROUP ";Lille;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/developpeur-vb-h-f-1666197;['java', 'sql', 'jira', 'postgresql']
+23;architecte-reseau-wan-h-f-1666184;"
+                    ALLEGIS GROUP ";Lille;6 mois; 400-450 €;10/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-wan-h-f-1666184;['anglais']
+24;expert-active-directory-1666182;"
+                    ALLEGIS GROUP ";Lille;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/expert-active-directory-1666182;['azure', 'anglais']
+25;developpeur-front-end-react-js-1666149;"
+                    ALLEGIS GROUP ";Lille;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/developpeur-front-end-react-js-1666149;['docker', 'python', ' sas']
+26;mission-architecte-technique-oriente-infrastructures-montrouge-1664088;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/mission-architecte-technique-oriente-infrastructures-montrouge-1664088;['tableau', 'docker', 'sql', 'oracle', 'confluence', 'tableaux de bord', 'apache', 'tomcat', 'postgresql', 'itil', 'firewalls', 'jboss', 'linux']
+27;urgent-chef-de-projet-pim-mission-lyon-1664089;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/urgent-chef-de-projet-pim-mission-lyon-1664089;['anglais']
+28;expert-back-end-java-1664057;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/expert-back-end-java-1664057;['java', ' git ', 'jenkins', 'kafka', 'sonar', 'anglais', 'tomcat', 'sonarqube', ' sas']
+29;ingenieur-sccm-1664034;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-sccm-1664034;['azure', 'anglais', 'powershell']
+30;qa-automaticien-english-french-1664011;"
+                    ALLEGIS GROUP ";Niort;9 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/qa-automaticien-english-french-1664011;['anglais', ' sas']
+31;urgent-dba-oracle-mission-1663984;"
+                    ALLEGIS GROUP ";Niort;9 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-dba-oracle-mission-1663984;['oracle', 'cartographie', ' sas']
+32;chef-de-projet-digital-1663889;"
+                    ALLEGIS GROUP ";Paris;3 mois; 270-380 €;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-digital-1663889;[' sas']
+33;dba-oracle-1663771;"
+                    ALLEGIS GROUP ";Paris;3 mois; 270-380 €;09/02/2022;https://www.freelance-info.fr/mission/dba-oracle-1663771;['oracle', ' sas']
+34;urgent-teksystems-consultant-systeme-et-reseau-paris-remote-1666072;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-600 €;09/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-consultant-systeme-et-reseau-paris-remote-1666072;['java', 'azure', 'tomcat', 'vpn', 'linux']
+35;urgent-teksystems-expert-devops-openstack-paris-remote-1666071;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-600 €;09/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-expert-devops-openstack-paris-remote-1666071;['docker', 'ansible', ' sas', 'linux']
+36;developpeur-react-js-1665972;"
+                    ALLEGIS GROUP ";Rennes;6 mois; 460-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-react-js-1665972;['gitlab', 'docker', ' sas']
+37;teksystems-scrum-master-dev-pl-sql-paris-remote-1665943;"
+                    ALLEGIS GROUP ";Rennes;6 mois; 460-550 €;09/02/2022;https://www.freelance-info.fr/mission/teksystems-scrum-master-dev-pl-sql-paris-remote-1665943;['java', 'python', 'sql', 'scrum']
+38;ingenieur-linux-1665927;"
+                    ALLEGIS GROUP ";Paris;36 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-linux-1665927;['ansible', 'linux']
+39;urgent-devops-java-confirme-mission-1665883;"
+                    ALLEGIS GROUP ";Paris;36 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-devops-java-confirme-mission-1665883;['java', 'jenkins', 'ansible', 'maven', 'sql', 'ci/cd', 'springboot', 'grafana', 'telegraf', 'postgresql', 'linux']
+40;responsable-operations-billettique-1665806;"
+                    ALLEGIS GROUP ";Rennes;9 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/responsable-operations-billettique-1665806;[]
+41;urgent-chef-de-projet-ou-directeur-de-projet-sirh-mission-1665759;"
+                    ALLEGIS GROUP ";Rennes;9 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-chef-de-projet-ou-directeur-de-projet-sirh-mission-1665759;['powerpoint', ' sas']
+42;ingenieur-systeme-mainframe-1665754;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-mainframe-1665754;[]
+43;urgent-product-owner-1665738;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-product-owner-1665738;['jira', ' sas']
+44;dba-mongo-db-1663539;"
+                    ALLEGIS GROUP ";FRANCE (Pays);12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/dba-mongo-db-1663539;['mongodb']
+45;urgent-chef-de-projet-technique-symfony-mission-montrouge-1663476;"
+                    ALLEGIS GROUP ";FRANCE (Pays);12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-chef-de-projet-technique-symfony-mission-montrouge-1663476;['scrum', ' sas']
+46;expert-mft-1663447;"
+                    ALLEGIS GROUP ";Versailles;1 année; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/expert-mft-1663447;[' sas']
+47;expert-middleware-h-f-1663429;"
+                    ALLEGIS GROUP ";Versailles;1 année; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/expert-middleware-h-f-1663429;['kafka', 'ci/cd', 'terraform']
+48;directeur-de-projet-relation-client-1665733;"
+                    ALLEGIS GROUP ";Yvelines;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-relation-client-1665733;[]
+49;urgent-ingenieur-aix-vio-teletravail-1665704;"
+                    ALLEGIS GROUP ";Yvelines;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-ingenieur-aix-vio-teletravail-1665704;[]
+50;accompagnement-et-formation-des-utilisateurs-1665561;"
+                    ALLEGIS GROUP ";Toulouse;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/accompagnement-et-formation-des-utilisateurs-1665561;[]
+51;urgent-developpeur-fullstack-reactjs-mission-nantes-1665577;"
+                    ALLEGIS GROUP ";Toulouse;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-developpeur-fullstack-reactjs-mission-nantes-1665577;[' git ', 'jira', 'oracle', 'agile', 'kanban']
+52;urgent-teksystems-dba-oracle-rousset-remote-1665576;"
+                    ALLEGIS GROUP ";Montrouge;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-dba-oracle-rousset-remote-1665576;['sql', 'oracle', 'linux']
+53;consultant-sap-hr-1665537;"
+                    ALLEGIS GROUP ";Montrouge;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-sap-hr-1665537;['anglais']
+54;ingenieur-de-production-applicatif-1665534;"
+                    ALLEGIS GROUP ";Lyon;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-applicatif-1665534;[' sas', 'linux']
+55;chef-de-projet-crm-et-marketing-1665467;"
+                    ALLEGIS GROUP ";Lyon;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-crm-et-marketing-1665467;[' sas']
+56;urgent-expert-telecom-dev-java-genesys-mission-niort-1665420;"
+                    ALLEGIS GROUP ";Toulouse;1 année; 400-500 €;09/02/2022;https://www.freelance-info.fr/mission/urgent-expert-telecom-dev-java-genesys-mission-niort-1665420;['java']
+57;ingenieur-reseau-et-securite-h-f-1665277;"
+                    ALLEGIS GROUP ";Toulouse;1 année; 400-500 €;09/02/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-et-securite-h-f-1665277;['anglais', 'vpn']
+58;responsable-developpement-applicatif-1665276;"
+                    ALLEGIS GROUP ";Asnières-sur-Seine;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/responsable-developpement-applicatif-1665276;['talend', 'java', 'gitlab', 'azure', 'sql', 'agile', 'scrum']
+59;developpeur-python-h-f-1665267;"
+                    ALLEGIS GROUP ";Asnières-sur-Seine;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-python-h-f-1665267;['jenkins', 'docker', 'python', 'sql', 'anglais', 'mysql', 'scrum', 'mongodb', 'microservice']
+60;consultant-controle-interne-1665131;"
+                    ALLEGIS GROUP ";Paris;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-controle-interne-1665131;[]
+61;devops-aws-1663182;"
+                    ALLEGIS GROUP ";Paris;2 années; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/devops-aws-1663182;['aws', 'ansible', 'scala', ' sas', 'powershell']
+62;pilote-projet-asset-management-1663039;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/pilote-projet-asset-management-1663039;['anglais']
+63;consultant-conformit-1663036;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/consultant-conformit-1663036;['anglais']
+64;recruitment-relationship-manager-1665110;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/recruitment-relationship-manager-1665110;['scala']
+65;chef-de-projet-e-commerce-anglais-courant-1665054;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-e-commerce-anglais-courant-1665054;['anglais']
+66;tres-urgent-dev-talend-mois-reconductibles-lyon-teletravail-1665052;"
+                    ALLEGIS GROUP ";Paris;1 année; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/tres-urgent-dev-talend-mois-reconductibles-lyon-teletravail-1665052;['talend', 'agile']
+67;tres-urgent-expertise-msbi-mois-reconductibles-lyon-teletravail-1665050;"
+                    ALLEGIS GROUP ";Paris;1 année; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/tres-urgent-expertise-msbi-mois-reconductibles-lyon-teletravail-1665050;[' sas']
+68;ingenieur-stockage-1664982;"
+                    ALLEGIS GROUP ";Paris;3 mois; 350-500 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-stockage-1664982;[' sas']
+69;consultant-solvabilite-1662870;"
+                    ALLEGIS GROUP ";Paris;3 mois; 350-500 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-solvabilite-1662870;[]
+70;chef-de-produit-1664769;"
+                    ALLEGIS GROUP ";Paris;3 mois; 340-450 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-produit-1664769;['anglais', 'cartographie']
+71;ingenieur-poste-de-travail-sccm-1664699;"
+                    ALLEGIS GROUP ";Paris;3 mois; 340-450 €;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-poste-de-travail-sccm-1664699;['anglais', ' sas']
+72;tres-urgent-archi-technique-data-mois-reconductibles-teletravail-1664633;"
+                    ALLEGIS GROUP ";Lavaur;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tres-urgent-archi-technique-data-mois-reconductibles-teletravail-1664633;['sql', 'hadoop']
+73;urgent-crm-salesforce-1664550;"
+                    ALLEGIS GROUP ";Lavaur;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/urgent-crm-salesforce-1664550;[' sas', 'salesforce']
+74;expert-design-api-h-f-1662649;"
+                    ALLEGIS GROUP ";Paris;3 mois; 350-450 €;08/02/2022;https://www.freelance-info.fr/mission/expert-design-api-h-f-1662649;['azure', 'agile', 'anglais', 'scala']
+75;chef-de-projet-deploiement-e-commerce-1662327;"
+                    ALLEGIS GROUP ";Paris;3 mois; 350-450 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-deploiement-e-commerce-1662327;['anglais', ' sas']
+76;developpeur-web-front-end-senior-h-f-1664327;"
+                    ALLEGIS GROUP ";Toulouse;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/developpeur-web-front-end-senior-h-f-1664327;['anglais']
+77;process-manager-sdm-1664246;"
+                    ALLEGIS GROUP ";Toulouse;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/process-manager-sdm-1664246;['powerpoint', 'itil']
+78;product-owner-chef-de-projet-1664243;"
+                    ALLEGIS GROUP ";Courbevoie;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/product-owner-chef-de-projet-1664243;['jira', 'confluence', 'kanban', 'scrum']
+79;chef-de-projet-infrastructure-1664211;"
+                    ALLEGIS GROUP ";Courbevoie;24 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-infrastructure-1664211;['power bi', 'agile', 'apache', 'tomcat', 'powerpoint', 'itil', 'scrum', 'scala']
+80;urgent-teksystems-architecte-cloud-application-lille-remote-1664210;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-architecte-cloud-application-lille-remote-1664210;['oracle', 'apache', 'linux']
+81;urgent-teksystems-profil-support-applicatif-paris-remote-1664207;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-profil-support-applicatif-paris-remote-1664207;['sql']
+82;business-analyst-paiement-1662211;"
+                    ALLEGIS GROUP ";Niort;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/business-analyst-paiement-1662211;['anglais']
+83;pmo-infra-pre-embauche-1662010;"
+                    ALLEGIS GROUP ";Niort;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/pmo-infra-pre-embauche-1662010;['agile', 'anglais', 'itil', 'pmp', 'cartographie', 'scrum', ' sas']
+84;architecte-reseau-securite-1661887;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/architecte-reseau-securite-1661887;[' sas']
+85;chef-de-projet-metier-performance-et-achat-1664132;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-metier-performance-et-achat-1664132;['oracle', 'anglais']
+86;product-owner-assurance-1664120;"
+                    ALLEGIS GROUP ";Lille;3 mois; 350 €;08/02/2022;https://www.freelance-info.fr/mission/product-owner-assurance-1664120;['ci/cd', 'oracle', 'anglais']
+87;tres-urgent-chef-de-projet-pim-mois-reconductibles-lyon-1663843;"
+                    ALLEGIS GROUP ";Lille;3 mois; 350 €;08/02/2022;https://www.freelance-info.fr/mission/tres-urgent-chef-de-projet-pim-mois-reconductibles-lyon-1663843;['anglais']
+88;full-remote-dev-expert-python-connaissance-php-au-moins-ans-apres-master-1663810;"
+                    ALLEGIS GROUP ";Boulogne-Billancourt;3 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/full-remote-dev-expert-python-connaissance-php-au-moins-ans-apres-master-1663810;['jenkins', 'docker', 'python', 'sql', 'anglais', 'mysql', ' sas', 'microservice']
+89;tech-lead-hadoop-1661756;"
+                    ALLEGIS GROUP ";Boulogne-Billancourt;3 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/tech-lead-hadoop-1661756;['java', 'gitlab', 'spark', 'hortonworks', 'hadoop', 'agile', 'linux']
+90;ingenieur-linux-1661747;"
+                    ALLEGIS GROUP ";Montrouge;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/ingenieur-linux-1661747;['ansible', 'sql', 'terraform', 'mysql', ' sas', 'linux']
+91;chef-de-projet-1661728;"
+                    ALLEGIS GROUP ";Montrouge;6 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-1661728;['aws', 'anglais', ' sas']
+92;chef-de-projet-si-finance-h-f-1661703;"
+                    ALLEGIS GROUP ";Bondoufle;3 années; 640-650 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-si-finance-h-f-1661703;['sql']
+93;urgent-chef-de-projet-moe-mission-niort-1661598;"
+                    ALLEGIS GROUP ";Bondoufle;3 années; 640-650 €;08/02/2022;https://www.freelance-info.fr/mission/urgent-chef-de-projet-moe-mission-niort-1661598;[' sas']
+94;urgent-developpeur-senio-symfony-mission-full-remote-1661465;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/urgent-developpeur-senio-symfony-mission-full-remote-1661465;['gitlab', 'docker', 'sql', 'gcp', 'ci/cd', 'api rest', 'jira', 'agile', 'confluence', 'sonar', 'mysql', 'scrum', 'mongodb', 'sonarqube', 'scala', ' sas', 'salesforce']
+95;urgent-architecte-aws-limonest-remote-1663578;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/urgent-architecte-aws-limonest-remote-1663578;['aws', 'anglais', ' sas']
+96;tres-urgent-dev-power-app-sharepointonline-power-automate-mois-reconductibles-paris-1663532;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/tres-urgent-dev-power-app-sharepointonline-power-automate-mois-reconductibles-paris-1663532;[]
+97;modern-service-manager-1663482;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/modern-service-manager-1663482;['azure', 'sql', 'agile', 'itil', 'scrum']
+98;change-manager-1663481;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/change-manager-1663481;[]
+99;expert-hip-1663444;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;08/02/2022;https://www.freelance-info.fr/mission/expert-hip-1663444;[' sas']
+100;architecte-solution-h-f-1663417;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/architecte-solution-h-f-1663417;[]
+101;expert-oracle-hcm-1663325;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/expert-oracle-hcm-1663325;['oracle', ' sas']
+102;product-owner-1663294;"
+                    ALLEGIS GROUP ";Nantes;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/product-owner-1663294;['agile', 'anglais', ' sas']
+103;amoa-1663245;"
+                    ALLEGIS GROUP ";Nantes;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/amoa-1663245;[]
+104;architect-data-1663205;"
+                    ALLEGIS GROUP ";Rousset;3 mois; 400-500 €;07/02/2022;https://www.freelance-info.fr/mission/architect-data-1663205;['hadoop', 'oracle', 'agile', 'modélisation', 'anglais']
+105;tres-urgent-data-engineer-python-sql-paris-remote-1663169;"
+                    ALLEGIS GROUP ";Rousset;3 mois; 400-500 €;07/02/2022;https://www.freelance-info.fr/mission/tres-urgent-data-engineer-python-sql-paris-remote-1663169;['java', 'kafka', 'python', 'sql', ' sas']
+106;devops-java-ansible-1663079;"
+                    ALLEGIS GROUP ";Saint-Ouen;6 mois; 320-550 €;07/02/2022;https://www.freelance-info.fr/mission/devops-java-ansible-1663079;['agile', ' sas']
+107;consultant-smi-1661056;"
+                    ALLEGIS GROUP ";Saint-Ouen;6 mois; 320-550 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-smi-1661056;[]
+108;qa-automaticien-e-commerce-1660834;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/qa-automaticien-e-commerce-1660834;[' sas']
+109;data-engineer-1662883;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/data-engineer-1662883;['azure', 'spark', 'data lake', 'databricks', 'scala', ' sas']
+110;developpeur-flutter-android-front-end-1662735;"
+                    ALLEGIS GROUP ";Courbevoie;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/developpeur-flutter-android-front-end-1662735;[' sas']
+111;dev-java-devops-1660718;"
+                    ALLEGIS GROUP ";Courbevoie;3 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/dev-java-devops-1660718;['java', 'ansible', 'springboot', 'grafana', 'telegraf', 'linux']
+112;urgent-developpeur-java-securite-mission-nantes-1660681;"
+                    ALLEGIS GROUP ";Niort;10 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/urgent-developpeur-java-securite-mission-nantes-1660681;['java', 'ci/cd', 'xray', 'sonar', 'sonarqube', ' sas']
+113;traducteur-interprete-anglais-finance-1660581;"
+                    ALLEGIS GROUP ";Niort;10 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/traducteur-interprete-anglais-finance-1660581;['anglais']
+114;analyste-technique-microsoft-dynamics-crm-lyon-remote-1662640;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/analyste-technique-microsoft-dynamics-crm-lyon-remote-1662640;[' sas']
+115;architecte-azure-lyon-remote-1662638;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/architecte-azure-lyon-remote-1662638;['azure', 'docker', ' sas']
+116;tres-urgent-archi-data-aws-databricks-mois-reconductibles-teletravail-paris-1662506;"
+                    ALLEGIS GROUP ";Boulogne-Billancourt;6 mois; 400-750 €;07/02/2022;https://www.freelance-info.fr/mission/tres-urgent-archi-data-aws-databricks-mois-reconductibles-teletravail-paris-1662506;['aws', 'terraform', ' sas']
+117;analyste-technique-datastage-lille-remote-mois-reconductibles-1662311;"
+                    ALLEGIS GROUP ";Boulogne-Billancourt;6 mois; 400-750 €;07/02/2022;https://www.freelance-info.fr/mission/analyste-technique-datastage-lille-remote-mois-reconductibles-1662311;['sql', ' sas']
+118;urgent-teksystems-architecte-technique-lyon-remote-1662301;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-architecte-technique-lyon-remote-1662301;['java', 'jenkins', 'kafka', 'elk', 'maven', 'sql', 'oracle', 'sonar', 'tomcat', 'postgresql', 'cartographie', 'jboss', ' sas']
+119;urgent-teksystems-architecte-aws-lyon-remote-1662298;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-architecte-aws-lyon-remote-1662298;['aws', 'anglais']
+120;developpeur-euse-bi-spotfire-1660221;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-euse-bi-spotfire-1660221;['java', 'spark', 'sql', 'anglais', 'tomcat']
+121;urgent-expert-qliksense-analyste-bi-mission-paris-eme-1660217;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/urgent-expert-qliksense-analyste-bi-mission-paris-eme-1660217;['qlik', 'sql', 'qliksense']
+122;tres-urgent-data-engineer-mois-reconductibles-teletravail-paris-1662288;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/tres-urgent-data-engineer-mois-reconductibles-teletravail-paris-1662288;['spark', 'pyspark']
+123;concepteur-developpeur-kafka-h-f-1662222;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/concepteur-developpeur-kafka-h-f-1662222;['java', 'kafka', 'docker', 'ansible', 'grafana', 'linux']
+124;developpeur-net-backend-h-f-1662204;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-net-backend-h-f-1662204;['azure', 'anglais']
+125;developpeur-net-et-angular-h-f-1662194;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/developpeur-net-et-angular-h-f-1662194;[' sas']
+126;product-owner-junior-au-moins-an-hors-stage-alternance-1662083;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/product-owner-junior-au-moins-an-hors-stage-alternance-1662083;['jira', ' sas']
+127;tres-urgent-chef-de-projet-metier-perf-achat-mois-reconductibles-teletravail-lille-1662068;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;05/02/2022;https://www.freelance-info.fr/mission/tres-urgent-chef-de-projet-metier-perf-achat-mois-reconductibles-teletravail-lille-1662068;[]
+128;directeur-de-projet-senior-infrastructure-h-f-1659770;"
+                    ALLEGIS GROUP ";Amsterdam (NL);6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-senior-infrastructure-h-f-1659770;['itil']
+129;devops-1659651;"
+                    ALLEGIS GROUP ";Amsterdam (NL);6 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/devops-1659651;['aws', 'azure', 'hortonworks', 'hadoop', 'cloudera', ' sas']
+130;expert-securite-1661893;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-securite-1661893;['vpn']
+131;urgent-teksystems-python-engineer-grenoble-remote-1661772;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-python-engineer-grenoble-remote-1661772;['azure', 'python', 'firewalls']
+132;urgent-teksystems-devops-engineer-grenoble-remote-1661771;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-devops-engineer-grenoble-remote-1661771;['azure', 'python', 'jira', 'confluence', ' sas', 'powershell', 'linux']
+133;lead-developpeur-java-1661764;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-550 €;04/02/2022;https://www.freelance-info.fr/mission/lead-developpeur-java-1661764;['java', 'aws', 'agile', 'springboot', ' sas']
+134;urgent-developpeur-salesforce-senior-1661691;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-450 €;04/02/2022;https://www.freelance-info.fr/mission/urgent-developpeur-salesforce-senior-1661691;['anglais', ' sas', 'salesforce']
+135;directeur-de-projet-tresorerie-1661546;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-450 €;04/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-tresorerie-1661546;[]
+136;ingenieur-linux-1661519;"
+                    ALLEGIS GROUP ";Toulouse;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/ingenieur-linux-1661519;[]
+137;expert-cloud-azure-1661503;"
+                    ALLEGIS GROUP ";Toulouse;3 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/expert-cloud-azure-1661503;['github', 'azure']
+138;responsable-adjoint-infra-1661474;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/responsable-adjoint-infra-1661474;['sql']
+139;consultant-supply-chain-e-commerce-b-c-anglais-1659483;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/consultant-supply-chain-e-commerce-b-c-anglais-1659483;['anglais', ' sas']
+140;chef-de-projet-data-1659269;"
+                    ALLEGIS GROUP ";Paris;9 mois; 400-600 €;03/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-data-1659269;['aws', 'azure', 'anglais', ' sas']
+141;expert-dba-oracle-slq-server-postgresql-1659217;"
+                    ALLEGIS GROUP ";Paris;9 mois; 400-600 €;03/02/2022;https://www.freelance-info.fr/mission/expert-dba-oracle-slq-server-postgresql-1659217;['sql', 'oracle', 'postgresql']
+142;developpeur-net-core-1661283;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-net-core-1661283;['sql', ' sas']
+143;expert-systeme-redhat-solaris-1659202;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-550 €;03/02/2022;https://www.freelance-info.fr/mission/expert-systeme-redhat-solaris-1659202;['python', 'oracle', 'apache', 'tomcat', 'jboss', ' sas']
+144;urgent-developpeur-fullstack-java-angular-mission-niort-1659160;"
+                    ALLEGIS GROUP ";Paris;3 mois; 400-600 €;03/02/2022;https://www.freelance-info.fr/mission/urgent-developpeur-fullstack-java-angular-mission-niort-1659160;['java', 'agile', ' sas']
+145;urgent-chef-de-projet-linux-1659079;"
+                    ALLEGIS GROUP ";Paris;3 mois; 400-600 €;03/02/2022;https://www.freelance-info.fr/mission/urgent-chef-de-projet-linux-1659079;['anglais', 'linux']
+146;urgent-chef-de-projet-technique-infra-mission-le-mans-1659045;"
+                    ALLEGIS GROUP ";Châtillon;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/urgent-chef-de-projet-technique-infra-mission-le-mans-1659045;['jira', 'linux']
+147;architecte-si-1659048;"
+                    ALLEGIS GROUP ";Châtillon;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-si-1659048;['oracle', ' sas']
+148;urgent-recherche-architecte-infrastructure-1658889;"
+                    ALLEGIS GROUP ";Paris;2 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/urgent-recherche-architecte-infrastructure-1658889;['anglais']
+149;architecte-technique-data-cloud-azure-1661017;"
+                    ALLEGIS GROUP ";Paris;2 années; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/architecte-technique-data-cloud-azure-1661017;['salesforce']
+150;urgent-teksystems-developpeur-pl-sql-paris-remote-1660952;"
+                    ALLEGIS GROUP ";Montpellier;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-developpeur-pl-sql-paris-remote-1660952;['java', 'python', 'sql']
+151;urgent-teksystems-scrum-master-paris-remote-1660947;"
+                    ALLEGIS GROUP ";Montpellier;1 année; Tarif non renseigné;03/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-scrum-master-paris-remote-1660947;['java', 'python', 'sql', 'scrum']
+152;tres-urgent-archi-technique-data-mois-reconductibles-teletravail-1660936;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/tres-urgent-archi-technique-data-mois-reconductibles-teletravail-1660936;[]
+153;tres-urgent-archi-fonctionnel-sap-sd-mois-reconductibles-teletravail-toulouse-1660930;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/tres-urgent-archi-fonctionnel-sap-sd-mois-reconductibles-teletravail-toulouse-1660930;[]
+154;expert-power-bi-azure-1660869;"
+                    ALLEGIS GROUP ";FRANCE (Pays);18 mois; 310-500 €;02/02/2022;https://www.freelance-info.fr/mission/expert-power-bi-azure-1660869;['powerbi', 'power bi', 'azure']
+155;expert-it-quant-fixed-income-1660852;"
+                    ALLEGIS GROUP ";FRANCE (Pays);18 mois; 310-500 €;02/02/2022;https://www.freelance-info.fr/mission/expert-it-quant-fixed-income-1660852;['python', ' sas']
+156;charge-de-continuite-1660807;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/charge-de-continuite-1660807;['anglais', ' sas']
+157;incident-manager-1658689;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-500 €;02/02/2022;https://www.freelance-info.fr/mission/incident-manager-1658689;['anglais', ' sas']
+158;technicien-systeme-et-reseau-1658660;"
+                    ALLEGIS GROUP ";Toulouse;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/technicien-systeme-et-reseau-1658660;[' sas']
+159;manager-de-transition-back-office-finance-1658647;"
+                    ALLEGIS GROUP ";Toulouse;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/manager-de-transition-back-office-finance-1658647;[' sas']
+160;expert-devops-aws-h-f-1658559;"
+                    ALLEGIS GROUP ";Lille;3 mois; 450-650 €;02/02/2022;https://www.freelance-info.fr/mission/expert-devops-aws-h-f-1658559;['aws', 'ci/cd', 'scala', ' sas']
+161;directeur-de-projet-1660747;"
+                    ALLEGIS GROUP ";Lille;3 mois; 450-650 €;02/02/2022;https://www.freelance-info.fr/mission/directeur-de-projet-1660747;[' sas']
+162;assistance-a-maitrise-d-ouvrage-h-f-pre-embauche-pour-un-cdi-1660624;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/assistance-a-maitrise-d-ouvrage-h-f-pre-embauche-pour-un-cdi-1660624;[]
+163;chef-de-projet-it-encaissement-h-f-1660616;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-encaissement-h-f-1660616;['oracle']
+164;ingenieur-unix-solaris-1660556;"
+                    ALLEGIS GROUP ";Luxembourg (LU);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-unix-solaris-1660556;[' sas']
+165;urgent-recherche-ingenieur-systeme-virtualisation-1660471;"
+                    ALLEGIS GROUP ";Luxembourg (LU);1 année; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/urgent-recherche-ingenieur-systeme-virtualisation-1660471;['azure', 'gcp', ' sas', 'powershell']
+166;urgent-teksystems-ingenieur-systeme-lyon-remote-1660432;"
+                    ALLEGIS GROUP ";Paris;6 mois; 450-550 €;02/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-ingenieur-systeme-lyon-remote-1660432;['jenkins', 'ansible', 'python', 'tomcat', ' sas', 'powershell', 'linux']
+167;buisness-analyst-senior-sac-epm-sales-planning-1660347;"
+                    ALLEGIS GROUP ";Paris;6 mois; 450-550 €;02/02/2022;https://www.freelance-info.fr/mission/buisness-analyst-senior-sac-epm-sales-planning-1660347;['anglais']
+168;dba-oracle-rac-1660313;"
+                    ALLEGIS GROUP ";Paris;1 année; 600 €;02/02/2022;https://www.freelance-info.fr/mission/dba-oracle-rac-1660313;['sql', 'oracle', 'postgresql']
+169;scrum-master-1660201;"
+                    ALLEGIS GROUP ";Paris;1 année; 600 €;02/02/2022;https://www.freelance-info.fr/mission/scrum-master-1660201;['agile', 'scrum']
+170;product-owner-lille-1660146;"
+                    ALLEGIS GROUP ";Lille;12 mois; 400-650 €;02/02/2022;https://www.freelance-info.fr/mission/product-owner-lille-1660146;['jira', ' sas']
+171;tres-urgent-consultant-senior-sap-achat-mm-mois-reconductibles-teletravail-paris-1660110;"
+                    ALLEGIS GROUP ";Lille;12 mois; 400-650 €;02/02/2022;https://www.freelance-info.fr/mission/tres-urgent-consultant-senior-sap-achat-mm-mois-reconductibles-teletravail-paris-1660110;[]
+172;tres-urgent-consultant-senior-sap-vente-sd-mois-reconductibles-teletravail-paris-1660103;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/tres-urgent-consultant-senior-sap-vente-sd-mois-reconductibles-teletravail-paris-1660103;[]
+173;tres-urgent-consultant-sap-finance-tresorerie-mois-reconductibles-teletravail-paris-1660094;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/tres-urgent-consultant-sap-finance-tresorerie-mois-reconductibles-teletravail-paris-1660094;[]
+174;product-owner-e-commerce-h-f-1658054;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-480 €;01/02/2022;https://www.freelance-info.fr/mission/product-owner-e-commerce-h-f-1658054;[' sas']
+175;lead-product-owner-h-f-1658058;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-480 €;01/02/2022;https://www.freelance-info.fr/mission/lead-product-owner-h-f-1658058;[' sas']
+176;tres-urgent-consultant-po-proxy-mois-reconductibles-teletravail-toulouse-1659914;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tres-urgent-consultant-po-proxy-mois-reconductibles-teletravail-toulouse-1659914;['jira', 'agile', 'anglais', 'scrum']
+177;tres-urgent-consultant-senior-sap-fi-mois-reconductibles-teletravail-toulouse-1659908;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/tres-urgent-consultant-senior-sap-fi-mois-reconductibles-teletravail-toulouse-1659908;['anglais']
+178;chef-de-projet-moa-1659769;"
+                    ALLEGIS GROUP ";Bobigny;3 mois; 160-550 €;01/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-1659769;['tableau', 'anglais', 'tableaux de bord', 'powerpoint']
+179;developpeur-java-angular-1659665;"
+                    ALLEGIS GROUP ";Bobigny;3 mois; 160-550 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-1659665;['java', 'jira', 'anglais', ' sas']
+180;developpeur-java-angular-1659663;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-java-angular-1659663;['java', 'jira', 'anglais', ' sas']
+181;consultant-ibm-content-management-java-1659658;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-ibm-content-management-java-1659658;['anglais', ' sas']
+182;urgent-teksystems-architecte-service-now-lille-remote-1659652;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-600 €;01/02/2022;https://www.freelance-info.fr/mission/urgent-teksystems-architecte-service-now-lille-remote-1659652;[]
+183;developpeur-net-1659579;"
+                    ALLEGIS GROUP ";Paris;12 mois; 400-600 €;01/02/2022;https://www.freelance-info.fr/mission/developpeur-net-1659579;['java', 'azure', 'sql', 'agile', 'postgresql']
+184;developpeur-golang-1659578;"
+                    ALLEGIS GROUP ";Paris;5 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/developpeur-golang-1659578;['ci/cd', ' sas']
+185;consultant-bi-bo-1657626;"
+                    ALLEGIS GROUP ";Paris;5 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/consultant-bi-bo-1657626;[' bo ', 'modélisation', ' sas']
+186;urgent-dev-java-senior-mission-full-remote-1657518;"
+                    ALLEGIS GROUP ";Niort;1 année; 400-550 €;01/02/2022;https://www.freelance-info.fr/mission/urgent-dev-java-senior-mission-full-remote-1657518;['java', 'docker', 'gcp', 'agile', 'scrum', 'mongodb', 'salesforce']
+187;architecte-cloud-aws-1659541;"
+                    ALLEGIS GROUP ";Niort;1 année; 400-550 €;01/02/2022;https://www.freelance-info.fr/mission/architecte-cloud-aws-1659541;['aws']
+188;ingenieur-cloud-aws-1659534;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-aws-1659534;['aws']
+189;expert-systeme-1659516;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/expert-systeme-1659516;['python', 'oracle', 'apache', 'tomcat', 'jboss', ' sas']
+190;developpeur-back-end-azure-net-core-1659444;"
+                    ALLEGIS GROUP ";Limonest;3 mois; 450-700 €;31/01/2022;https://www.freelance-info.fr/mission/developpeur-back-end-azure-net-core-1659444;['azure', ' sas', 'microservice']
+191;dba-1659326;"
+                    ALLEGIS GROUP ";Limonest;3 mois; 450-700 €;31/01/2022;https://www.freelance-info.fr/mission/dba-1659326;['sql', 'oracle', ' sas']
+192;amoa-confirme-1657346;"
+                    ALLEGIS GROUP ";Paris;3 mois; 300-350 €;31/01/2022;https://www.freelance-info.fr/mission/amoa-confirme-1657346;[' sas']
+193;change-manager-service-now-anglais-fluent-1657353;"
+                    ALLEGIS GROUP ";Paris;3 mois; 300-350 €;31/01/2022;https://www.freelance-info.fr/mission/change-manager-service-now-anglais-fluent-1657353;['anglais', 'itil', ' sas']
+194;amoa-junior-test-1657200;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/amoa-junior-test-1657200;[' sas']
+195;leader-architecture-d-entreprise-1657134;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/leader-architecture-d-entreprise-1657134;['anglais', 'cartographie']
+196;chef-de-projet-technique-cybersecurite-1659240;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-cybersecurite-1659240;[' sas']
+197;architect-si-finance-erp-cloud-fusion-1659165;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/architect-si-finance-erp-cloud-fusion-1659165;['anglais']
+198;consultant-frais-generaux-1659161;"
+                    ALLEGIS GROUP ";Bondoufle;12 mois; 400-650 €;31/01/2022;https://www.freelance-info.fr/mission/consultant-frais-generaux-1659161;[]
+199;responsable-d-activite-et-pmo-general-service-compta-fisca-1659159;"
+                    ALLEGIS GROUP ";Bondoufle;12 mois; 400-650 €;31/01/2022;https://www.freelance-info.fr/mission/responsable-d-activite-et-pmo-general-service-compta-fisca-1659159;[]
+200;tres-urgent-archi-data-azure-mois-reconductibles-teletravail-paris-1659110;"
+                    ALLEGIS GROUP ";Chartres;12 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/tres-urgent-archi-data-azure-mois-reconductibles-teletravail-paris-1659110;['azure', 'terraform']
+201;tres-urgent-data-analyst-mois-reconductibles-teletravail-paris-1659101;"
+                    ALLEGIS GROUP ";Chartres;12 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/tres-urgent-data-analyst-mois-reconductibles-teletravail-paris-1659101;['tableau', ' bo ']
+202;product-owner-finance-1658957;"
+                    ALLEGIS GROUP ";FRANCE (Pays);12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/product-owner-finance-1658957;['azure', 'ci/cd', 'api rest', 'oracle', 'agile', 'anglais', 'kanban', 'scrum']
+203;chef-de-projet-iam-1658908;"
+                    ALLEGIS GROUP ";FRANCE (Pays);12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-iam-1658908;[]
+204;chef-de-projet-reseau-1657065;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-reseau-1657065;['tableau', 'anglais', 'tableaux de bord', ' sas']
+205;urgent-analyste-concepteur-developpeur-mission-le-mans-1657035;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/urgent-analyste-concepteur-developpeur-mission-le-mans-1657035;['java', ' sas']
+206;developpeur-euse-python-php-1656904;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-euse-python-php-1656904;['jenkins', 'docker', 'python', 'scrum', 'microservice']
+207;architecte-product-gateway-h-f-1656874;"
+                    ALLEGIS GROUP ";Paris;6 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/architecte-product-gateway-h-f-1656874;['vpn']
+208;ingenieur-reseau-et-securite-product-gateway-h-f-1656862;"
+                    ALLEGIS GROUP ";Colombes;3 mois; 310-700 €;28/01/2022;https://www.freelance-info.fr/mission/ingenieur-reseau-et-securite-product-gateway-h-f-1656862;['vpn', ' sas']
+209;cp-pmo-pleiades-e-1658906;"
+                    ALLEGIS GROUP ";Colombes;3 mois; 310-700 €;28/01/2022;https://www.freelance-info.fr/mission/cp-pmo-pleiades-e-1658906;[' sas']
+210;developpeur-h-f-net-confirme-1658767;"
+                    ALLEGIS GROUP ";Paris;3 mois; 330-400 €;28/01/2022;https://www.freelance-info.fr/mission/developpeur-h-f-net-confirme-1658767;['azure', 'sql', 'gcp']
+211;product-owner-servicenow-itsm-1658757;"
+                    ALLEGIS GROUP ";Paris;3 mois; 330-400 €;28/01/2022;https://www.freelance-info.fr/mission/product-owner-servicenow-itsm-1658757;['agile', 'itil', ' sas']
+212;tres-urgent-archi-si-finance-erp-cloud-fusion-mois-reconductibles-teletravail-auchan-1658743;"
+                    ALLEGIS GROUP ";Nanterre;36 mois; 350-550 €;28/01/2022;https://www.freelance-info.fr/mission/tres-urgent-archi-si-finance-erp-cloud-fusion-mois-reconductibles-teletravail-auchan-1658743;['anglais', ' sas']
+213;tres-urgent-chef-de-projet-data-sdm-data-mois-reconductibles-teletravail-paris-1658742;"
+                    ALLEGIS GROUP ";Nanterre;36 mois; 350-550 €;28/01/2022;https://www.freelance-info.fr/mission/tres-urgent-chef-de-projet-data-sdm-data-mois-reconductibles-teletravail-paris-1658742;[]
+214;developpeur-fullstack-react-native-nodejs-1658653;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-react-native-nodejs-1658653;['python', ' sas']
+215;teksystems-scrum-master-dev-pl-sql-paris-remote-1658598;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;28/01/2022;https://www.freelance-info.fr/mission/teksystems-scrum-master-dev-pl-sql-paris-remote-1658598;['python', 'sql', 'scrum']
+216;teksystems-dev-java-fullstack-vue-js-remote-1656633;"
+                    ALLEGIS GROUP ";Paris;1 année; 400-500 €;28/01/2022;https://www.freelance-info.fr/mission/teksystems-dev-java-fullstack-vue-js-remote-1656633;['java']
+217;urgent-recherche-ingenieur-reseau-securite-1656464;"
+                    ALLEGIS GROUP ";Paris;1 année; 400-500 €;28/01/2022;https://www.freelance-info.fr/mission/urgent-recherche-ingenieur-reseau-securite-1656464;['aws', 'azure', 'zscaler']
+218;tres-urgent-data-scientist-mois-reconductibles-teletravail-montpellier-1656446;"
+                    ALLEGIS GROUP ";Châtillon;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/tres-urgent-data-scientist-mois-reconductibles-teletravail-montpellier-1656446;[]
+219;amoa-finance-erp-1656451;"
+                    ALLEGIS GROUP ";Châtillon;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/amoa-finance-erp-1656451;[' sas']
+220;ingenieur-ad-o-1658535;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/ingenieur-ad-o-1658535;['powershell']
+221;power-bi-1658520;"
+                    ALLEGIS GROUP ";Paris;3 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/power-bi-1658520;['tableau', 'power bi', ' sas']
+222;assistance-a-maitrise-d-ouvrage-1658362;"
+                    ALLEGIS GROUP ";Paris;6 mois; 330-500 €;27/01/2022;https://www.freelance-info.fr/mission/assistance-a-maitrise-d-ouvrage-1658362;[]
+223;developpeur-vuejs-1658300;"
+                    ALLEGIS GROUP ";Paris;6 mois; 330-500 €;27/01/2022;https://www.freelance-info.fr/mission/developpeur-vuejs-1658300;['java', 'jira', 'confluence', ' sas']
+224;consultant-h-f-oracle-e-business-suite-1658221;"
+                    ALLEGIS GROUP ";Nantes;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/consultant-h-f-oracle-e-business-suite-1658221;['oracle', 'anglais']
+225;chef-de-projet-1656109;"
+                    ALLEGIS GROUP ";Nantes;12 mois; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-1656109;['agile', ' sas']
+226;urgent-pilote-de-projet-confirme-mission-niort-1656110;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/urgent-pilote-de-projet-confirme-mission-niort-1656110;['talend', 'oracle', 'agile', 'cloudera', ' sas']
+227;devops-aws-1656094;"
+                    ALLEGIS GROUP ";Paris;1 année; Tarif non renseigné;27/01/2022;https://www.freelance-info.fr/mission/devops-aws-1656094;['aws', 'ci/cd', 'scala', ' sas']
+228;moa-bi-epm-controleur-de-gestion-1658035;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-570 €;26/01/2022;https://www.freelance-info.fr/mission/moa-bi-epm-controleur-de-gestion-1658035;['oracle']
+229;business-analyst-1658004;"
+                    ALLEGIS GROUP ";Lyon;6 mois; 400-570 €;26/01/2022;https://www.freelance-info.fr/mission/business-analyst-1658004;['java', 'jira', 'agile', 'confluence', 'scrum']
+230;tech-lead-elk-expert-elastic-search-1657933;"
+                    ALLEGIS GROUP ";Lyon;3 mois; 400-570 €;26/01/2022;https://www.freelance-info.fr/mission/tech-lead-elk-expert-elastic-search-1657933;['azure', 'elk', 'sql', 'gcp', 'oracle', 'anglais', 'mysql', 'mariadb', 'mongodb', ' sas']
+231;chef-de-projet-technique-securite-1657858;"
+                    ALLEGIS GROUP ";Lyon;3 mois; 400-570 €;26/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-technique-securite-1657858;[]
+232;chef-de-projet-securite-1657856;"
+                    ALLEGIS GROUP ";Paris;6 mois; 400-700 €;26/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-securite-1657856;[' sas']
+233;chef-de-projet-securite-iam-usercube-1657854;"
+                    ALLEGIS GROUP ";Paris;6 mois; 400-700 €;26/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-securite-iam-usercube-1657854;[' sas']
+234;consultant-h-f-lead-oracle-hcm-1657834;"
+                    ALLEGIS GROUP ";Lille;6 mois; 400-450 €;26/01/2022;https://www.freelance-info.fr/mission/consultant-h-f-lead-oracle-hcm-1657834;['oracle', 'anglais']
+235;tres-urgent-directeur-de-projet-sap-mois-reconductibles-teletravail-paris-1657524;"
+                    ALLEGIS GROUP ";Lille;6 mois; 400-450 €;26/01/2022;https://www.freelance-info.fr/mission/tres-urgent-directeur-de-projet-sap-mois-reconductibles-teletravail-paris-1657524;['anglais']
+236;dba-oracle-1657331;"
+                    ALLEGIS GROUP ";Lyon;3 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/dba-oracle-1657331;[' sas']
+237;urgent-teksystems-release-manager-bordeaux-remote-1657322;"
+                    ALLEGIS GROUP ";Lyon;3 mois; 400-550 €;26/01/2022;https://www.freelance-info.fr/mission/urgent-teksystems-release-manager-bordeaux-remote-1657322;[' sas']
+238;lead-developpeur-java-1657147;"
+                    ALLEGIS GROUP ";Lyon;3 mois; 350-450 €;26/01/2022;https://www.freelance-info.fr/mission/lead-developpeur-java-1657147;['java', 'kafka', 'springboot', ' sas']
+239;recherche-system-delivery-manager-1655837;"
+                    ALLEGIS GROUP ";Lyon;3 mois; 350-450 €;26/01/2022;https://www.freelance-info.fr/mission/recherche-system-delivery-manager-1655837;[]
+240;admnistrateur-oracle-cloud-infra-1638838;"
+                    ALLEGIS GROUP ";Toulouse;5 mois; 400-500 €;26/01/2022;https://www.freelance-info.fr/mission/admnistrateur-oracle-cloud-infra-1638838;['oracle', 'anglais']
+241;tech-lead-front-end-1655757;"
+                    ALLEGIS GROUP ";Toulouse;5 mois; 400-500 €;26/01/2022;https://www.freelance-info.fr/mission/tech-lead-front-end-1655757;[' sas']
+242;ingenieur-stockage-isilon-1655732;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/ingenieur-stockage-isilon-1655732;[' sas']
+243;ingenieur-cloud-aws-1655714;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;26/01/2022;https://www.freelance-info.fr/mission/ingenieur-cloud-aws-1655714;['aws', 'terraform', ' sas']
+244;moa-pmo-si-conformit-1655700;"
+                    ALLEGIS GROUP ";Paris;3 mois; 400-500 €;26/01/2022;https://www.freelance-info.fr/mission/moa-pmo-si-conformit-1655700;[]
+245;manager-de-transition-1655676;"
+                    ALLEGIS GROUP ";Paris;3 mois; 400-500 €;26/01/2022;https://www.freelance-info.fr/mission/manager-de-transition-1655676;['sql', 'oracle', 'vba', ' sas']
+246;consultant-e-technico-fonctionnel-le-sap-bw-1655667;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/consultant-e-technico-fonctionnel-le-sap-bw-1655667;[' sas']
+247;architecte-fonctionnel-processus-1655213;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/architecte-fonctionnel-processus-1655213;['azure', 'agile', 'cartographie']
+248;developpeur-front-angular-full-remote-1655081;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-front-angular-full-remote-1655081;['kafka', 'agile', 'anglais', 'mongodb']
+249;administrateur-capa-1655058;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/administrateur-capa-1655058;[' sas']
+250;developpeur-euse-net-1627382;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-euse-net-1627382;['java', 'sql']
+251;developpeur-c-net-1627376;"
+                    ALLEGIS GROUP ";Hauts-de-Seine;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-c-net-1627376;['java', 'sql']
+252;urgent-developpeur-c-net-angular-1626772;"
+                    ALLEGIS GROUP ";Nord;3 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/urgent-developpeur-c-net-angular-1626772;['java', ' git ', 'azure', 'docker', 'sql']
+253;developpeur-net-1611007;"
+                    ALLEGIS GROUP ";Nord;3 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-net-1611007;['sql']
+254;developpeur-euse-net-1625273;"
+                    ALLEGIS GROUP ";Lille;3 mois; 400-700 €;25/01/2022;https://www.freelance-info.fr/mission/developpeur-euse-net-1625273;['scrum']
+255;tres-urgent-developpeur-net-react-js-1623419;"
+                    ALLEGIS GROUP ";Lille;3 mois; 400-700 €;25/01/2022;https://www.freelance-info.fr/mission/tres-urgent-developpeur-net-react-js-1623419;['sql', 'agile']
+256;developpeur-nodejs-full-remote-1654935;"
+                    ALLEGIS GROUP ";Paris;5 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/developpeur-nodejs-full-remote-1654935;['kafka', 'agile', 'anglais', 'mongodb']
+257;devops-aws-h-f-1654897;"
+                    ALLEGIS GROUP ";Paris;5 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/devops-aws-h-f-1654897;['aws', 'ci/cd', 'scala', ' sas']
+258;ingenieur-stockage-nas-unity-1654802;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/ingenieur-stockage-nas-unity-1654802;[]
+259;expert-ad-securite-1654713;"
+                    ALLEGIS GROUP ";Paris;12 mois; Tarif non renseigné;25/01/2022;https://www.freelance-info.fr/mission/expert-ad-securite-1654713;['anglais']

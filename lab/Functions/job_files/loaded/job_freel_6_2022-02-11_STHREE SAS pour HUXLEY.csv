@@ -1,0 +1,121 @@
+;title;companyname;location;duration;salary;date;joblink;jobskills
+0;charge-conformite-1666655;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/charge-conformite-1666655;['anglais']
+1;huxley-cloud-engineer-asap-1666392;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; Tarif non renseigné;10/02/2022;https://www.freelance-info.fr/mission/huxley-cloud-engineer-asap-1666392;['docker', 'python', 'ci/cd', ' sas']
+2;chef-de-projet-moa-moe-1666384;"
+                    STHREE SAS pour HUXLEY ";Ile de France;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-moa-moe-1666384;['java', 'docker', 'anglais', 'mongodb', 'scala']
+3;controleur-de-gestion-1666356;"
+                    STHREE SAS pour HUXLEY ";Ile de France;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/controleur-de-gestion-1666356;['anglais', 'salesforce']
+4;developpeur-confirme-java-vue-js-1666292;"
+                    STHREE SAS pour HUXLEY ";Lyon;12 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-confirme-java-vue-js-1666292;['java', ' git ', 'sql', 'api rest', 'anglais', ' sas']
+5;developpeur-java-vue-js-1666212;"
+                    STHREE SAS pour HUXLEY ";Lyon;12 mois; 400-550 €;09/02/2022;https://www.freelance-info.fr/mission/developpeur-java-vue-js-1666212;['java', 'sql', 'api rest', 'anglais']
+6;huxley-mission-expert-bi-tm-oracle-vba-1664051;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/huxley-mission-expert-bi-tm-oracle-vba-1664051;[' excel ', 'sql', 'oracle', 'anglais', 'vba', ' sas']
+7;microsoft-senior-techlead-1665939;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/microsoft-senior-techlead-1665939;['powerbi', 'scala', 'powershell']
+8;expert-pra-pca-1665874;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 410-610 €;09/02/2022;https://www.freelance-info.fr/mission/expert-pra-pca-1665874;['agile']
+9;expertise-pca-pra-1665870;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 410-610 €;09/02/2022;https://www.freelance-info.fr/mission/expertise-pca-pra-1665870;['agile']
+10;architecte-securite-production-1665823;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 1500 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-securite-production-1665823;[]
+11;architecte-securite-production-1665787;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 1500 €;09/02/2022;https://www.freelance-info.fr/mission/architecte-securite-production-1665787;[]
+12;developpeur-android-kotlin-embarque-h-f-1665761;"
+                    STHREE SAS pour HUXLEY ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/developpeur-android-kotlin-embarque-h-f-1665761;['java', 'jira', 'linux']
+13;business-analyst-senior-finance-1663467;"
+                    STHREE SAS pour HUXLEY ";Paris;6 mois; Tarif non renseigné;09/02/2022;https://www.freelance-info.fr/mission/business-analyst-senior-finance-1663467;['agile', 'anglais']
+14;consultant-reporting-reglementaire-1665624;"
+                    STHREE SAS pour HUXLEY ";France;12 mois; 700 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-reporting-reglementaire-1665624;[]
+15;developpeur-kotlin-android-1665593;"
+                    STHREE SAS pour HUXLEY ";France;12 mois; 700 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-kotlin-android-1665593;['linux']
+16;chef-de-projet-it-finance-1663280;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 600 €;08/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-finance-1663280;['scala']
+17;ba-asset-management-web-1665062;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 600 €;08/02/2022;https://www.freelance-info.fr/mission/ba-asset-management-web-1665062;['azure', 'agile', 'anglais', 'kanban', 'scrum']
+18;ba-front-office-outil-aladdin-1664960;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/ba-front-office-outil-aladdin-1664960;['scala', 'vba']
+19;developpeur-c-go-1662899;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/developpeur-c-go-1662899;[' git ', 'puppet', 'docker', 'ansible', 'python', 'sql', 'agile', 'postgresql', 'scrum', 'linux']
+20;support-niveau-h-f-1662618;"
+                    STHREE SAS pour HUXLEY ";Montreuil;6 mois; 550 €;08/02/2022;https://www.freelance-info.fr/mission/support-niveau-h-f-1662618;['python', 'sql', 'oracle', 'postgresql', 'scala', 'linux']
+21;devops-h-f-1662614;"
+                    STHREE SAS pour HUXLEY ";Montreuil;6 mois; 550 €;08/02/2022;https://www.freelance-info.fr/mission/devops-h-f-1662614;['java', 'kafka', 'puppet', 'ansible', 'python', 'sql', 'anglais', 'grafana', 'logstash', 'linux']
+22;controleur-de-gestion-projet-1664445;"
+                    STHREE SAS pour HUXLEY ";Montreuil;6 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/controleur-de-gestion-projet-1664445;['tableau', 'tableaux de bord']
+23;risk-manager-1664236;"
+                    STHREE SAS pour HUXLEY ";Montreuil;6 mois; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/risk-manager-1664236;['java', 'cartographie', 'vba']
+24;product-owner-h-f-1662199;"
+                    STHREE SAS pour HUXLEY ";Mérignac;1 année; 499 €;08/02/2022;https://www.freelance-info.fr/mission/product-owner-h-f-1662199;['gitlab', 'api rest', 'anglais']
+25;expert-cybersecurite-iam-one-identity-manager-1662076;"
+                    STHREE SAS pour HUXLEY ";Mérignac;1 année; 499 €;08/02/2022;https://www.freelance-info.fr/mission/expert-cybersecurite-iam-one-identity-manager-1662076;[]
+26;it-security-officer-1663932;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/it-security-officer-1663932;['anglais']
+27;consultant-alm-1663592;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 400-550 €;08/02/2022;https://www.freelance-info.fr/mission/consultant-alm-1663592;[]
+28;business-analyst-senior-1663485;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/business-analyst-senior-1663485;['agile', 'anglais']
+29;consultant-vba-alteryx-1663459;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;07/02/2022;https://www.freelance-info.fr/mission/consultant-vba-alteryx-1663459;['vba']
+30;consultant-data-sas-bi-1663308;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/consultant-data-sas-bi-1663308;['power bi', 'sql', ' sas']
+31;chef-de-projet-it-finance-1663285;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 400-550 €;07/02/2022;https://www.freelance-info.fr/mission/chef-de-projet-it-finance-1663285;['scala']
+32;developpeur-android-ios-1660928;"
+                    STHREE SAS pour HUXLEY ";Roissy-en-France;11 mois; 400-610 €;05/02/2022;https://www.freelance-info.fr/mission/developpeur-android-ios-1660928;['agile']
+33;consultant-cegid-y-h-f-1662954;"
+                    STHREE SAS pour HUXLEY ";Roissy-en-France;11 mois; 400-610 €;05/02/2022;https://www.freelance-info.fr/mission/consultant-cegid-y-h-f-1662954;['anglais']
+34;developpeur-java-backend-h-f-1662908;"
+                    STHREE SAS pour HUXLEY ";Paris;10 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-java-backend-h-f-1662908;['java', 'agile', 'anglais', 'springboot', 'scrum', 'jboss']
+35;engineer-security-1662489;"
+                    STHREE SAS pour HUXLEY ";Paris;10 mois; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/engineer-security-1662489;['anglais', 'linux']
+36;developpeur-kotlin-embarque-1660352;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-kotlin-embarque-1660352;['anglais', 'linux']
+37;developpeur-msbi-1662291;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; Tarif non renseigné;04/02/2022;https://www.freelance-info.fr/mission/developpeur-msbi-1662291;['java', 'power bi', 'azure', 'python', 'spark', 'sql', 'agile', 'modélisation', 'scala']
+38;huxley-mission-chef-de-projet-cloud-anglais-courant-requis-1659716;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 310-550 €;04/02/2022;https://www.freelance-info.fr/mission/huxley-mission-chef-de-projet-cloud-anglais-courant-requis-1659716;['anglais', ' sas']
+39;customer-success-manager-avant-vente-h-f-1659619;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 310-550 €;04/02/2022;https://www.freelance-info.fr/mission/customer-success-manager-avant-vente-h-f-1659619;['modélisation', 'anglais']
+40;ingenieur-projets-h-f-1661399;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 100-550 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-projets-h-f-1661399;['tableau', 'powerbi', 'agile', 'anglais', 'tableaux de bord']
+41;charge-communication-1661196;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 100-550 €;03/02/2022;https://www.freelance-info.fr/mission/charge-communication-1661196;['anglais', 'powerpoint']
+42;ingenieur-systeme-linux-remote-1658904;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 280-610 €;03/02/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-linux-remote-1658904;['jenkins', 'elk', 'ansible', 'python', 'sql', 'jira', 'confluence', 'sonar', 'anglais', 'postgresql', 'sonarqube', 'scala', 'linux']
+43;developpeur-ios-android-1660931;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 280-610 €;03/02/2022;https://www.freelance-info.fr/mission/developpeur-ios-android-1660931;['agile']
+44;network-security-architect-1660832;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/network-security-architect-1660832;['aws', 'azure', 'grafana', 'vpn']
+45;lead-developer-h-f-1660815;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/lead-developer-h-f-1660815;['java', 'gitlab', 'docker', 'api rest', 'agile']
+46;network-security-architect-1660554;"
+                    STHREE SAS pour HUXLEY ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/network-security-architect-1660554;['aws', 'azure', 'grafana', 'vpn']
+47;it-security-officer-1660539;"
+                    STHREE SAS pour HUXLEY ";Paris;3 mois; Tarif non renseigné;02/02/2022;https://www.freelance-info.fr/mission/it-security-officer-1660539;['anglais']
+48;consultant-pra-1658476;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 400-520 €;02/02/2022;https://www.freelance-info.fr/mission/consultant-pra-1658476;['agile']
+49;developpeur-fullstack-remote-1658485;"
+                    STHREE SAS pour HUXLEY ";Paris;12 mois; 400-520 €;02/02/2022;https://www.freelance-info.fr/mission/developpeur-fullstack-remote-1658485;['java', 'springboot']
+50;devops-1660281;"
+                    STHREE SAS pour HUXLEY ";Niort;6 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/devops-1660281;['java', 'azure', 'kafka', 'docker', 'ansible', 'agile', 'mongodb']
+51;ingenieur-de-production-niveau-1660199;"
+                    STHREE SAS pour HUXLEY ";Niort;6 mois; 400-550 €;02/02/2022;https://www.freelance-info.fr/mission/ingenieur-de-production-niveau-1660199;['java', 'sql', 'oracle', 'mysql', 'jboss']
+52;ingenieur-support-h-f-1660175;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/ingenieur-support-h-f-1660175;['anglais']
+53;qa-automation-engineer-h-f-1659123;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; Tarif non renseigné;01/02/2022;https://www.freelance-info.fr/mission/qa-automation-engineer-h-f-1659123;['gitlab', 'anglais']
+54;ingenieur-support-applicatif-finance-de-marche-1657050;"
+                    STHREE SAS pour HUXLEY ";Paris;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/ingenieur-support-applicatif-finance-de-marche-1657050;['sql', 'anglais', 'itil']
+55;consultant-iam-1657025;"
+                    STHREE SAS pour HUXLEY ";Paris;6 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/consultant-iam-1657025;['tableau']
+56;ingenieur-systeme-1657023;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 550 €;31/01/2022;https://www.freelance-info.fr/mission/ingenieur-systeme-1657023;['scala', 'linux']
+57;chef-de-projet-senior-connaissances-experiences-en-securite-1657007;"
+                    STHREE SAS pour HUXLEY ";Paris;1 année; 550 €;31/01/2022;https://www.freelance-info.fr/mission/chef-de-projet-senior-connaissances-experiences-en-securite-1657007;['anglais']
+58;daf-1658830;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/daf-1658830;['anglais']
+59;android-technical-lead-h-f-1658807;"
+                    STHREE SAS pour HUXLEY ";Paris;5 mois; Tarif non renseigné;31/01/2022;https://www.freelance-info.fr/mission/android-technical-lead-h-f-1658807;['java', ' git ', 'gitlab', 'docker', 'agile', 'scrum']
